@@ -1,0 +1,3432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1280"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="UnityTricks.svg"
+   inkscape:export-filename="/home/elias/Desktop/UnityTricks_de.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title3050">Warthy final with Unity tricks</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4862">
+      <stop
+         id="stop4864"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.58823532;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.5"
+         id="stop4868" />
+      <stop
+         id="stop4866"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.58823532;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5460"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5462" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.46956521;"
+         offset="1"
+         id="stop5464" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4014">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4016" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.39215687;"
+         offset="1"
+         id="stop4018" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5"
+       id="linearGradient4860-3"
+       x1="989.5"
+       y1="131"
+       x2="1851.5"
+       y2="131"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99767981,0,0,1,2.2958237,0)" />
+    <linearGradient
+       id="linearGradient4862-5">
+      <stop
+         id="stop4864-5"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7" />
+      <stop
+         id="stop4866-7"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,0.2,26.64988,585.2)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4898"
+       xlink:href="#linearGradient4862-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,1,487.39868,447)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4898-9"
+       xlink:href="#linearGradient4862-5-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4862-5-5">
+      <stop
+         id="stop4864-5-3"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-1" />
+      <stop
+         id="stop4866-7-4"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,0.2,26.64986,814.2)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4935"
+       xlink:href="#linearGradient4862-5-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,1,496.64986,675)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4935-1"
+       xlink:href="#linearGradient4862-5-5-8"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4862-5-5-8">
+      <stop
+         id="stop4864-5-3-4"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-1-8" />
+      <stop
+         id="stop4866-7-4-3"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,0.2,26.64986,1026.2)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4972"
+       xlink:href="#linearGradient4862-5-5-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,1,496.64988,446)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4898-4"
+       xlink:href="#linearGradient4862-5-6"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4862-5-6">
+      <stop
+         id="stop4864-5-9"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-17" />
+      <stop
+         id="stop4866-7-5"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,0.2,456.14987,733.2)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5009"
+       xlink:href="#linearGradient4862-5-6"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,1,926.14987,514)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5009-6"
+       xlink:href="#linearGradient4862-5-6-3"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4862-5-6-3">
+      <stop
+         id="stop4864-5-9-2"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-17-0" />
+      <stop
+         id="stop4866-7-5-1"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,0.2,456.14987,1060.2)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5046"
+       xlink:href="#linearGradient4862-5-6-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-7"
+       id="linearGradient4027-5"
+       x1="523.5"
+       y1="152"
+       x2="1838.5"
+       y2="152"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4862-5-6-3-7">
+      <stop
+         id="stop4864-5-9-2-7"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-17-0-7" />
+      <stop
+         id="stop4866-7-5-1-0"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9"
+       id="linearGradient4027-7"
+       x1="523.5"
+       y1="152"
+       x2="1838.5"
+       y2="152"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4862-5-6-3-9">
+      <stop
+         id="stop4864-5-9-2-71"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-17-0-4" />
+      <stop
+         id="stop4866-7-5-1-4"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0,0.74242837,-1,0,1565.374,-185.75526)"
+       y2="152"
+       x2="1838.5"
+       y1="152"
+       x1="523.5"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4092"
+       xlink:href="#linearGradient4862-5-6-3-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9"
+       id="linearGradient4121"
+       x1="527.5"
+       y1="152"
+       x2="1810.5"
+       y2="152"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.1,14,137.45)" />
+    <clipPath
+       id="clipPath4249"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4251"
+         d="M 0,2834.65 0,0 l 2834.65,0 0,2834.65 -2834.65,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9"
+       id="linearGradient4301"
+       x1="1634.5021"
+       y1="420"
+       x2="1705.5021"
+       y2="420"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1326283,0,0,0.07078927,-221.48951,390.8685)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9-5"
+       id="linearGradient4301-2"
+       x1="1634.5021"
+       y1="420"
+       x2="1705.5021"
+       y2="420"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4862-5-6-3-9-5">
+      <stop
+         id="stop4864-5-9-2-71-6"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-17-0-4-2" />
+      <stop
+         id="stop4866-7-5-1-4-2"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0,0.41208792,-0.02575549,0,1682.2194,-283.1877)"
+       y2="420"
+       x2="1705.5021"
+       y1="420"
+       x1="1634.5021"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4337"
+       xlink:href="#linearGradient4862-5-6-3-9-5"
+       inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter4437"
+       x="-0.16074096"
+       width="1.3214819"
+       y="-0.20450227"
+       height="1.4090044"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4659003"
+         id="feGaussianBlur4439" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4445"
+       x="-0.16177475"
+       width="1.3235495"
+       y="-0.20285305"
+       height="1.405706"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.446014"
+         id="feGaussianBlur4447" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4464"
+       x="-0.36225"
+       width="1.7244999"
+       y="-0.11975207"
+       height="1.2395041"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0672893"
+         id="feGaussianBlur4466" />
+    </filter>
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,0.2,456.14987,733.2)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5009-60"
+       xlink:href="#linearGradient4862-5-6-1"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4862-5-6-1">
+      <stop
+         id="stop4864-5-9-9"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-17-4" />
+      <stop
+         id="stop4866-7-5-7"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       y2="131"
+       x2="1851.5"
+       y1="131"
+       x1="989.5"
+       gradientTransform="matrix(0.49883853,0,0,0.032,936.64987,466.308)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4683"
+       xlink:href="#linearGradient4862-5-6-1"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath4249-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4251-2"
+         d="M 0,2834.65 0,0 l 2834.65,0 0,2834.65 -2834.65,0 z" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9-0"
+       id="linearGradient4301-9"
+       x1="1634.5021"
+       y1="420"
+       x2="1705.5021"
+       y2="420"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1326283,0,0,0.07078927,-221.48951,390.8685)" />
+    <linearGradient
+       id="linearGradient4862-5-6-3-9-0">
+      <stop
+         id="stop4864-5-9-2-71-7"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-17-0-4-4" />
+      <stop
+         id="stop4866-7-5-1-4-0"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0,0.41208792,-0.02575549,0,1682.2194,-283.1877)"
+       y2="420"
+       x2="1705.5021"
+       y1="420"
+       x1="1634.5021"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4337-5"
+       xlink:href="#linearGradient4862-5-6-3-9-5-9"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4862-5-6-3-9-5-9">
+      <stop
+         id="stop4864-5-9-2-71-6-9"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.78260869;"
+         offset="0.5"
+         id="stop4868-7-17-0-4-2-0" />
+      <stop
+         id="stop4866-7-5-1-4-2-9"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.01960784;" />
+    </linearGradient>
+    <linearGradient
+       y2="420"
+       x2="1705.5021"
+       y1="420"
+       x1="1634.5021"
+       gradientTransform="matrix(0,0.41208792,-0.02575549,0,1682.2194,-283.1877)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4932"
+       xlink:href="#linearGradient4862-5-6-3-9-5-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9"
+       id="linearGradient5051"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1326283,0,0,0.07078927,-221.48951,390.8685)"
+       x1="1634.5021"
+       y1="420"
+       x2="1705.5021"
+       y2="420" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9-5"
+       id="linearGradient5053"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.41208792,-0.02575549,0,1682.2194,-283.1877)"
+       x1="1634.5021"
+       y1="420"
+       x2="1705.5021"
+       y2="420" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9"
+       id="linearGradient5122"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1326283,0,0,0.07078927,-221.48951,390.8685)"
+       x1="1634.5021"
+       y1="420"
+       x2="1705.5021"
+       y2="420" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4862-5-6-3-9-5"
+       id="linearGradient5124"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.41208792,-0.02575549,0,1682.2194,-283.1877)"
+       x1="1634.5021"
+       y1="420"
+       x2="1705.5021"
+       y2="420" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64921875"
+     inkscape:cx="950.77801"
+     inkscape:cy="619.72615"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3918"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#0009ff"
+       opacity="0.05882353"
+       dotted="false"
+       empcolor="#0000ff"
+       empopacity="0.05882353" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1183.5001,1190.9285"
+       id="guide6069" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1290,1091.4286"
+       id="guide4123" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Warthy final with Unity tricks</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Octavian Damiean</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>This is the default Ubuntu wallpaper with an Unity tricks overlay.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,226.20924)"
+     style="display:inline">
+    <image
+       y="-186.20924"
+       x="-60"
+       id="image3673"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCATiB9ADASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwWiii
+kdAUUUUAFFFFAC0UUUhhRRRTAKKKKBhRRRUgFFFFABRRRQAUUUUAFFFFABQKKKBi0UUUAFFFFUAt
+FFFIYUUUUAFFFFABRRRQAUUUUAFFFFABS0lLTAKKKKACiiigAooooAKWiigAooopjCiiigBaKKKC
+hKKKdVEhRRRQUFFFFABRRRQAUUUUAFFFFAwpaSlFABRRRQAUUUUwCiiigBaKKKQwooooAKKKKYwo
+oooAWloopgFFFFAwooooAKKKKACiiigAoopaACiiigYUUUGgAooooAKUUUUAFFFFABTqKKACilox
+QAlLRRQAUU6igAooooAKQU6igAooo6fSgApaKKAD0oooxQAUU6gUAFFHSigApMU6igBKWijFABRS
+0UAJS0D7tFAB/DRTqBQA3HFOoooEGKKWigBKKWigYUUYzRQIKKKKACiinUDG06k+tLQIT+KlopBQ
+MP4aB+tO7UUAFN606igAooox0oEFFFHrQMKOgpaKBCUdqKKBhRS0UAGM0UfjRQISlo6UUDCkpaKA
+CkAzS0UAFFFFAAaMUUGgApKWjtQAUnSlxRxQAUlKKB+dACdKWigUAJR/wGl70lAB0oxQaMUAFGKK
+KADrSUtAoAbij86d2ooAbjmkNOooAQc0tJ1paACm06igBuKKdRQA2iijvQAdKTFL2xR9aAG80tLS
+UAFFFKaAEooooAbiinYo7UANxR/DQad1oAbR/FR9aKAExQaWigBKKPlooAKSnf7NJigBKB96looA
+SgcUUUANopeKWgApvenU00AB96TH5UooNABSUtBoASgUGjvQA00tLSUAFFFFMBpoIpelLQA2ijpR
+60AZ9FFFYnGFFFFAC0UUUDCiiigYUUUVIBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAwpaKKACiiig
+AoooqgFooopDCiiigAooooAKKKKAClpKKAClpKKAClpKWmAUUUUAFFFFAC0UUUDCiiimAUUUUALR
+RRQUFFLRQAlLSUtUAUUUUAFFFFABRRRQAUUUUDCiiloASloooAKKKKAFooooGFFFFABRRRQAUUUU
+xhTqbRQAU6iigAooopjCiiigAooooAKKKKACiiloAKKKKBhRRRQAUUUtABRRTqAG0U6jFAAOtFFL
+QAlApfaigAFFFFABTqKKACiiigBaSlxRQAYpaSloAKKKBQAc0UU6gAoopMUALRS0UAFFFFABRRS0
+AFGKKKACiindKAG07tRRQAUUUUAFFLRQAUUUd6ACinUUANp1FFABRSYoFAC0mKd8tFABR9KMUUAF
+GKO9FABijFLSUAFFFLigAP3qBRRQAGiiigAo70UfhQAYopwptABRThxRQA2inUmKAFpv4U6igBtO
+oNH8qADrRS0n40AFNpxpMUALRR9aKACiijHNAB9KT+KjFGKAEop1H86AG04fSigCgApvNLikFABR
+TjTaAAdKKKKADFJS0YoAQUYpfpRQAmKKWk9KADvTcU4etGKAG/xU4UUUAJSYpaWgBuKP4qWigApt
+OooAbR9adRQA2inU2gAooooAP1pKWigBKOtLSH7tAB2puKdRQA3FHUU7602gANANGKKACk/Clo/i
+oASjFLR0NACU3FOo60AFJ6elLTcUAKKTFLR0oABRR0oNADTRR0NB5oAKQ0uKKAE7UdqXrSe9ABR0
+oxR2oASk/GnUUAJSHrS9+KOhoAzaKKKyOMWiiigoKKKKkAooooAKKKKACiiigAooooAKKKKACiii
+gAoopaBiUUUtABRRRQAtFFFMYUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUtABRRRTAKKKKAClo
+ooGFFFFABRRRTAWiiigoKKKKAFooooAKKKKoAooooAKKKKAAUUUUDCiiigApaKKACiiigBaKKKCg
+ooooAKKKKBBRRRTGFFOptADqKKKACiiigYUUUUwCgUUUAFFFFAC0UUUDCiiigAoFFFABSiijFAAK
+KKKACnUUUAFHeiloASloFFABTqbTqACiiigAopaKACiiigAFFKKKACiinUANp1FFADadRRQAUtFF
+ABRR0/hpcUAJS0YooABRRTqAG0U6igAIo70UtABRRRQAdaOlOppoAKOlOooAQUYoApaACilpv0oA
+WiiloAKKKKAAUdaWigApKWjtQADiiiigANFFOFADadRRQA2jvRTqADpTadSc0ALRRRQAUmKcKOlA
+CUUuKKAG8UtLRQAUfWijpQAUlLRQAUUUUAFHaiigAooo60AFJS0UAJ60uKKKACjpR0ooAKSloxQA
+lFHSlxQAlFLSUAFJil6UUAJil/2qKKACm/TpThRQA2il/ipaAG0d6KD96gBKWjFFACUUuPlooASj
+pSmigBmKWlooAOtN+lOxSUAFFFJigBaKT+KloAKbS9aWgBoFFOooAb/OiijGaAEo6UvSkoAKKKKA
+G06iigBuKMU402gAoooxQAUnpS0lABRQKMUAJRS0lAAaKT+Gl60ANopcUtADaKKKAEoJpaOlACUU
+UvagBMU3p7U6igDNooorI5QoooqQCiiigAooooAKKKKACiiigAooooAKKKKACiiloGJQKWigBaKK
+KBhRRRQAUUUUwCiiigAooooAKKKKACiiigAooooAKKKWgAooopgFFFFAC0UUUDCiiigAooooAKKK
+KCgooooAWiilpgFFFFABRRRQAUUUVQBRRRQMKKKKACloooAKKKKAFooooKCiiigAooooEFFFFMYU
+UU6gBtOoooAKKKKBhRRRQAUUUUwFooooGFFFFABRRRQAUUUtACUtFFABRRThQACiiigAFLR1ooAK
+OlFGKACnUgpaACiilxQA3FOxR2ooAKMUUuPmoAKKO1FAB9KKXFGKAD+GlopaAEpelFFACUtFFABS
+0lL/ABUAFFGKdigBtOoooAKBRS0AIKXFFFABRTqbQAUUvSloAKKKKACiiloASk/ip1FABRRRQAUU
+tFACUvWjFFABRigU6gBtOoooAKKKKADpRS03FAC0UCg0AL3pP50tFAB1oo70d6ADFGDRRQAdKMUp
+oP3aAEoNFKKAE60UtFABRQRRQAlFLR1NACYpaKO3FAAaPpRRigANFHNFACUv8NFFABiiinUANooo
+oATFFL+tFACfSjvS0GgBKOlLikxQACilooASgUdqKAEpaMUGgBKKWm/w0AH8NLjvSYpT0xQAUUUU
+ANoxTqKAG0UYzR3oAQ+1LR2ooAT60veiigBKKWk7UAFJS0c7aAEopaSgAoopaAG/w0lOwabQAdaS
+looAD60lL1o7UAJRSkUYoASigUe1ABTf4adR2oAbRziijrQAUlLRQAlFGKO9AB2ooooAb/DS0tB6
+UANxSU6igApvanGigBoFJT6b+NACUUp9qKAMyiiisDlCiiigAooooAKKKKACiiigAooooAKKKKBh
+S0lLQAUUUUAFFFFAC0UUUDCiiigAooooAKKKKACiiimAUUUUAFFFFABRRS0AFFFFMAoopaBiUtFF
+ABRRRQAUUUUFBRRRQAUUUUALS0UUwCiiigAooooAKKKKoYUUUUAFFFFABS0UUALRRRQUFFFFABRR
+RQAUUUUAFFFFMAoop1ABRTadQA2nU2nUAFFFFAwooooAWiiimMKKKKACiiigAoopaACij+KigAoo
+HSnUAFAoooAKWiigApf4aSnUAFFFFABRRS0AFBFFAoAKWigUAFH40daKAClxS0CgApaSlxQAUd6K
+BQACiiloAKKKBQAU6m06gAFFFLQAlL3pKWgAooooAKdSCloATFLSGloAT6U6kpRQAlLRRQAUYpaK
+ADFFFFABRRj0ooAMU6ij+dABRRjmigApMUtLQA3FLQBS4oAMijpRR7UAFA5ooNABRS0UAJS/hRR1
++lACUtFOzQA080Uc0fWgAxRRTqAG4op1FADaMcU6igA703FOo70AFGKKKADvRj5aWkoAKKMZo6UA
+FFH8qKADFFHSigAoo/pR70AHejrRR+NABTf4acaKAG0U6gUANP3aPzp1NH3uBQAdKKMUUAFJS0Yo
+ATpRS44ooASjpS0lABRjNGKKACig9KKAEpMU6koAKMcUUn8VAC02nUn8NACUdadTaADrRiindetA
+DcUhpcUUAIevFGKX+VFACf8AAaMUCigAoNFJQAUUn0oxQAfw0lOpDQAlFFHegAooxRQAlHalo70A
+JRR9KKACm07HzUUANxiijGaPpQAnal6UY4ooASiig0AFJS+tFADcUv8As0tJQAU2nUn8VACUU760
+32zQBmUUUVgcoUUUUAFFFFABRRRQAUUUUDCiiloASlpKWgAooooAKKKKAFooooGFFFFABRRRQAUU
+UUAFFFFMAooooAKKKKACloopjCiiigAooooAKKKKAFooooAKKKKCgooooAKKKKACinUUAFFFFMAo
+oooAKKKKBhRRRVAFFFFABS0UUALRRRQUFFFFABRRRQAUUUUAFFFFABRRTqYBTadRQAUUUUDCiiig
+AooooAKKKKBi0UUUwCiiigAooooAWigUUAH1oop1ABRRRQAUtJS0AHaiinUANp1FFABRRS0AHpRR
+RQAUUUooABRRRQA6iiigAoFFLQAUUUUAFFFLQAUCgUUAFOptOoAKBQKKACloxQBQAUUU6gApOlLR
+QAUUg6UtAC4oooxQACiiigApaO9FABRRTqAG0uKMUlADvrRScUtABRS0YoAKKKKACiiigAopcc0Y
+oAQUfhS9+KKAE70v8VFGKACiinUANop1FADadRRQAdqKMUUAHaiiloAQe9LRj8qKAEo+lLj3ooAK
+SlooAKKKKADFH0oooAKKKOtABRRRigBKWj+dFABSUuKKAEopaO1ACUUtFACUUtH0oAQ0UUUANp1G
+KKAG0U7p9KKAGminGm0AH40UUUAH40UUUAJRS/w0lABRQKDQAUn9aWigApCOaT+GnUAJQRSmm4oA
+SnUUUABpvrR3p2MUANo70flQeaACijvRQAYpMUCigA+lFFGKAEopaP50AJRS0lABTcU6igBtFOpt
+ABRRj1oxQAlFLikNABRS0lABTadRQA2ijFH8VABj1pKWkoAPfNFFBoASilo6UAJRS0n0oAyqKKKw
+OUKKKKACiiigAooooGFLSUtABRRRQAUUUUALRRRQMKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KYC0UUUxhRRRQAUUUUAFFFFAC0UUUFBRRRQAUUUUAFFFFABRRTqACiiigAooopjCiiigAooooAKK
+KKAFoooqgFooooKCiiigAooooAKKKKACiiigAoFFFADqKKKYwooooAKKKKACiiigAooooGFFFFAC
+0UUUwCiiigAopaMUAFFAp1ADadRRQAUtGKKACiinUANp1FFABS0lLQAUCiigBfaiiigAoop1ABQK
+KPpQAUUtFACUtGKKAAUtFFABRRTqAG4pwooFABRS4ooAO9FAooAKdRSY4oAWikFOxQAlJ/DTqKAC
+iiikAUtFFMAoooxQAUU6jrSAKKKKACilopgJS/Sj60fNSAKKWkpgLRRij60gCijpRTAKOtFOoAbj
+v2p1FFIAxRRmloASilpKYBRSmigBKKWjikAGij2ooAKKP+BUvSmAhooNOoAbRSmloAbRTqKAG0U6
+igBtOopMUALTaXpR/FQAmKXFLRQAU0Uo5ozQAlHenUUANp1FFADTRTqbQAGiijFABQKKKACkpaDQ
+AlGMUtJigAo7UoooASjFFFADaKdR3oAbQadTaACkpaKAEo+lLRQAneiiigAooxRQAh5opaKAEopa
+SgApuKdR/tUANoo706gBtFGKP4eKACkpe9FACdqKU0lABRRQaACjvR1ooAb/ABUGjrS0AFNpfrS0
+ANop1NoAKSlo70AJQaWkoAP5U2nUUANoop1ADaSlooATFFBooAKSlo60AZNFFFYHKFFFFABRRS0D
+CiiigAooooAKKKKAFooooGFFFFABRRRQAUUUUAFFFFABRRRQAUtJRQAtFFFABRRRVDCiiigAoooo
+AKKKWgBKWiigAooooKCiiigAooooAKKdRQAUUUUAFFFFAwooooAKKKKYBRRRQAtFFFBQtFFFUAUU
+UUAFFFFABRRRQAUUUUAFFOooAbRTqKACiiimMKKKKACiiigYUUUUAFFFLQAUUUUAFFFLTAKKKKAC
+iiigB1FFFABS0UUAFFOooAbTqKKAClxRRQAUUfWloASloooAKKKBQA4UUUUAFLRRQAUUUtACClxR
+RQAfw0Ufw06gAooopAGKWiigAPSigCnUANpRxS0UAFFFLQAlLQKPmoAKWkpaAEpaKdQA2iil/ioA
+SnUUUAFFLRQAYooo7UAFFLRQAUfSjHrRQAUU6jFADaAKdRQAUUUUAFFLRQAgopaSgA+lKKKKADtR
+RRxQAYopetGKAEop1IKAEpTS0UAFFFLQA3pR/FS0UALTcU7FFACUnWnEUUAJSdPpTsUUAJS0UUAN
+xxR/FTsUCgAoo7UUAN6UtLR1oASil+tH1oAO1JS0UAN/ipaWkpgJ/FS0uKSgBMUtLSUAFNp1FABT
+e1OpMUAJiil9aTvQAUlLRQAlFL16UYoASjFHWg0AGKKKKAG0U6igBtH1FOpuOaAD+VJS0UAJRS4o
+oASilxmigBKSl70UAJ60Uv0oNACUmKUfSigApMUtFADaKOtFABQaDR2oASgUvajvQAmeaDQaO1AD
+frTsUYooASkxzTjzSUAFFFFADaO1BHNGKAExS0UcUAJ9aKDRQAU2nU3+KgAooNGKAEopf9qjNAGR
+RRRWBzBS0lLQAUUUUAFFFFAC0UUUDCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAWikp
+aBhRRRQAUUUVQBS0UUAFFFFBQUUUUAFFFFABRRRQAUUUUAOooooAKKKKBhRRRQAUUUUwCiiigBaK
+KKACiiigoWiiiqAKKKKACigUUAFFFFABRRTqACiiigYUUUUAFFFFMAooooGFFFFABRRS0AJS0Gig
+AoopaAEFLRRQAU6m06gANFGKKACloooAKKdSdBTAWik/hpaQC0d6KKACiiloASloooAKKKdQAUfW
+lFFABRRRQAUuKKKAD6UUUUAHSndaKKACiiloAKKKMUAFFFL/AA0ALRRRQAUtFFABRRQPegBaKKKA
+CiinUANp1FAFAB/Kiil7UAJ/tUtFBFABRSij+KgBKX8aKKACiinfWgBtOoooAO9HSiigAopaKACi
+iigAoxQKXigBKMU6igBtOoooAKKKTFAB1p1FJQAtHpRRQA0cCndqDRQAUUUUAFAoooAKDS0dqAEo
+xS0UAJRS0UAHSj8aO1FACYopaMfNQAlLR2ooAKKKKAEpaDQaAA9KSlooASjFLRQAnSilNBoASiij
+rQAU0U6igBuKWl/4DRQAlJ/FQadQA3FGKWigAptOooAaaXpRijFACdqKX6UhoASgUoHrRigBKKWk
+AoAbTqOlFMBtFOpopAFGKdRQA2indKbQAlFLRTASg+tFH40AIeDSYp1FIBPpQBSfxUtMY2inUfSg
+BtFGKKBCUUuKDSGJRRR1FMBKWiikA3FLS4pKAExS0nQUGgBOKKU0lMApMUvajvQAlFLRQAlFGKKA
+G0U402gDJooorA5QooooAKKKKAFooooGFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUtAxKWiigAooooAWiiimMKKKKYwooooAKKKKACiiigAooooAWloooGFFFFABRRRQAUUUUAFFFFM
+ApaSloAKKKKCgooooAWiiiqAKKKKACiiigAooooAdRRRQMKKKKACiiigAooopjCiiigAooooAKWi
+igAoopaACiiigAoop1AwooooEFLRRQAUUU6gApBS0UAFLRRQAUUUo+9QAUUU6gAooooABRRS0AFF
+HeloASloooAKKKdQAnFLRRQAUtFFABRRTqACik/hpaACiiloAMUUUUAFL3o7UUAFHSinUANp1FFA
+B9KKKXrQAlL9KDRQAUYo9aXGaACjFFFABRigUCgA6U6jvRQAUUYooAKMUtFACUtFFABRSiloAKKK
+WgBuP9qlopaAEopaKACj6UUUAH1oxRRQAUUtBoAKKKKAEopaKAE7UtGKKADFHSnUYzQA2inUfWgB
+opcUtFADadRRQAU0048U33oAdR0opP4aAExTqPrR60ANop1FABRRSYoAWm06igBtOpP4aWgBtFOo
+oAbQaMe1OoAbRRRQAUn86X3o70AJ2o7UtH4UAJRRR/KgBv8AFTqKKAG4paWigBKKQ/SjFAC02lxS
+0ANopcUtADPpRS9qKAE60YpaKAEoo7UUAN60GnUUANop1NoAP9mjFH8VFAxKKXpRQAlFFFABSHj2
+pf4fWjHNACUA0UCgBtFL/DS0ANo7UuKT6UAIaKWigBKKKOlABRQRRQA0UY4o4ox1oAWm07oaKAGm
+jqaPpR34oASilo4oASiiigDHooorE5RaKKKBhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUtFFAwooooAWiiigoKKKKoAooooAKKKKACiiigAoop1ABRRRQMKKKKACiiigAo
+oooAWiiigoKKKKACiiimAUUUUAFFFFAC0UUVQBRRRQAUUCnUAFFFFAwooooAKKKKBhRRRQAUUUUw
+CiiigAoopaACiiigYtFFFABRRThQAYooAooAKWkFLQAU6m06gBP4qWiigApaKKBBRRS0AFHeiigA
+p1FFABRRS0AFFFFABRS0fWgAp1NFFADutGKKBQAUtFHegAoNFKaAEpfrS0UAFLTelOoAKKKKAClp
+KXvQAUUUuKAEp1HSk/hoAWl70lLQAUUUUAA60v0oooAKKBQaACinUUAFH1oooAKKWjFABRRjmigA
+ooHWnUAFFFFABRRS0ANxTqKKADaaKO9FABR1opaACjFFFABRRR6UAFGKdTaACnUfWigAoopMUALR
+RRQACilpOtABSZp30oxQAlFLSUAFLRR70AHajtxRRQAlFLiigBuKdR+FFAB2ooox+VAABSf7NLR1
+oAPlooxRQAlFKaKAEopcYpKACig0UAFNxinUUAN6rRTqOtADcUCjpQaACig8UUAJRS0fw8UAJRRi
+igAoo60UAN/ip1FFACUUUUAFN6GlHWloAaaU0tFAxvNFFHvQAlFLSUAAopaSgA7U2nUUANopxHFN
+oAMUUUUAJQRSkUnWgAPtQKKKAEopaSgAptOooAb2o98U6g0ANooo+tAAKSl7UUAJ3ooxRQAlJinU
+lADfpQadSGgAx+dJ9aX+GkoAKQ0tFAGPRRRWJzBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQA
+UUUUAFFFFABRRS0hhRRRTAKKKKAFooooKCiiigAoooqgCiiigAooooAKKKKAFpaKKBhRRRQAUUUU
+AFFFFABRRRQAtFFFBQUUUUAFFFFMAooooAKKWigAoooqgCiiigAp1FFADaKdTaAHUUUUFBRRRQAU
+UUUwCiiigAoopaAAUUUUDClpKWgAoop1ADRTqKKACl5oooAKKKKACnUUUAFLSUtABRRSigAoooxQ
+AUU6igBMUtFJ/FQA6iijFAgpf4aKKACiindKAG07FFFABS9KMUUAFFAooAXFLRSYoAWiiloAKKOl
+FABilFFGKAAUUU6gBtOopaAEpaKBQAUUUUAFL/FRiigAoH3qdRQAUUUUAFFFLQAUUUf8BoAKAKKd
+QAUgpaKACilxRigBKWiigA/4DRSigUAJRSijvQAUUUUAHej2p1J/FQAtNp1FABSfxUtFABRjil6U
+UAN/hpaWigBD96loNHegAxzR8tFFABRS0YoASiloxQAlHelooAT3oNLj1oNAB0pKXHFFABSUtFAC
+UUtFACUUtFABRiij+GgAx+VJS/w0lABRRRQAnSloooAT/apRR1o6GgBMZopaKAG4paKWgBAKKKKA
+G9+tFOpv40AFFFFAB2pBS0UAFJS0UAJ2opaSgAoooNAwpKWjtQA3GaPanUHpQAlFJj/apaAG0U6k
+xQAlFFFADeKU0v0oPpQAlFGKO/SgA7UelFFADaKdTaACkpaKAEFFLSUAA4pCKXFFACUf40tJQAn8
+NIB7U6igBtFO6U2gBKXndRRQAlFLSUAHzUlLQaAEopetNxQAtN/4FTqKAMWiiisTmCiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAoopaQxKKKWgAooooAKKKKYC0UUUFBRRRQAUUUUAFFFFABRRRV
+AFFFOoASloooGFFFFABRRRQAUUUUALRRRQUFFFFABRRRQAUUUUAFFFFMAoopaACiiigYUUUVQgp1
+FFABRRRQUFFFFABRRRQAUUUUAFFFFABRRSimAUUUUhhRRS0wCiiigAFOoooAKKBS0AFFFOoAbTqK
+KAClpKUUAFFFFAC0UCigAp1FFABRRS4oASloooAWijHFFABRTqOtABRS03igBaWigUAFGKKdQIQU
+tFJigBaWiigAoopRQAlLRRQACgU4CigAooooAWkpaKADrRS0UAGKMUCigA+tOFFFAB3oo+tFAAPu
+0tFFABRTqKAG0v1oFOoASloxR06UAFFFAoAKKP1paACkxS06gBtFL/DSigBtOoo60AFFFLQAlLRj
+migApuKdij60AFFLRQAlFLRQAlLR/DRQAlLiinUANxR9KKdQA2iinUANoIp1HWgBuKKd0ooABwOt
+FFAoAO1Np1FADfxp2KKKAG0U6jtQAU3+GnUUANxmnUUCgBtH4U6jq1ADadRRQA2ij86P4aAD60lL
+0ooATvRS0lABjijFAFFABRRiigApKXFBoAQ0UUtAxKKTFLQA3NFONJigBKKMc9adQAyl/Gg0UAJ+
+tFLRQAlGKMUUAFN9KdRQAdKSl70lABSGnUlADaO9KKWgBtHbNFFAAPakFLRQAzFOFLSUANp1FFAD
+aP4adTaAE70H1paP5UAIaSnUnagBKKUikoAKTNO6ikx6GgBtHSnU3vQAUdKPaigAxSfrS0lABSU4
+0mKAEopaKAMSiiisTmCiiigAooooAKKKKACiiigAooooAKKKKACiiikAUtFFAwooooAWiiigoKKK
+KYBRRRQAUUUUAFFFFABRRRQAUUU6qAKKKKBhRRRQAUUUUAFFFFAC0UUUFBRRRQAUUUUAFFFFABRR
+RQAUUUUwCloooAKKKKBhTqKKoQUUUUFBRRRQAUUUUAFFFFABRRRQAUUUUALRRRQMKKWimAUUUUAF
+OxTadQAUUUtABRRRQAUooFLQAUUUtABRRS9qQCUtFAoAKKMU6mAUUtFABRRRQAUtFFABTqKKACii
+lpAFAoooAKAKX+KlpgFFFLQAYooooAKWkpaACiinUhDadSfw0tAB39aWkpe9MAooooAKWiigAo6U
+U7tQAUUUdqACilxRQAUUUUAFOpMe1LQAgFLRS0AJS0YooAKMUtFIAop1NFABjHanY4pOaWgAopaB
+QAUYooxQAYoFLij60AJg0tGKMUAH8NJin0dBQA2inUUANp1GKKAAUUYpaAEoo70vagBO9H9KWjFA
+CUUv9KKAEFFL3ooATFFLRTATFLijGKMUAJRS4opAFGKUDikoAKKKO9MBMUUtFABRiiigAoo70UAJ
+/FxRS0YoASil+lFAxKTindqSgANFLikoEGKbinYo7UDG0U7FGKAG0nal+tH8VABSUtJQAUUuKBQA
+lHWjBooAKSlo70AJRSYpaAD8aKWkNIBtAp1FADaPenD7tNxQAGjFFGKYBSUppKADFFFHSgBKKWko
+AKKKTHFACUU6igBtBoNFACUUtFACYptOooAb25op1BoAbjmg57UdKKAEopaTAoAKSlNFACY5opfm
+pKAAU38KdRQA2k+tPptABRj1oooAO1JS0lAGJRRRWJzBRRRQAUUUUAFFFFABRRRQAlFFFIBaKKWg
+YlLRRQAUUUUALRRRQUFFFFABRRRQAUUUUwCiiigAooooAKKKdQMKKKKoAooooAKKKKACiiipAKKK
+KChaKKKoAooooAKKKKACiiigAooooGFLRRTEFFFFAwoop1ABRRRVDCiiigAooooAKKKKACiiigAo
+oooAWiiigYUUUUALRRRQAUUU6gBtOoooAKWigUAFFFOoAKKKWgAoopRQAlLRRQAU6iigAoopaACi
+iigApaKOaACnUUUAFFFH4UALRQKKACil/ipaAEFLSfxU6gAFAo70CgAxS0UUAFGKdSYoAWijGKX5
+qAEpaMUY9aACilooAMUUUYoAKdRRQAUUCloAKAKO1OoENxSgUlOoAKKWigBKXHNFLQAlGOaWigAx
+RRTqAG0uKWloAT+VLijFAoAKKKWgBKWij+KgAxRTqKAG0CnYFGKAG06ilxQAmKO9LRjFACUUtGKA
+CilxS0ANopcUtADaKXtzS0AJjilopaAEoope9ADf4qMU6igBpoxTqKAG80tLRQA3+VLS4ooASkFO
+xRQA3FLS0UAJSGnUUAJSYp1NxQAtFLRigBKKOppDQMSil/ioxQAhop1JigBCM0YpfpSYoADSUtFA
+CUUd6WgBKKKMUAFFHajtQA2inEUUANop3am0AJ/KjpS9aKAEo6Uv8NFACUUfWigBDRS0fSgBBRS/
+jSUAHf6U2nUn8VACdOlFFFACUUpoPvQAlFFFABRRzuooAb/DS0vSkoAT60tFFADelGKXFB/vUAJS
+GloNMBKKKKAG0Yp1GKAG/wANFOptAAaSlo+tACUY5oooAKSlo7UAJTf4eadRQA2inGm0ABpKWigo
+w6KKKxOQKKKKACiiigAooooAKKKKQBRRS0DCiiigBaKKKCgooooAKKKKACiiigAooooAKKKKYBRR
+RQMKKKKACiiigB1FFFABRRRVAFAooqQCiiigoWiiiqAKKKKACiiigAooooAKKKKBhRS0UAFFFFMA
+oop1ABRRRQMKKKKoAooooAKKKKACiiigBaKKKBhRRRQAUUUtABRRRQAUUUUAFOoooAWikpaACiin
+UAN7U6kFOoAKKKKACloooAKXFJTqACiikxQAtLRRQAUooooAKP4acKBQAUUUtABRRRQAU6ikFABi
+jHpTqKADGaOtFLQAUUU6gBtFOFFABRRS0AFFAooAWjFGKKACijHpTqAG06ilxQAlLR0ooAKXFLRQ
+AUgpaWgBKWiigAopaMUCEpcU6igAFJ/FS0tACUtFFABiiiloASlp1NoAKKdRigAopaO1ACYoxS0U
+AHeigCnUANo5p1FACYo/hp1FACUUtFAAKMUCigAopeaO9ACUUtFACUUuPlox8tACUfSloFACUU/H
+FFADMUtFFACUuKMUYoAKQUvanCgBvVaKKKAE/Slop1ADKWiigAooooGJjmil/CigBKKWjFACdqSn
+YpKAEpMfWnY5o70AJSfzp1B4oASik/hpaACminUmKAEo60U6gBtHWjtRQAlFLQaAEopaSgAptOzR
+QA2ij/aooAKKPwooAP4qSlooAQ0UdqMUAApKWkoAKKWkoAbRTuhoNADaSn02gBMUUtFACUelLSUA
+GBSUtGOlACUUvrSUAFNoNOoAbiiiigBKKXpRQAlHSjrRQA080Y707p360UwGmiiigBOtHtRRQAUl
+LiigobiloooABRQcGigDBooorE5AooooAKKKKACiiikAtFFFAwooooAKKKKAFooooKCiiigAoooo
+AKKKKACiiigAooopjCiiigAooooABTqbTqACiiigAooooAWiiiqKCiiigAooooAKKKKACiiigYUU
+UUAFFApaACiiigAooopgLRRS0DCiiigAooooAKKKKoAooooAWiiigYUUUUAFFFFAC0UUUAFFFFAB
+Tu1FFABS0gpaACiilxQAtFFFABS0UUAApaSloAKKKdQAUUUtACUtFFABS0UCgAoop1ABRRRQAtFF
+FABS4paTFAC0tJSigAoope9ABRiiigBwptOooAKWiigAoxRS0AJS4oooAKdRRQACg0tFABRRTqAG
+4peaBTqAG4p3eijHNABS0Y9aKACinU0UAOpP4aWloASgUtLigQlFLRQAYoAop1ADadRS4oASl5o7
+UUAFFFOoAbTqKKACilooAKKKWgBMUYpcUUAJS0UUAGKMU6kxQAlGMU6igBuOOaKdRQAUUUUAFFL3
+ooASkxThR81ADcUYp1GKAEpOKdjmjFACfWjg0uOaKAE/2aDS9aADigBKCKWigBKKXFFAxKTFOpKB
+CYpaKU0DE/nRjmlpKACm4pxooAbijHrTqKAG0mKfTaAE6Uf8Bpe1GKAExRRSmgBgo5p3WigBvrS0
+pFHegBv4UtFJ7UAJRS/xUtADe9BoxRzQAlFLiigBDnHSilooASg0GgUAN+lGKcabQAUUdDRQAlFL
+RQAmKKKO3FABSUtFACUGk4paAE/ipPendaKAG0UUGgBOtHSlOKKAEooNFACUmAKd1ooAbikpccUE
+UAJRS4pKADvSd6UCigBKKWkoKCm06igBv0op1NFACCloo/GgBKKKKAE6UUvWj5aYGBRRRWJyBRRR
+SAKKKKACloooGFFFFAC0UUUFBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAwooooAKKKdQA2nUUUwCi
+iigAooooAKKKKChaKKKoAooooAKKKKACiiigYUUUUAFFLRQAUUUUAFFFFAC0UtFAxKWiimAUUUUA
+FFFFAC0UUVQwooooAKKKKACiiigAooooAWiiigAp1Np1BQUUUUEi0UUUAAp1FFABS/8AAaSloAKK
+KKAFooooAKdRRQAUtHaigAFLSUpoAKKKdQACgCiigApaMUUAGOKXikxSigAHApaQU6gAooFFAC0U
+UUAOpMUlOoAKKBS0AFFFLQAlLRRQA4UUfhRQAUtJS0AFOptKKAD2paTGTTqACigUooAKKKKACnCi
+gUABopaKACjFFLQAUAUYp1AgooooAKXFFFABiinUmKAAUYp1FAB9aSloxQAUD2NLRQAdaKKdQA0C
+joadRQAUUmKdigBKKXFFABRiloFACUYpaKAEopaKAExS06jFADaKdiigBtGKdiigBtFOooAbRjmn
+YoFADaMYp1GKAG/yoxTjRigBtFO6Cj6UANop2KD60DG0UYooAMd6T5aWjFACGjFLRQAn0opf4aSg
+BKWjpRQAlJ/FS0UAFN6040n8VACH71Hand+Kb7UAHakp9NNACU3mnUUAJS4oooASiik6UAH8NLRR
+QA2g0uKWgBtFKaTHrQAlHelooASilpKAA02nUUAN/ioH1p1HegBv1pMUtH1oASg5pTQaAEooooAS
+iiloASm9qdSfxUAJR0p30ptABSH60uKKAEopelJQUFN/CnU00ALSdKdTf4aAFptOooAaetFOptAB
+Se1LRzQAlBoxRQAGm4pxooAbSYpcUUAJ2o7UtHWgDn6KKKxOQKKKKAFooooGLRRRQUFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFAwooooAKKKKAHUUUUAFFFFMoKKKKACiiigBaKKKoAoooFABRRR
+QAUUUUDCiiigAooFLQAUUUUAFFFFADqKKKBhRRRQAUUUUwCiiigAooooGLRRRVAFFFFABRRRQAUU
+UUAFLRRQAUUUUFDqKKKAFoooFABRRTqACiiloAKKKKCQpaKKACnUUUAFFL0ooAKBRRQAtAoooAKd
+RRQAUUtFABTqbSigBaKWigA70UUUALRRRQAUU6igAopaSgBaAKBS0AJSiiigA/ip1GKKACilooAK
+KKdQAUUUtADf5U6ijFABS4op1ADadR/tUtACUv0oooAKUfdo/hoFAAKKcKKACloFFABRTqTFAC0m
+KBTqAEpcUUtACUtAoFAABQBTqTFABilpaKAG4p1HalFACUuOelFGKAEx6UtFOoENop1LigBMfLQa
+WjrQAnajFLRQAlFKKMUDCkpaMUAFFLikxQAUU6igBuKKXFGKAEoxTqTFACdKKXGKWgBuOaKdSGgB
+KOaMUUABpKdikoAT0paKO1ACUYpaKAEoo7UUANxRinHmigBuKMU6m0AJRS0UAJRS0negBKKXFJQA
+d+abT/ekoAbRTqbQAmKWjtRigBDR70YooASilooASil6UUAJRRRQAn8NJ2pT0paAGiiiigA4pKWi
+gBKDRRQA2nGij6UANAo/CinUAN60lLRigBKKU0lABSdKWigoQ0Uvak/2qAGmilxS/SgBvaindabQ
+AY+WkpaD96gBKKMfnRQAUlLRQA00tFFACYpKdTaACiiigBKO9Lig0AIaKU0n4ZoAbRTqbQBz9FFL
+WJyhRRRQAUUUUALRRRQUFFFFABRRRQAUUUUAFFFFABRRRQAUUUUDCiiigAoop1ABTadRQAUUUUFB
+RRRTAKKKKACiiigAooooAKUUUUAFFFFUMKKKKACiiigApaKKAFooooGFFLRQAUUUUAFFFFABRRRT
+AKKKKBhRRRQAtFFFUAUUUUAFFFLQAlLRRQAUUUooKFo70UUAFLSUtABRTqQUALRRRQAUtFFABS0U
+UAHeiinUANp1FLQSFHagUUAFLRRQAU6m06gApaSloAKBRTqACiiigBaKKKAClFFFABRRTqACiilo
+AKKKPxoAKWiigApwoFFABiloooAKKX+KloAKXFFFABjiilFFAAKKd/tUUAFHWiloABRQKUe1ABR/
+FRTqACj3opaAAUYop1ACYpaKUUAFGKWigBKMUuKd9aAG04UUUAFLjiigUAAFHWloxQAg60tGKcKA
+G4p1FKBQAlGKWjFAB9KKXFLQA2jFPpKACilxRigBKKXHrRigBuKMU6igBKWlox8tACUUpooATGaM
+UuKOp20AJRS80UAJj3opf4eKKAExRS4ooATrSU7FGKAEwKaBzT6TaaAEpP4qfikNACUmKd2ooAbi
+jFGKdigBmKAKdRQA3FFOooAZjNFLR9KAEx8tNIp+KSgBtOoIooAbRinU2gBOgo7UtJ2oAM+tJS0U
+AJQaWigBmKKdRQA2kNLRQAlFFFAAaSlo7UAHakpPeloAKTHHSlooAKb0p1FADaKUUlABSUppO1AA
+aKKMUFBTTTqPWgBtFGKPrQAmKKWigBPpQaWk6UAJ+FFFLQAlFLSUAFNp1FADaKKKAE+tApaSgA70
+UUYoASkxjmnUlACGlpP4qOtACUdDTqaaAD+dFH1oNABiko9KWgDnaKKKxOUKKKKAFooooKCiiigA
+ooooAKKKKACiiigAooooAKKKKBhRRRQAUUUUAOooooAKKKKCgooooAKKKKACigUUwCiiigApaKKA
+CiiigAoooqhhRRRQAUtFFSAtFFFUMKWiigBKWiigAooooAKKKKACiiimMKKKKACiiloAKKKKACii
+iqAWiiigoKKKKACnU2nUAFFFAoAWigU6gApPpS0UAFLRRQAUUUtABRRQKAHCiiigBaKKKAAUtJil
+oAKKOKdQAUUCloASloooJCnUUUAJinUUUAFLRRQAU6m06gAooooAKWgdKWgBKWiigB1AoFKKACii
+gUAGKdRSCgAFOoxQKACjFLRQAUUuKWgAFLRilqQEpaOtFAAKdR0paAEpaKKACnUgFOqgEpRRS0AJ
+S4o96KACjinUuKAEpaKWgBKO1LijFABinYoooAb9KcAMUtGKACijFLigBMU6ilxQA3HFLS4pe1AD
+MU7FFLQAlLQBR1oAKMUuKWgBtGKdRQAUmKdRigBKTFOxR2oAbilx2paMUANxS0uKBQA3FKRSkUUA
+JSYp1GKAE/2qKXFFACUmKd1ooAZinGl+lJ/KgBtFPxSUANxRTqTFACUYzTqKAGdqKX60UAIBxmmk
+U/HtSVIDfpS0tBoAbikAxS/xUtUA3pSU7FIKAE60YpcUUAJim06jFADcUU7FNoASilpKAA0h9qUi
+jvQAlFL70UAMoxS4pTQA2jFOpvegBMUfNSnpSdaAEpcUUUAFJS0daAEpMU6koKG0U6igBoo6miig
+BKKWkoAKbTqKACm4oooAMUlL/DR/FQAlH1oooAKSlNB5oAQiiiigAooooAbR0p1NoAMUlLR+FACU
+dOKOoooASilpKACiiigAptL/ACpaAG9aO9H5UUAc9RRRWJzhRRRQAUUUCgAooooAKKKKACiiigAo
+oooAKKKKBhRRRQAUUUUAOooooAKKKKCgooooAKKKKACiiigAooopgFFFFAC0UUUDCiiiqAKKKKAC
+iiloAWiiigYUUUtACUtFFABRRRQAUUUUAFFFFAwooopgFFFFABS0lLQAUUUUFC0UUVQgooooGFFF
+FADqKKKAFpKKWgAoop1ABRRRQAtAoooAWiiigAp1FFABSjpRRQAUUtFABRRRQA6iiigApRRRQAUo
+paKACiiloABS0lLQAUUU6gAFFAooAKWijtQAClo/hoFABTqKKAFFFFOoAbinUUoFBICiilqQDvRQ
+KdQA2nUCloABRRS4oATFLzRTqACjvRS0AJ3pcUU6gApaMUY9aADFFLRQACinUUAJilFLRQAUuKAK
+KADFOoxRQAUuKMUUAAo70uKWqAKKWgdKkAo+aloxQAUYoxTqAG4pwpcUUAJ0opRRQAYopaMUAJRS
+06gBtFFOoAbjNFOxRigBtGKfiigBlFOpaAGU7FKKO9ADMUYxT8UYoAZijFOxRQA2nYpcUlUA3FFO
+ooAYRS4p2KAKkBuKSn0UAMo7UuMH3ooASg0tJQAmMUY9aWg0AN/ipMU/vSEUANx+NJTv4aMUANIo
+pcUUAIaSlooAb1FLS4o70AMop1FADKKWjFUAlBFLSH6UANopxptBQH7tJ9aWigBKSlxRQAnWk/ho
+/hpaAG0U6m0AFFFGKAExRS0lABjtSUvaigBopaXFGKAGmlopMUAJ0ooooAKTpS0UAJQfelpKADGK
+bTsU2gAooxQfu0AJRS0UAJR1ooNABSUvakNABRR9KKAGkUU403pQAdqSlo60AJ0oooNABSUtFACU
+nWnfSkoAQ0n1p1FAHOUUUVic4UUUUAFAoooAKKKKACiiigAooooAKKKKBhRRRQAUU6igAooooAKK
+KKCgooooAKKKKACiiigAooooAKKKKYC0UUUDCiiigAooooAKKWiqAWiiigYUUUUAFFFFAC0UUUAF
+FFFABRRRQMKKKKACiiigAooopgLRRRQUFFFFABRRRQAtFFFUAU6iigAoopakAooooAdRRRQAtFJS
+0AFL0pKWgAp1Np1ABRRS0AFFFFABSij+KigA/hpwoooAKKKWgA60UYp1ABRRS0AFFFLQAUUU6gAo
+oFFABS0UUAFLRijFABTqKBQAUtAFBoAOtOopfegAxQKKWgBKWinCgBuKdRSigAoo+lLQSGKcKbTq
+ACgClFFABilFApaAExTqMUUAFLQKXFABilopcc0AAoFLRigAH3adRS0AJSijFLjmgBKdSAU6gBKK
+WjHFAB3paKdQA2inYzRQAUUoooAMUAUuKMUAFFOxQKBDcUY96dS0AJR9KXvRQAmKKWlxQAlBpcUY
+5oAQCilxQaAExRTzRigBKTFOooGMpQOadRigQlFLRigYlJinYoFADcUYp2KMUAMFLig0tADcUU6i
+gBpFFOpuKAExRS4ox6UAJim0+jFACGmkU6igBuKMU7FNoASm4p9FADcc0fSlIooASm4p1FADcUlP
+x602gBKSnfpQe9BQ2kxTqMc80AMo706m0AJRilIoNACU3+Kn0hoAb/FSU/vTaAEopelJQAg4opaS
+gAo/2aKT+KgBKMUYooAT5v7tFL3oxQAn1opaSgBKKXFGKAEpMU6m/wBKAEoxSmj0oASkxS0UAJRQ
+aKACg/Sij+dADaDTqafWgAooooATFFL/ACpOnSgApKX8aKAEoNFJ/DVALTacRQaAG0UUYoAT2oPr
+S0dqAEopaSgBuKOtOpKAOcooorE5wooooAKKKKACiiigAooooAKKKKBhRRRQAU6iigAooooAKKKK
+CgooooAKKKBQAUUUUAFFFFABRRRQAUtFFAwooopgFFFFABQKKBQA6iiiqGFFFFABS0lLQAUUlLQA
+UUUUAFFAooGFFFFABRRRQAUUUUALRRRTKCiiigApaSloASloooAKdTadQAdqKKWgAoop1ABRRRQA
+madRRQAUtJS0AFFFFADqKKKACloooAKWkpaACnU2nUAFFFLQAUUU6gBtL/FS0UAKKKMUUAFLRRQA
+U6gc0UAFFFLQAUtJS0AFOptOoAKWiigApcUYpaAClFFA9aAFo70UCgBwFKKSloAKBS4ooAKdQOaB
+QAUtIKWgkMYp1IKMUALS0UtABRThSYoAWlFGKAKAClAopwoABQKXtRQAUUuKdigBKWilxQAmKWil
+xQAmKXFGKcBQA3FOopaAExS4zRRQIKdRQKADFFLRigAoxTqWgBgFLinYooAaKMU7FLQAlFKBzRig
+BKKXFGGoATFLRinUANx60Yp1FADaMU6kxQAlFONFADaKXFKKAG0UuKMUDEoxS4pcZoAbik+lOxRi
+gBMUlOxSUAJijFLig0AJ396MdaXrRigBmKMZp2B3ooAYRQRT6bigBMYFJinY4oPFADaaeafSUANx
+RTqaaAEopaKAG45opcUYoKGYop1NoAKQ/SlOaD0oASkp3WkxQAyl/Cg0tADTRS45pKAEPtRS0lAB
+TadRigBppKX+GkoATHak4p31ooASjpRRQA2jFONBoAbig0Gg0AJiilpKACjH+zRRQAlJjinY/wBm
+m4xQAtIelH6UtADaKdRQAyil6UYoATpR1paBQAgo+tHSigBtFOxTaAEopfpRQAlFFGKAA0lL+lFA
+CfhRR9aKoBvainUdOtADfm6UUdKKACkpaKAOaooorE5wooooAKKKKACiiigAooooGFFFFABRRTqA
+CiiigAooooKCiiigAooooAKKKKACiiigAooooGFLSUtABRRRQAUUUUwCiiigBaBRRQMKKKKAFooo
+qgCloooASloooAKKKKBhRRRQAUUUUAFFFFAC0UUUDCiiimMKKKWgAooooAKKKdQAUUUUALQKBRQA
+U6iigApaKSgBaKKKAFoFFFADqKKKAClpKWgAoFFLQAUUUCgB1FFFAC0UUUAFOpBS0AFLSUtABRQK
+WgAoop1ABRRS0AFLSClFABRRinYxQAClpKWgAop1FACim4p1FABS+9AooAKdR1oFAC0YopaACiin
+YoABSij60CgkXFLRS0AFFFKKACnUUopAAoopaACnCgClpgIKWilxQAlOpBThQAYpcUUuKAEx81Li
+lApfSgBv8NOxRS0AJiloxThQA007FKBRQAlLigCnUCG06lxRigBKTFOpcUAJigUuKcBQAzFLS4p2
+KAG4oxTqKAG4paWlIpAMxTsUooxTATH+zRil/ipx+7QAwUYp9NoASlp1GKAG4pKfijFADMd6WjFO
+xmgBlFPx7UYoAZijtS0YzQAlAFLijFAxKMZpaMUAJijGaXFFADMUhp+KMUAMxRinmkoAb2pMU7FL
+QAyil70UAMNJT8UUgGYpKfSYoAbjNNxT6MUwGYpKfimkUFCUdKXFJQAhpuKf7UlADe1GKdRQAyj6
+0tFADDRinUlADaO1OpvfmgBKMUtFACU3FOoxigBpHpRTu1NoATrRRRjmgBKKXvRQAnWm06m4oACP
+WijrRQAUmKXFFACYoxS0lABTfpTjR1FADfalpetNNAC02nUmeKAE+lGKXik+lABikpTR3oASiiig
+AooooAb/ALNH8VBoNACUYpf4qSgApDSmigBKDS03FAC03HenUdKAG0U4000Ac1RRRWZzhRRRQAUU
+UUAFFFFAwooooAKKKdQAUUUUAFFFFBQUUUUAFFFFABRRRQAUUUUAFFFFAwpaSloAKKKKACiiigAo
+oopgLRRRQMKKKKACiinUAFFFFUAUUUUDCiiigAooooAKKKKACiiigBaKKKBhRRRQMKKKKAFooopg
+FFFFADqKaKdQAUuKSloAKKKKAHUUUUALRRR1oAKWkpaACiinUAAooooAWiiigApaKKADFOoooAKW
+iigAp1FFABS0lKKQBS0lFACijFFFADqKBRQAClopf4aACiigUwHUUUvSkAU6iimAUooooAMUtFOo
+AbTqKXFABS0gFLQAU6m04UgClooFAAOlLilpaADFLRiigkKdQBSigAoxS4pwoAbinUUtABijvTqT
+8KAFpaB1paADFFOpcUwEpaKBQAAUuKAKdSAbTulFKKAEFLilxRigQlOpaBQAYFGKXFAoAAKKcKXF
+ACUCl70UAGKKXFOxQA3FGM07HpRigBtHWnUtACYoxS4pcUANxQRTsUYoATFGKdSYoATFGKeaSgBu
+KMU/FAFADKMU/FHWgBlFPxTf4qAExRilxRigBKMUuKMUAJ2oxS4paAGYoxS4oxTGJRjtS0cfjQAy
+jFPxSUANxRTqMfLQAw9aMUtGKAGYoxTutGKQDCKKeaSgBnag0poP0oAbTafTcUAJikpxFJ9aAEpp
+p9JQUN/ipMc0popgJim4p+KTFACUUmKX60ANopf4aTFACdTRS0lADccUmPSnmmmgBDSHjg0760lA
+CUY+WjFFADaKd0ppoASilo/hoASk/nS0GgBuKWiloAT603rTqKAG+1H40Yo70AJRS0d6AEIooooA
+Sk/hp1JQAUUUUAFN7Uv1pDQAd8UlL3ooASj60UUANoNOooAbQaKDQAlBpaSgAoNFFACUUppKAE/h
+o/ipaKAOYooorM5wooooGFFFFABRRRQAUUU6gAooooAKKKKCgooooAKKKKACiiigAooooAKKKKBh
+RRS0AFFFFABRRRQAUUUUALRRRQMKKKKYBRRRQAUUU6gAooooGFFFFUAUUUUAFFFFABRRRQAtFFFA
+wooooGFFFFABRRS0AFFFFMAoop1AwoopaACiijFABRRTqBBRRS0AFFFLQAUUU6gBtOoooAKUUUCg
+ApaBRSABThTadTAKKKWkAUUUUAKBRilpAKAAU6igUAFKKKKACnUUUAApaKKAAUtAooAdRRS0AIOt
+LRRQA6lpKWgAFLRQKACnUUuOaAEpaKUCgAFFOHWgCgAFL3op1ACYpaUUUAAFKKQU+gAoopaCQxS4
+opwoAKBS0UAHenUgpwoAKXFHejrQAU6gClxQAAUoFGKKACnUClFACUtL/FRigQlOpaMUAGKMUo4p
+cUAJigUuKdjigBKWjFLQAmKUCnUYoAbinUuKXFADaUUuKdigBmKXFOAoxQA3HSlp2KMUAJRS0YoA
+TFGKfSYoAaRS0uKWgBuKKdRQA3pRT8UYoAZiilxTqAGUEU6kxQAmKTFOxRigBuKMU7FGKAG4opcU
+YoATvRilooAbSYp2KKBjcUYp2OKKAGYopcUtADKCKdijFADcZppp+KQigBtIafTcUANo+tLRQAzF
+HSnUUAMxSU7FJQA3+GkxT8U09aChKTFLQaAEPWm0+kx8tADcUnelP3qKAEpOO1L0pKYDe1FOoNIB
+lB5paSgBKbT8UGgBlBp1FADKMUtFACU2nEUUAMx60U+m0AJijFFFAB9KbinUlMAptOooAbRRRQAU
+mKWigBKKKKAEpP4qdQaAG/w0d9tOpKAG0UvWj+GgBO9GKdTQKBidaMUtJQAe1Np3Wg0ANx6UUUUA
+FIaUfSjuaAEopaSgBKDSmkoA5iiiiszmCiiigYUUUCgAop1FADadRRQAUUUUFBRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFAxaKSloAKKKKACiiigBaKKKBhRRRQAUUUUwCiigUALS0UUDCiiigAoooqgAU
+UUUAFFFFAC0UUUDCiiigYUUUUAFAopaACiiigAoopwpjCiiigBaKKBQAUUopaACiiigBaKKWgAoo
+ooAKdQaKQBQKKWgAFLSUtAgoop1ABiiiigBaBRRQAU6m06gApBS0tABS0lLQAU6minUAFLRRQAUt
+JS/w0AOooFFABS/8CoFKKAFpBS0ooAKWigUAFOpMU6gAFGM0UooAKcKMUYoABS0UAUAKKMUtKOtA
+Bilop1ADacBRS0AGKUCinUEhRRSigApRRinCgApaBThQACgUuKKAClop2KADtRSijFABinUmKdig
+QlLilxRigAFOFGOKWgBKWilxQAYo+tOxS0AMxT6MU6gBuKX607FLigBtL3pcUAYoASlxRilxQAmK
+XFOoxQA3FGKfiigBMUY5pcUYoATHNGKfijHzUANxRindKKAG07FL0ooAZj8qMU7FGKAG4ox6U8Cj
+FADKKfiigBmKSn4oxQAwijFPxRQAyg0uKMUAJikxinYoxQA2ilxRigBlGKfikoGN+tIadikxQAmO
+lJTsUGgBhpMU/FGKAGUhp2KT8DQAmPammnmkoAZTcU/+GjHFADTTcU/pSYxQA2kxT6aRQUJTSKca
+SgBtGKUikNACYopTRQAzikp9NoASm/w0+koASm06g0ANP3qTtS0d6AEpKU0HpQA00lOooAZ70daU
+0lAB0ooooAaBRTqaaAEIopcUmKAEoNL2pKACiiigBvtRTv8AapP4aAEooxRTAKTFLRQMSig0UAJR
+S0UAJTadSfw0AJRRRQAf8BpKWjmgBKKWkoAbRTqbQAUGiigBDRS0negDl6KKKzOcKKKKACgUU6gA
+ooooAKKKKCgooooAKKKKACiiigAooooAKKKKACiiigYUUUUALRSUtABRRRQAtFFFAwooooAKKKKA
+CiiigAop1FMAooooGFFFFABRRRVALRRRQMKKKKACiiigAooooGFFFFAC0UUUDCiiigAp1Np1ABRR
+S0AFFAp1ABRRRQAUooooAKUUUUAFOoooAKKKXFAABRRRQAtFFFABRTqKBBS0UCgAFOoooAKKKTFA
+DqKKKAClFFH1oAXFLRRQAtFApaADFFApw60AH1paSloAKdSCloAUCiiloAKdRRQAooxRSj7tABRR
+inUAA+7S0CnUAFLQKBQAUuKKdQA2nUmKdQAYpRQKdQSHWlop1ABSgUCgCgApaKXFAC0oFFLQAAU6
+gUtACUuKKdQAgpaXFFAgpRRTwKAEpMU4UuMUAJilp2PmpRQAgpcUAU6gBoFLinYpcUAJSgUU4CgB
+uKXFOxRigBAKXFLijFACUoFOAoxQA3FOxS0YoASinYoxQAmKMUop2KAGYpcU7vRigBuKMU6jFACU
+mKdilxQAzFGKfiigBmKMU/FGPmoAZjmlp2KTFADcUYp+KTFADKMU+igBmKMUuKMUAJSYp2KMUANx
+TaeRRQAzFFOooAZigiloxQMbRS0UAMo9qeRSUAMI4pKcaOtADaaRzT8UUAR0Yp9NIoAZSY/KnkU2
+gBKbin0hoAZRinUUFDCKMUuKTHFADcUnvT8UlADaTFONJQAw+1H8NOxTaAE70Y60uOOlIaAENFLS
+fSgBppKfTTQAh60lLRQA3+Kkp1IRQAlJS0YoASmmnH3oP60ANop2KbQAnejHFLSd6ADHHFBpTSUA
+IaKWigYlNp9MoAdTT06U7pSYoASkpe1HuaAExRS0n1oAKaadRQAlFL700/SgBab2p1J25oATFH0o
+7elFACYoooxQAU38adR2xQA2kpaKAOWoooqDnCiinUAFFFFABRRRQAUUUUFBRRRQAUUUUAFFFFAB
+RRRQAUUUUDCiiigApaSlFABRRRQAtFFFAwooooAKKKKACiiigBaKKWgYlLSUtABRRRTAKKKKAFoo
+oqhhRRRQAUUUUAFFFFAwooooAWiiigYUUUUAFFFOoAKKKKAFooooAKdTadQAUtJS0AFFFLQAUUCn
+UAFFFFABS0UUAFKKKKACnUUUAGKWjvRQACgUdadQAUUUtABRRRQAUoooxQAd6dRRQIKWiigApaKd
+QA2nCiigBaKKUUALS0CigApaKdQAmKdSUtAC4oFFOoAKXFFGKAClxS0tABS4op1ADacKKWgAoFLT
+sUAApQKMcUv8NBItFKKKAAUtGKXFAC0tGKWgAFOoFLQACnUmKcBQA3FOoxSgUCDFLilxmlFAAKKX
++KigAxTsUUuKADFOpBmnYoAaKdiin0ANxS4p2KMUAGKBS04CgBuKMU6loASlxS4oAoAT60uKdijF
+ADcdKdRiloAQUYpcU7HNADcUYpcUtADaKfijFADcUYp1LigBmKWnYoAoAZijFPoxQAgpKdRQAlNx
+T8UYoAbSYp+KSgBKbin4ooAZijFLiloAZiinYpKAG0mKfijFADCKSn0YoAYRSYp2PSjHtQA0im0/
+FFAxhHFJin0UAMpKdj1pMUAMpKkNIaAGU3FPNJjmgBlGKdSEUANptPpMUAMxSU7FJigobikp5HzU
+YoAZSYp2KQigBho/hpxooAZ2op1N70AJim06jFADaSlpPrQAlH+1SmkoAaaSn02gBDQetFFADTSG
+nUUAN70U6m0AJik4p1J9KBhim4pxFHSgBtHSg0fWgBKKU5pKAA03+Gn4/wD10lACetBopMUAJTqK
+KAG0lLRQAg4opaTrQAdaMUUUAJRSikoAbR1oooAKMUUUAJRS4pKACm07tRQBylOptFQc46iiigAo
+oooAKKKKCgooooAKKKKACiiigAooooAKKKKBhRRRQAUUUtACUtFFAC0UUUDCiiigAooooAKKKKAC
+iiigB1FFFAwooopgFFFFABRRRQULRRRVCCiiigAooooGFFFFABS0lLQAUUUUDCiiigAp1FFABRRS
+0AFFFFABTqKKACloooAKWkpaACnU2nUAFLSUvegAoopaACigUfw0AOoopaACgUU6gAoopOlAC0tF
+FABS0UUAFFFOFACZpwoFFABRilHFFAgop1FAAKX3oooAdS00U7tQAClooFABTqKWgApRSClFABTx
+zSClFABinUUUAKKBQKWgAp1ApRQAUtGKKAHD7tGKKWgB1FIKdigkBS0CnCgBMU4UUooAKdQKUCgA
+FOopaAG4pwpcUd6ACnAUuKBQIBSgU6igAApaAKdQAgFOFAFKKAACilxTsUAIKXFLTsUANxTqKWgB
+KXFOpAKAFpAKdjNLQAmKBT6TFACYpcUYp2KAEApcUtGKAEoxS4p2KAG0Yp2KUUAMxRin4ooATpRi
+loxmgBMUYpcUuKAGgUU7FLQAzFHWn0UAMoxSkU6gBlGKdikxQAlAFL3oxmgBmKMU/FJjFADMUYp9
+BFADCKbin4oxQA2m4p+KMUAR0EU7FJigBMU3FPNJQAmDTSKfSUDGYoxTiKSgBmKQ08im0AMxSU/v
+SGgBlHtSkUUAMxSGn4ppoAaaOtOxTaChv8NJT8U00AIaSnEUlACUynYpCKAENNNOooAYRSU40EUA
+NpuB+NPNJigBhFHSlP3qP4aAG0UtJQA0/lQRTjTaAEopaSgBKKWkoGFNpTSGgAxmkpT0oNACfjTa
+d3ooAbRTqbQAUUfyooASj+dBoNACUUtJQAGm040UANoxTqbQAlFLRQAlJS/8BooASkPSj+GloAbi
+inUmKAExRR0o6daAEooxR7UActRRRUHOFFFFBQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUDC
+lpKKAFooooAWiiigYUUUUAFFFFABRRRQAUUUUAOooooGFFFFABRRRTAKKKKACiiigoKKKKAFoooq
+hBRRRQMKKKKAFooooGFFFFABRRRQA6iiigoKWkpRQAU6m06gApaSlFBIUUUUALRRS4oAWiiigBaK
+KKACloooAKdTadQAUtJS0AFAop1ACCnUlLQAUUUUALRRRQA6iigUALRRSigAoop3egApaSlFAgpc
+UtFAC0UUtABTqbj5qdQAClFA5pRQAdKdQBSigAoFHWnUAFLRRQAtOFNp1AAKUUUtAAKcKBSigApQ
+PWlpaAClHvQKXFBItLRRigBRTqBSigAAp1IBTsUAAoFKKcKAAClopaBB/FRinUtACU4CjFOFACUt
+FPoAKKWlxQAmKXFOx6UYoAMUuKOtOoATFLS4pR0oATFLigfepcUAJinClxS0AJijFPAooAaKMU4C
+lFACUtLigUAJil607FGKAG4padijFACUYpadjFADMUCnYoxQA3FFOxRigBuKKdijFADcUYp2KMUA
+NxRin44pMUANxRTsUmKAEIpKdiigBmKMU+kxQA36UlPxRigBmKTFOxS0AMxTcU+igCPFBp5FNxQA
+2kxT/rSYoAZSU/C02gYw0H9KeRSGgBh6UmKfTaAGUU7FNI5oASm4p9JQAykNPpP4aAGmmfzp+Kaa
+ChDSYpTRQAykNPNNxQAlIRS45ox60AMNGKcRTcUAJTcU6igBmKKdTTQAhFNIp9JQA3+GkpaDQA2i
+lpKAG/yo6U6igYyilNJQAU3+KnGg9KAEpp4NLikoAKTo1L2pKACg0YooAbRTqKAG0UUUAJj0opaQ
+0AH40lLTcUALSZpaTFACdaKDRigBKO9LSYoAKKXtSUFCUUn8VLQAn8NJS4paAG9aDRRigDlaKKKg
+5wooooAKKKKACiiigAooooAKKKKAAUUUUDCiiigAooooAWiiigBaKKKBhRRRQAUUUUAFFFFABRRR
+QAtFFLQMKKKKACiiigAooooAKKKKZQUUUUAFFFLQACiiigAoooqgFooooGFFFFABRRRQAtLRRQUF
+LSUvWgBKWgUUAFOoooAKWiigApaSloAMUUCnUEhS0lLQAUtJSigAooooAdRiijFAC0UCigAp1FFA
+BSiiigApaSlxQAUUU6gAoopaAClpKWgAp1N/2qdQAtFFOoAQU4UlLQIKWinCgApaKUUAHSgUCnUA
+FLijtSigBaWminUAGKWgCnCgApaKKAFp1Np9ABilFGBS0ALS0mKfQSFKBSU4UAJS0Cn0AFAop1AC
+ilpKWgAxT6bin4oAMZp2KBS0CAUoFLS44oAKUCinUAApRQKUCgAxTgKMUtABilAoxTgKAAUuKKdQ
+A2lxTgPWlAoASlAop2KADFGKWlxQAmKXGKBTqAG4p2KUUUAJilxS4p2KAGYpcU4UYoASlApcUYoA
+TFFPxRQAzFLTsUYoAbijFOpcUAMxRinUuKAGYoxT8UUAMxSYp9GKAGYop+KKAGYpKdRQAzFJipMU
+lADKMU/FJQA2kxTsUpoAixRin4pMUAMxxRin4ppFADaaaeRRQAzFJjFPxTSKAG00inkflTcUDG4p
+uKfSEUAMoIp+KaaAGkU3FPNJ3oAZSU4ikNADMUlOxSYoKGGg040lADaSnGkoAZSU8immgBCKSloo
+AZRTj96m0AJRS0h+tADKSnGloAZTT6mnUYzQAyg0tBoAbRS/SkNAxtBp1NNACU3FPpMUANNLSmm4
+oATvQadTaACkpaD1oATFFLSUANo+tO7U2gAooo/2qAE+lFLSUAGKSlo6UAIPu02nGk/hoKEo7inU
+2gApKU0UAJTcU6igBKT+KnUlADTR2pf4qD/doA5SiiioOcKKKKACiiigAooooAKKKKACiiigYUUU
+UAFFFFABS0UUALRRRQMKKKKACiiigAooooAKKKKAFooooGLRRRQAUUUUAFFFFABRRRQUFFFFMAoo
+ooAKWiigAooooAWiiiqGFFFFABRRRQAtLSUtBQUUUUAFFFLQAUUU6gAoopaAAUUUtABRRRQA6iii
+gBaBRRQAUtJS0AFOoooJCloooAKdTadQAgoFLS0AFFFLQAUUU6gApMUtFAC0UUtABThTRTqACiil
+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
+AGUU6igBlN/ip2MUHpQAykNPptADDRTjTaAEpDTvSkoAYaQ0+mmgBtNp9NNAxKQilooAYaKcetHa
+gBtJS0H2oAbRS0hoAKbTvrTaAE70Uv0pDQUNNBp1N6UAJRinUUANFIKX/gNFACdqMUtJQA2jFOxT
+aACk70uKQ0AFGaKD1oAKSlooAQ/Wm06jrQA00fyoxRigBOtFLSGgDkqKKKg5wooooAKKKKACiiig
+YUUUUAFFFFABS0UUALRRRQMKKKKACiiigAooooAWiiigYlFFFIAooooAdRRRTAKKKKACiiigoKKK
+KACiiigAoopaACiiigYUUUUwFooooAKKKKAFFFFFMoWiiimAUUUUAFLRRQAU6m06gApaSloAKKKW
+gAp1Np1ABRRRQAtAopaAEpaKKACnUUUALRSUtSAU6iigApaKKAClFFFAAKdRRQAClopaACiinUEg
+KWkpaACnUUgoAdRRSigAooFOoAKUCgUtABThRRQAooopRQIdRRSigB1AoFKKAAUoFAp1AAKWgUCg
+BQKcKBSigAxTxSClFACinCminigAxSilpaAAClxRinAVRIU7FIKeBQAoFPApuKeBQA4CpVFIoqRR
+xQIeoqRUoVKnVKBDAlPCVIopwSgm5Bso2VOUpNlAyApTMVORSEUDIcUlSEUlACUmKdiloGIBS0uK
+MUCFpRS06gBoFPAopQKAACjFOpQKAADNAFLinUANxTsU7FLQA0CnYpQKdigQ3FFOxS4oATFGKdij
+FACUYp+KMUANxRinYpcUAMxRinYpcUAJim0/FFACYoxS4oxQAzFFPoxQAzFJipKTFAxmKMU/FGKA
+GYpMU6kIoATFNxT6TFADKMU+gigCPFGKdSYoGMxTcVLikxQBHikp+KQigBhFNNPNJQAykxTsUmKA
+GEUhFSYpKAI6afSnmkIoGMphFSYpDQBGabj1qTHFJigBhFNNOxQaAGYpDTzTD0oAYaT3p5pKkoZT
+TTz0pMVQDDSGnYpDQAzFJTsUlACUlH50vzVIDDSdqWgjigBhpDT6bjigBpptPOKb/FQA3FBpaQ0D
+G/WlpaQjFADcUlPptACdKb1p1B5oAZiilpDQAlFJiloKG0lPpvtQAlHWlpKAEpPwp3eigBppDTqT
+FUAlHSiigBKKKKAG9KP9qnGigBv8VFFFACUUtJQAUlKaSgA5xTcU6k/ioASj606mn71AHI0UUVBz
+hRRRQAUUUUDCiiigAooooAWkpaKAFooooGFFFFABRRRQAUUUUAFFFFABRRRSGFFFOoAbTqKKACii
+imAUUUUAFFFFBQUUUUAFFFFAC0UUUDCiiigApaSlpgFFFFAC0UUUFBRRS0AFFAoqgCiiloAKKKdQ
+AgpaQUtAC0CiigApaKKkAp1NpwoAKKWigApaBRQAUUU6gApaSigBaKKdQAUgpaWgAoFFLQAU4U2n
+UAFAopRQAUtJSigAp1FFAAKWinUAIKcKSloJClo70UAOppGRTqWgCPeydakBBopDH6UASUuKiDlD
+zUoIPSgAp9AooEApRRThQAClopRQACnUUooABTqKUUAFKKBThQAtLQBQKAHClxRSigBw4pRSCn0A
+ApaSpUj3mgkQClFPaApTRQA4CpAPmpgFSCgQ9RU61GvNSrVATIKnUVGtTIKCR6ipcVYsII55sSHA
+pbqJIpykZyKCblbFMIqUimGgCAim4qcioSKCiM03FSkUzFAxuKMU6gCgAxS0U4CgApQKAKfQA3FP
+xRinAUAJinYop+KAExS0YpQKBABTqAKXFABilxQBTwKAExRin4pQKAGYpQKfijFADcUuKXFOxQAz
+FGPmp+KMUAMxRin4oxQAyjFPxTcUAJikxTsUYoAbij+KnYoxQAylxTiKMUAMpMU/FGKBjMUYp2KM
+UAMxTcU/FBFAEZpMVIabigBuKMU7FJQAw9aQ0+m0AJimYqTFIRQMjppFSUlADCKSnmmGgBhFHanm
+mmgCMig08imYqRjSOaaaeaQ1QDMUwipMU2gBhptPoxQBHQQaeaYakBhpCKdikoKGdKTFPIpKAGdq
+bT6ZigBCKQ06koAZ2pCBT/1ppoAYaSn0lADKaaeaSgBlIadSGgYhpppxFFADKDS0fjQA2m0v0oPW
+gBtFLRQAyg07HzU2goSilpKAEptPpOBQA3tR26UUGgBOtFH/AAGg0ANPSjpR9aPmxQAtN5pfejFA
+CUnelo60AJRRRVAFN/hpxo60ANx+VJS0EUAJ7Ud6U0lACUUvaj8KkBKbTqDzVAcfRRRUHOFFFFAw
+ooooAKKKKACloooAWiiigYUUUUAFFFFABRRRQAUUUUAFFFFIYUUUUAFOptFADqKbTqACiiimUFFF
+FABRRRQAUUUUAFFFKKACiiigYUUUUALRRRQULRRRTAKKKKAFFFAooAKKKKAFooooAKdRRQAgoFLS
+0AFFApaACiinUAHSiiigBaKKKACloooAKdRRQAtFIKUUAFOoooAWikpaAClpKWgAp1FFAAPvUtFF
+AC0UCigAp9IKWgAFOpMUtAC0tJQKAFp1NpwoJFoo7UooAKcKbThQAuM9aYY+4608U8UAQiQp98cV
+MpB6GjAPWmGLulUIlxTqiWUocOKlVw/RqkBacKMUtAAKdTelOoAKWilFAAKeKSlFAC06ilFAAKeK
+binigApwoFKBQACrFu4R+agFOFBJdmkDjiqwpopwoAeKkFRrUgoESLU6VCtWlQbaoQ9amjptsgkm
+Ac4HrV+C0R7ooDlB3oJbIVODxxT8561dubJI4t8fas8GgW5LTGoJppNADTURqU81EaChDSYpaKBj
+KdRS4oAKdSYp2KAAUuKKeBQAgFOFFOAoEFLRinYoAAKWgClAoAAKcBSgUtAC4pQKAKeBQA3FOxS4
+pcUAJilxTgKXFBIzFOxT8UYoAZim4qXFJQBHijFPIoxQUMxRin4pMUAMxRin4puKAG4op2KMUANx
+RinEUYoAbim4p+KDQAzFGKdiigBlJinYoxQMjxRinkUmKAGGgilxQRQBHRinkU3FADabin4pMUDG
+EUmKkxTMUAMpuKkxTSKAGGkNPptADDSGnmmmpAjxSGpKYRQMbTaeaZigBtNp+KbigBuKaaeaSgBm
+KQinGkxQUMpMU7FNxzQA3FN+lONJQAw0fxU7Hy03FACYpv8AFT6TtQAykPrS0n8hQA00hHFPpKBj
+KbTjxTSKAE60lOIpDQAlNp1JigBtJTulJQAlNp1FBQyilpMUANIzRRj86MUAJSGlPFJ9KAD6U08U
+4ig0ANNJilNFACUlL81FACUn8NH6UtABTadTfU0AFJS0UAJijr1pe1J160ANxzRTqKAG0lLiigBK
+KWkoATpSnrR/KigDjqKKKRgFFFFABRRRQAUUUtABRRRQAtFFFAwooooAKKKKACiiigAooopDCiii
+gAoop1ADadRRQAUUUUFBRRRQAUUUUwCiiigAooooAWiiigYUUUUALRRRQUFFFFAC0UUUwCiilFAB
+RRRQAUtJS0AFFFOoAKKKKACloooAKWiigApwoooAKWiigAoopaACgUU6gAoopaACigUUAOooooAU
+UUUUALRRRQA6iilFABS0lLQAU6m06gBaMUUUAOoopaAClpMUtABTqKBSAXFLSUtMB1LSClFBIClF
+LS0AKKcKbTqAFKA9RUZgIOUNSCnii4iFZyhw4qdXD9DSFA45qMwOhyhqgLGKXFV1uChw9WFIccGp
+AMU6lx6UYoAKUUAU6gAFKKBT8UAApacBS4oASnUYp2KCQFKOlIBT6AEFPFIKfQAop4pop4oEPWtD
+Tojc3CRk8d6z1q9p9x9nuQ5qhM66PTrZI8eWPrWXcyfYLjCAYrSTU4zBmuevpXlui7rj0oMYpssz
+6iZY9gGKqA1EDS5oNLEuaTNMzTqBgaSlpKACm4p1LQMbinYoxSgUAGKXFKKWgAApaXFKBQIMUuKM
+U8CgBAKWlApwFABilxRin4oAAKUCgCngUAJinAUCngUEiYpwFLinAUAIBSgU7FLigBmKMVJijFAE
+eKMU/FGKAGYpMU/FGKAGYpMU6igBuKbipMUmKChmKMU/FBFADKTFPxRigBmKbin4oxQAzFGKcaKA
+GEUmKdijFAEZoIp9JQMYRTSKfQaAIyKTFSYppoAbTcU8ikoAZikp1JipGMIplS4ppoAjpuKeRSGq
+AYaQ08imkVIDCKaRUlMIoGMNIaeaYaAEIphp5oNAEWKSnnim/nQA096bTz1pDQUMpmKfik+lADCK
+aRT6SgBhpMelPptADDSUpoNADTTTTzSUDGU0080h96AGUlOIppoAaaKdTaAEpKWm4oATFIaeabQU
+JTcU7tSUANoxTqbQAlNp1BoAbSUtFADaPrS03FAC02nU2gBKKWjpQAnrTTTjkUd6AE78UUppuKAF
+ptL/ABUtADaO9FFACUUtFADKKdR7UANNBop1ADTSUopKAOOooopGAUUUUAFLSUooAKKKKAFooooG
+FFFFABRRRQAUUUUAFFFFABRRRSGFFFOoAbTqKKACiiigAooooKCiiigAooopgFFFFAC0UUUDCiii
+gAooooAWiiigoKKKKACiiigBaWiimAUUUUALRSUooAKdRRQAUtJS0AFKKSloAKKKdQAUUUUALRQK
+KACloooAKdQKKAClFJS0AFOoooAKWkpMUAOopaKACgdKKdQAUopKUUALRRRQA7FFFFAC06m06kAU
+tNFOoAWigU6gApaSnUAFAop1ABS0ClFAAKcKKUUyQFOoFKKACn02nUAKKeDTBSigQ5o0fqKgaB4+
+UqwPrTxRcCvHc44kq2pSQcGo2gSTrUDQSRNlM1QFzZQBVeK7xw9W1dH6GpAAKeBinKlVLyfHyJQS
+Tm5jj4zmhbuE1l9aUVVgNpXRxwRTylYquUPBq3Deun3+aLAX9lGKIp45ehwak2VIDBS4p2KXFAAK
+eKTtThQIcK2/D1va3F2RcsMY71iipIyQcg4oE1c6u5t4ftohtiCParUugJLD98765ewvDbXSSEkg
+HmuwGs2nk7/MHTpVGMro5K4t3tp3jfqKYKlvrn7XdvIBwTxUAoNIj80opBTqkYUtApRVAJilAoAp
+cUAGKcBRinYoAbSgU7FLigApwoxS4oAAKUCnCloATFLSgU7FAABSgUU+gAFKBQKcBQSKBSgUAU8U
+AGKeBQBS0AAFOxS0UCDFJin4oxQA3FJin4pKAI8UYp+KTFAxhFJipMU3FADcUYp2KMUANxRinYpM
+UAMxSYqTFJigoZikxUmKbQAykxT8UYoAZikNPxRigCLFGKfSUAMxSU7FIRQMZikIp9NNADKSn00i
+gBpFNNPpDUgMNIRTqQigYymGnkUhoAYRSEU400jmgBpphFSkUygBlIRTiKSgZHSEU40hoAYaTrTz
+zTcUANppp5FMNBQz+Kkp5ppFADTTDUhplADDS0tJQAw+9NNPpDQAwj+Kk/2qU/pQaBjDSGn009KA
+GYoNONNNADTTSKfSUANpDzS0d+KChtNNOopANpDS4pMcUwGmkNPpKAG0n86Wg0AM/hop1NoATHNJ
+SmigBKKWkP3qAG+9BpxptABSUveigBO1JS0UAJSduadTSKAFpuKdTaACiiigBKKKKAG0U6m/xUAF
+FFB+9QBxtFFFIwCiiloAKKKKAFooooGFFFFABRRRQAUUUUAFFFFABRRRSGFFFAoAKKdRQAUUUUFC
+UtFFIAooopgFFFFABRRRTAWiiigYUUUUAFFFFAC0UUUFBRRRQAUUUUAFFFFADqKKKAClpDRTAWii
+igB1FFFACfw06kpaAClpKWkAU6m06gAooooAWjtRS0AFFFFADqKKKACloxRQAopaKKACloooAWii
+igApwptOoAWiiigBaKMU6gAoFFLQAU6ikFADqUUgpaAAU6igUAKKWkpaAD+KnUUUALSikFOoAWlF
+IKWgkcKUUdqBQAtOFApRQAUopaUUAFPFNpwoEOFPBz9KjAp4pgNe3ST+HFQGKSA5HSrYNTLgjBou
+Fiol6QNrjmqkj73JqxdIA/C4quQaskSlopM80CHU4U0c06gB4LA5Bq5BeumA/IqjSigDdiljlHBq
+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
+6gAooooKCiiigAooooAKKKKACiiigAooooGFFFFABRRS0AFFFFBQtFFFMAooooAKKKKACiiigB1F
+FFABRRRQMKWiigAp1NFOoAKWkpaAClpKWgApwptFADqKKWgAooooAXNFFFADqKbTqAClpKWgAFOo
+pBQAtFIKcKAClpKWgAp1FFABS0lLQAClpBS0AOxRQKKBC06m06gApaSloAWnCm06gApaKKAFp1Np
+1AC0CinUAFLRQKAFp1NFOFACilpKWgBwpwpMUooAWnCkpRQSOFKKKKAFp9IKUUAKKcKBSigQ6lFI
+KcKACn0gpaAHU4UlKKAJFpLkf6KaVafKN8JFMkxKUUEYJFAqxCinikFKKAHilFIKeKBCipBTBTxQ
+A8VKKiFSCqESCpFqMVIKCSQU8UwU8UCL9jem2kH9yulilSWMOhzXGCtLTb8wSYf7hqbE2OkpKI3E
+iBgcig0gGmkNLSGgAplPpKChuKSlooASlxRRQA6lxSUoFAAKfimin0AFOFApcUAAFPAopaAAdadi
+kFOoAAKXFFOoAKKUUYoAKMUtGKAEoxS07FADcUlLiigBKDS4oxQA2m4p9FADKSnmm4oASm0+koAY
+aQinUhFAxDTDT8U2gBpptPpKkBtMNPpKChhpDTjTTQAykNOpDQAwikIp+KbQMYaaacaQ0ARkUhpx
+ppFAxlNNPpDSAYRTDT6YaAGmmnrTzSGgBhphp9NIoGNNMNOxSUAMNJSnikoKGGkNPxTaAGmmU8/d
+ppoAjNIafTTQAw0hpcZpD1oASmmnU00DG02n03HNADabTzTD96goQ0hFLQaAGdqQj6U+mGgBKbTq
+Q0AIaTvSkelJQA0/dpDT6ZQA3FJT6Q0AN60lLSUAN/Glpab1oASgil/ipKBiGm/xU7v0ooAbSYpT
+RxQAlBooNABSClpDQAn8VJTqT+GgBKKKKAE70HrS4pO9AB2pKXrSUAFIelBFBoA4uiiigwCiiigA
+ooooAKKKKACiiikMKKKKACigU6gAooooAKKKKCgooooAKKKKACiiigAooooGFFFFABRRRQAtFFFB
+QUUUUAFLSUUALRRRTAKKKKACiiigB1FFFABRRS0DCiiigB1FFFABRRS0AFLRRQAU6m06gApaSloA
+KWkoFAC0UUUAOooooAKWiigB1FFFAC0UUUAFLRRQAU6m04UAFLQKKAFopKWgB1KKQUooAKdTaUUC
+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
+E702nHmmmgBKYafSUihhpKU9aSgBtIaWkoAbSGnmmmgBtNNPNMNACHgUlOpKAGGjrTqbmgYhFNpx
+HtTelACYopTSYoATrTadRQA3FBooNACfSkpaTvxQMbQRTqbQAnalopKACiiigBtFFHWgBKKKKACk
+NLRQAlFFHSgBtFOptAHEUUUUznCiiikMKKKKACiiigB1FFNoAdRRRQUFFFFABRRRQAUUUUAFFFFA
+wooooAKKKKAFooopFBRRRQAUUUUAFFFFMBaKSloAKKKKACiiigB1FFFAwooooAKWiimMKKKdQAUU
+UtIAooooAWiijtQAU6gUUAFLRRQAUtFFADqKKKAClFJS0AFOptOoEFLSUtAB3paQUtADqKKKAFoo
+oFABS0UUAOoozR0oAWiiigB1LSUooABS0mKWgB1FFL3oAKKKWgAFOFNFOoAWnU2nUALS0gpRQIdS
+ikH50tACinU2nUALTqaKUUAOFLSClAoAcKcKaKdQA6lpKfQSFOApMUopgOFLSUtIB9KKQUooEPpa
+QUtMBwpwpopwoAcKcKSlFADxTqaKcKCR1PFMHFPoAUU8UwU8UCJBThTBTxQA5etSiohTxQIkFPFM
+WnigCRakWoxUi0xEymntGkqEOMio0qVaCTGvdMMRLxjIqjiutGDwelZ17pYcF4utWmBiinilaN4z
+hxg0gqhCiniminigAp6nByKbinYoA6XSr0Tx+W5+cVpYrjYJXgkDpXVWN4l3CPm+fuKloksYoxT8
+U2kACnUUooA5fVyTenNUa2ddgxIJKxqYE9vcyW75jJFdBY6wkuEl4Nc1TgSDkUAd0MEZFOxWdo05
+ntfn5IrSpCCloooAKdRRQAUUtMJwKAGk02iigYUlFFABSUtJQA2iiigoSm04000AIaSlpKAG0lLS
+VIxDTacabQAhppp1NNADTTacabQUIaSnGmmgBpphp5plIBKQ0ppKBjDSGnGmmgBhphp5ppoGNppp
+xppoAbTDTzTDQA2m0402gY002nGkNADDTD92nmmGgBDTKfTKChDTTTjSUAMNNP3qcaafSgBppven
+daaaBiUlKaaelACUynmkNIoYaQ0ppKAGGilpD+lADTSUp60hoASmn71ONNIoASkpTSUANNIaU0ho
+AaaQ06m96BhSdKKDQA2kpTzR6UAJTcU7k0GgBKbTjTSKBiUEUGjFACU3rSmkNABR16UHbRQAlFGK
+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
+ALTqbRQA+lpopaAH0U2iqEPzRSZpaAFFOpo60tAC0tJmjNADs07NMzTqAFpabS0ALRSZooAfmim5
+o+tADxRmmZp2aAFopM/NS0AOoptFAC/w0ZpKM0AOopuaKAH5pKbmnUALRTM0ZoAdRTTRmpAXNGeK
+QmigYU6m0UAGaM0lGfloAWik70nNADqSjNNoAdRTf4aKADORRSZozQMO9FN/ipD7UAOyaKbmk7UA
+FFHekoAT+GloooAb06UGikzQAZ60Gm57UUAFJRQaACkoooGBpp+9RSUAFBpKKACm0daD/KgApKWk
+NADaKKKACkpaQ9cUABNJR/s0UFCfw0lOooAbRRSUAB60e1B4ppzQAtFFNoAdTe1FFABQKKSgANFB
+9qOtADfWiiigApPmo/nR9KACiikoAKKXGBSUANxTulFNNABRRRQAUho7UUANPSjp606koAQUn1p1
+J+FAC02g0UAFJSnrSUAcJRRRVnOFFFFABRRRQMKKKKAFooopFBRRRQAUUUUAFFFFABRRRQAUCiig
+BaKKKBhRRRQAUUUUAFFFFAC0UUUDFFFAooAKKKKACiiigYUUUUALRRRQA6im06gApaSloAKWkpaA
+CnU2igBwoopaACiiigBaKKKAHUUUVIC0UlLQA6iiigBaKKKAClFJS0AFOptOoAKWkpaAClpKX+Gg
+Ap1Np1AAKWkpRQA6im0ooABTqKKAFopKWgB1FFFAC0CiigBaKKKAHUtJS0AFL0pKdQAgp1JS0ALR
+3pKUUAOopuadQAtLSUCgQtOFNp1AC0UgpaAHUv8AwKkooAUUtJSigB1FJmloAWlFJSigBwpRSCig
+B9FNpRQA6lzSUCgBfpTgabThQAopabSigB9KKYKdQA+im06gBaWkozQA+lFJQKAHZp1MpaBDs/NS
+imfxU6gB9JmkFOoAWlpgp1AC06miigB+aWmZpRQA7NO/GmUtADs0tMp2aAHClpuaKAH0UlFADhTh
+TBRmgB/Q0maSjNAD6KZmnUCFpQaaKWgBeaKTPr1ooGPozTKWgBw+7RTaM0AOozTc0ZoAdRmm0CgB
+3Wiim0AOozTaKAHUZptFADs0U2igAopKX+GgAozSUUALSE/nRSZ+tAx2aT9abmloAWkzxRTaADNH
+aikoAKPrR2pKAFplLmloAb3opKKADNNOKKKADNJRQaBgfakoooAKbmiigANJmim9aAHU00tNoAKK
+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
+"
+       height="1250"
+       width="2000" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Keyboard Shortcuts"
+     style="display:inline"
+     transform="translate(0,-1.4285724)">
+    <rect
+       style="fill:#000000;fill-opacity:0.35449733;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3052-4"
+       width="1379"
+       height="1149"
+       x="494.00006"
+       y="91.000122"
+       ry="18.999998"
+       rx="19" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Keyboad Shortcuts Title">
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="820"
+         y="130"
+         id="text3841-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3843-4"
+           x="820"
+           y="130"
+           style="font-size:32px;fill:#ffffff">Tastenkombination</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Mouse Tricks Title">
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1550"
+         y="130"
+         id="text3841-7-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3843-4-4"
+           x="1550"
+           y="130"
+           style="font-size:32px;fill:#ffffff">Maus Tricks</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Launcher Mouse">
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="220"
+         id="text3887-3-0-5"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="220"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4216">Durch Klicken und Halten eines Icons +  Bewegen nach</tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="237.66667"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3660">Links oder Rechts kann man die Icons im Launcher </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="255.33333"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3662">neu anordnen</tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="273"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="308"
+         id="text3887-3-0-5-8"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="308"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4616">Durch Klicken und Ziehen eines Icons auf den Mülleimer</tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="325.66666"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4620">wird das Icon daraus entfernt. </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="343.33334"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3668">Das Programm bleibt allerdings installiert und ist </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="361"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202-0">weiterhin über die Dash erreichbar.</tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="378.66666"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3676" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="410"
+         id="text3887-3-0-5-8-5"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="410"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4665">Durch Drehen des Mausrades über dem Launcher kann</tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="427.66666"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3683">man schnell durch die Icons navigieren, </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="445.33334"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3685">falls man zu viele hat.</tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="463"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202-0-8" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="550"
+         id="text3887-3-0-5-8-5-5"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="550"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202-0-8-9">Maximierung - Zieht man ein Fenster zum oberen Panel  </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="567.66669"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3691">maximiert es.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="600"
+         id="text3887-3-0-5-8-5-5-2"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="600"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4798">Wiederherstellen - </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="617.66669"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202-0-8-9-1" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1480"
+         y="630"
+         id="text3887-3-0-5-8-5-5-9"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1480"
+           y="630"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4829">1. Doppelklick auf das obere Panel </tspan><tspan
+           sodipodi:role="line"
+           x="1480"
+           y="647.66669"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3700">(Aber nicht im Application Menü)</tspan><tspan
+           sodipodi:role="line"
+           x="1480"
+           y="665.33331"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202-0-8-9-7" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1480"
+         y="670"
+         id="text3887-3-0-5-8-5-5-9-8"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1480"
+           y="670"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4829-7">2. Das Toppanel runterziehen</tspan><tspan
+           sodipodi:role="line"
+           x="1480"
+           y="687.66669"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202-0-8-9-7-6" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="730"
+         id="text3887-3-0-5-8-5-5-3"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="730"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202-0-8-9-13">Mittelklick auf Maximieren - Maximiert Fenster vertkal.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="760"
+         id="text3887-3-0-5-8-5-5-3-3"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="760"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5084">Rechtsklick auf Maximieren - Maximiert Fenster horizontal</tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="777.66669"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4202-0-8-9-13-7" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="790"
+         id="text3887-3-0-5-8-5-5-3-3-9"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="790"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5158" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="810"
+         id="text3887-3-0-5-8-5-5-3-3-9-4"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="810"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5196">Wechsel zwischen maximierten Fenstern des </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="827.66669"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5198">aktuellen Arbeitsplatzes: Mittelklick auf das Panel</tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="845.33331"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3715">(aber nicht aufs Application Menü)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="892"
+         id="text3887-3-0-5-8-5-5-3-3-9-4-0"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="892"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5232">Teilen - Zieht man ein Fenster auf die Linke/Rechte Seite </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="909.66669"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3719">des Bildschirms , wird es auf die Hälfte des </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="927.33331"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3721">Bildschirms verkleinert.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="980"
+         id="text3887-3-0-5-8-5-5-3-3-9-4-0-8"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="980"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5262">Mittelklick auf ein Launcher Icon - Öffnet eine neue </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="997.66669"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3727">Instanz des Programms in einem neuen Fenster.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1460"
+         y="1050"
+         id="text3887-3-0-5-8-5-5-3-3-9-4-0-8-0"
+         sodipodi:linespacing="126.19047%"><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="1050"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5262-0">Mittelklick auf das Toppanel (Aber nicht ins Menü) - </tspan><tspan
+           sodipodi:role="line"
+           x="1460"
+           y="1067.6666"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5296">schickt das aktuelle Fenster hinter alle anderen.</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="Launcher" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="Dash">
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="514"
+         y="670"
+         id="text3887-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-2"
+           x="514"
+           y="670"
+           style="font-size:14px;fill:#ffffff">Super (antippen)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="674"
+         y="670"
+         id="text3887-3-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-6-14"
+           x="674"
+           y="670"
+           style="font-size:14px;fill:#ffffff">Öffnet die Dash</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="514"
+         y="700"
+         id="text3887-8-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-2-7"
+           x="514"
+           y="700"
+           style="font-size:14px;fill:#ffffff">Alt + F2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="674"
+         y="700"
+         id="text3887-3-3-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-6-14-0"
+           x="674"
+           y="700"
+           style="font-size:14px;fill:#ffffff">Öffnet die Dash im</tspan><tspan
+           sodipodi:role="line"
+           x="674"
+           y="717.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan5809"><tspan
+   style="font-style:italic;-inkscape-font-specification:Ubuntu Italic"
+   id="tspan6109">Kommando Ausführen</tspan> Modus, </tspan><tspan
+           sodipodi:role="line"
+           x="674"
+           y="735"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3499">gibt man einen Ordnernamen ein </tspan><tspan
+           sodipodi:role="line"
+           x="674"
+           y="752.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan6119">öffnet sich dieser in Nautilus</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+         x="514"
+         y="780"
+         id="text3887-8-0-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="514"
+           y="780"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan5836">Anmerkung: die Dash öffnet sich mit Fokus auf die Suchbox,</tspan><tspan
+           sodipodi:role="line"
+           x="514"
+           y="797.5"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan6125">um Programme und Dateien zu finden. Nutze die Pfeile um </tspan><tspan
+           sodipodi:role="line"
+           x="514"
+           y="815"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan3515">durch die Ergebnisse zu navigieren. Enter startet diese</tspan><tspan
+           sodipodi:role="line"
+           x="514"
+           y="832.5"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan5834" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="694"
+         y="640"
+         id="text3891-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3893-9"
+           x="694"
+           y="640"
+           style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Dash</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="Panel">
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="694"
+         y="870"
+         id="text3891-4-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3893-9-8"
+           x="694"
+           y="870"
+           style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Panel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="514"
+         y="900"
+         id="text3887-8-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-2-72"
+           x="514"
+           y="900"
+           style="font-size:14px;fill:#ffffff">F10</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="674"
+         y="900"
+         id="text3887-3-3-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="674"
+           y="900"
+           style="font-size:14px;font-style:normal;fill:#ffffff;-inkscape-font-specification:Ubuntu"
+           id="tspan5904">Öffnet das erste Menü im Panel, </tspan><tspan
+           sodipodi:role="line"
+           x="674"
+           y="917.5"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan6165"><tspan
+             style="font-size:14px;font-style:normal;fill:#ffffff;-inkscape-font-specification:Ubuntu"
+             id="tspan3524">nutze die Pfeiltasten um zu den </tspan></tspan><tspan
+           sodipodi:role="line"
+           x="674"
+           y="935"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan3542"><tspan
+             style="font-size:14px;font-style:normal;fill:#ffffff;-inkscape-font-specification:Ubuntu"
+             id="tspan3544">Nachbarmenüs zu gelangen</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="514"
+         y="1020"
+         id="text3887-8-2-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-2-72-1"
+           x="514"
+           y="1020"
+           style="font-size:14px;fill:#ffffff">ESC</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="674"
+         y="1020"
+         id="text3887-3-3-2"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan6332"
+           sodipodi:role="line"
+           x="674"
+           y="1020"
+           style="font-size:14px;fill:#ffffff">Schließt das Menü ohne etwas zu wählen</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="Window Management">
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="614"
+         y="1080"
+         id="text3891-4-3-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3893-9-8-7"
+           x="614"
+           y="1080"
+           style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Fensterverwaltung</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="514"
+         y="1110"
+         id="text3887-8-2-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-2-72-2"
+           x="514"
+           y="1110"
+           style="font-size:14px;fill:#ffffff">Super + W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="674"
+         y="1110"
+         id="text3887-3-3-2-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="674"
+           y="1110"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan6334">Weiter Modus, zoom aus allen Fenstern </tspan><tspan
+           sodipodi:role="line"
+           x="674"
+           y="1127.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3548">auf allen Arbeitsplätzen</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="514"
+         y="1160"
+         id="text3887-8-2-4-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-2-72-2-5"
+           x="514"
+           y="1160"
+           style="font-size:14px;fill:#ffffff">Super + D</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="674"
+         y="1160"
+         id="text3887-3-3-2-2-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="674"
+           y="1160"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan6336">Minimiert alle Fenster, </tspan><tspan
+           sodipodi:role="line"
+           x="674"
+           y="1177.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3552">erneutes Drücken stellt sie wieder her</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer18"
+       inkscape:label="Window Management Mouse">
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1540"
+         y="510"
+         id="text3891-4-3-5-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3893-9-8-7-3"
+           x="1540"
+           y="510"
+           style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Fensterverwaltung</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="Window Placement">
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1094"
+         y="190"
+         id="text3891-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3893-3"
+           x="1094"
+           y="190"
+           style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Fenster Anordnung</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="220"
+         id="text3887-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8"
+           x="984"
+           y="220"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="220"
+         id="text3887-3-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-6-13"
+           x="1174"
+           y="220"
+           style="font-size:14px;fill:#ffffff">Maximiert Fenster</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="250"
+         id="text3887-9-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6"
+           x="984"
+           y="250"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="250"
+         id="text3887-3-0-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="250"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3227">Plaziert Fenster unten Links</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="300"
+         id="text3887-9-5-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6-2"
+           x="984"
+           y="300"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="300"
+         id="text3887-3-0-1-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="300"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3628">Plaziert Fenster in der </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="317.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3632">unteren Hälfte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="350"
+         id="text3887-9-5-7-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6-2-8"
+           x="984"
+           y="350"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="350"
+         id="text3887-3-0-1-1-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="350"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3227-3-8">Plaziert Fenster unten Rechts</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="400"
+         id="text3887-9-5-7-0-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6-2-8-3"
+           x="984"
+           y="400"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="400"
+         id="text3887-3-0-1-1-3-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="400"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3370">Plaziert Fenster auf der linken Seite</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="450"
+         id="text3887-9-5-7-0-0-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6-2-8-3-9"
+           x="984"
+           y="450"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="450"
+         id="text3887-3-0-1-1-3-1-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="450"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3370-1">Zentriert / Maximiert Fenster</tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="467.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3419">in der Mitte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="500"
+         id="text3887-9-5-7-0-0-1-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6-2-8-3-9-9"
+           x="984"
+           y="500"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="500"
+         id="text3887-3-0-1-1-3-1-2-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="500"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3468">Plaziert Fenster auf der </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="517.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3624">rechten Seite</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="550"
+         id="text3887-9-5-7-0-0-1-4-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6-2-8-3-9-9-0"
+           x="984"
+           y="550"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 7</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="550"
+         id="text3887-3-0-1-1-3-1-2-3-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="550"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3519">Plaziert Fenster oben Links</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="600"
+         id="text3887-9-5-7-0-0-1-4-8-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6-2-8-3-9-9-0-3"
+           x="984"
+           y="600"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="600"
+         id="text3887-3-0-1-1-3-1-2-3-1-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="600"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3519-4">Plaziert Fenster in der </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="617.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3626">oberen Hälfte</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="650"
+         id="text3887-9-5-7-0-0-1-4-8-0-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-6-2-8-3-9-9-0-3-9"
+           x="984"
+           y="650"
+           style="font-size:14px;fill:#ffffff">Ctrl + Alt + Num 9</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="650"
+         id="text3887-3-0-1-1-3-1-2-3-1-5-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="650"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3519-4-8">Plaziert Fenster oben Rechts</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+         x="984"
+         y="700"
+         id="text3887-8-0-1-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="984"
+           y="700"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan3646">Anmerkung: Wenn du die gleiche Kombination mehrfach </tspan><tspan
+           sodipodi:role="line"
+           x="984"
+           y="717.5"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan3648">hintereinander drückst,plaziert Unity das Fenster </tspan><tspan
+           sodipodi:role="line"
+           x="984"
+           y="735"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan3595">z.B.  Ctrl + Alt + Num 5 5 5.</tspan><tspan
+           sodipodi:role="line"
+           x="984"
+           y="752.5"
+           style="font-size:14px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+           id="tspan5834-1" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1599.5852"
+         y="189.714"
+         id="text3891-1-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3893-3-0"
+           x="1599.5852"
+           y="189.714"
+           style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Launcher</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="Workspace Management">
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1064"
+         y="790"
+         id="text3891-4-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3893-9-9"
+           x="1064"
+           y="790"
+           style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Arbeitsplatzverwaltung</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="830"
+         id="text3887-3-0-1-1-3-1-2-3-1-5-3-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="830"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3763">Ansichtsmodus (für alles) </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="847.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3605">zoomt aus allen Arbeitplätzen und </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="865"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3599">ermöglicht das Verwalten </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="882.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3603">von Fenstern</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="904"
+         id="text3887-3-0-1-1-3-1-2-3-1-5-3-4-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="904"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3818">Ansichtsmodus für </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="921.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3609">aktuellen Arbeitsplatz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="950"
+         id="text3887-3-0-1-1-3-1-2-3-1-5-3-4-8-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="950"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3818-0">Wechselt zu neuem Arbeitsplatz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="1000"
+         id="text3887-3-0-1-1-3-1-2-3-1-5-3-4-8-4-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="1000"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3818-0-1">Verschiebt Fenster auf </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="1017.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3622">anderen Arbeitsplatz</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="1070"
+         id="text3887-3-0-1-1-3-1-2-3-1-5-3-4-8-4-1-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="1070"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3818-0-1-8">Sperrt den Bildschirm</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="Screenshots">
+      <text
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1124"
+         y="1110"
+         id="text3891-4-9-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3893-9-9-7"
+           x="1124"
+           y="1110"
+           style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Screenshots</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="1140"
+         id="text3887-9-8-1-1-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-0-9-1-0"
+           x="984"
+           y="1140"
+           style="font-size:14px;fill:#ffffff">Druck</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="1140"
+         id="text3887-3-0-1-1-3-1-2-3-1-5-3-4-8-4-1-4-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="1140"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4032">Screenshot des aktuellen </tspan><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="1157.5"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan3636">Arbeitsplatzes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="984"
+         y="1190"
+         id="text3887-9-8-1-1-4-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3889-8-0-9-1-0-1"
+           x="984"
+           y="1190"
+           style="font-size:14px;fill:#ffffff">Alt + Druck</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="1174"
+         y="1190"
+         id="text3887-3-0-1-1-3-1-2-3-1-5-3-4-8-4-1-4-0-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1174"
+           y="1190"
+           style="font-size:14px;fill:#ffffff"
+           id="tspan4081">Screenshot des aktuellen Fensters</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer13"
+       inkscape:label="Delimiters">
+      <path
+         style="opacity:0.5;fill:#ffffff;stroke:url(#linearGradient4898);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 520.50003,611.4 950,611.4"
+         id="path4084-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:0.5;fill:#ffffff;stroke:url(#linearGradient4935);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 520.5,840.4 429.5,0"
+         id="path4084-3-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:0.5;fill:#ffffff;stroke:url(#linearGradient4972);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 520.5,1052.4 429.5,0"
+         id="path4084-3-3-5"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:0.5;fill:#ffffff;stroke:url(#linearGradient5009);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 950,759.4 429.5,0"
+         id="path4084-3-6"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:0.5;fill:#ffffff;stroke:url(#linearGradient5046);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 950,1086.4 429.5,0"
+         id="path4084-3-6-6"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:url(#linearGradient4092);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+         d="m 1413.374,203.27863 0,979.26017"
+         id="path3251-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:url(#linearGradient4121);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 542,152.65 1282,0"
+         id="path4113"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1670,420 z"
+         id="path4287"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:0.5;fill:#ffffff;stroke:url(#linearGradient4683);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;display:inline"
+         d="m 1430.5,470.5 429.5,0"
+         id="path4084-3-6-8"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="514"
+       y="220"
+       id="text3887"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889"
+         x="514"
+         y="220"
+         style="font-size:14px;fill:#ffffff">Super (drücken)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="190"
+       id="text3891"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3893"
+         x="674"
+         y="190"
+         style="font-size:22px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic">Launcher</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="220"
+       id="text3887-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-6"
+         x="674"
+         y="220"
+         style="font-size:14px;fill:#ffffff">Öffnet den Launcher</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="514"
+       y="250"
+       id="text3887-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7"
+         x="514"
+         y="250"
+         style="font-size:14px;fill:#ffffff">Super + 1 .. 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="250"
+       id="text3887-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="674"
+         y="250"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan3962">Öffnet die Anwendung die sich an </tspan><tspan
+         sodipodi:role="line"
+         x="674"
+         y="267.5"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan6085">dieser Position im Launcher befindet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="514"
+       y="330"
+       id="text3887-6-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7"
+         x="514"
+         y="330"
+         style="font-size:14px;fill:#ffffff">Super + Shift + 1 .. 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="330"
+       id="text3887-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="674"
+         y="330"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan6091">Öffnet eine neue Instanz dieser </tspan><tspan
+         sodipodi:role="line"
+         x="674"
+         y="347.5"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan3489">Anwendung falls diese schon geöffnet ist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="514"
+       y="390"
+       id="text3887-6-8-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7-8"
+         x="514"
+         y="390"
+         style="font-size:14px;fill:#ffffff">Super + T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="390"
+       id="text3887-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-6-1"
+         x="674"
+         y="390"
+         style="font-size:14px;fill:#ffffff">Öffnet den Müll</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="514"
+       y="420"
+       id="text3887-6-8-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7-8-2"
+         x="514"
+         y="420"
+         style="font-size:14px;fill:#ffffff">Alt + F1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="514"
+       y="520"
+       id="text3887-6-8-8-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7-8-2-6"
+         x="514"
+         y="520"
+         style="font-size:14px;fill:#ffffff">Ctrl + Alt + T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="520"
+       id="text3887-6-8-8-6-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7-8-2-6-9"
+         x="674"
+         y="520"
+         style="font-size:14px;fill:#ffffff">Öffnet ein Terminalfenster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="514"
+       y="550"
+       id="text3887-6-8-8-6-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7-8-2-6-2"
+         x="514"
+         y="550"
+         style="font-size:14px;fill:#ffffff">Super + A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="550"
+       id="text3887-6-8-8-6-7-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7-8-2-6-9-4"
+         x="674"
+         y="550"
+         style="font-size:14px;fill:#ffffff">Öffnet die <tspan
+   style="font-size:14px;font-style:italic;-inkscape-font-specification:Ubuntu Italic"
+   id="tspan5693">Applikations</tspan> lens</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="514"
+       y="580"
+       id="text3887-6-8-8-6-7-2-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7-8-2-6-2-4"
+         x="514"
+         y="580"
+         style="font-size:14px;fill:#ffffff">Super + F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="580"
+       id="text3887-6-8-8-6-7-6-7-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-7-7-8-2-6-9-4-3"
+         x="674"
+         y="580"
+         style="font-size:14px;fill:#ffffff">Öffnet die <tspan
+   style="font-size:14px;font-style:italic;-inkscape-font-specification:Ubuntu Italic"
+   id="tspan5695">Dateien &amp; Ordner</tspan> lens</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="674"
+       y="420"
+       id="text3887-6-8-8-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="674"
+         y="420"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan5561">Fokussiert den Launcher,</tspan><tspan
+         sodipodi:role="line"
+         x="674"
+         y="437.5"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan6095">nutze die Pfeiltasten zum navigieren,</tspan><tspan
+         sodipodi:role="line"
+         x="674"
+         y="455"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan5563">Enter öffnet das Programm,</tspan><tspan
+         sodipodi:role="line"
+         x="674"
+         y="472.5"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan6105">Der Rechtspfeil öffnet die Quicklist, </tspan><tspan
+         sodipodi:role="line"
+         x="674"
+         y="490"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan3493">wenn sie verfügbar ist</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="984"
+       y="830"
+       id="text3887-9-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-8-0"
+         x="984"
+         y="830"
+         style="font-size:14px;fill:#ffffff">Super + S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="984"
+       y="904"
+       id="text3887-9-8-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-8-0-9"
+         x="984"
+         y="904"
+         style="font-size:14px;fill:#ffffff">Shift + Alt + Oben</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="984"
+       y="950"
+       id="text3887-9-8-1-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="984"
+         y="950"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan3844">Ctrl + Alt + Pfeiltaste</tspan><tspan
+         sodipodi:role="line"
+         x="984"
+         y="967.5"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan3841" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="984"
+       y="1000"
+       id="text3887-9-8-1-7-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="984"
+         y="1000"
+         style="font-size:14px;fill:#ffffff"
+         id="tspan3841-7">Ctrl + Alt + Shift + Pfeiltaste</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="984"
+       y="1070"
+       id="text3887-9-8-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3889-8-0-9-1"
+         x="984"
+         y="1070"
+         style="font-size:14px;fill:#ffffff">Ctrl + Alt + L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+       x="1455"
+       y="1190"
+       id="text3887-3-0-5-8-5-5-9-8-7"
+       sodipodi:linespacing="126.19047%"><tspan
+         sodipodi:role="line"
+         x="1455"
+         y="1190"
+         style="font-size:12px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+         id="tspan4829-7-9">Linkskick</tspan><tspan
+         sodipodi:role="line"
+         x="1455"
+         y="1205.1428"
+         style="font-size:12px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+         id="tspan4202-0-8-9-7-6-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+       x="1610"
+       y="1190"
+       id="text3887-3-0-5-8-5-5-9-8-7-1"
+       sodipodi:linespacing="126.19047%"><tspan
+         sodipodi:role="line"
+         x="1610"
+         y="1190"
+         style="font-size:12px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+         id="tspan4202-0-8-9-7-6-1-1">Mittelklick</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:126.19047165%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+       x="1775"
+       y="1190"
+       id="text3887-3-0-5-8-5-5-9-8-7-1-8"
+       sodipodi:linespacing="126.19047%"><tspan
+         sodipodi:role="line"
+         x="1775"
+         y="1190"
+         style="font-size:12px;font-style:italic;fill:#ffffff;-inkscape-font-specification:Ubuntu Italic"
+         id="tspan4202-0-8-9-7-6-1-1-1">Rechtsklick</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Mouse 0"
+     style="display:inline"
+     transform="translate(0,-1.4285724)">
+    <g
+       id="g4489"
+       transform="matrix(0.56024256,0,0,0.56024256,543.1901,881.5054)">
+      <path
+         sodipodi:nodetypes="ssszs"
+         inkscape:connector-curvature="0"
+         id="path4220"
+         d="m 1710,455 c 0,51.39851 -22.9086,65 -40,65 -16.5914,0 -40,-16.10149 -40,-65 0,-57.39851 2.9086,-65 40,-65 37.0914,0 40,7.10149 40,65 z"
+         style="fill:#ffffff;fill-opacity:0.13227515;stroke:#ffffff;stroke-width:1.427953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.65608467;display:inline" />
+      <g
+         id="g4241"
+         inkscape:label="ink_ext_XXXXXX"
+         transform="matrix(0.13405518,0,0,-0.13405518,1652,505.6656)"
+         style="opacity:0.2;display:inline">
+        <g
+           id="g4243"
+           transform="scale(0.1,0.1)">
+          <g
+             id="g4245">
+            <g
+               id="g4247"
+               clip-path="url(#clipPath4249)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 2834.65,1417.31 C 2834.65,634.57 2200.08,0 1417.3,0 634.531,0 0,634.57 0,1417.31 c 0,782.79 634.531,1417.34 1417.3,1417.34 782.78,0 1417.35,-634.55 1417.35,-1417.34"
+                 style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4253" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 1804.6,2088.16 c 90.5,-52.27 206.19,-21.27 258.42,69.2 52.25,90.52 21.28,206.19 -69.23,258.45 -90.49,52.24 -206.17,21.24 -258.43,-69.26 -52.23,-90.48 -21.24,-206.16 69.24,-258.39 z M 1417.33,864.57 c -83.21,0 -162.07,18.5 -232.85,51.43 L 1053,680.379 C 1162.83,626 1286.47,595.27 1417.33,595.27 c 76.1,0 149.68,10.55 219.61,29.91 12.37,76 57.5,146.05 129.44,187.59 71.82,41.468 154.94,45.582 226.88,18.39 139.92,137.578 230.97,324.76 244.22,533.21 l -269.68,3.93 C 1942.98,1085.94 1706.1,864.57 1417.33,864.57 z m 0,1105.51 c 288.77,0 525.65,-221.41 550.47,-503.73 l 269.68,3.93 c -13.27,208.44 -104.32,395.62 -244.25,533.2 -71.94,-27.18 -155.05,-23.06 -226.88,18.41 -71.93,41.53 -117.05,111.57 -129.42,187.57 -69.92,19.35 -143.5,29.91 -219.6,29.91 -130.86,0 -254.49,-30.73 -364.31,-85.12 l 131.47,-235.6 c 70.77,32.93 149.63,51.43 232.84,51.43 z M 864.578,1417.33 c 0,187.01 92.938,352.18 235.042,452.2 L 961.285,2101.27 C 795.688,1990.63 672.5,1821.5 621.34,1623.39 c 59.769,-48.72 97.957,-122.91 97.957,-206.08 0,-83.16 -38.192,-157.35 -97.969,-206.06 C 672.484,1013.13 795.676,844 961.273,733.359 l 138.347,231.75 C 957.516,1065.12 864.578,1230.29 864.578,1417.33 z M 1804.63,746.512 c -90.51,-52.25 -121.5,-167.93 -69.26,-258.403 52.26,-90.507 167.93,-121.519 258.44,-69.257 90.48,52.238 121.48,167.918 69.23,258.418 -52.24,90.468 -167.93,121.48 -258.41,69.242 z M 453.562,1606.53 c -104.531,0 -189.226,-84.69 -189.226,-189.22 0,-104.5 84.695,-189.2 189.226,-189.2 104.497,0 189.204,84.7 189.204,189.2 0,104.53 -84.707,189.22 -189.204,189.22"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4255" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4285"
+         d="m 1630.3601,420.59999 33.9789,0 5.6631,0 5.6631,0 33.9789,0"
+         style="fill:none;stroke:url(#linearGradient4301);stroke-width:1.42795289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4285-8"
+         d="m 1671.4021,390.57692 0,12.36264 0,2.06044 0,2.06044 0,12.36264"
+         style="fill:none;stroke:url(#linearGradient4337);stroke-width:1.427953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer19"
+       inkscape:label="Left MB"
+       style="display:inline">
+      <path
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4445)"
+         d="m 1640.3123,395.70001 c 8.7625,-5 12.6166,-4.46257 27.9199,-4.9929 l -0.1767,28.76256 -36.111,0.17678 c 2.3484,-13.23224 1.9535,-16.2948 8.3678,-23.94644 z"
+         id="rect4372"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.52931165,0,0,0.477468,594.77354,915.34084)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer20"
+       inkscape:label="Right MB"
+       style="display:none">
+      <path
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4437)"
+         d="m 1699.72,397.07668 c -8.7625,-5 -13.2824,-5.70711 -28.5857,-6.23744 l 0.1767,28.93934 36.6413,0 c -2.3484,-13.23224 -1.818,-15.05026 -8.2323,-22.7019 z"
+         id="rect4372-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.4940847,0,0,0.48464535,655.06565,912.24466)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer21"
+       inkscape:label="Middle MB"
+       style="display:none">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4464)"
+         id="path4450"
+         sodipodi:cx="1669.4791"
+         sodipodi:cy="404.86697"
+         sodipodi:rx="3.5355339"
+         sodipodi:ry="10.69499"
+         d="m 1673.0147,404.86697 a 3.5355339,10.69499 0 1 1 -7.0711,0 3.5355339,10.69499 0 1 1 7.0711,0 z"
+         transform="matrix(0.56024256,0,0,0.56024256,544.26743,881.57993)" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Mouse 1"
+     id="g5012"
+     inkscape:groupmode="layer"
+     transform="translate(0,-1.4285724)">
+    <g
+       transform="matrix(0.56024256,0,0,0.56024256,703.83488,881.5054)"
+       id="g5014">
+      <path
+         style="fill:#ffffff;fill-opacity:0.13227515;stroke:#ffffff;stroke-width:1.427953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.65608467;display:inline"
+         d="m 1710,455 c 0,51.39851 -22.9086,65 -40,65 -16.5914,0 -40,-16.10149 -40,-65 0,-57.39851 2.9086,-65 40,-65 37.0914,0 40,7.10149 40,65 z"
+         id="path5016"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssszs" />
+      <g
+         style="opacity:0.2;display:inline"
+         transform="matrix(0.13405518,0,0,-0.13405518,1652,505.6656)"
+         inkscape:label="ink_ext_XXXXXX"
+         id="g5018">
+        <g
+           transform="scale(0.1,0.1)"
+           id="g5020">
+          <g
+             id="g5022">
+            <g
+               clip-path="url(#clipPath4249)"
+               id="g5024">
+              <path
+                 id="path5026"
+                 style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 2834.65,1417.31 C 2834.65,634.57 2200.08,0 1417.3,0 634.531,0 0,634.57 0,1417.31 c 0,782.79 634.531,1417.34 1417.3,1417.34 782.78,0 1417.35,-634.55 1417.35,-1417.34"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path5028"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 1804.6,2088.16 c 90.5,-52.27 206.19,-21.27 258.42,69.2 52.25,90.52 21.28,206.19 -69.23,258.45 -90.49,52.24 -206.17,21.24 -258.43,-69.26 -52.23,-90.48 -21.24,-206.16 69.24,-258.39 z M 1417.33,864.57 c -83.21,0 -162.07,18.5 -232.85,51.43 L 1053,680.379 C 1162.83,626 1286.47,595.27 1417.33,595.27 c 76.1,0 149.68,10.55 219.61,29.91 12.37,76 57.5,146.05 129.44,187.59 71.82,41.468 154.94,45.582 226.88,18.39 139.92,137.578 230.97,324.76 244.22,533.21 l -269.68,3.93 C 1942.98,1085.94 1706.1,864.57 1417.33,864.57 z m 0,1105.51 c 288.77,0 525.65,-221.41 550.47,-503.73 l 269.68,3.93 c -13.27,208.44 -104.32,395.62 -244.25,533.2 -71.94,-27.18 -155.05,-23.06 -226.88,18.41 -71.93,41.53 -117.05,111.57 -129.42,187.57 -69.92,19.35 -143.5,29.91 -219.6,29.91 -130.86,0 -254.49,-30.73 -364.31,-85.12 l 131.47,-235.6 c 70.77,32.93 149.63,51.43 232.84,51.43 z M 864.578,1417.33 c 0,187.01 92.938,352.18 235.042,452.2 L 961.285,2101.27 C 795.688,1990.63 672.5,1821.5 621.34,1623.39 c 59.769,-48.72 97.957,-122.91 97.957,-206.08 0,-83.16 -38.192,-157.35 -97.969,-206.06 C 672.484,1013.13 795.676,844 961.273,733.359 l 138.347,231.75 C 957.516,1065.12 864.578,1230.29 864.578,1417.33 z M 1804.63,746.512 c -90.51,-52.25 -121.5,-167.93 -69.26,-258.403 52.26,-90.507 167.93,-121.519 258.44,-69.257 90.48,52.238 121.48,167.918 69.23,258.418 -52.24,90.468 -167.93,121.48 -258.41,69.242 z M 453.562,1606.53 c -104.531,0 -189.226,-84.69 -189.226,-189.22 0,-104.5 84.695,-189.2 189.226,-189.2 104.497,0 189.204,84.7 189.204,189.2 0,104.53 -84.707,189.22 -189.204,189.22"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:url(#linearGradient5051);stroke-width:1.42795289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 1630.3601,420.59999 33.9789,0 5.6631,0 5.6631,0 33.9789,0"
+         id="path5030"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;stroke:url(#linearGradient5053);stroke-width:1.427953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 1671.4021,390.57692 0,12.36264 0,2.06044 0,2.06044 0,12.36264"
+         id="path5032"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="Left MB"
+       id="g5034"
+       inkscape:groupmode="layer">
+      <path
+         transform="matrix(0.52931165,0,0,0.477468,755.41832,915.34084)"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5036"
+         d="m 1640.3123,395.70001 c 8.7625,-5 12.6166,-4.46257 27.9199,-4.9929 l -0.1767,28.76256 -36.111,0.17678 c 2.3484,-13.23224 1.9535,-16.2948 8.3678,-23.94644 z"
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4445)" />
+    </g>
+    <g
+       style="display:none"
+       inkscape:label="Right MB"
+       id="g5038"
+       inkscape:groupmode="layer">
+      <path
+         transform="matrix(0.4940847,0,0,0.48464535,815.71043,912.24466)"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5040"
+         d="m 1699.72,397.07668 c -8.7625,-5 -13.2824,-5.70711 -28.5857,-6.23744 l 0.1767,28.93934 36.6413,0 c -2.3484,-13.23224 -1.818,-15.05026 -8.2323,-22.7019 z"
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4437)" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="Middle MB"
+       id="g5042"
+       inkscape:groupmode="layer">
+      <path
+         transform="matrix(0.56024256,0,0,0.56024256,704.91221,881.57993)"
+         d="m 1673.0147,404.86697 a 3.5355339,10.69499 0 1 1 -7.0711,0 3.5355339,10.69499 0 1 1 7.0711,0 z"
+         sodipodi:ry="10.69499"
+         sodipodi:rx="3.5355339"
+         sodipodi:cy="404.86697"
+         sodipodi:cx="1669.4791"
+         id="path5044"
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4464)"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g5088"
+     inkscape:label="Mouse 2"
+     style="display:inline"
+     transform="translate(0,-1.4285724)">
+    <g
+       id="g5090"
+       transform="matrix(0.56024256,0,0,0.56024256,863.1901,881.5054)">
+      <path
+         sodipodi:nodetypes="ssszs"
+         inkscape:connector-curvature="0"
+         id="path5092"
+         d="m 1710,455 c 0,51.39851 -22.9086,65 -40,65 -16.5914,0 -40,-16.10149 -40,-65 0,-57.39851 2.9086,-65 40,-65 37.0914,0 40,7.10149 40,65 z"
+         style="fill:#ffffff;fill-opacity:0.13227515;stroke:#ffffff;stroke-width:1.427953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.65608467;display:inline" />
+      <g
+         id="g5094"
+         inkscape:label="ink_ext_XXXXXX"
+         transform="matrix(0.13405518,0,0,-0.13405518,1652,505.6656)"
+         style="opacity:0.2;display:inline">
+        <g
+           id="g5096"
+           transform="scale(0.1,0.1)">
+          <g
+             id="g5098">
+            <g
+               id="g5100"
+               clip-path="url(#clipPath4249)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 2834.65,1417.31 C 2834.65,634.57 2200.08,0 1417.3,0 634.531,0 0,634.57 0,1417.31 c 0,782.79 634.531,1417.34 1417.3,1417.34 782.78,0 1417.35,-634.55 1417.35,-1417.34"
+                 style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5102" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 1804.6,2088.16 c 90.5,-52.27 206.19,-21.27 258.42,69.2 52.25,90.52 21.28,206.19 -69.23,258.45 -90.49,52.24 -206.17,21.24 -258.43,-69.26 -52.23,-90.48 -21.24,-206.16 69.24,-258.39 z M 1417.33,864.57 c -83.21,0 -162.07,18.5 -232.85,51.43 L 1053,680.379 C 1162.83,626 1286.47,595.27 1417.33,595.27 c 76.1,0 149.68,10.55 219.61,29.91 12.37,76 57.5,146.05 129.44,187.59 71.82,41.468 154.94,45.582 226.88,18.39 139.92,137.578 230.97,324.76 244.22,533.21 l -269.68,3.93 C 1942.98,1085.94 1706.1,864.57 1417.33,864.57 z m 0,1105.51 c 288.77,0 525.65,-221.41 550.47,-503.73 l 269.68,3.93 c -13.27,208.44 -104.32,395.62 -244.25,533.2 -71.94,-27.18 -155.05,-23.06 -226.88,18.41 -71.93,41.53 -117.05,111.57 -129.42,187.57 -69.92,19.35 -143.5,29.91 -219.6,29.91 -130.86,0 -254.49,-30.73 -364.31,-85.12 l 131.47,-235.6 c 70.77,32.93 149.63,51.43 232.84,51.43 z M 864.578,1417.33 c 0,187.01 92.938,352.18 235.042,452.2 L 961.285,2101.27 C 795.688,1990.63 672.5,1821.5 621.34,1623.39 c 59.769,-48.72 97.957,-122.91 97.957,-206.08 0,-83.16 -38.192,-157.35 -97.969,-206.06 C 672.484,1013.13 795.676,844 961.273,733.359 l 138.347,231.75 C 957.516,1065.12 864.578,1230.29 864.578,1417.33 z M 1804.63,746.512 c -90.51,-52.25 -121.5,-167.93 -69.26,-258.403 52.26,-90.507 167.93,-121.519 258.44,-69.257 90.48,52.238 121.48,167.918 69.23,258.418 -52.24,90.468 -167.93,121.48 -258.41,69.242 z M 453.562,1606.53 c -104.531,0 -189.226,-84.69 -189.226,-189.22 0,-104.5 84.695,-189.2 189.226,-189.2 104.497,0 189.204,84.7 189.204,189.2 0,104.53 -84.707,189.22 -189.204,189.22"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5104" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5106"
+         d="m 1630.3601,420.59999 33.9789,0 5.6631,0 5.6631,0 33.9789,0"
+         style="fill:none;stroke:url(#linearGradient5122);stroke-width:1.42795289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5108"
+         d="m 1671.4021,390.57692 0,12.36264 0,2.06044 0,2.06044 0,12.36264"
+         style="fill:none;stroke:url(#linearGradient5124);stroke-width:1.427953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5110"
+       inkscape:label="Left MB"
+       style="display:none">
+      <path
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4445)"
+         d="m 1640.3123,395.70001 c 8.7625,-5 12.6166,-4.46257 27.9199,-4.9929 l -0.1767,28.76256 -36.111,0.17678 c 2.3484,-13.23224 1.9535,-16.2948 8.3678,-23.94644 z"
+         id="path5112"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.52931165,0,0,0.477468,914.77354,915.34084)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5114"
+       inkscape:label="Right MB"
+       style="display:inline">
+      <path
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4437)"
+         d="m 1699.72,397.07668 c -8.7625,-5 -13.2824,-5.70711 -28.5857,-6.23744 l 0.1767,28.93934 36.6413,0 c -2.3484,-13.23224 -1.818,-15.05026 -8.2323,-22.7019 z"
+         id="path5116"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.4940847,0,0,0.48464535,975.06565,912.24466)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g5118"
+       inkscape:label="Middle MB"
+       style="display:none">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff8e00;fill-opacity:0.57142861;stroke:none;display:inline;filter:url(#filter4464)"
+         id="path5120"
+         sodipodi:cx="1669.4791"
+         sodipodi:cy="404.86697"
+         sodipodi:rx="3.5355339"
+         sodipodi:ry="10.69499"
+         d="m 1673.0147,404.86697 a 3.5355339,10.69499 0 1 1 -7.0711,0 3.5355339,10.69499 0 1 1 7.0711,0 z"
+         transform="matrix(0.56024256,0,0,0.56024256,864.26743,881.57993)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[de_DE]=/opt/simfy/share/icons/icon48x48.png
+Name[de_DE]=Simfy
+Exec=/opt/simfy/bin/simfy
+Comment[de_DE]=Musik höhren, Musik entdecken,Musik teilen
+Name=Simfy
+Comment=Musik höhren, Musik entdecken,Musik teilen
+Icon=/opt/simfy/share/icons/icon48x48.png
