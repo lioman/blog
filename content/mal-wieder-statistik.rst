@@ -14,7 +14,7 @@ Besonders gelungen fand ich die Boterkennung und ich habe sie auch noch
 um einige erweitert*** (Blogverzeichnisse und Suchmaschinen).
 
 Wer möchte kann sich diese optimierte Version runterladen:
-`cystats\_extended.tar.gz <http://www.lioman.de/wp-content/uploads/cystats_extended.tar.gz>`__.
+`cystats\_extended.tar.gz <images/cystats_extended.tar.gz>`__.
 
 Doch wie alle anderen Statistikplugins geht der Betrieb eines solchen zu
 Lasten der Performance und der Datenbank. Zur Zeit möchte ich aber genau
@@ -53,8 +53,8 @@ Minuten). Noch den Tracking-Code integrieren und fertig. das Tool
 übernimmt den Rest. Und wie Piwik aussieht, kann man in einer
 `Online-Demo <http://piwik.org/demo/>`__ sehen.
 
-.. |piwik1| image:: http://www.lioman.de/wp-content/uploads/piwik1.jpg
+.. |piwik1| image:: images/piwik1.jpg
    :class: alignright size-full wp-image-1060
    :width: 182px
    :height: 80px
-   :target: http://www.lioman.de/wp-content/uploads/piwik1.jpg
+   :target: images/piwik1.jpg

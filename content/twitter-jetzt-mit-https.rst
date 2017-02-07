@@ -21,8 +21,8 @@ Schade finde ich nur, dass diese Option nicht standardmäßig aktiviert
 ist - das würde auch unwissende vor unverschlüsselten Verbindungen
 schützen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/twitter_https_einstellung-300x53.png
+.. |image0| image:: images/twitter_https_einstellung-300x53.png
    :class: alignright size-medium wp-image-2997
    :width: 300px
    :height: 53px
-   :target: http://www.lioman.de/wp-content/uploads/twitter_https_einstellung.png
+   :target: images/twitter_https_einstellung.png

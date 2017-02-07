@@ -22,8 +22,8 @@ durch Flattr  bei mir überhaupt nicht decken. Der große Teil wird also
 an andere Blogs, Zeitungen und diverse Projekte gehen, die ich gerne
 unterstütze.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/kein_adsense.jpg
+.. |image0| image:: images/kein_adsense.jpg
    :class: alignleft size-full wp-image-2186
    :width: 347px
    :height: 225px
-   :target: http://www.lioman.de/wp-content/uploads/kein_adsense.jpg
+   :target: images/kein_adsense.jpg

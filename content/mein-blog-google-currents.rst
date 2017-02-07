@@ -44,23 +44,23 @@ align="alignleft" width="100"]\ |image2| Google Currents für
 id="attachment\_4754" align="alignleft" width="100"]\ |image3| Mein Blog
 bei Google Currents[/caption]
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/googlecurrents.png
+.. |image0| image:: images/googlecurrents.png
    :class: alignright size-full wp-image-4760
    :width: 478px
    :height: 87px
-   :target: http://www.lioman.de/wp-content/uploads/googlecurrents.png
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/currents_android.png
+   :target: images/googlecurrents.png
+.. |image1| image:: images/currents_android.png
    :class: size-full wp-image-4757
    :width: 100px
    :height: 100px
-   :target: http://www.lioman.de/wp-content/uploads/currents_android.png
-.. |image2| image:: http://www.lioman.de/wp-content/uploads/currents_ios.png
+   :target: images/currents_android.png
+.. |image2| image:: images/currents_ios.png
    :class: size-full wp-image-4758
    :width: 100px
    :height: 100px
-   :target: http://www.lioman.de/wp-content/uploads/currents_ios.png
-.. |image3| image:: http://www.lioman.de/wp-content/uploads/currents_blog.png
+   :target: images/currents_ios.png
+.. |image3| image:: images/currents_blog.png
    :class: size-full wp-image-4754
    :width: 100px
    :height: 100px
-   :target: http://www.lioman.de/wp-content/uploads/currents_blog.png
+   :target: images/currents_blog.png

@@ -48,8 +48,8 @@ machen oder man gibt folgende Befehlkette im Terminal ein:
 CloudSN findet man dann unter Anwendungen → Internet und nun kann man
 einfach seine verschiedenen Konten eintragen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/cloudsn_menue.png
+.. |image0| image:: images/cloudsn_menue.png
    :class: alignright size-full wp-image-2604
    :width: 338px
    :height: 216px
-   :target: http://www.lioman.de/wp-content/uploads/cloudsn_menue.png
+   :target: images/cloudsn_menue.png

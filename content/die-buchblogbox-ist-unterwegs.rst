@@ -37,8 +37,8 @@ sich die Box gerade befindet kann man im Artikel "`Die Bücherbox
 besucht... <http://www.lioman.de/2012/02/die-buecherbox-besucht/>`__"
 nachlesen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/book_box.png
+.. |image0| image:: images/book_box.png
    :class: alignright size-full wp-image-4343
    :width: 200px
    :height: 200px
-   :target: http://www.lioman.de/wp-content/uploads/book_box.png
+   :target: images/book_box.png

@@ -59,8 +59,8 @@ ist kann ich allerdings nicht sagen. Alles in allem ist es einfach eine
 nette Spielerei und wenn man nicht permanent auf die Statistiken schielt
 kann es einfach Spaß machen, auf den ersten Treffer zu warten.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/eurobilltracker_scheinreise.png
+.. |image0| image:: images/eurobilltracker_scheinreise.png
    :class: alignright size-full wp-image-4269
    :width: 471px
    :height: 503px
-   :target: http://www.lioman.de/wp-content/uploads/eurobilltracker_scheinreise.png
+   :target: images/eurobilltracker_scheinreise.png

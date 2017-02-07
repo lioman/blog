@@ -26,8 +26,8 @@ Spielerei.
 
 `via <http://www.informationisbeautiful.net/2012/lord-of-the-rings-demographics-visualized/>`__
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/lotr_geschlechterverteilung.png
+.. |image0| image:: images/lotr_geschlechterverteilung.png
    :class: size-full wp-image-5174
    :width: 293px
    :height: 293px
-   :target: http://www.lioman.de/wp-content/uploads/lotr_geschlechterverteilung.png
+   :target: images/lotr_geschlechterverteilung.png

@@ -7,7 +7,7 @@ Wolken
 :slug: wolken
 :status: published
 
-| Heute ist es wirklich grau draußen und kalt dazu. Leiderist es aber
+| Heute ist es wirklich grau draußen und kalt dazu. Leider ist es aber
   nicht kalt genug und so bleibt vom fallenden Schnee eigentlich nur
   Matsch übrig.
 | Zum Start in den den Tag und als kleine Aufhellung ein schönes
@@ -15,8 +15,8 @@ Wolken
 
 |image0|\ So muss ein Himmel aussehen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/wolken.jpg
+.. |image0| image:: images/wolken.jpg
    :class: aligncenter size-full wp-image-2743
    :width: 900px
    :height: 675px
-   :target: http://www.lioman.de/wp-content/uploads/wolken.jpg
+   :target: images/wolken.jpg

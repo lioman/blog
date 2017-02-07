@@ -24,8 +24,8 @@ sich immer eine **komplette** Sicherung. Das kann man mit diversen
 `Plugins <http://wordpress.org/extend/plugins/tags/backup>`__
 komfortabel lösen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/artikelbild_wordpress.png
+.. |image0| image:: images/artikelbild_wordpress.png
    :class: alignright size-full wp-image-3306
    :width: 160px
    :height: 160px
-   :target: http://www.lioman.de/wp-content/uploads/artikelbild_wordpress.png
+   :target: images/artikelbild_wordpress.png

@@ -76,13 +76,13 @@ Befreie deinen Router
   ssh und bekommt noch einige andere Vorteile. Der F7D4301 wird damit
   plötzlich wirklich zu einem guten Router im Heimnetzwerk.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/handschellen.png
+.. |image0| image:: images/handschellen.png
    :class: alignright size-full wp-image-4560
    :width: 300px
    :height: 221px
-   :target: http://www.lioman.de/wp-content/uploads/handschellen.png
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/dd-wrt_logo.png
+   :target: images/handschellen.png
+.. |image1| image:: images/dd-wrt_logo.png
    :class: alignleft size-full wp-image-4561
    :width: 208px
    :height: 40px
-   :target: http://www.lioman.de/wp-content/uploads/dd-wrt_logo.png
+   :target: images/dd-wrt_logo.png

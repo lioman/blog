@@ -23,8 +23,8 @@ NHK weitet Broadcasting-Angebot auf Englisch aus
 
     Live video by Ustream"
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/469px-satellite_view_of_japan_1999-234x300.jpg
+.. |image0| image:: images/469px-satellite_view_of_japan_1999-234x300.jpg
    :class: alignleft size-medium wp-image-2981
    :width: 234px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/469px-satellite_view_of_japan_1999.jpg
+   :target: images/469px-satellite_view_of_japan_1999.jpg

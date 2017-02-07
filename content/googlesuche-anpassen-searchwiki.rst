@@ -43,7 +43,7 @@ auch in den Suchindex ein?  Das fragen sich auch andere Blogger wie z.B.
 Sucht man aber nicht immer nach den gleichen Worten so ist das Feature
 unötig.
 
-.. |SearchWiki| image:: http://www.lioman.de/wp-content/uploads/searchwiki.png
+.. |SearchWiki| image:: images/searchwiki.png
    :class: size-full wp-image-523
    :width: 536px
    :height: 135px

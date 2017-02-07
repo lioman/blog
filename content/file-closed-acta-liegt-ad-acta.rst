@@ -14,8 +14,8 @@ File Closed - #ACTA liegt ad acta
   Lizenz <http://creativecommons.org/licenses/by-sa/2.0/>`__
 | Dieses Bild ist ebenfalls so lizenziert.[/caption]
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/acta.jpg
+.. |image0| image:: images/acta.jpg
    :class: size-full wp-image-4858
    :width: 1279px
    :height: 961px
-   :target: http://www.lioman.de/wp-content/uploads/acta.jpg
+   :target: images/acta.jpg

@@ -370,23 +370,23 @@ neue Leser hinzu.
 
  
 
-.. |Blogbesucher 2012 nach Ländern| image:: http://www.lioman.de/wp-content/uploads/stats2012_laender.png
+.. |Blogbesucher 2012 nach Ländern| image:: images/stats2012_laender.png
    :class: size-full wp-image-5259
    :width: 494px
    :height: 250px
-   :target: http://www.lioman.de/wp-content/uploads/stats2012_laender.png
-.. |Mit welchen Browsern mein Blog 2012 besucht wurde.| image:: http://www.lioman.de/wp-content/uploads/stats2012_browser-e1357638742260.png
+   :target: images/stats2012_laender.png
+.. |Mit welchen Browsern mein Blog 2012 besucht wurde.| image:: images/stats2012_browser-e1357638742260.png
    :class: size-full wp-image-5258
    :width: 309px
    :height: 218px
-   :target: http://www.lioman.de/wp-content/uploads/stats2012_browser-e1357638742260.png
-.. |Mobil vs. Desktop 2012| image:: http://www.lioman.de/wp-content/uploads/stats2012_mobil_vs_desktop.png
+   :target: images/stats2012_browser-e1357638742260.png
+.. |Mobil vs. Desktop 2012| image:: images/stats2012_mobil_vs_desktop.png
    :class: size-full wp-image-5263
    :width: 285px
    :height: 182px
-   :target: http://www.lioman.de/wp-content/uploads/stats2012_mobil_vs_desktop.png
-.. |Besucher nach OS| image:: http://www.lioman.de/wp-content/uploads/stats2012_os-e1357640059635.png
+   :target: images/stats2012_mobil_vs_desktop.png
+.. |Besucher nach OS| image:: images/stats2012_os-e1357640059635.png
    :class: size-full wp-image-5260
    :width: 281px
    :height: 211px
-   :target: http://www.lioman.de/wp-content/uploads/stats2012_os.png
+   :target: images/stats2012_os.png

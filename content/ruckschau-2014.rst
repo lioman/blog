@@ -66,13 +66,13 @@ doch anders. Nur mein Blogdesign gefällt mir nicht mehr ganz so gut und
 sollte ich mal einen Haufen Zeit finden, werde ich lioman.de einen neuen
 Anstrich verpassen.
 
-.. |Geräte der Leser im Jahr 2014| image:: http://www.lioman.de/wp-content/uploads/Geraete2014.png
+.. |Geräte der Leser im Jahr 2014| image:: images/Geraete2014.png
    :class: size-full wp-image-5692
    :width: 494px
    :height: 250px
-   :target: http://www.lioman.de/wp-content/uploads/Geraete2014.png
-.. |Betriebssysteme der Leser im Jahre 2014| image:: http://www.lioman.de/wp-content/uploads/OS2014.png
+   :target: images/Geraete2014.png
+.. |Betriebssysteme der Leser im Jahre 2014| image:: images/OS2014.png
    :class: size-full wp-image-5694
    :width: 494px
    :height: 250px
-   :target: http://www.lioman.de/wp-content/uploads/OS2014.png
+   :target: images/OS2014.png

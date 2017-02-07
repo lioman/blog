@@ -12,8 +12,8 @@ Weg vom Bäcker gemacht:
 
 |image0|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/winterbutte1.jpg
+.. |image0| image:: images/winterbutte1.jpg
    :class: aligncenter size-full wp-image-2438
    :width: 1024px
    :height: 768px
-   :target: http://www.lioman.de/wp-content/uploads/winterbutte1.jpg
+   :target: images/winterbutte1.jpg

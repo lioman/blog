@@ -64,8 +64,8 @@ den aktuellen Stand nur noch mit dem benötigten zusammenführen.
 erledigt das und nach einem push ist auch auf dem Server alles so wie es
 sein sollte.
 
-.. |Git-logo“ von Jason Long - http://git-scm.com/downloads/logos. Lizenziert unter CC BY 3.0 über Wikimedia Commons.| image:: http://www.lioman.de/wp-content/uploads/Git-logo.png
+.. |Git-logo“ von Jason Long - http://git-scm.com/downloads/logos. Lizenziert unter CC BY 3.0 über Wikimedia Commons.| image:: images/Git-logo.png
    :class: wp-image-5654 size-full
    :width: 512px
    :height: 214px
-   :target: http://www.lioman.de/wp-content/uploads/Git-logo.png
+   :target: images/Git-logo.png

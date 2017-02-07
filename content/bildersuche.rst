@@ -28,12 +28,12 @@ man an folgendem Screenshot sehen kann:
 
 |image1|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/google_images_upload.png
+.. |image0| image:: images/google_images_upload.png
    :class: alignright size-full wp-image-3694
    :width: 104px
    :height: 72px
    :target: http://www.lioman.de/2011/09/bildersuche/google_images_upload/
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/googleimagesearch.jpg
+.. |image1| image:: images/googleimagesearch.jpg
    :class: alignright size-full wp-image-3693
    :width: 900px
    :height: 750px

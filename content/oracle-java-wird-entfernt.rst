@@ -40,8 +40,8 @@ Falsch finde ich das nicht, denn so wird das freie
 `OpenJDK <http://openjdk.java.net/>`__ stärker verbreitet, was die
 Entwicklung nur begünstigen kann.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+.. |image0| image:: images/ubuntulogo.png
    :class: alignright size-full wp-image-3180
    :width: 190px
    :height: 194px
-   :target: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+   :target: images/ubuntulogo.png

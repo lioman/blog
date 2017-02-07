@@ -42,12 +42,12 @@ In meinem Fall sieht die Datei dann so aus:
     Installed-Size: 2796
 
 Wem das zu mühsam ist, der kann die von mir so veränderte Datei
-benutzen: \ `simfy\_1\_6\_0\_64bit.deb <http://www.lioman.de/wp-content/uploads/simfy_1_6_0_64bit.deb>`__
+benutzen: \ `simfy\_1\_6\_0\_64bit.deb <images/simfy_1_6_0_64bit.deb>`__
 
 **Update**: Version auf 1.6.0 aktualisiert
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+.. |image0| image:: images/ubuntulogo.png
    :class: alignright size-full wp-image-3180
    :width: 190px
    :height: 194px
-   :target: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+   :target: images/ubuntulogo.png

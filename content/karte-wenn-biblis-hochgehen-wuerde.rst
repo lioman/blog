@@ -19,12 +19,12 @@ müssen. Fukishima sollte demnächst außer Dienst gestellt werden - doch
 die Japaner haben gezögert.
 
 | Wir sollten nicht zögern sonst sieht es hinterher so
-  aus:\ ` <http://www.lioman.de/wp-content/uploads/biblis_gau_karte.png>`__\ |image0|
+  aus:\ ` <images/biblis_gau_karte.png>`__\ |image0|
 | Ich weiß, dass das nur eine sehr, sehr grobe Näherung ohne
   Berücksichtigung von Geographie und Meteorologie ist.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/biblis_gau_karte.png
+.. |image0| image:: images/biblis_gau_karte.png
    :class: aligncenter size-full wp-image-2976
    :width: 748px
    :height: 393px
-   :target: http://www.lioman.de/wp-content/uploads/biblis_gau_karte.png
+   :target: images/biblis_gau_karte.png

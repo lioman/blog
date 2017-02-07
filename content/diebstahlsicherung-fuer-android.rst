@@ -99,17 +99,17 @@ ein Erklärvideo:
 
 http://vimeo.com/18728980
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/prey_logo.png
+.. |image0| image:: images/prey_logo.png
    :class: alignright size-full wp-image-4870
    :width: 600px
    :height: 188px
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/prey_uebersicht.png
+.. |image1| image:: images/prey_uebersicht.png
    :class: wp-image-4875
    :width: 216px
    :height: 384px
-   :target: http://www.lioman.de/wp-content/uploads/prey_uebersicht.png
-.. |image2| image:: http://www.lioman.de/wp-content/uploads/prey_test-168x300.png
+   :target: images/prey_uebersicht.png
+.. |image2| image:: images/prey_test-168x300.png
    :class: alignright size-medium wp-image-4877
    :width: 168px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/prey_test.png
+   :target: images/prey_test.png

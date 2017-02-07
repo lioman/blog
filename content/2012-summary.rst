@@ -26,8 +26,8 @@ ToDo:
 
 Add option to choose year
 
-.. |Summary 2012| image:: http://www.lioman.de/wp-content/uploads/screenshot-1-289x300.png
+.. |Summary 2012| image:: images/screenshot-1-289x300.png
    :class: alignright size-medium wp-image-5239
    :width: 289px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/screenshot-1.png
+   :target: images/screenshot-1.png

@@ -40,7 +40,7 @@ Das wars, was an Inhaltsangabe in meinem Gedächtnis übrig geblieben ist.
 Wer genauere Angaben möchte kann ja in der Wikipedia oder  einem alten
 Deutschheft nachschauen bzw. einfach das Buch lesen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/52buecher.jpg
+.. |image0| image:: images/52buecher.jpg
    :class: alignright size-full wp-image-3989
    :width: 138px
    :height: 150px

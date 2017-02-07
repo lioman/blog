@@ -57,7 +57,7 @@ dann so aus:
 
 |image0| und kann bei Google+ oder sonstwo hochgeladen werden.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/landing.gif
+.. |image0| image:: images/landing.gif
    :class: aligncenter size-full wp-image-3532
    :width: 300px
    :height: 132px

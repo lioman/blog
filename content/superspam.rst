@@ -21,8 +21,8 @@ selbst enthält und zum Thema passt. Die Kommentator-URL führt aber dann
 zu irgendeiner Finanzoptimier-/Versicherungsseite und denn Müll muss man
 ja nicht unbedingt weiterverbreiten.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/superspam-199x300.png
+.. |image0| image:: images/superspam-199x300.png
    :class: alignright size-medium wp-image-5224
    :width: 199px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/superspam.png
+   :target: images/superspam.png

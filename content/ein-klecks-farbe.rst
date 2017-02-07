@@ -19,8 +19,8 @@ Blog und auf die Bildschirme.
 Wen es interessiert: das ist eine
 `Zinie <https://secure.wikimedia.org/wikipedia/de/wiki/Zinnie>`__
 
-.. |Zinnia violacea| image:: http://www.lioman.de/wp-content/uploads/zinie.jpg
+.. |Zinnia violacea| image:: images/zinie.jpg
    :class: aligncenter size-full wp-image-2650
    :width: 900px
    :height: 675px
-   :target: http://www.lioman.de/wp-content/uploads/zinie.jpg
+   :target: images/zinie.jpg

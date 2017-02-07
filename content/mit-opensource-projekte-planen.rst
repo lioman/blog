@@ -142,17 +142,17 @@ Shared Hoster geeignet. Wären die Abzüge in der B-Note nicht, wäre es
 eine perfekte Software. Aber schon jetzt ist OpenProject für kleinere
 und mittlere Unternehmungen geeignet.
 
-.. |Das Logo von LibrePlan| image:: http://www.lioman.de/wp-content/uploads/libreplan_logo.png
+.. |Das Logo von LibrePlan| image:: images/libreplan_logo.png
    :class: size-full wp-image-5500
    :width: 205px
    :height: 60px
    :target: https://en.wikipedia.org/wiki/File:LibrePlan_Logo.png
-.. |Gantt-Chart in LibrePlan| image:: http://www.lioman.de/wp-content/uploads/zeitplanung-300x195.png
+.. |Gantt-Chart in LibrePlan| image:: images/zeitplanung-300x195.png
    :class: wp-image-5514 size-medium
    :width: 300px
    :height: 195px
-   :target: http://www.lioman.de/wp-content/uploads/zeitplanung.png
-.. |Logo OpenProject| image:: http://www.lioman.de/wp-content/uploads/logo_openproject_foundation.png
+   :target: images/zeitplanung.png
+.. |Logo OpenProject| image:: images/logo_openproject_foundation.png
    :class: alignright size-full wp-image-5518
    :width: 314px
    :height: 96px

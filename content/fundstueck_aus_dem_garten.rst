@@ -43,18 +43,18 @@ was auf uns zu:
 
 |image2|\ *Quelle: Deutscher Wetterdienst*
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/Garantiehinten-150x150.png
+.. |image0| image:: images/Garantiehinten-150x150.png
    :class: size-thumbnail wp-image-1434
    :width: 150px
    :height: 150px
-   :target: http://www.lioman.de/wp-content/uploads/Garantiehinten.png
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/Garantie_vorne-150x150.png
+   :target: images/Garantiehinten.png
+.. |image1| image:: images/Garantie_vorne-150x150.png
    :class: size-thumbnail wp-image-1435
    :width: 150px
    :height: 150px
-   :target: http://www.lioman.de/wp-content/uploads/Garantie_vorne.png
-.. |image2| image:: http://www.lioman.de/wp-content/uploads/schneefront-150x150.png
+   :target: images/Garantie_vorne.png
+.. |image2| image:: images/schneefront-150x150.png
    :class: aligncenter size-thumbnail wp-image-1439
    :width: 150px
    :height: 150px
-   :target: http://www.lioman.de/wp-content/uploads/schneefront.png
+   :target: images/schneefront.png

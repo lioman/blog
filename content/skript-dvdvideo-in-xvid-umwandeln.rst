@@ -40,7 +40,7 @@ oder
 starten.
 
 Hier das Skript (Download:
-`Video2xvid\_update.tar.gz <http://www.lioman.de/wp-content/uploads/Video2xvid_update.tar.gz>`__):
+`Video2xvid\_update.tar.gz <images/Video2xvid_update.tar.gz>`__):
 
 ::
 

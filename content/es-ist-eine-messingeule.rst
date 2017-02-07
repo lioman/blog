@@ -32,13 +32,13 @@ Schlupfglas|\ [/caption]
 
 |messingeule0002|
 
-.. |Messingeule in Schlupfglas| image:: http://www.lioman.de/wp-content/uploads/messingeule0001-150x150.jpg
+.. |Messingeule in Schlupfglas| image:: images/messingeule0001-150x150.jpg
    :class: size-thumbnail wp-image-998
    :width: 150px
    :height: 150px
-   :target: http://www.lioman.de/wp-content/uploads/messingeule0001.jpg
-.. |messingeule0002| image:: http://www.lioman.de/wp-content/uploads/messingeule0002-150x150.jpg
+   :target: images/messingeule0001.jpg
+.. |messingeule0002| image:: images/messingeule0002-150x150.jpg
    :class: alignleft size-thumbnail wp-image-999
    :width: 150px
    :height: 150px
-   :target: http://www.lioman.de/wp-content/uploads/messingeule0002.jpg
+   :target: images/messingeule0002.jpg

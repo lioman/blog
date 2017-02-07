@@ -166,4 +166,4 @@ Nun das Script, ich hoffe ich habe es ausreichend kommentiert:
     echo \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
 
 Und hier die Datei zum Download:
-`Video2xvid.tar.gz <http://www.lioman.de/wp-content/uploads/Video2xvid.tar.gz>`__
+`Video2xvid.tar.gz <images/Video2xvid.tar.gz>`__

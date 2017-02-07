@@ -26,8 +26,8 @@ Folge haben können.
 
 Also morgen: Wählen gehen!
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/800px-stefanmappus-300x273.jpg
+.. |image0| image:: images/800px-stefanmappus-300x273.jpg
    :class: alignright size-medium wp-image-3063
    :width: 300px
    :height: 273px
-   :target: http://www.lioman.de/wp-content/uploads/800px-stefanmappus.jpg
+   :target: images/800px-stefanmappus.jpg

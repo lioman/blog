@@ -36,8 +36,8 @@ Die Ausgabe präsentiert dann allerlei Daten und Grafiken:
 
 |image0|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/PiwikKampagne.png
+.. |image0| image:: images/PiwikKampagne.png
    :class: aligncenter size-full wp-image-2786
    :width: 686px
    :height: 366px
-   :target: http://www.lioman.de/wp-content/uploads/PiwikKampagne.png
+   :target: images/PiwikKampagne.png

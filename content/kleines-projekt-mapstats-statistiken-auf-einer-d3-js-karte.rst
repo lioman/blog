@@ -33,7 +33,7 @@ Wer mitarbeiten möchte kann gerne mal im
 Ergebnis ist dann: `Mapstats- Statistics on
 D3.js-maps <https://lioman.github.io/mapstats/>`__
 
-.. |Mit dem Flugzeug beförderte Passagiere in Europa| image:: http://www.lioman.de/wp-content/uploads/mapstats_karte.png
+.. |Mit dem Flugzeug beförderte Passagiere in Europa| image:: images/mapstats_karte.png
    :class: wp-image-5814
    :width: 400px
    :height: 401px

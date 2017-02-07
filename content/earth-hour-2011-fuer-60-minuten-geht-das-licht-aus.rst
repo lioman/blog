@@ -23,8 +23,8 @@ Earth Hour 2011 - für 60 Minuten geht das Licht aus
 | Bilder von 2010:
 | 
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/earth_hour2011.jpg
+.. |image0| image:: images/earth_hour2011.jpg
    :class: size-full wp-image-3010 alignleft
    :width: 186px
    :height: 240px
-   :target: http://www.lioman.de/wp-content/uploads/earth_hour2011.jpg
+   :target: images/earth_hour2011.jpg

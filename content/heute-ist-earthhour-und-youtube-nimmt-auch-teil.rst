@@ -30,8 +30,8 @@ heute neben dem Viddeotitel befindet.
 
 `via <http://www.googlewatchblog.de/2011/03/youtube-nimmt-an-earth-hour-teil/>`__
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/yt_earthhour.png
+.. |image0| image:: images/yt_earthhour.png
    :class: size-full wp-image-3055
    :width: 148px
    :height: 108px
-   :target: http://www.lioman.de/wp-content/uploads/yt_earthhour.png
+   :target: images/yt_earthhour.png

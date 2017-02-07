@@ -152,8 +152,8 @@ Instructions
 #. Zuerst alle trockenen Zutaten mischen. Öl, Wasser und Ei hinzugeben
    und kräftig kneten.
 #. [url
-   href="http://www.lioman.de/wp-content/uploads/kaeseeulen.jpg"][img
-   src="http://www.lioman.de/wp-content/uploads/kaeseeulen-272x300.jpg"
+   href="images/kaeseeulen.jpg"][img
+   src="images/kaeseeulen-272x300.jpg"
    alt="" width="272" height="300" class="alignright size-medium
    wp-image-5312"][/url]Auf einem bemehlten Blech nicht zu dünn
    auswellen und Cracker ausstechen.

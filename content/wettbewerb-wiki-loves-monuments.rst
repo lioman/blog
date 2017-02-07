@@ -25,7 +25,7 @@ und Ehre gibt es auch ein paar Preise zu gewinnen.
    <http://upload.wikimedia.org/wikipedia/commons/9/9a/Stadtarchiv_Ueberlingen.jpg>`__\ |image2|\ |image3|
 | |image4|\ |image5|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/logo-wiki-loves-monuments.png
+.. |image0| image:: images/logo-wiki-loves-monuments.png
    :class: size-full wp-image-3634 alignright
    :width: 137px
    :height: 161px

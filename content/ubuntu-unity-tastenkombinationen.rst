@@ -26,8 +26,8 @@ Bitteschön:
 
 Hier die `SVG-Datei </wp-content/uploads/unitytricks.svg>`__
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/unitytricks_de-300x187.png
+.. |image0| image:: images/unitytricks_de-300x187.png
    :class: size-medium wp-image-3158 aligncenter
    :width: 300px
    :height: 187px
-   :target: http://www.lioman.de/wp-content/uploads/unitytricks_de.png
+   :target: images/unitytricks_de.png

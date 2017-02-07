@@ -16,8 +16,8 @@ Hier ein Screenshot von 19.05.2010 14:20 Uhr:
 |image0|\ via
 `bro/twitter <http://twitter.com/broti/status/14289545941>`__
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/Griechische_Botschaft-300x167.png
+.. |image0| image:: images/Griechische_Botschaft-300x167.png
    :class: aligncenter size-medium wp-image-1546
    :width: 300px
    :height: 167px
-   :target: http://www.lioman.de/wp-content/uploads/Griechische_Botschaft.png
+   :target: images/Griechische_Botschaft.png

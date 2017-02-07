@@ -36,8 +36,8 @@ eventuell andere Lösungen beschreibt  `Bug
 Update: Nautilus muss erstmal neu gestartet werden. Ein einfaches
  ``pkill nautilus``  genügt da
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+.. |image0| image:: images/ubuntulogo.png
    :class: alignright size-full wp-image-3180
    :width: 190px
    :height: 194px
-   :target: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+   :target: images/ubuntulogo.png

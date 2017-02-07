@@ -37,7 +37,7 @@ installieren.
 Leider wird kein Starter angelegt, aber auch das geht recht Problemlos.
 
 Einfach die Datei
-`simfy.desktop <http://www.lioman.de/wp-content/uploads/simfy.desktop>`__
+`simfy.desktop <images/simfy.desktop>`__
 runterladen und in den Ordner  */usr/share/applications* kopieren
 (Root-Rechte nötig).
 
@@ -52,8 +52,8 @@ lesen.
 sind weitere (andere) Schritte nötig. `Siehe
 hier. <http://www.lioman.de/2011/10/simfy-64bit-unter-ubuntu-11-10-installieren/>`__
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+.. |image0| image:: images/ubuntulogo.png
    :class: size-full wp-image-3180 alignright
    :width: 133px
    :height: 137px
-   :target: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+   :target: images/ubuntulogo.png

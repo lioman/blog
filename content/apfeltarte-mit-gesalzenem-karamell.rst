@@ -151,13 +151,13 @@ Instructions
 #. Ofen auf 200°C vorheitzen (180° bei Umluft).
 #. Blech einfetten und Teig darauf ausrollen.
 #. <img
-   src="http://www.lioman.de/wp-content/uploads/apfelkuchen\_mit\_karamell\_belegen.jpg"></img>Die
+   src="images/apfelkuchen\_mit\_karamell\_belegen.jpg"></img>Die
    Äpfel von außen in immer kleiner werdenden Kreisen eng überlappend
    auf den Teig legen. Wobei die runde Seite immer nach außen zeigen
    soll.
 #. Ein paar Butterflöckchen darauf verteilen und in den Ofen
    schieben.<img
-   src="http://www.lioman.de/wp-content/uploads/apfelkuchen\_mit\_karamell\_butterflocken.jpg"></img>
+   src="images/apfelkuchen\_mit\_karamell\_butterflocken.jpg"></img>
 #. Der Kuchen muss 30 Minuten backen.
 #. Nach 20 Minuten das Karamell vorbereiten.
 #. Dazu den Zucker bei mittlerer Hitze in einem kleinen Pfanne
@@ -176,7 +176,7 @@ Instructions
    (<strong>Achtung:</strong> Es gibt nur eine sinnvolle Richtung)
 #. Den Kuchen weitere 5 bis 10 Minuten in den Offen schieben. Wenn die
    Karamellglasur anfängt zu blubbern ist der Kuchen fertig.<img
-   src="http://www.lioman.de/wp-content/uploads/apfelkuchen\_mit\_karamell\_fertig.jpg"></img>
+   src="images/apfelkuchen\_mit\_karamell\_fertig.jpg"></img>
 #. Komplett auskühlen lassen, in Stücke teilen und servieren.
 
 .. raw:: html

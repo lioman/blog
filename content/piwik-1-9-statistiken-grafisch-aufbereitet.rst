@@ -65,13 +65,13 @@ die Piwik nutzen wollen empfehle ich übrigens das Plugin
 
  
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/transitions_icon.png
+.. |image0| image:: images/transitions_icon.png
    :class: alignleft size-full wp-image-5099
    :width: 91px
    :height: 50px
-   :target: http://www.lioman.de/wp-content/uploads/transitions_icon.png
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/transitions.png
+   :target: images/transitions_icon.png
+.. |image1| image:: images/transitions.png
    :class: size-full wp-image-5100
    :width: 800px
    :height: 519px
-   :target: http://www.lioman.de/wp-content/uploads/transitions.png
+   :target: images/transitions.png

@@ -51,8 +51,8 @@ nicht mehr harmlos nennen.*
 
 **Update**: Artikel leicht modifiziert
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/piwik1.jpg
+.. |image0| image:: images/piwik1.jpg
    :class: alignright size-full wp-image-1921
    :width: 182px
    :height: 80px
-   :target: http://www.lioman.de/wp-content/uploads/piwik1.jpg
+   :target: images/piwik1.jpg

@@ -49,8 +49,8 @@ Der Film begleitet die beiden Aktivisten Bertrand Piccard und André
 Borschberg, die mit  "Solar Impulse" das erste
 Langstrecken-Solarflugzeug entwickelt haben.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/VideoArtikel.png
+.. |image0| image:: images/VideoArtikel.png
    :class: alignleft size-full wp-image-2719
    :width: 91px
    :height: 146px
-   :target: http://www.lioman.de/wp-content/uploads/VideoArtikel.png
+   :target: images/VideoArtikel.png

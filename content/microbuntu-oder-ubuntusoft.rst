@@ -32,8 +32,8 @@ System.
 
 Was will man mehr
 
-.. |Microbuntu| image:: http://www.lioman.de/wp-content/uploads/Microbuntu-127x300.png
+.. |Microbuntu| image:: images/Microbuntu-127x300.png
    :class: alignright size-medium wp-image-880
    :width: 127px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/Microbuntu.png
+   :target: images/Microbuntu.png

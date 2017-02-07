@@ -28,13 +28,13 @@ einfach selber anschauen: Image-Swirl: Freiburg
 
    </p>
 
-.. |image-swirl1| image:: http://www.lioman.de/wp-content/uploads/image-swirl1-150x150.png
+.. |image-swirl1| image:: images/image-swirl1-150x150.png
    :class: aligncenter size-thumbnail wp-image-1122
    :width: 150px
    :height: 150px
-   :target: http://www.lioman.de/wp-content/uploads/image-swirl1.png
-.. |image-swirl| image:: http://www.lioman.de/wp-content/uploads/image-swirl-150x150.png
+   :target: images/image-swirl1.png
+.. |image-swirl| image:: images/image-swirl-150x150.png
    :class: aligncenter size-thumbnail wp-image-1123
    :width: 150px
    :height: 150px
-   :target: http://www.lioman.de/wp-content/uploads/image-swirl.png
+   :target: images/image-swirl.png

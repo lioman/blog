@@ -79,8 +79,8 @@ Reputation und Sperren zeugt einfach noch von dem zuvor beschriebenen
 naiven Blick auf den Sport in dem lauter holde Recken nur für Ruhm, Ehre
 und einen Palmzweig die Spielstätte betreten.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/olympische_ringe.png
+.. |image0| image:: images/olympische_ringe.png
    :class: alignright size-full wp-image-5058
    :width: 200px
    :height: 97px
-   :target: http://www.lioman.de/wp-content/uploads/olympische_ringe.png
+   :target: images/olympische_ringe.png

@@ -17,8 +17,8 @@ zusammenzufassen.
 
 http://www.youtube.com/watch?v=5ocq6\_3-nEw&webm=1
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/tux2.png
+.. |image0| image:: images/tux2.png
    :class: alignleft size-full wp-image-3079
    :width: 82px
    :height: 98px
-   :target: http://www.lioman.de/wp-content/uploads/tux2.png
+   :target: images/tux2.png

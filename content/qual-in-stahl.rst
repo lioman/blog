@@ -32,8 +32,8 @@ liebe Fahrradfahrer:
 
  
 
-.. |Fahrrad| image:: http://www.lioman.de/wp-content/uploads/fahrrad.jpg
+.. |Fahrrad| image:: images/fahrrad.jpg
    :class: alignright size-full wp-image-5357
    :width: 250px
    :height: 364px
-   :target: http://www.lioman.de/wp-content/uploads/fahrrad.jpg
+   :target: images/fahrrad.jpg

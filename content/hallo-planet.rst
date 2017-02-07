@@ -57,13 +57,13 @@ freien OS einverleiben.
 Ich hoffe ich kann mit dieser Erfahrung ein bisschen was zum Planeten
 beitragen und freue mich auf viele neue Leser.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/tux2.png
+.. |image0| image:: images/tux2.png
    :class: alignright size-full wp-image-3079
    :width: 252px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/tux2.png
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+   :target: images/tux2.png
+.. |image1| image:: images/ubuntulogo.png
    :class: size-full wp-image-3180 alignleft
    :width: 190px
    :height: 194px
-   :target: http://www.lioman.de/wp-content/uploads/ubuntulogo.png
+   :target: images/ubuntulogo.png

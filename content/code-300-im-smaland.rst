@@ -53,8 +53,8 @@ Rätsels Lösung als so profan herausstellte.
 
 Nichtwissen schreibt eben doch die besseren Geschichten.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/flag_of_sweden.png
+.. |image0| image:: images/flag_of_sweden.png
    :class: alignright size-full wp-image-3783
    :width: 200px
    :height: 125px
-   :target: http://www.lioman.de/wp-content/uploads/flag_of_sweden.png
+   :target: images/flag_of_sweden.png

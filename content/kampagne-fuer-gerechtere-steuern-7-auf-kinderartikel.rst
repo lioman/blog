@@ -42,8 +42,8 @@ günstiger werden. Das wäre dann eine Steuererleichterung, die wirklich
 denen zugute kommt, die es benötigen. Damit würde unsere Gesellschaft
 ein Stück Familienfreundlicher.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/7prozentaufblumen.jpg
+.. |image0| image:: images/7prozentaufblumen.jpg
    :class: alignright size-full wp-image-3960
    :width: 400px
    :height: 283px
-   :target: http://www.lioman.de/wp-content/uploads/7prozentaufblumen.jpg
+   :target: images/7prozentaufblumen.jpg

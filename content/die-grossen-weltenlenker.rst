@@ -9,6 +9,6 @@ Die großen Weltenlenker
 
 |image|
 
-.. |image| image:: http://www.lioman.de/wp-content/uploads/wpid-2012-09-07_08-33-09-1.jpg
+.. |image| image:: images/wpid-2012-09-07_08-33-09-1.jpg
    :class: alignnone
-   :target: http://www.lioman.de/wp-content/uploads/wpid-2012-09-07_08-33-09-11.jpg
+   :target: images/wpid-2012-09-07_08-33-09-11.jpg

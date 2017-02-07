@@ -16,8 +16,8 @@ Welt.
 
  
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/drawastickman.jpg
+.. |image0| image:: images/drawastickman.jpg
    :class: alignright size-full wp-image-3729
    :width: 400px
    :height: 279px
-   :target: http://www.lioman.de/wp-content/uploads/drawastickman.jpg
+   :target: images/drawastickman.jpg

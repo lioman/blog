@@ -83,7 +83,7 @@ Benutzung
 
 Für den Test habe ich ein qualitativ möglichst gutes Bild gewählt. Dazu
 habe ich ein
-`RAW-Foto <http://www.lioman.de/wp-content/uploads/rose_orginal.tar.gz>`__
+`RAW-Foto <images/rose_orginal.tar.gz>`__
 kompressionsfrei in eine
 `PNG </wp-content/uploads/rose_orginal.png>`__-Datei überführt. Nun
 kommt das frischkompilierte Programm zum Einsatz. Ich komprimiere das
@@ -129,11 +129,11 @@ Format noch in möglichst viele Browser integriert werden.
 
 Google Chrome macht da vermutlich den Anfang.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/webp_vergleich.png
+.. |image0| image:: images/webp_vergleich.png
    :class: aligncenter size-full wp-image-2127
-   :target: http://www.lioman.de/wp-content/uploads/webp_vergleich.png
+   :target: images/webp_vergleich.png
 .. |image1| image:: /wp-content/uploads/webp_vergleich.png
    :class: alignnone
    :width: 950px
    :height: 391px
-   :target: http://www.lioman.de/wp-content/uploads/webp_vergleich.png
+   :target: images/webp_vergleich.png

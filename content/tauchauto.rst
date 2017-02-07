@@ -13,8 +13,8 @@ auch ein Fiat geht Unterwasser!
 Und das wird bei ebay Kleinanzeigen auch noch angekündigt. Kann man dann
 zur Tauchparty kommen?
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/tauche-audi.jpg
+.. |image0| image:: images/tauche-audi.jpg
    :class: size-full wp-image-3746 alignright
    :width: 600px
    :height: 273px
-   :target: http://www.lioman.de/wp-content/uploads/tauche-audi.jpg
+   :target: images/tauche-audi.jpg

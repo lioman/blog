@@ -14,8 +14,8 @@ Karte: Mögliche Standorte für den Stadionbau des SC-Freiburg
 Dazu gibt es noch einen Bericht bei
 `Fudder.de <http://fudder.de/index.php?id=163&tx_ttnews%5Btt_news%5D=17948>`__
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/logo-sc_freiburg.png
+.. |image0| image:: images/logo-sc_freiburg.png
    :class: alignright size-full wp-image-3741
    :width: 150px
    :height: 209px
-   :target: http://www.lioman.de/wp-content/uploads/logo-sc_freiburg.png
+   :target: images/logo-sc_freiburg.png

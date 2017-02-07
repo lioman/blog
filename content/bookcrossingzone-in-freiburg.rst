@@ -40,8 +40,8 @@ handeln und über 1900 Bücher auf einmal freilassen.
 
 Meine Nächsten Bücher werde ich aber erstmal zur KHG tragen.
 
-.. |Buch auf Reisen| image:: http://www.lioman.de/wp-content/uploads/runningbook33.gif
+.. |Buch auf Reisen| image:: images/runningbook33.gif
    :class: size-full wp-image-439
    :width: 66px
    :height: 66px
-   :target: http://www.lioman.de/wp-content/uploads/runningbook33.gif
+   :target: images/runningbook33.gif

@@ -19,8 +19,8 @@ möglichen anderen Daten zum Flug. So wird einem nicht nur die aktuelle
 Temperatur, Ladestand der Batterien und Leistung der Solarzellen
 angezeigt sondern auch die aktuelle Position.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/solarimpulse_flightdata.png
+.. |image0| image:: images/solarimpulse_flightdata.png
    :class: alignright size-full wp-image-4698
    :width: 303px
    :height: 216px
-   :target: http://www.lioman.de/wp-content/uploads/solarimpulse_flightdata.png
+   :target: images/solarimpulse_flightdata.png

@@ -22,8 +22,8 @@ kommenden Ubuntuversion aus der Themse auf.
 
 |image0|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/googleearthnarwhal.png
+.. |image0| image:: images/googleearthnarwhal.png
    :class: aligncenter size-full wp-image-3073
    :width: 681px
    :height: 469px
-   :target: http://www.lioman.de/wp-content/uploads/googleearthnarwhal.png
+   :target: images/googleearthnarwhal.png

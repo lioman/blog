@@ -57,8 +57,8 @@ Orginalbild: http://www.flickr.com/photos/peagreenchick/ / `CC BY
 
    </div>
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/news_twitter_facebook-201x300.jpg
+.. |image0| image:: images/news_twitter_facebook-201x300.jpg
    :class: alignleft size-medium wp-image-1407
    :width: 201px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/news_twitter_facebook.jpg
+   :target: images/news_twitter_facebook.jpg

@@ -70,8 +70,8 @@ großen Verlage.
    :width: 180px
    :height: 180px
    :target: http://leistungsschutzrecht.info/home
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/Engelsuche-300x261.png
+.. |image1| image:: images/Engelsuche-300x261.png
    :class: aligncenter size-medium wp-image-2598
    :width: 300px
    :height: 261px
-   :target: http://www.lioman.de/wp-content/uploads/Engelsuche.png
+   :target: images/Engelsuche.png

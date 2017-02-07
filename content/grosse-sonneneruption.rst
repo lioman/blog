@@ -21,8 +21,8 @@ http://www.youtube.com/watch?v=j2B56nDX64E
 
 Faszinierend!
 
-.. |Sonneneruption| image:: http://www.lioman.de/wp-content/uploads/sonneneruption.png
+.. |Sonneneruption| image:: images/sonneneruption.png
    :class: alignright size-full wp-image-3296
    :width: 130px
    :height: 130px
-   :target: http://www.lioman.de/wp-content/uploads/sonneneruption.png
+   :target: images/sonneneruption.png

@@ -53,12 +53,12 @@ gibt es eine einfache Anleitung, die ich hier kurz ins Deutsche
 
 Update: Links geändert. Es wird immer die aktuellste angezeigt
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/LastScrape_Bildschirm1.png
+.. |image0| image:: images/LastScrape_Bildschirm1.png
    :class: aligncenter size-full wp-image-1981
    :width: 521px
    :height: 414px
    :target: http://www.lioman.de/2010/09/umziehen-von-last-fm-auf-libre-fm/lastscrape_bildschirm1/
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/LastScrape_Bildschirm2.png
+.. |image1| image:: images/LastScrape_Bildschirm2.png
    :class: aligncenter size-full wp-image-1982
    :width: 500px
    :height: 400px

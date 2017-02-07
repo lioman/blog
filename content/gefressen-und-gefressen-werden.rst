@@ -11,8 +11,8 @@ Spontane Lebensmittelkunst:
 
 |image0|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/gefressen_und_gefressen_werden.jpg
+.. |image0| image:: images/gefressen_und_gefressen_werden.jpg
    :class: aligncenter size-full wp-image-2482
    :width: 1024px
    :height: 768px
-   :target: http://www.lioman.de/wp-content/uploads/gefressen_und_gefressen_werden.jpg
+   :target: images/gefressen_und_gefressen_werden.jpg

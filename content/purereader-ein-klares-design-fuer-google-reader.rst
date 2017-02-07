@@ -16,9 +16,9 @@ die Erweiterung
 installieren.
 
 Und hier ist nun das Style (für
-copy+paste): \ `PureReader <http://www.lioman.de/wp-content/uploads/purereader.css>`__
+copy+paste): \ `PureReader <images/purereader.css>`__
 (Angepasst an neue UI) 
-`(alt:Pure\_reader <http://www.lioman.de/wp-content/uploads/Pure_reader.css>`__)
+`(alt:Pure\_reader <images/Pure_reader.css>`__)
 
 Einfache Installation+Update: `Pure Reader - a clean beautiful
 GoogleReader style <http://userstyles.org/styles/40858>`__
@@ -50,9 +50,9 @@ it , you have to install the Add-on
 `Stylish. <https://addons.mozilla.org/en-US/firefox/addon/2108/>`__
 
 Here is the
-style:\ `PureReader <http://www.lioman.de/wp-content/uploads/purereader.css>`__
+style:\ `PureReader <images/purereader.css>`__
 (improved for new UI)      (old
-`Pure\_reader <http://www.lioman.de/wp-content/uploads/Pure_reader.css>`__)
+`Pure\_reader <images/Pure_reader.css>`__)
 
 Easy installation+update: `Pure Reader - a clean beautiful GoogleReader
 style <http://userstyles.org/styles/40858>`__
@@ -68,12 +68,12 @@ articles are included for example.
 Licensed under a `Creative Commons Attribution-Noncommercial-Share Alike
 3.0 License <http://creativecommons.org/licenses/by-nc-sa/3.0/>`__\ .
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/PureReader-300x133.png
+.. |image0| image:: images/PureReader-300x133.png
    :class: aligncenter size-medium wp-image-2523
    :width: 300px
    :height: 133px
-   :target: http://www.lioman.de/wp-content/uploads/PureReader.png
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/PureReader-300x133.png
+   :target: images/PureReader.png
+.. |image1| image:: images/PureReader-300x133.png
    :width: 300px
    :height: 133px
-   :target: http://www.lioman.de/wp-content/uploads/PureReader.png
+   :target: images/PureReader.png

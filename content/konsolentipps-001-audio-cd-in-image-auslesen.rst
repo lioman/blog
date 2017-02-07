@@ -34,8 +34,8 @@ Brennen ist ebenso einfach. Hier genügt folgender Befehl:
 
     cdrdao write --device /dev/sr0 --speed 8 --driver generic-mmc CD.cue
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/Konsole-300x213.png
+.. |image0| image:: images/Konsole-300x213.png
    :class: alignleft size-medium wp-image-2201
    :width: 210px
    :height: 149px
-   :target: http://www.lioman.de/wp-content/uploads/Konsole.png
+   :target: images/Konsole.png

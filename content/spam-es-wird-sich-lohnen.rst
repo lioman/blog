@@ -18,7 +18,7 @@ noch Geld bei solchen "Anbietern".
 Aber es scheint sich ja zu lohnen, sonst wäre dieser Geschäftszweig
 schon längst ausgestorben.
 
-.. |Es wird sich lohnen... Für wen?| image:: http://www.lioman.de/wp-content/uploads/spam_es_wird_sich_lohnen-1024x98.png
+.. |Es wird sich lohnen... Für wen?| image:: images/spam_es_wird_sich_lohnen-1024x98.png
    :class: size-large wp-image-5506
    :width: 620px
    :height: 59px

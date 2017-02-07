@@ -66,8 +66,8 @@ vielen Distributionen mit dabei).
 Dieses Skript behält nichts. Alle alten Daten werden gelöscht. Möchte
 man das nicht muss man *rm -fv $i* entfernen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/mp3tovorbis.png
+.. |image0| image:: images/mp3tovorbis.png
    :class: alignleft size-full wp-image-2705
    :width: 236px
    :height: 76px
-   :target: http://www.lioman.de/wp-content/uploads/mp3tovorbis.png
+   :target: images/mp3tovorbis.png

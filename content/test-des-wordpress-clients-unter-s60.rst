@@ -24,6 +24,6 @@ verkleinert diese um Bandbreite zu sparen.
 Das funktioniert auch ganz gut und so kann man auch gut von unterwegs
 bloggen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/bild156.jpg
+.. |image0| image:: images/bild156.jpg
    :class: alignnone size-full wp-image-6
-   :target: http://www.lioman.de/wp-content/uploads/bild156.jpg
+   :target: images/bild156.jpg

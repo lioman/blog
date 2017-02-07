@@ -50,28 +50,28 @@ Ich hoffe ich habe nun alle Wünsche bezüglich nackter Tatsachen erfüllt.
 Weitere Artikel dieser Art werden vermutlich nicht folgen, denn dieser
 ganze Fruchtsaft ist so klebrig und macht eine ganz schöne Sauerei.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/schwarze-pflaume-300x235.jpg
+.. |image0| image:: images/schwarze-pflaume-300x235.jpg
    :class: alignright size-medium wp-image-1932
    :width: 300px
    :height: 235px
-   :target: http://www.lioman.de/wp-content/uploads/schwarze-pflaume.jpg
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/nackte-pflaume001-300x169.jpg
+   :target: images/schwarze-pflaume.jpg
+.. |image1| image:: images/nackte-pflaume001-300x169.jpg
    :class: alignleft size-medium wp-image-5015
    :width: 300px
    :height: 169px
-   :target: http://www.lioman.de/wp-content/uploads/nackte-pflaume001.jpg
-.. |image2| image:: http://www.lioman.de/wp-content/uploads/nackte-pflaume002-300x169.jpg
+   :target: images/nackte-pflaume001.jpg
+.. |image2| image:: images/nackte-pflaume002-300x169.jpg
    :class: alignright size-medium wp-image-5016
    :width: 300px
    :height: 169px
-   :target: http://www.lioman.de/wp-content/uploads/nackte-pflaume002.jpg
-.. |image3| image:: http://www.lioman.de/wp-content/uploads/nackte-pflaume003.jpg
+   :target: images/nackte-pflaume002.jpg
+.. |image3| image:: images/nackte-pflaume003.jpg
    :class: alignleft size-full wp-image-5017
    :width: 267px
    :height: 239px
-   :target: http://www.lioman.de/wp-content/uploads/nackte-pflaume003.jpg
-.. |image4| image:: http://www.lioman.de/wp-content/uploads/nackte-pflaume004-300x193.jpg
+   :target: images/nackte-pflaume003.jpg
+.. |image4| image:: images/nackte-pflaume004-300x193.jpg
    :class: alignright size-medium wp-image-5018
    :width: 300px
    :height: 193px
-   :target: http://www.lioman.de/wp-content/uploads/nackte-pflaume004.jpg
+   :target: images/nackte-pflaume004.jpg

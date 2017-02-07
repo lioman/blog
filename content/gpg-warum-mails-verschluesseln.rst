@@ -107,13 +107,13 @@ Passwort sinnvoll- und nicht wie hier "test"- gewählt ist).
   bewerkstelligen ist soll der nächsten Artikel zum `Thema
   GPG </tag/gpg>`__ zeigen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/mail_ohne_verschluesselung.png
+.. |image0| image:: images/mail_ohne_verschluesselung.png
    :class: aligncenter size-full wp-image-2723
    :width: 671px
    :height: 258px
-   :target: http://www.lioman.de/wp-content/uploads/mail_ohne_verschluesselung.png
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/mail_mit_verschluesselung.png
+   :target: images/mail_ohne_verschluesselung.png
+.. |image1| image:: images/mail_mit_verschluesselung.png
    :class: aligncenter size-full wp-image-2730
    :width: 671px
    :height: 238px
-   :target: http://www.lioman.de/wp-content/uploads/mail_mit_verschluesselung.png
+   :target: images/mail_mit_verschluesselung.png

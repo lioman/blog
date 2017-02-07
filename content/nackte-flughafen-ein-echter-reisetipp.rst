@@ -62,13 +62,13 @@ Und Falls die Nachricht mal gelöscht wird ein Screenshot:
 
    </div>
 
-.. |Schwarze Pflaume| image:: http://www.lioman.de/wp-content/uploads/schwarze-pflaume-300x235.jpg
+.. |Schwarze Pflaume| image:: images/schwarze-pflaume-300x235.jpg
    :class: size-medium wp-image-263
    :width: 213px
    :height: 167px
-   :target: http://www.lioman.de/wp-content/uploads/schwarze-pflaume.jpg
-.. |GMX Nachricht zu Nacktscanner| image:: http://www.lioman.de/wp-content/uploads/gmx_regierung_lehnt_nacktscanner_ab-150x150.png
+   :target: images/schwarze-pflaume.jpg
+.. |GMX Nachricht zu Nacktscanner| image:: images/gmx_regierung_lehnt_nacktscanner_ab-150x150.png
    :class: size-thumbnail wp-image-264
    :width: 116px
    :height: 125px
-   :target: http://www.lioman.de/wp-content/uploads/gmx_regierung_lehnt_nacktscanner_ab.png
+   :target: images/gmx_regierung_lehnt_nacktscanner_ab.png

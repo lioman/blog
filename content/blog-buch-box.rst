@@ -95,8 +95,8 @@ Fragen zum Projekt:
 
 *Bild: `nicubunu <http://openclipart.org/user-detail/nicubunu>`__*
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/book_box.png
+.. |image0| image:: images/book_box.png
    :class: alignright size-full wp-image-4343
    :width: 200px
    :height: 200px
-   :target: http://www.lioman.de/wp-content/uploads/book_box.png
+   :target: images/book_box.png

@@ -50,8 +50,8 @@ dauern...
 Möchte man ein Backup wieder einspielen, kann man dies mit adb restore
 BACKUPDATEI.adb  tun
 
-.. |Android logo| image:: http://www.lioman.de/wp-content/uploads/Android_robot-252x300.png
+.. |Android logo| image:: images/Android_robot-252x300.png
    :class: wp-image-5563 size-medium
    :width: 252px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/Android_robot.png
+   :target: images/Android_robot.png

@@ -63,8 +63,8 @@ Produkte, wie *".youtube"* oder *".gmail"*, sondern auch *".blog",
   noch eine weitere Monetarisierungsmöglichkeit, durch Verschmelzung mit
   AdSense einfällt.
 
-.. | Goggle hat 101 neue Domains beantragt.| image:: http://www.lioman.de/wp-content/uploads/gtld_x2-300x208.png
+.. | Goggle hat 101 neue Domains beantragt.| image:: images/gtld_x2-300x208.png
    :class: wp-image-5539 size-medium
    :width: 300px
    :height: 208px
-   :target: http://www.lioman.de/wp-content/uploads/gtld_x2.png
+   :target: images/gtld_x2.png

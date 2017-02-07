@@ -167,13 +167,13 @@ Updates ausgemerzt.  Auch die Kamera ist wirklich sehr gut und Auf die
 Frage von Asus, w\ **ürdet** **ihr es gerne behalten?**, kann ich nur
 mit **Ja** antworten.
 
-.. |AsusZenFone2| image:: http://www.lioman.de/wp-content/uploads/AsusZenFone2.jpg
+.. |AsusZenFone2| image:: images/AsusZenFone2.jpg
    :class: alignleft size-full wp-image-5879
    :width: 500px
    :height: 500px
-   :target: http://www.lioman.de/wp-content/uploads/AsusZenFone2.jpg
-.. |image| image:: http://www.lioman.de/wp-content/uploads/wpid-wp-1447776661746.png
+   :target: images/AsusZenFone2.jpg
+.. |image| image:: images/wpid-wp-1447776661746.png
    :class: alignright
    :width: 400px
    :height: 711px
-   :target: http://www.lioman.de/wp-content/uploads/wpid-wp-1447776661746.png
+   :target: images/wpid-wp-1447776661746.png

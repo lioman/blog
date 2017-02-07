@@ -18,7 +18,7 @@ fast schon PC-Ersatz werden könnte. Mit projezierter Tastatur und
 
 http://www.youtube.com/watch?v=oG3tLxEQEdg
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/seabird_2-300x224.jpg
+.. |image0| image:: images/seabird_2-300x224.jpg
    :class: alignright size-medium wp-image-2062
    :width: 210px
    :height: 157px

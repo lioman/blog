@@ -37,8 +37,8 @@ ganz anderen Licht:
    :width: 640px
    :height: 461px
    :target: http://farm5.static.flickr.com/4112/5213761637_e9f4ecf500_b.jpg
-.. |image2| image:: http://www.lioman.de/wp-content/uploads/Muensterschiff_Winter.jpg
+.. |image2| image:: images/Muensterschiff_Winter.jpg
    :class: aligncenter size-full wp-image-2446
    :width: 900px
    :height: 625px
-   :target: http://www.lioman.de/wp-content/uploads/Muensterschiff_Winter.jpg
+   :target: images/Muensterschiff_Winter.jpg

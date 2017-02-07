@@ -18,8 +18,8 @@ sich frei zoombar im Netz anschauen: \ `VISTA gigapixel mosaic of the
 central parts of the Milky
 Way <http://www.eso.org/public/images/eso1242a/zoomable/>`__
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/milchstrasse_9gigapixel.jpg
+.. |image0| image:: images/milchstrasse_9gigapixel.jpg
    :class: size-full wp-image-5121
    :width: 355px
    :height: 355px
-   :target: http://www.lioman.de/wp-content/uploads/milchstrasse_9gigapixel.jpg
+   :target: images/milchstrasse_9gigapixel.jpg

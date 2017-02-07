@@ -16,8 +16,8 @@ gehört dir.
 Na das war ja eine wortreiche Vorstellung - Willkommen auf meinem Blog!
 Gehörst wohl nicht zu den gesprächigsten Gesellen.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/Dicker_Mausekaefer_klein.png
+.. |image0| image:: images/Dicker_Mausekaefer_klein.png
    :class: aligncenter size-full wp-image-2585
    :width: 683px
    :height: 384px
-   :target: http://www.lioman.de/wp-content/uploads/Dicker_Mausekaefer_klein.png
+   :target: images/Dicker_Mausekaefer_klein.png

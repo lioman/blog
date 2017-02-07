@@ -17,8 +17,8 @@ Hormonen liegen:
 
 |image0|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/google_lml_ist.png
+.. |image0| image:: images/google_lml_ist.png
    :class: aligncenter size-full wp-image-3192
    :width: 736px
    :height: 324px
-   :target: http://www.lioman.de/wp-content/uploads/google_lml_ist.png
+   :target: images/google_lml_ist.png

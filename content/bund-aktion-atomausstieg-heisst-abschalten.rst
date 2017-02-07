@@ -84,8 +84,8 @@ Kernkraftwerken nicht mehr lohnt muss man einfach nur den
 `Stromanbieter <http://www.bund.net/bundnet/aktiv_werden/aktionen/atomausstieg_selber_machen/>`__
 wechseln.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/Atomausstieg_banner_180.jpg
+.. |image0| image:: images/Atomausstieg_banner_180.jpg
    :class: size-full wp-image-1448 alignright
    :width: 180px
    :height: 180px
-   :target: http://www.lioman.de/wp-content/uploads/Atomausstieg_banner_180.jpg
+   :target: images/Atomausstieg_banner_180.jpg

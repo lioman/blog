@@ -55,8 +55,8 @@ Programm. Möchte man es nur in der Benachrichtigungsleiste haben, muss
 man auf das Icon klicken und kann dann mit einem Klick auf "*Hide*" das
 Fenster verstecken.
 
-.. |Logo des Programms Tomate| image:: http://www.lioman.de/wp-content/uploads/tomate-300x300.png
+.. |Logo des Programms Tomate| image:: images/tomate-300x300.png
    :class: wp-image-5700 size-medium
    :width: 300px
    :height: 300px
-   :target: http://www.lioman.de/wp-content/uploads/tomate.png
+   :target: images/tomate.png

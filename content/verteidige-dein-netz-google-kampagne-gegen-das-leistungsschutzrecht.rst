@@ -31,8 +31,8 @@ zusammengefasst. Möchte man genauere Informationen, sollte man bei
 
 http://www.youtube.com/watch?v=OvhrC2eWIxw
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/deinnetz_logo.png
+.. |image0| image:: images/deinnetz_logo.png
    :class: size-full wp-image-5200
    :width: 207px
    :height: 97px
-   :target: http://www.lioman.de/wp-content/uploads/deinnetz_logo.png
+   :target: images/deinnetz_logo.png

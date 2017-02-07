@@ -54,8 +54,8 @@ Server:
 -  `ubuntu-11.04-server-amd64.iso.torrent <http://releases.ubuntu.com/11.04/ubuntu-11.04-server-amd64.iso.torrent>`__
 -  `ubuntu-11.04-server-i386.iso.torrent <http://releases.ubuntu.com/11.04/ubuntu-11.04-server-i386.iso.torrent>`__
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/tux2.png
+.. |image0| image:: images/tux2.png
    :class: alignleft size-full wp-image-3079
    :width: 101px
    :height: 121px
-   :target: http://www.lioman.de/wp-content/uploads/tux2.png
+   :target: images/tux2.png

@@ -36,8 +36,8 @@ Und das wird auf Twitter gepfiffen:
    // ]]></script>
    </p>
 
-.. |Liu Xiaobo| image:: http://www.lioman.de/wp-content/uploads/Liu_Xiaobo-300.jpg
+.. |Liu Xiaobo| image:: images/Liu_Xiaobo-300.jpg
    :class: size-full wp-image-2140
    :width: 300px
    :height: 305px
-   :target: http://www.lioman.de/wp-content/uploads/Liu_Xiaobo-300.jpg
+   :target: images/Liu_Xiaobo-300.jpg

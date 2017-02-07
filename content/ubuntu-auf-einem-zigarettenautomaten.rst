@@ -31,8 +31,8 @@ geschossen von
 **Update:** Nachdem die Wordpress-Androidanwendung das Bild geschluckt
 hat, habe ich dieses nochmal hinzugefügt
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/ubuntu_zigarettenautomat.jpg
+.. |image0| image:: images/ubuntu_zigarettenautomat.jpg
    :class: size-full wp-image-4965
    :width: 675px
    :height: 900px
-   :target: http://www.lioman.de/wp-content/uploads/ubuntu_zigarettenautomat.jpg
+   :target: images/ubuntu_zigarettenautomat.jpg

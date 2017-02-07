@@ -31,13 +31,13 @@ If you have any questions ask me by commenting here.
 
  
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/getlinkmetabox.png
+.. |image0| image:: images/getlinkmetabox.png
    :class: aligncenter size-full wp-image-4259
    :width: 283px
    :height: 99px
-   :target: http://www.lioman.de/wp-content/uploads/getlinkmetabox.png
-.. |image1| image:: http://www.lioman.de/wp-content/uploads/getlinkmeta_description.png
+   :target: images/getlinkmetabox.png
+.. |image1| image:: images/getlinkmeta_description.png
    :class: aligncenter wp-image-4260
    :width: 299px
    :height: 298px
-   :target: http://www.lioman.de/wp-content/uploads/getlinkmeta_description.png
+   :target: images/getlinkmeta_description.png

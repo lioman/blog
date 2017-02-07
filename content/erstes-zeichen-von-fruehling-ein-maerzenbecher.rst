@@ -16,8 +16,8 @@ vernum)* <https://secure.wikimedia.org/wikipedia/de/wiki/M%C3%A4rzenbecher>`__
 
 |image0|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/maerzenbecher-225x300.jpg
+.. |image0| image:: images/maerzenbecher-225x300.jpg
    :class: aligncenter size-medium wp-image-2907
    :width: 306px
    :height: 409px
-   :target: http://www.lioman.de/wp-content/uploads/maerzenbecher.jpg
+   :target: images/maerzenbecher.jpg

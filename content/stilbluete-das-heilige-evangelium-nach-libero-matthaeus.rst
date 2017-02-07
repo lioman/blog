@@ -22,8 +22,8 @@ einem breiten Grinsen erspare:
 
  
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/Lotharevangelium.jpg
+.. |image0| image:: images/Lotharevangelium.jpg
    :class: aligncenter size-full wp-image-3143
    :width: 948px
    :height: 238px
-   :target: http://www.lioman.de/wp-content/uploads/Lotharevangelium.jpg
+   :target: images/Lotharevangelium.jpg

@@ -22,7 +22,7 @@ auf Normalmaß zurück?
 Vielleicht hat ja irgendjemand antworten. Hier gibt es dank Akismet aber
 kein SPAM
 
-.. |spammonatmai| image:: http://www.lioman.de/wp-content/uploads/spammonatmai.png
+.. |spammonatmai| image:: images/spammonatmai.png
    :class: alignright size-full wp-image-715
    :width: 283px
    :height: 208px

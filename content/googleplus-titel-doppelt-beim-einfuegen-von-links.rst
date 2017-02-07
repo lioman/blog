@@ -26,8 +26,8 @@ musste (bzw. dessen Opengraphfunktion).
 
  
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/titeldoppeltgplus.jpg
+.. |image0| image:: images/titeldoppeltgplus.jpg
    :class: aligncenter size-full wp-image-3964
    :width: 300px
    :height: 147px
-   :target: http://www.lioman.de/wp-content/uploads/titeldoppeltgplus.jpg
+   :target: images/titeldoppeltgplus.jpg

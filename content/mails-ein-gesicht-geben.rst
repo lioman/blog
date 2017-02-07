@@ -35,8 +35,8 @@ per E-Mail kann man leicht den Überblick verlieren. Ein Bild ist ein
 einfacher Anhaltspunkt und es ist doch auch schön, wenn einem die
 Liebste über ihrer Mail anlächelt.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/DisplayPhoto.png
+.. |image0| image:: images/DisplayPhoto.png
    :class: aligncenter size-full wp-image-2477
    :width: 600px
    :height: 518px
-   :target: http://www.lioman.de/wp-content/uploads/DisplayPhoto.png
+   :target: images/DisplayPhoto.png

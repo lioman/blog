@@ -77,18 +77,18 @@ sich oberhalb des Kommentarfeldes Persona jedoch unterhalb. Möchte man
 dies verbessern sind Änderungen am Theme notwendig und ich hoffe einfach
 darauf, dass Persona bald in Hybridauth eingebaut wird.
 
-.. |Wordpress.com Kommentarformular| image:: http://www.lioman.de/wp-content/uploads/wordpress_com-commentform-300x144.png
+.. |Wordpress.com Kommentarformular| image:: images/wordpress_com-commentform-300x144.png
    :class: size-medium wp-image-5332
    :width: 300px
    :height: 144px
-   :target: http://www.lioman.de/wp-content/uploads/wordpress_com-commentform.png
-.. |Einstellungen des "Wordpress Social Login" Plugins| image:: http://www.lioman.de/wp-content/uploads/wps_facebook-einstellungen-300x195.png
+   :target: images/wordpress_com-commentform.png
+.. |Einstellungen des "Wordpress Social Login" Plugins| image:: images/wps_facebook-einstellungen-300x195.png
    :class: size-medium wp-image-5333
    :width: 300px
    :height: 195px
-   :target: http://www.lioman.de/wp-content/uploads/wps_facebook-einstellungen.png
-.. |Kommentarfeld mit Social Logins| image:: http://www.lioman.de/wp-content/uploads/wordpress_social_logins_kommentarfeld-300x254.png
+   :target: images/wps_facebook-einstellungen.png
+.. |Kommentarfeld mit Social Logins| image:: images/wordpress_social_logins_kommentarfeld-300x254.png
    :class: size-medium wp-image-5336
    :width: 300px
    :height: 254px
-   :target: http://www.lioman.de/wp-content/uploads/wordpress_social_logins_kommentarfeld.png
+   :target: images/wordpress_social_logins_kommentarfeld.png

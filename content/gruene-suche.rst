@@ -45,7 +45,7 @@ die Zusammenarbeit eingestellt.
 nichts, wenn auch nun keine Angaben mehr über die geretteten
 Quadratmeter pro Suche gemacht werden.
 
-.. |forestle| image:: http://www.lioman.de/wp-content/uploads/forestle.gif
+.. |forestle| image:: images/forestle.gif
    :class: alignright size-full wp-image-862
    :width: 370px
    :height: 110px

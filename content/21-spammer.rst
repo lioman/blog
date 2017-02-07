@@ -58,7 +58,7 @@ Clever gemacht!
     Ab einer bestimmten Summe sollte es zur Pflicht werden, dass es
     einen Volksentscheid gibt!
 
-.. |SPAM Dose| image:: http://www.lioman.de/wp-content/uploads/spam-300x157.jpg
+.. |SPAM Dose| image:: images/spam-300x157.jpg
    :class: size-medium wp-image-5482
    :width: 300px
    :height: 157px

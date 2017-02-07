@@ -173,7 +173,7 @@ Instructions
 #. Die Baguettes sind nach 20-30 Minuten knusprig und fertig und können
    zum Abkühlen aus dem Ofen geholt werden.[br][img width="280"
    style="float:left"
-   src="http://www.lioman.de/wp-content/uploads/oliven-tomatenbaguettes\_klein.jpg"]
+   src="images/oliven-tomatenbaguettes\_klein.jpg"]
 
 .. raw:: html
 

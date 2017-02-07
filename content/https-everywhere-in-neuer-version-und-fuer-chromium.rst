@@ -32,8 +32,8 @@ HTTPS Everywhere in neuer Version und für Chromium
   genießen, da sie noch nicht vollkommen fertig sind und daher auch noch
   nicht 100%ig stabil funktionieren.
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/httpseverywhere_icon.jpg
+.. |image0| image:: images/httpseverywhere_icon.jpg
    :class: alignright size-full wp-image-4495
    :width: 71px
    :height: 60px
-   :target: http://www.lioman.de/wp-content/uploads/httpseverywhere_icon.jpg
+   :target: images/httpseverywhere_icon.jpg

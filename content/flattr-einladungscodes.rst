@@ -16,8 +16,8 @@ habe ich zur Verfügung! |Flattr Logo|
 Die Ersten, die hier einen Kommentar hinterlassen bekommen einen und
 können dabei sein und den neuen Micropayment-Dienst testen.
 
-.. |Flattr Logo| image:: http://www.lioman.de/wp-content/uploads/flattr-logo-beta.png
+.. |Flattr Logo| image:: images/flattr-logo-beta.png
    :class: alignright size-full wp-image-1551
    :width: 218px
    :height: 43px
-   :target: http://www.lioman.de/wp-content/uploads/flattr-logo-beta.png
+   :target: images/flattr-logo-beta.png

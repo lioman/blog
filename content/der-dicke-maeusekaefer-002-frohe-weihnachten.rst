@@ -9,8 +9,8 @@ Der Dicke Mäusekäfer #002: Frohe Weihnachten
 
 |image0|
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/WeihnachtsDicker_Mausekaefer.png
+.. |image0| image:: images/WeihnachtsDicker_Mausekaefer.png
    :class: aligncenter size-full wp-image-2693
    :width: 900px
    :height: 1400px
-   :target: http://www.lioman.de/wp-content/uploads/WeihnachtsDicker_Mausekaefer.png
+   :target: images/WeihnachtsDicker_Mausekaefer.png

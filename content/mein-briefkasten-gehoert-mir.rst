@@ -47,8 +47,8 @@ http://vimeo.com/41071633
 
  
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/alle-gegen-bild_logo_500x200.png
+.. |image0| image:: images/alle-gegen-bild_logo_500x200.png
    :class: alignright size-full wp-image-4706
    :width: 500px
    :height: 200px
-   :target: http://www.lioman.de/wp-content/uploads/alle-gegen-bild_logo_500x200.png
+   :target: images/alle-gegen-bild_logo_500x200.png

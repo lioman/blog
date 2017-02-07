@@ -15,7 +15,7 @@ Alter Postweg 15A, 76149 Karlsruhe
 
 E-Mail: `blog [at] lioman.de <mailto:blog@lioman.de>`__
 
-GPG-Schlüssel: \ `8371B35E.asc <http://www.lioman.de/wp-content/uploads/8371b35e.asc>`__
+GPG-Schlüssel: \ `8371B35E.asc <images/8371b35e.asc>`__
 
 Tel.: 0151-56933605
 

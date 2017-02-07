@@ -20,8 +20,8 @@ die Flutwelle überlebt haben.
 
 http://www.youtube.com/watch?v=yp9iJ3pPuL8&webm=1
 
-.. |image0| image:: http://www.lioman.de/wp-content/uploads/artikel_nuklear.png
+.. |image0| image:: images/artikel_nuklear.png
    :class: alignleft size-full wp-image-2926
    :width: 117px
    :height: 117px
-   :target: http://www.lioman.de/wp-content/uploads/artikel_nuklear.png
+   :target: images/artikel_nuklear.png

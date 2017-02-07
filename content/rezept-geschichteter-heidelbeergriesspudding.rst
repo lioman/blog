@@ -133,7 +133,7 @@ Instructions
    <div class="instructions">
 
 #. [img style="float:right"
-   src="http://www.lioman.de/wp-content/uploads/Heidelbeer\_grie%C3%9Fpudding\_Schnitt.jpg"
+   src="images/Heidelbeer\_grie%C3%9Fpudding\_Schnitt.jpg"
    width="351px" height="288px"][br]Die Milch mit Zucker,Salz und Butter
    zum Kochen bringen. Den Grieß einrühren und bei schwacher Hitze
    quellen lassen.

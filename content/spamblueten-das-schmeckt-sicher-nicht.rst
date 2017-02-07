@@ -23,7 +23,7 @@ nicht. Abgesehen davon gebe ich ihn nicht her. Ich muss dich also
 enttäuschen lieber Robertas, mein Computer und dieser Dessert begegnen
 sich nur auf digitalem Wege.
 
-.. |SPAM Dose| image:: http://www.lioman.de/wp-content/uploads/spam-300x157.jpg
+.. |SPAM Dose| image:: images/spam-300x157.jpg
    :class: size-medium wp-image-5482
    :width: 300px
    :height: 157px
