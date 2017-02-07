@@ -2,7 +2,7 @@ Eulige Käsecracker
 ##################
 :date: 2013-01-21 13:28
 :author: Lioman
-:category: Allgemein, Kochen &amp; Backen
+:category: Kochen &amp; Backen
 :tags: Keks, Salzgebäck, vegetarisch
 :slug: eulige-kaesecracker
 :status: published
