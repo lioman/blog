@@ -7,13 +7,13 @@ Internetseite richtig umziehen
 :slug: internetseite-richtig-umziehen
 :status: published
 
-***Vor einiger Zeit habe ich mit diesem Blog die Domain gewechselt. Ich
+Vor einiger Zeit habe ich mit diesem Blog die Domain gewechselt. Ich
 fand lioman.de einfach passender als blog.familie-kirchgaessner.de,
 schon einfach weil die alte Domain einfach zu lange war. Doch leider
 sind damit auch weniger Leser hier gelandet. Warum? - Ich bin falsch
-umgezogen.***
+umgezogen.
 
- Ich habe hier wohl nicht viele regelmäßige Leser. Die Nutzer kommen
+Ich habe hier wohl nicht viele regelmäßige Leser. Die Nutzer kommen
 doch eher per Suchmaschine, Blogverzeichnis oder ähnliche
 Internetdienste auf meine Seite. Ich bin also darauf angewiesen, dass
 Suchmaschinen alle Themen ordentlich indexieren und dann publizieren.
@@ -25,10 +25,6 @@ zueinander zugehörig gesehen. Im Gegenteil es gibt nun plötzlich zwei
 Seiten mit tupfengleichem Inhalt, Das erkennen die modernen
 Suchalgorythmen und schmeißen den bösen Kopierer (neue Domain) raus bzw.
 schieben die Ergebnisse im Ranking nach unten.
-
-.. raw:: html
-
-   </p>
 
 Die Lösung für dieses Problem ist eigentlich ganz einfach: Der
 Error-Code 301.
@@ -44,14 +40,13 @@ Adresse*"
 Das ganze kann man unterschiedlich umsetzen. Eine Möglichkeit wäre per
 *.htacces* einfacher jedoch geht es mit folgendem  PHP-Script:
 
-::
+.. code:: php
 
+   <?php
+    header("HTTP/1.1 301 Moved Permanently");
+    header("Location: http://www.NEUEADRESSE.TLD");
+    header("Connection: close");?>;
 
-    ;
-
-.. raw:: html
-
-   </p>
 
 **WICHTIG**: Umleitung prüfen
 
@@ -59,10 +54,10 @@ Man muss sein kleines Script umbedingt mit einem Webtool wie
 `web-sniffer.net <http://web-sniffer.net/>`__ prüfen. Ich hatte einen
 Copy + Paste Fehler und so sieht es bei diversen Suchmaschinen so aus:
 
-|blog\_google\_umleitungsfehler|\ Genau das wollte ich ja verhindern.
+|blog_google_umleitungsfehler|\ Genau das wollte ich ja verhindern.
 Eine Unerreichbarkeit meiner alten Adresse
 
-.. |blog\_google\_umleitungsfehler| image:: images/blog_google_umleitungsfehler.png
+.. |blog_google_umleitungsfehler| image:: images/blog_google_umleitungsfehler.png
    :class: aligncenter size-full wp-image-1128
    :width: 552px
    :height: 75px

@@ -1,5 +1,5 @@
-#iranelection Cyberwar für Anfänger
-###################################
+\#iranelection Cyberwar für Anfänger
+####################################
 :date: 2009-06-16 17:06
 :author: Lioman
 :category: Allgemein, Gesellschaft, Internet, Welt
@@ -46,8 +46,7 @@ die Wahl über das Netzwerk Twitter zu helfen.
    von wirklichen Iranischen Bloggern genannt werden. Diese Attacken
    können auch das Netzwerk der protestierenden Bevölkerung schädigen.
    Du kannst also mehr kaputt machen als das du hilfst **-** also
-   **Finger weg!!
-   **
+   **Finger weg!!**
 #. Verteile die (gesicherte) Nachricht, es funktioniert!  Als die
    Blogger Twitter, mit Benutzung des #nomaintenance-Tag, fragten, ob 
    die geplanten Wartungsarbeiten nicht verschoben werden könnten, Kam

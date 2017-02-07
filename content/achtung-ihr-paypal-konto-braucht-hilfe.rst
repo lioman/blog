@@ -7,10 +7,6 @@ Achtung: Ihr Paypal-Konto braucht Hilfe
 :slug: achtung-ihr-paypal-konto-braucht-hilfe
 :status: published
 
-.. raw:: html
-
-   <div>
-
 Da ich jetzt schon zum zweiten Mal eine Mail von "Paypal" bekommen habe
 möchte ich einfach mal davor warnen. Es sind derzeit wieder Pishingmails
 im Umlauf. Diese sind vergleichsweise gut gemacht. Normalerweise
@@ -21,53 +17,22 @@ sprachlich tatsächlich von Paypal stammen. Aber ein  sicheres Anzeichen
 dafür, dass es hier nur jemand auf Zugangsdaten abgesehen hat ist der
 Link. Denn
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
 #. dieser führt nicht zu Paypal sondern über eine slovakische Seite zu
    einer amerikanischen IP-Adresse. und
 #. Paypal würde nie einen Link in einer solchen Mail platzieren, sonder
    darum bitten sich auf Paypal einzuloggen.
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-|Paypal\_Pishing1|\ Würde man auf den Link klicken käme man auf eine gut
+|Paypal_Pishing1|\ Würde man auf den Link klicken käme man auf eine gut
 nachgemachte Paypalseite. Alle Links darauf führen nicht zu den
 ursprünglichen Paypalseiten sondern auf eine Pornoseite. Man wollte sich
 wohl doch nicht zu viel Mühe machen und von kritischen Zeitgenossen
 wenigstens noch die paar Cent Werbeeinnahmen abgreifen. Gibt man eine
 E-Mailadresse und ein Passwort ein landet man wiederum auf einer neuen
 Seite, die nun auch noch versucht die Kreditkarteninformationen des
-Opfers zu bekommen. |Paypal\_Pishing2|\ Würde man darauf hereinfallen
+Opfers zu bekommen. |Paypal_Pishing2|\ Würde man darauf hereinfallen
 und hier echte Informationen eintragen, steht dem nächsten Luxusurlaub
 der Kriminellen wohl nichts mehr im Wege.
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
 
 Sollte man eine solche Mail von Paypal bekommen kann man diese auch an
 taeuschung@paypal.de weiterleiten. Man bekommt dann eine Bestätigung,
@@ -76,14 +41,6 @@ möchte solch übles gesindel zu bekämpfen kann man die Mail mit allen
 Header-Informationen auch an spoof@paypal.com weiterleiten. Auf jeden
 Fall sollte man immer genau überlegen bevor man einen Link aus einer
 Mail öffnet.
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
 
 Hier die Mail:
 
@@ -282,12 +239,12 @@ Hier die Mail:
 
        </div>
 
-.. |Paypal\_Pishing1| image:: images/paypal_pishing1-300x208.png
+.. |Paypal_Pishing1| image:: images/paypal_pishing1-300x208.png
    :class: alignright size-medium wp-image-5490
    :width: 300px
    :height: 208px
    :target: images/paypal_pishing1.png
-.. |Paypal\_Pishing2| image:: images/paypal_pishing2-300x230.png
+.. |Paypal_Pishing2| image:: images/paypal_pishing2-300x230.png
    :class: alignleft size-medium wp-image-5491
    :width: 300px
    :height: 230px

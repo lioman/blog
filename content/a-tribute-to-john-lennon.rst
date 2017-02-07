@@ -7,9 +7,9 @@ A Tribute to John Lennon
 :slug: a-tribute-to-john-lennon
 :status: published
 
-Am 9.10. dieses Jahres wäre John Lennon 60 geworden. `Dan
-Bull <http://itsdanbull.com/>`__ hat ein Lied aus Songtiteln des
-Ex-Beatles geschrieben und auf Youtube veröffentlicht.
+Am 9.10. dieses Jahres wäre John Lennon 60 geworden.
+`Dan Bull <http://itsdanbull.com/>`__ hat ein Lied aus Songtiteln des
+Ex-Beatles geschrieben und auf YouTube veröffentlicht.
 
 http://www.youtube.com/watch?v=t6nVnlxPoGA&feature=player\_embedded
 

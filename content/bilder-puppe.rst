@@ -17,8 +17,6 @@ erstmal auf die Jagd gehen.
 
 |Puppe01|\ |Puppe06|\ |Puppe07|\ |Puppe08|\ |schlupfglas1|\ |Schlupfglas2|
 
-**
-**
 
 **Nachtrag**: Dies war die Puppe einer Messingeule, dass hat sich erst
 nach dem Schlüpfen gezeigt.

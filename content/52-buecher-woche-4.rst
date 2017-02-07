@@ -7,13 +7,12 @@
 :slug: 52-buecher-woche-4
 :status: published
 
-    *Man kann haban vornach-buch haven-ta vor-wenn prebaldon
-    retroginganz zuruc-haim.*
-
-    *Man kann ohne vorherige ( nach vor-wenn) Reservierund zu jeder
-    Veranstaltung kommen (mochtan komm zu-wenn), zu der man möchte, weil
-    man nachträglich buchen kann, wenn man sozusagen wieder in die
-    eigene Zeit zurückgekehrt ist.*
+|    *Man kann haban vornach-buch haven-ta vor-wenn prebaldon retroginganz zuruc-haim.*
+|
+|    *Man kann ohne vorherige ( nach vor-wenn) Reservierund zu jeder
+     Veranstaltung kommen (mochtan komm zu-wenn), zu der man möchte, weil
+     man nachträglich buchen kann, wenn man sozusagen wieder in die
+     eigene Zeit zurückgekehrt ist.*
 
 `Eindeutig der schönste
 Satz <http://monstermeute.wordpress.com/2011/11/25/52-bucher-woche-4/>`__,

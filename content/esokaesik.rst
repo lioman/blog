@@ -10,7 +10,7 @@ Esokäsik
 Neulich wurde ich auf folgende Anzeige in einem Supermarkt-Prospekt
 gestoßen:
 
-|alles\_kaese|
+|alles_kaese|
 
 Ich habe mich sofort gefragt was **Lichtblüten -** und
 **Wärmefruchttage** sind. Und erst **Aqua-Luna-Wasser**?
@@ -69,7 +69,7 @@ zufällig grad' jemand eine dabei?
 
 Nur dass ich die Wurststulle durch ein großes Schnitzel ersetzen würde.
 
-.. |alles\_kaese| image:: images/alles_kaese-238x300.png
+.. |alles_kaese| image:: images/alles_kaese-238x300.png
    :class: alignleft size-medium wp-image-455
    :width: 238px
    :height: 300px

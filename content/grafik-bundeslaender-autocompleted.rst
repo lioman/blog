@@ -13,12 +13,10 @@ eine Grafik von Amerikas Bundesstaaten zeigt- auf der jeweils der erste
 Google-Autovervollständigen-Vorschlag eingetragen ist, habe ich selbst
 eine solche Karte von Deutschland erstellt:
 
-|Bundesländer autocompleted|
+|Bundeslaender_autocompleted|
 
-Die Grafik steht wie immer
-unter\ ``CC-By-NC-SA <http://creativecommons.org/licenses/by-nc-sa/3.0/de/>`__
- <images/Bundeslaender_autocompleted.png>`__\ Immer
-der erste Vorschlag zählte und so verweist Sachsen eben auf
+Die Grafik steht wie immer unter \``CC-By-NC-SA <http://creativecommons.org/licenses/by-nc-sa/3.0/de/>`__ <images/Bundeslaender_autocompleted.png>`__\
+Immer der erste Vorschlag zählte und so verweist Sachsen eben auf
 Sachsen-Anhalt und in Brandenburg scheint die gleichnamige Stadt,wie in
 Hessen - Kassel, die wichtigste zu sein.  Während in vielen Ländern das
 günstige Länderticket eifrig genutzt wird - nehmen Hamburger gleich das
@@ -31,7 +29,7 @@ Erde - aber in Bayern, Bremen und Schleswig-Holstein ist man darüber
 bestens informiert. Und Sachsen-Anhalt?  Da interessiert man sich vor
 allen Dingen für den eigenen Das-Land-Lebe-Hoch-Tag.
 
-.. |Bundesländer autocompleted| image:: images/Bundeslaender_autocompleted.png
+.. |Bundeslaender_autocompleted| image:: images/Bundeslaender_autocompleted.png
    :class: aligncenter size-full wp-image-2536
    :width: 500px
    :height: 646px

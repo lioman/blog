@@ -33,7 +33,7 @@ Sauerstoff benötigt wird.
    <dl>
    <dd>
 
-|\\mathrm{Fe\_2O\_3 + 2 \\ Al \\longrightarrow 2 \\ Fe + Al\_2O\_3}|
+|reaktionsgleichung|
 
 .. raw:: html
 
@@ -46,7 +46,7 @@ das ganze geht in die Luft.
 Wir sollten also eher in Terrorismusvorbeugung und Personal investieren,
 als in  (aus vielerlei Hinsicht)  zweifelhafte Technik
 
-.. |\\mathrm{Fe\_2O\_3 + 2 \\ Al \\longrightarrow 2 \\ Fe + Al\_2O\_3}| image:: http://upload.wikimedia.org/math/a/e/0/ae0c33d693671c726c19aff3ab8c362d.png
+.. |reaktionsgleichung| image:: http://upload.wikimedia.org/math/a/e/0/ae0c33d693671c726c19aff3ab8c362d.png
    :class: aligncenter
    :width: 267px
    :height: 20px
