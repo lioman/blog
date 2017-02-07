@@ -1,0 +1,28 @@
+Große Sonneneruption
+####################
+:date: 2011-06-16 18:43
+:author: Lioman
+:category: Allgemein, PC und Technik
+:tags: Astronomie, Eruption, NASA, Sonne
+:slug: grosse-sonneneruption
+:status: published
+
+|Sonneneruption|\ Am 07.06.2011 gab es eine riesige Sonneneruption. mit
+den Programm `JHelioviewer <http://jhelioviewer.org/>`__ kann man auf
+verschiedenste Bilder der NASA (Solar Dynamics Observatory) zugreifen.
+Man kann auch Videos exportieren und so kann man sich die Fontäne
+zwischen 6:00 - 8:30 UTC anschauen.
+
+Um eine möglichst hohe Qualität zu gewährleisten, habe ich die Sequenz
+als Einzelbilder exportiert und später mit
+`Openshot <http://www.openshot.org/>`__ zusammengeschnitten. Voilà:
+
+http://www.youtube.com/watch?v=j2B56nDX64E
+
+Faszinierend!
+
+.. |Sonneneruption| image:: http://www.lioman.de/wp-content/uploads/sonneneruption.png
+   :class: alignright size-full wp-image-3296
+   :width: 130px
+   :height: 130px
+   :target: http://www.lioman.de/wp-content/uploads/sonneneruption.png

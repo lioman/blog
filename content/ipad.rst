@@ -1,0 +1,50 @@
+IPad
+####
+:date: 2010-01-28 17:37
+:author: Lioman
+:category: PC und Technik
+:tags: apple, e reader, hype, ipad, notebook
+:slug: ipad
+:status: published
+
+***Das Netz ist voll davon, überall auf jedem Blog, auf jeder
+Nachrichten-, Computer- oder Technikseite wird das neue IPad besprochen,
+gezeigt und gelobt oder verurteilt.***
+
+Irgendwie nervt das, ich musste mich in meinem RSS-Reader durch die
+tausend Artikel wühlen, sie löschen und verwerfen. Mich stört der Hype
+um die die Technikprodukte aus dem Hause Apple. In vielen Dingen mögen
+sie innovativ sein, schlussendlich sind es jedoch Cashcows, die so
+abgeschlossen sind, dass die Software aus dem Hause Microsoft dagegen
+fast schon Open-Source ist.
+
+Wenn das IPad wiklich ein Notebook/Netbook erseten soll, dann muss ich
+als Benutzer bestimmen können, welche Programme ich darauf ausführen
+will. Aber Apple nimmt den Nutzer an die Kette und so ist man auf die
+Anwendungen aus dem App-Store angewiesen. Will ich irgendeine schicke,
+nütlich Java-Applikation installieren schaue ich in die Röhre (oder beim
+IPad eher auf das LCD).
+
+.. raw:: html
+
+   </p>
+
+Ich muss aber zugeben, dass die Buchsimulationen super aussehen. Ein
+Buch kann es dennoch nicht ersetzen und als großen eReader halte ich es
+auch nicht für tauglich. Ein E-Reader muss meiner Ansicht nach möglichst
+leicht sein und ewig Strom haben. Ich bezweifle, dass das mit dem bunten
+Bildschirm möglich ist. (Wenn jemand da etwas genaueres weiß darf er
+mich gerne eines Besseren belehren).
+
+So und nun habe ich auch einen IPad-Artikel geschrieben, obwohl ich den
+allgemeinen Hype um das Leuchtbrett aus dem Apfelhaus nicht verstehen
+kann.
+
+So und hier noch ein Bild von einem ganzen Stapel Ei-Pads
+
+|image0|
+
+.. |image0| image:: http://static.flickr.com/2530/4214569622_f82d94f314.jpg
+   :width: 500px
+   :height: 375px
+   :target: http://www.flickr.com/photos/sooperkuh/4214569622/

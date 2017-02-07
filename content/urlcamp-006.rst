@@ -1,0 +1,55 @@
+URLcamp #006
+############
+:date: 2011-10-25 12:16
+:author: Lioman
+:category: Internet, URLcamp
+:tags: Eclipse, Facebook, Linksammlung, Linktipp, RIP, URL, URLcamp
+:slug: urlcamp-006
+:status: published
+
+|image0|\ Folge 006 des URLcamps:
+---------------------------------
+
+ 
+
+Viel zu lange vernachlässigt: Mein
+`URLcamp <http://www.lioman.de/category/allgemein/internet/urlcamp/>`__.
+Endlich schaffe ich es mal wieder ein paar Links zu sammeln und zu
+setzen.
+
+Facebook entzieht Eclipseprojekt die URL und gibt sie gut (zahlenden?)
+Vampiren
+
+`Vampires First: Facebook entzieht Eclipse die Vanity-URL <http://it-republik.de/jaxenter/news/Vampires-First-Facebook-entzieht-Eclipse-die-Vanity-URL-060820.html>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Unmut hat eine Aktion von Facebook in der Eclipse-Community ausgelöst.
+Die vormalig von der Eclipse Foundation besetzte Facebook Vanity URL
+facebook.com/Eclipse wurde von Facebook stillschweigend geändert und an
+die Vampir-Kinoserie Twilight vergeben[....]*
+
+Zum Tod des Informatik-Pioniers John McCarthy
+
+`((Requiescat) in (pace)): Zum Tod von John McCarthy <http://www.heise.de/ix/meldung/Requiescat-in-pace-Zum-Tod-von-John-McCarthy-1366069.html>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ 
+
+*[...]McCarthy erfand die Programmiersprache Lisp und prägte den Begriff
+Künstliche Intelligenz (KI). Im Jahre 1961 machte McCarthy den
+Vorschlag, künftige Computer müssten mit ihrer Rechenkraft als
+öffentliche Ressource allen Menschen zur Verfügung stehen.[...]*
+
+Und zum Thema Artenschutz:
+
+`Nashorn in Vietnam ausgestorben <http://www.wwf.de/presse/details/news/nashorn_in_vietnam_ausgestorben/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In Vietnam wurde das letzte Java-Nashorn getötet und die Art kann als
+ausgerottet gelten.
+
+.. |image0| image:: http://www.lioman.de/wp-content/uploads/wegweiser_klein.jpg
+   :class: alignright size-full wp-image-5066
+   :width: 250px
+   :height: 375px
+   :target: http://www.lioman.de/wp-content/uploads/wegweiser_klein.jpg
