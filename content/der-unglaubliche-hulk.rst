@@ -17,7 +17,7 @@ der Film in diesem Monat unter dem Namen: ***The Incredible Hulk*** bzw.
 ***Der Unglaubliche Hulk*** in die Kinos.
 
 Und anscheinend ist er wirklich besser, die Kinogänger und auch Kritiker
-äußern sich positiv und der **Grüne**\ ****\ spielte in den USA 54,5
+äußern sich positiv und der **Grüne** spielte in den USA 54,5
 Millionen Dollar am Startwochenende ein.
 
 In Deutschland startet der Film in zwei eigentlich sogar in drei

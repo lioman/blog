@@ -2,7 +2,7 @@ URLcamp #008
 ############
 :date: 2014-12-02 12:01
 :author: Lioman
-:category: Allgemein, URLcamp
+:category: URLcamp
 :tags: apple, Mozilla, ssl, Supercomputer, Ubuntu
 :slug: urlcamp-008
 :status: published
@@ -23,9 +23,6 @@ enthält Links, die ich irgendwie für besuchenswert halte.
       Factory <http://www.phoronix.com/scan.php?page=article&item=macbook_yosemite_4way&num=1http://>`__
       :name: os-x-10.10-vs.-ubuntu-14.10-vs.-fedora-21-vs.-opensuse-factory
 
-   .. raw:: html
-
-      <p>
 
    *Phoronix testete unterschiedliche Systeme auf einem aktuellen
    MacBook AirThis week. Die Ergebnisse sind überraschend[....]*
@@ -36,9 +33,6 @@ enthält Links, die ich irgendwie für besuchenswert halte.
       einfach <http://www.golem.de/news/let-s-encrypt-zertifikate-kostenlos-und-einfach-1411-110641.html>`__
       :name: zertifikate-kostenlos-und-einfach
 
-   .. raw:: html
-
-      <p>
 
    *Eine neue, gemeinnützige Zertifizierungsstelle soll die Verbreitung
    von HTTPS-Verbindungen fördern. Beteiligt sind neben Mozilla und der
@@ -46,20 +40,11 @@ enthält Links, die ich irgendwie für besuchenswert halte.
 
 -  **Hornisse in Stuttgart**
 
-   .. raw:: html
-
-      </p>
-
    .. rubric:: `Universität Stuttgart nimmt Supercomputer “Hornet” in
       Betrieb <http://www.zdnet.de/88212623/universitaet-stuttgart-nimmt-supercomputer-hornet-betrieb/>`__
       :name: universität-stuttgart-nimmt-supercomputer-hornet-in-betrieb
 
-   .. raw:: html
-
-      <p>
-
-   *
-   Das Höchstleistungsrechenzentrum der Universität Stuttgart (HLRS) hat
+   *Das Höchstleistungsrechenzentrum der Universität Stuttgart (HLRS) hat
    den Supercomputer “Hornet” in Betrieb genommen. Der neue
    Hochleistungsrechner [....] fast viermal so schnell sein wie das
    vorherige System “Hermit”.[....]*

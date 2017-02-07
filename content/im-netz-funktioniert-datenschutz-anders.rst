@@ -39,7 +39,9 @@ Fragen nicht außer Acht lassen.
 Möchte man obige Grafik irgendwo einbinden, kann man dies über folgenden
 Code tun:
 
-::
+.. code :: html
+
+   <img src="http://tilli.me/privacyimg/einbild.png" width="400" height="400" style="border:2 px solid black" alt="PrivacyImg - Ein interaktives Beispiel." />
 
 .. |PrivacyImg - Ein interaktives Beispiel. Konfiguration ueber http://tilli.me/privacyimg| image:: http://tilli.me/privacyimg/einbild.png
    :width: 400px

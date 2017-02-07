@@ -20,6 +20,14 @@ Geburtsurkunde :-)
 
 Hier noch ein paar Bilder
 
-`
- <http://www.lioman.de/?attachment_id=1915>`__\ `
- <http://www.lioman.de/?attachment_id=1914>`__\ [gallery link="file"]
+|messingeule1|
+|messingeule2|
+
+
+.. |messingeule1| image:: images/messingeule0001-150x150.jpg
+   :class: alignleft size-full wp-image-3275
+   :target: images/messingeule0001.jpg
+
+.. |messingeule2| image:: images/messingeule0002-150x150.jpg
+   :class: alignleft size-full wp-image-3275
+   :target: images/messingeule0002.jpg

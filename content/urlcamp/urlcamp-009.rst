@@ -2,28 +2,25 @@ URLcamp #009
 ############
 :date: 2015-02-24 19:08
 :author: Lioman
-:category: Allgemein, URLcamp
+:category: URLcamp
 :tags: adware, Raumfahrt, Snowden
 :slug: urlcamp-009
 :status: published
 
-|image0|\ Folge 009 des URLcamps:
----------------------------------
+|image0|
+
+Folge 009 des URLcamps:
+-----------------------
 
 Mein
 `URLcamp <http://www.lioman.de/category/allgemein/internet/urlcamp/>`__
 enthält Links, die ich irgendwie für beachtenswert halte.
 
--  | **Über die Frau, die Snowden von Hongkong nach Moskau geholfen
-     hat**
+-  **Über die Frau, die Snowden von Hongkong nach Moskau geholfen hat**
 
    .. rubric:: `How a Snowdenista Kept the NSA Leaker Hidden in a Moscow
       Airport <http://www.vogue.com/11122973/sarah-harrison-edward-snowden-wikileaks-nsa/>`__
       :name: how-a-snowdenista-kept-the-nsa-leaker-hidden-in-a-moscow-airport
-
-   .. raw:: html
-
-      <p>
 
    *They boarded the Moscow-bound Aeroflot plane, and it wasn’t until
    the plane was airborne that Snowden turned to her and spoke what was
@@ -36,10 +33,6 @@ enthält Links, die ich irgendwie für beachtenswert halte.
       aus <http://www.golem.de/news/privdog-comodo-adware-hebelt-https-sicherheit-aus-1502-112534.html>`__
       :name: comodo-adware-hebelt-https-sicherheit-aus
 
-   .. raw:: html
-
-      <p>
-
    *Das Pikante daran: Comodo ist eine der größten
    Zertifizierungsstellen im Internet. Etwa ein Drittel der Zertifikate
    von HTTPS-Seiten stammt direkt oder indirekt von Comodo. Eine Firma,
@@ -51,10 +44,6 @@ enthält Links, die ich irgendwie für beachtenswert halte.
    .. rubric:: `Mars One wird
       scheitern! <http://scienceblogs.de/astrodicticum-simplex/2015/02/19/mars-one-wird-scheitern/>`__
       :name: mars-one-wird-scheitern
-
-   .. raw:: html
-
-      <p>
 
    *Mars One wird scheitern. Oder besser gesagt: Mars One wird nicht
    einmal die Gelegenheit haben, zu scheitern weil Mars One nie

@@ -7,14 +7,16 @@ Mit Superheldinnen gegen Brustkrebs
 :slug: mit-superheldinnen-gegen-brustkrebs
 :status: published
 
-    "Nobody's immune to breast cancer. When we talk about breast cancer,
-    there's no women or superwomen. Everybody has to do the
-    self-examination monthly. Fight with us against the enemy and, when
-    in doubt, talk with your doctor."
+Dies ist der Kampagnentext der *Associação da Luta Contra o Cancer (ALCC)* in
+der aktuellen Printkampagne:
 
-ist der Kampagnentext der *Associação da Luta Contra o Cancer (ALCC)* in
-der aktuellen Printkampagne, doch viel interessanter sind die Bilder
-dazu. Vier bekannte Superheldinnen (She-Hulk, Wonderwoman, Storm und
+   Nobody's immune to breast cancer. When we talk about breast cancer,
+   there's no women or superwomen. Everybody has to do the
+   self-examination monthly. Fight with us against the enemy and, when
+   in doubt, talk with your doctor.
+
+Viel interessanter sind jedoch die Bilder dazu.
+Vier bekannte Superheldinnen (She-Hulk, Wonderwoman, Storm und
 Catwoman) kämpfen nicht mit ihren Superkräften gegen Brustkrebs sondern
 indem sie sich selbst
 `abtasten <http://www.bkkexklusiv.de/index.php?id=395>`__ und so zur

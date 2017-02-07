@@ -23,7 +23,7 @@ und Juristen wie
 `Ramsauer <http://de.wikipedia.org/wiki/Peter_Ramsauer>`__ oder zuletzt
 `Nehm <http://de.wikipedia.org/wiki/Kay_Nehm>`__, der tatsächlich meint,
 dass sich kaum ein Radfahrer regelkonform verhält. Was all die Polterer
-außer acht lassen: |autofahrer\_radfahler\_arschloecher|\ Die meisten
+außer acht lassen: |autofahrer_radfahrer_arschloecher| Die meisten
 Radfahrer sind auch Autofahrer und umgekehrt und unter allen ist die
 Anzahl an Arschlöchern gleich groß. Es sind immer dieselben Typen, die
 sich daneben benehmen und das derzeitige Gefährt spielt nur eine
@@ -35,7 +35,7 @@ müssen einfach schauen, wie wir den öffentlichen Raum möglichst sinnvoll
 gemeinsam nutzen so, dass alle, egal welches Gefährt sie in diesem
 Moment nutzen, gut und sicher an ihr Ziel kommen.
 
-.. |autofahrer\_radfahler\_arschloecher| image:: images/autofahrer_radfahler_arschloecher.png
+.. |autofahrer_radfahrer_arschloecher| image:: images/autofahrer_radfahrer_arschloecher.png
    :class: size-full wp-image-5342 alignright
    :width: 500px
    :height: 450px

@@ -57,7 +57,6 @@ Update: Links geändert. Es wird immer die aktuellste angezeigt
    :class: aligncenter size-full wp-image-1981
    :width: 521px
    :height: 414px
-   :target: http://www.lioman.de/2010/09/umziehen-von-last-fm-auf-libre-fm/lastscrape_bildschirm1/
 .. |image1| image:: images/LastScrape_Bildschirm2.png
    :class: aligncenter size-full wp-image-1982
    :width: 500px

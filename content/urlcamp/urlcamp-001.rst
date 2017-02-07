@@ -2,7 +2,7 @@ URLcamp #001
 ############
 :date: 2010-01-28 17:56
 :author: Lioman
-:category: Internet, URLcamp
+:category: URLcamp
 :tags: Links, URLcamp
 :slug: urlcamp-001
 :status: published

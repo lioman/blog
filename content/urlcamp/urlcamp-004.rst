@@ -2,7 +2,7 @@ URLcamp #004
 ############
 :date: 2010-06-08 17:17
 :author: Lioman
-:category: Allgemein, Internet, URLcamp
+:category: URLcamp
 :tags: Elterngeld, Gnome, Links, Politik, Sparen, URLcamp
 :slug: urlcamp-004
 :status: published

@@ -2,7 +2,7 @@ URLcamp #005
 ############
 :date: 2010-10-25 13:56
 :author: Lioman
-:category: Internet, URLcamp
+:category: URLcamp
 :tags: Fundstück, Leitkultur, Links, Linktipp, Scheiße, URLcamp
 :slug: urlcamp-005
 :status: published

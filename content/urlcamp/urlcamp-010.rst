@@ -2,28 +2,26 @@ URLcamp #010
 ############
 :date: 2015-07-19 16:01
 :author: Lioman
-:category: Allgemein, URLcamp
+:category: URLcamp
 :tags: Griechenland, Karten, Links, Politik, Python
 :slug: urlcamp-010
 :status: published
 
-|image0|\ Folge 010 des URLcamps:
----------------------------------
+|image0|
+
+Folge 010 des URLcamps:
+-----------------------
 
 Mein
 `URLcamp <http://www.lioman.de/category/allgemein/internet/urlcamp/>`__
 enthält Links, die ich irgendwie für beachtenswert halte.
 
--  | **`Mahmoud Hashemi <https://twitter.com/mhashemi>`__  über Python
-     bei PayPal/eBay**
+-   `Mahmoud Hashemi <https://twitter.com/mhashemi>`__  **über Python bei PayPal/eBay**
 
    .. rubric:: `10 Myths of Enterprise
       Python <https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/>`__
       :name: myths-of-enterprise-python
 
-   .. raw:: html
-
-      <p>
 
    *Python has enjoyed many years of grassroots usage and support from
    developers across eBay. Even before official support from management,
@@ -38,16 +36,20 @@ enthält Links, die ich irgendwie für beachtenswert halte.
       Georeferencer <http://britishlibrary.georeferencer.com/api/ungeoreferenced/britishlibrary>`__
       :name: british-library-georeferencer
 
-   .. raw:: html
-
-      <p>
-
    *Help us identify accurate locations for these historic maps! Bear in
    mind that some places have changed significantly or disappeared
    completely, creating a puzzle that reveals an exciting
    contrast.[....]*
 
--  Aus der Sicht eines Griechen - Ein Beitrag von Yanis Varoufakis
+-  | **Aus der Sicht eines Griechen - Ein Beitrag von Yanis Varoufakis**
+
+   .. rubric:: `Dr. Schäubles Plan
+      für Europa <http://www.zeit.de/2015/29/schuldenkrise-europa-wolfgang-schaeuble-yanis-varoufakis>`__
+      :name: schaeubles-plan-europa
+
+   *Die Euro-Gruppe, eine informelle Gruppe, die kein Protokoll führt,
+   keinen schriftlich niedergelegten Regeln folgt und exakt niemandem
+   verantwortlich ist, steuert die größte Makroökonomie der Welt.[…]*
 
 .. |image0| image:: images/wegweiser_klein.jpg
    :class: alignright size-full wp-image-5066

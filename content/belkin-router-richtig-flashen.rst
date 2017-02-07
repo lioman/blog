@@ -15,7 +15,7 @@ bei anderen Routern dieser Firma funktionieren und so ist der Titel eher
 Allgemein gehalten. Wer einen anderen Router hat, kann es gerne
 ausprobieren und
 
-|dd-wrt\_logo|\ In meinem Artikel `*Befreie deinen
+|dd-wrt_logo|\ In meinem Artikel `*Befreie deinen
 Router* <http://www.lioman.de/2012/05/befreie-deinen-router/>`__\ hatte
 ich beschrieben, wie man den Router aus dem Hause Belkin mit deutlich
 mehr Funktionen und/oder Performanz ausstatten kann. Die freie
@@ -52,7 +52,7 @@ Wie immer gilt: Wer nicht weiß was er beim aufspielen alternativer
 Firmwares tut und was das für Folgen haben kann, sollte es lieber
 lassen. Ich übernehme keine Garantien für eventuell zerstörte Geräte.
 
-.. |dd-wrt\_logo| image:: images/dd-wrt_logo.png
+.. |dd-wrt_logo| image:: images/dd-wrt_logo.png
    :class: alignright size-full wp-image-4561
    :width: 208px
    :height: 40px

@@ -14,7 +14,7 @@ Soziale Netzwerke und Twitter erstellt wurden.***
 Vor ein paar Tagen habe ich eine Abstimmung auf twtpoll.com gestartet.
 Leider haben nicht so viele mitgemacht. Genauer gesagt gerade mal 21. Es
 ist also keinesfalls repräsentativ. :( Trotzdem möchte ich das Ergebnis
-dem geneigten Leser nicht vorenthalten: |Abstimmung\_Kruemmel|\ von den
+dem geneigten Leser nicht vorenthalten: |Abstimmung_Kruemmel|\ von den
 21 sind gute 2/3 für einen forcierten Ausstieg außerdem soll Geld in
 andere Energieformen gesteckt werden.
 
@@ -34,6 +34,6 @@ solche Umfragen überhaupt zu etwas gut? Ich denke ja! Sie können
 unterhaltend sein, wenn man die Richtigen stellt und sie zeitlich nicht
 zu stark einschränkt.
 
-.. |Abstimmung\_Kruemmel| image:: images/Abstimmung_Kruemmel-150x150.png
+.. |Abstimmung_Kruemmel| image:: images/Abstimmung_Kruemmel-150x150.png
    :class: aligncenter size-thumbnail wp-image-911
    :target: images/Abstimmung_Kruemmel.png

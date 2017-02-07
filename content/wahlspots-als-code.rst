@@ -22,8 +22,17 @@ diverse blau-grün-braun-Töne.
 
 Klicken zum vergrößern:
 
-`[gallery link="file" columns="4"]
- <images/gruene-colorbar.jpg>`__
+=================  ==============  ==============
+      Grüne             SPD             CDU
+=================  ==============  ==============
+|colorbar_gruene|  |colorbar_spd|  |colorbar_cdu|
+=================  ==============  ==============
+
+=================  ==============  ==================  ===============
+   Die Linken           FDP            Piraten              ÖDP
+=================  ==============  ==================  ===============
+|colorbar_linke|   |colorbar_fdp|  |colorbar_piraten|  |colorbar_oedp|
+=================  ==============  ==================  ===============
 
 Und hier die Spots der Parteien:
 `Grüne <http://www.youtube.com/watch?v=RmIBJZs35MI>`__, 
@@ -38,3 +47,18 @@ ebenfalls veröffentlichen.
 **Nachtrag:** Colorbars der
 `Piraten <http://www.youtube.com/watch?v=orDCo_N-JNE>`__ und der
 `ÖDP <http://www.youtube.com/watch?v=ecPZV_tGN68>`__ hinzugefügt
+
+.. |colorbar_gruene| image:: images/gruene-colorbar-150x150.jpg
+   :target: images/gruene-colorbar.jpg
+.. |colorbar_spd| image:: images/spd-colorbar-150x150.jpg
+   :target: images/spd-colorbar.jpg
+.. |colorbar_cdu| image:: images/cdu-colorbar-150x150.jpg
+   :target: images/cdu-colorbar.jpg
+.. |colorbar_linke| image:: images/linken-colorbar-150x150.jpg
+   :target: images/linken-colorbar.jpg
+.. |colorbar_fdp| image:: images/fdp-colorbar-150x150.jpg
+   :target: images/fdp-colorbar.jpg
+.. |colorbar_piraten| image:: images/piratenpartei-colorbar-150x150.jpg
+   :target: images/piratenpartei-colorbar.jpg
+.. |colorbar_oedp| image:: images/oedp-colorbar-150x150.jpg
+   :target: images/oedp-colorbar.jpg

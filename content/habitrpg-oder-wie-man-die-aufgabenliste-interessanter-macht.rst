@@ -7,7 +7,7 @@ HabitRPG - Oder wie man die Aufgabenliste interessanter macht
 :slug: habitrpg-oder-wie-man-die-aufgabenliste-interessanter-macht
 :status: published
 
-|habitrpg\_pixel|\ Vor ein paar Wochen bin ich auf
+|habitrpg_pixel|\ Vor ein paar Wochen bin ich auf
 `HabitRPG <https://habitrpg.com>`__ gestoßen. Die Webanwendung hat vor
 einiger Zeit durch eine erfolgreiche Finanzierung bei
 `Kickstarter <https://www.kickstarter.com/projects/lefnire/habitrpg-mobile?ref=nav_search>`__
@@ -18,9 +18,7 @@ man eintragen was so ansteht. Dazu kommen *Tägliche Aufgaben*. Wie der
 Name schon sagt wieder kehrende Aufgaben, die man auch nur an bestimmten
 Tagen einblenden lassen kann.
 
-[caption id="attachment\_5712" align="alignright"
-width="360"]\ |Gewohnheitenliste auf HabitRPG| Gewohnheitenliste auf
-`HabitRPG <http://habitrpg.com>`__\ [/caption]
+|Gewohnheitenliste_auf_HabitRPG|
 
 Auf der letzten Liste lassen sich *Gewohnheiten* sammeln. Im Gegensatz
 zu den klassischen Listen zum Abhaken erledigter Aufgaben kann man hier
@@ -33,8 +31,7 @@ Silber/Gold und Erfahrung, je nach eingestellter Schwierigkeit
 unterschiedlich viel. Für Gold kauft man dann Ausrüstungsgegenstände für
 seinen
 
-[caption id="attachment\_5715" align="alignleft" width="140"]\ |Mein
-Avatar in Partyrobe| Mein Avatar in Partyrobe[/caption]
+[caption id="attachment\_5715" align="alignleft" width="140"]\ |Mein_Avatar| Mein Avatar in Partyrobe[/caption]
 
 Avatar oder gönnt sich selbst Belohnungen (Sofern man das Spiel so
 spielen möchte). Auch sonst gibt es alle möglichen Dinge, die das
@@ -63,17 +60,18 @@ ist übrigens etwas träge. Mobil nutze ich daher die inoffizielle und
 deutlich schlankere Anwendung `HabitRPG
 Client. <https://play.google.com/store/apps/details?id=com.magicmicky.habitrpgmobileapp>`__
 
-.. |habitrpg\_pixel| image:: images/habitrpg_pixel.png
+.. |habitrpg_pixel| image:: images/habitrpg_pixel.png
    :class: alignleft size-full wp-image-5713
    :width: 440px
    :height: 160px
    :target: images/habitrpg_pixel.png
-.. |Gewohnheitenliste auf HabitRPG| image:: images/habit_gewohnheiten.png
+.. |Gewohnheitenliste_auf_HabitRPG| image:: images/habit_gewohnheiten.png
    :class: size-full wp-image-5712
    :width: 360px
    :height: 366px
    :target: images/habit_gewohnheiten.png
-.. |Mein Avatar in Partyrobe| image:: images/Habit_Avatar.png
+   :alt: Gewohnheitenliste auf `HabitRPG <http://habitrpg.com>`__
+.. |Mein_Avatar| image:: images/Habit_Avatar.png
    :class: size-full wp-image-5715
    :width: 140px
    :height: 146px
