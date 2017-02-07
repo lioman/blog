@@ -7,19 +7,18 @@ MySQL: Einträge mit regulären Ausdrücken löschen
 :slug: mysql-eintrage-mit-regularen-ausdrucken-loschen
 :status: published
 
-| Arbeitet man mit Datenbanken, speziell im Entwicklungsstadium einer
-  Anwendung, kann allerlei Müll anfallen, den man tunlichst loswerden
-  möchte.
-| Geht es um einzelne Einträge, kann man das gut mit Befehlen wie:
+Arbeitet man mit Datenbanken, speziell im Entwicklungsstadium einer
+Anwendung, kann allerlei Müll anfallen, den man tunlichst loswerden möchte.
+Geht es um einzelne Einträge, kann man das gut mit Befehlen wie:
 
-.. code:: lang:mysql
+.. code:: sql
 
     DELETE * FROM tabellenname WHERE id=xy
 
 wenn man nur wenige oder gar einen einzelnen Eintrag loswerden möchte.
 Und
 
-.. code:: lang:mysql
+.. code:: mysql
 
     DELETE * FROM tabellenname WHERE spaltenname=""
 
@@ -36,7 +35,7 @@ Ausdrücke <https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck>`__, so
 muss man nicht von Hand zusammensuchen oder löschen. Dazu muss man
 einfach in die *WHERE*-Klausel in folgender Weise modifizieren:
 
-.. code:: lang:mysql
+.. code:: mysql
 
     DELETE FROM tabellenname WHERE spaltenname Regexp '^[ ]*[\n]+[ ]*$';
 

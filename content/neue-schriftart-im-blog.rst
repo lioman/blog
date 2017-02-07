@@ -26,13 +26,15 @@ dauer langweilig.
   ist Kinderleicht.
 | Dazu musste ich nur folgenden Code nach eintragen:
 
-::
+.. code:: html
+
+   <link href="https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Condensed|Ubuntu+Mono" rel="stylesheet">
 
 Per @font-face ist es schon komplizierter, denn das sah in meiner css so
 aus (Kann man auch kürzen, aber für volle Browserkompatibilität musste
 es so lange sein):
 
-::
+.. code:: css
 
     @font-face {
         font-family: 'LinuxLibertine';

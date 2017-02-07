@@ -21,12 +21,12 @@ selbst auf dem Mond abstürzt (13:34 Uhr MESZ) . Von den Daten erhofft
 man sich die Bestätigung von Wasser an den Mondpolen (die von der Sonne
 nicht beschienen werden).
 
-Das ganze kann man live im Netz verfolgen. Einmal über `Twitter:
- <http://twitter.com/LCROSS_NASA>`__
+Das ganze kann man live im Netz verfolgen. Einmal über `Twitter: <http://twitter.com/LCROSS_NASA>`__
 
     Looking at the lunar surface, closing in at ~4000mph, as my team
-    evalautes the health of my science instruments.\ *geschrieben um
-    12:43*
+    evaluates the health of my science instruments.
+
+   -- *geschrieben um 12:43*
 
 Aber auch als livestream bei\ `NASA
 -TV <http://www.nasa.gov/multimedia/nasatv/index.html>`__.

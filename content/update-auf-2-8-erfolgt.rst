@@ -14,12 +14,9 @@ Version und ich hoffe es hat alles so geklappt, wie es soll.
 Außerdem habe ich einige Plugins deaktiviert, die ich gar nicht mehr
 benötigt habe. Dazu aber später mehr.
 
-*
-*
 
 *Nachtrag: Der erste Versuch hat schonmal nicht funktioniert.
 Irgendein-Plugin hat gestört*
 
 *Nachtrag 2: Es ist das Custom smilies Plugin. Schade die Smilies gehen
-also erstmal nicht
-*
+also erstmal nicht*

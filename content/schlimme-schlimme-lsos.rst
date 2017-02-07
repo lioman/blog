@@ -41,8 +41,7 @@ Warum sind LSOs so gefährlich?
 Was das heißt zeigt ein Screenshot der bei mir gespeicherten LSOs. Dazu
 muss man sagen, dass ich in der Zeit mein System + Plugin mehrfach auf
 den neusten Stand gebracht habe und den PC gewechselt habe. Doch die
-LSOs habe ich immer brav mitgenommen.\ `
- <images/LSO.png>`__\ |image0|
+LSOs habe ich immer brav mitgenommen. |image0|
 
 Über elf Monate - das finde ich ziemlich erschreckend, vor allen Dingen
 wenn man bedenkt, was alles in 100kb passt: genau 99990 Zeichen!

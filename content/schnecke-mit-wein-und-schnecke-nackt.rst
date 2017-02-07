@@ -9,16 +9,16 @@ Schnecke mit Wein und Schnecke nackt.
 
 | Die beiden kreuzten heute morgen meinen Weg zum Bäcker. Wie lange die
   beiden wohl brauchen, um die Brötchen zu holen?
-| |image|
+| |image0|
 
-|image|
+|image1|
 
 Nachtrag: Bilder nochmals hinzugefügt. Die Wordpress-App hat wohl ein
 paar Probleme.
 
-.. |image| image:: images/wpid-imag0714.jpg
+.. |image0| image:: images/wpid-imag0714.jpg
    :class: aligncenter
    :target: images/wpid-imag07141.jpg
-.. |image| image:: images/wpid-imag0715.jpg
+.. |image1| image:: images/wpid-imag0715.jpg
    :class: aligncenter
    :target: images/wpid-imag07151.jpg

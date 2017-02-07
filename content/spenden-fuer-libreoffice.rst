@@ -7,7 +7,7 @@ Spenden für LibreOffice
 :slug: spenden-fuer-libreoffice
 :status: published
 
-|image0|\ Vor einiger Zeit haben sich eine ganze Reihe Entwickler von
+|image0| Vor einiger Zeit haben sich eine ganze Reihe Entwickler von
 OpenOffice.org gelöst und die `Document
 Foundation <http://www.documentfoundation.org/>`__ gegründet. Anlass war
 die
@@ -37,8 +37,7 @@ PayPal an ***paypal@ooodev.org*** oder per Überweisung\ ***:***
     IBAN: DE12666900000003497390
     BIC: VBPFDE66
 
-`
- <http://donate.libreoffice.org/>`__
+` <http://donate.libreoffice.org/>`__
 
 .. |image0| image:: images/LibreOffice_logo.png
    :class: alignleft size-full wp-image-2815
