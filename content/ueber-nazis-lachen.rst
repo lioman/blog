@@ -46,115 +46,48 @@ Auch deutsche Zeitgenossen zogen trotz Repressalien die Nazis durch den
 Kakao.
 
 Ein Beispiel möchte ich dem geneigten Leser dazu geben. Einer meiner
-Lieblingsautoren, Erich Kästner, schrieb in den 30ern sein
-*Marschliedchen*
+Lieblingsautoren, Erich Kästner, schrieb in den 30ern sein *Marschliedchen*
 
-*Marschliedchen*
-~~~~~~~~~~~~~~~~
-
-* **Ihr und die Dummheit zieht in Viererreihen
-In die Kasernen der Vergangenheit
-Glaubt nicht, dass wir uns wundern, wenn ihr schreit
-Denn was ihr denkt und tut, das ist zum Schreien***
-
- 
-
-.. raw:: html
-
-   <address style="text-align: left; padding-left: 150px;">
-
-* **Ihr kommt daher und lasst die Seele kochen***
-
-.. raw:: html
-
-   </address>
-   <address style="text-align: left; padding-left: 150px;">
-
-* **Die Seele kocht und die Vernunft erfriert***
-
-.. raw:: html
-
-   </address>
-   <address style="text-align: left; padding-left: 150px;">
-
-* **Ihr liebt das Leben erst, wenn ihr marschiert***
-
-.. raw:: html
-
-   </address>
-   <address style="text-align: left; padding-left: 150px;">
-
-* **Weil dann gesungen wird und nicht gesprochen***
-
-.. raw:: html
-
-   </address>
-   <address style="text-align: left; padding-left: 150px;">
-
- 
-
-.. raw:: html
-
-   </address>
-   <address style="text-align: left; padding-left: 150px;">
-
-***Marschiert vor Prinzen, die erschüttert weinen:***
-
-.. raw:: html
-
-   </address>
-   <address style="text-align: left; padding-left: 150px;">
-
- **Ihr findet doch nur als Parade statt!**
-
-.. raw:: html
-
-   </address>
-   <address style="text-align: left; padding-left: 150px;">
-
-* **Es heißt ja: Was man nicht im Kopfe hat,
-Hat man gerechterweise in den Beinen***
-
-.. raw:: html
-
-   </address>
-   <address style="text-align: left; padding-left: 150px;">
-
-***
-Ihr liebt den Hass und wollt die Welt dran messen
-Ihr werft dem Tier im Menschen Futter hin
-Damit es wächst, das Tier tief in euch!
-Das Tier im Menschen soll den Menschen fressen***
-
-.. raw:: html
-
-   </address>
-
- 
-
-**Ihr möchtet auf den Trümmern Rüben bauen
-Und Kirchen und Kasernen wie noch nie
-Ihr sehnt euch heim zur alten Dynastie
-Und möchtet Fideikommißbrot kauen**
-
-**Ihr wollt die Uhrenzeiger rückwärts drehen
-Und glaubt, das ändere der Zeiten Lauf
-Dreht an der Uhr! Die Zeit hält niemand auf!
-Nur eure Uhr wird nicht mehr richtig gehen**
-
-**Wie ihr's euch träumt, wird Deutschland nie erwachen
-Denn ihr seid dumm und seid nicht auserwählt
-Die Zeit wird kommen, da man sich erzählt:
-Mit diesen Leuten war kein Staat zu machen!**
-
- 
-
- 
-
-**Erich Kästner  1932**
-
-**
-**
+|     **Marschliedchen**
+|   
+|
+|    *Ihr und die Dummheit zieht in Viererreihen*
+|    *In die Kasernen der Vergangenheit*
+|    *Glaubt nicht, dass wir uns wundern, wenn ihr schreit*
+|    *Denn was ihr denkt und tut, das ist zum Schreien*
+|
+|    *Ihr kommt daher und lasst die Seele kochen*
+|    *Die Seele kocht und die Vernunft erfriert*
+|    *Ihr liebt das Leben erst, wenn ihr marschier*
+|    *Weil dann gesungen wird und nicht gesprochen*
+|
+|    *Marschiert vor Prinzen, die erschüttert weinen:*
+|    *Ihr findet doch nur als Parade statt!*
+|    *Es heißt ja: Was man nicht im Kopfe hat,*
+|    *Hat man gerechterweise in den Beinen*
+|
+|    *Ihr liebt den Hass und wollt die Welt dran messen*
+|    *Ihr werft dem Tier im Menschen Futter hin*
+|    *Damit es wächst, das Tier tief in euch!*
+|    *Das Tier im Menschen soll den Menschen fressen*
+|
+|    *Ihr möchtet auf den Trümmern Rüben bauen*
+|    *Und Kirchen und Kasernen wie noch nie*
+|    *Ihr sehnt euch heim zur alten Dynastie*
+|    *Und möchtet Fideikommißbrot kauen*
+|
+|    *Ihr wollt die Uhrenzeiger rückwärts drehen*
+|    *Und glaubt, das ändere der Zeiten Lauf*
+|    *Dreht an der Uhr! Die Zeit hält niemand auf!*
+|    *Nur eure Uhr wird nicht mehr richtig gehen*
+|
+|    *Wie ihr's euch träumt, wird Deutschland nie erwachen*
+|    *Denn ihr seid dumm und seid nicht auserwählt*
+|    *Die Zeit wird kommen, da man sich erzählt:*
+|    *Mit diesen Leuten war kein Staat zu machen!*
+|     
+|
+|    **Erich Kästner, 1932**
 
 Die Liste ließe sich hier noch deutlich weiter führen, denn es gibt auch
 wirklich viele gute neue Satire.Ich füge deswegen eine kleine Playlist

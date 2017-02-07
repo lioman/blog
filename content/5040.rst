@@ -1,8 +1,0 @@
-No title [5040]
-###############
-:date: 2012-10-11 10:44
-:author: Lioman
-:slug: 5040
-:status: published
-
-

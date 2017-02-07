@@ -1,5 +1,5 @@
-No title [2242]
-###############
+Impressum
+#########
 :date: 2010-10-25 12:28
 :author: Lioman
 :slug: 2242
