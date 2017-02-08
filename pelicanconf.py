@@ -23,6 +23,9 @@ TIMEZONE = 'Europe/Berlin'
 DEFAULT_LANG = 'de'
 DEFAULT_CATEGORY = 'Allgemein'
 
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+
 PLUGINS = [
     'pelican_youtube',
 ]
