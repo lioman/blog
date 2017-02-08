@@ -22,8 +22,8 @@ tippe einfach mal auf letzteres...
 
 `via <https://iniwmblog.wordpress.com/2011/06/30/deutschland-nigeria/>`__
 
-.. |image0| image:: images/frauenfussballteaser.png
+.. |image0| image:: {filename}/images/frauenfussballteaser.png
    :class: aligncenter size-full wp-image-3340
    :width: 468px
    :height: 386px
-   :target: images/frauenfussballteaser.png
+   :target: {filename}/images/frauenfussballteaser.png

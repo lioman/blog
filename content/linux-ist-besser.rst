@@ -2,7 +2,7 @@ Linux ist besser
 ################
 :date: 2008-11-28 13:31
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :slug: linux-ist-besser
 :status: published
 

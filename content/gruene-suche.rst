@@ -2,7 +2,7 @@ Grüne Suche
 ###########
 :date: 2009-06-25 14:14
 :author: Lioman
-:category: Allgemein, Internet, Welt
+:category: Internet, Welt
 :tags: CO2-neutral, Google, Google Alternative, Klimaschutz, Suchmaschine, Umweltschutz, Yahoo
 :slug: gruene-suche
 :status: published
@@ -45,7 +45,7 @@ die Zusammenarbeit eingestellt.
 nichts, wenn auch nun keine Angaben mehr über die geretteten
 Quadratmeter pro Suche gemacht werden.
 
-.. |forestle| image:: images/forestle.gif
+.. |forestle| image:: {filename}/images/forestle.gif
    :class: alignright size-full wp-image-862
    :width: 370px
    :height: 110px

@@ -30,8 +30,8 @@ Erweiterung
 verhinderte das natürlich. Erstellt man für die Piwikinstanz eine Regel,
 die den Referrer sendet, funktioniert alles wieder normal.
 
-.. |image0| image:: images/piwik1-150x80.jpg
+.. |image0| image:: {filename}/images/piwik1-150x80.jpg
    :class: alignright size-thumbnail wp-image-1921
    :width: 150px
    :height: 80px
-   :target: images/piwik1.jpg
+   :target: {filename}/images/piwik1.jpg

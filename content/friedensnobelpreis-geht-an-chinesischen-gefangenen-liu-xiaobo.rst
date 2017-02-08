@@ -36,8 +36,8 @@ Und das wird auf Twitter gepfiffen:
    // ]]></script>
    </p>
 
-.. |Liu Xiaobo| image:: images/Liu_Xiaobo-300.jpg
+.. |Liu Xiaobo| image:: {filename}/images/Liu_Xiaobo-300.jpg
    :class: size-full wp-image-2140
    :width: 300px
    :height: 305px
-   :target: images/Liu_Xiaobo-300.jpg
+   :target: {filename}/images/Liu_Xiaobo-300.jpg

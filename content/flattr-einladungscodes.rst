@@ -16,8 +16,8 @@ habe ich zur Verfügung! |Flattr Logo|
 Die Ersten, die hier einen Kommentar hinterlassen bekommen einen und
 können dabei sein und den neuen Micropayment-Dienst testen.
 
-.. |Flattr Logo| image:: images/flattr-logo-beta.png
+.. |Flattr Logo| image:: {filename}/images/flattr-logo-beta.png
    :class: alignright size-full wp-image-1551
    :width: 218px
    :height: 43px
-   :target: images/flattr-logo-beta.png
+   :target: {filename}/images/flattr-logo-beta.png

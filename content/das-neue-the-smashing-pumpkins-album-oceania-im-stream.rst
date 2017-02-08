@@ -2,7 +2,7 @@ Das neue 'The Smashing Pumpkins' Album 'OCEANIA' im Stream
 ##########################################################
 :date: 2012-06-18 13:43
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Musuk, Rock, Smashing Pumpkins, Soundcloud
 :slug: das-neue-the-smashing-pumpkins-album-oceania-im-stream
 :status: published

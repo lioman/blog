@@ -29,7 +29,7 @@ Andere Größen sind da nicht so Wertstabil.
 Umweltbewusstseins ist es für das Rating egal ob man auf
 wiederaufladbare Akkus oder Einwegbatterien setzt.
 
-.. |image0| image:: images/aaa-300x229.jpg
+.. |image0| image:: {filename}/images/aaa-300x229.jpg
    :class: alignright size-medium wp-image-3598
    :width: 300px
    :height: 229px

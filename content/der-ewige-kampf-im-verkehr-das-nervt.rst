@@ -2,7 +2,7 @@ Der ewige Kampf im Verkehr - das nervt
 ######################################
 :date: 2013-02-05 12:43
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Autofahrer, Radfahrer, Verkehr
 :slug: der-ewige-kampf-im-verkehr-das-nervt
 :status: published
@@ -35,8 +35,8 @@ müssen einfach schauen, wie wir den öffentlichen Raum möglichst sinnvoll
 gemeinsam nutzen so, dass alle, egal welches Gefährt sie in diesem
 Moment nutzen, gut und sicher an ihr Ziel kommen.
 
-.. |autofahrer_radfahrer_arschloecher| image:: images/autofahrer_radfahrer_arschloecher.png
+.. |autofahrer_radfahrer_arschloecher| image:: {filename}/images/autofahrer_radfahrer_arschloecher.png
    :class: size-full wp-image-5342 alignright
    :width: 500px
    :height: 450px
-   :target: images/autofahrer_radfahler_arschloecher.png
+   :target: {filename}/images/autofahrer_radfahrer_arschloecher.png

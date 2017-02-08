@@ -45,8 +45,8 @@ hinzufügen kann. So sieht man
 `hier <http://www.likebutton.me/?url=lioman.de&title=lioman.de&type=Custom>`__,
 was gerade auf meinem Blog geklickt wird.
 
-.. |image0| image:: images/wegweiser_klein.jpg
+.. |image0| image:: {filename}/images/wegweiser_klein.jpg
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: images/wegweiser_klein.jpg
+   :target: {filename}/images/wegweiser_klein.jpg

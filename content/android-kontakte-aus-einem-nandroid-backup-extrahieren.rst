@@ -63,8 +63,8 @@ Kopiert man diese zurück auf das Mobiltelefon kann die Kontakte-App
 diese Datei dann wieder importieren und man hat alle alten Kontakte
 wieder.
 
-.. |Android logo| image:: images/Android_robot-252x300.png
+.. |Android logo| image:: {filename}/images/Android_robot-252x300.png
    :class: size-medium wp-image-5563
    :width: 252px
    :height: 300px
-   :target: images/Android_robot.png
+   :target: {filename}/images/Android_robot.png

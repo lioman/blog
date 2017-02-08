@@ -2,7 +2,7 @@ Schlimme, schlimme LSOs
 #######################
 :date: 2010-11-25 14:28
 :author: Lioman
-:category: Allgemein, Internet, PC und Technik
+:category: Internet, PC und Technik
 :tags: BetterPrivacy, Cookie, Datenschutz, DOM, Erweiterung, firefox, Flash, LSO, Privacy, Sicherheit, Super-Cookie
 :slug: schlimme-schlimme-lsos
 :status: published
@@ -88,8 +88,8 @@ Laut Wikipedia findet man die LSOs in folgenden Ordnern:
 
 Table: Standard Speicherorte
 
-.. |image0| image:: images/LSO-300x139.png
+.. |image0| image:: {filename}/images/LSO-300x139.png
    :class: aligncenter size-medium wp-image-2405
    :width: 300px
    :height: 139px
-   :target: images/LSO.png
+   :target: {filename}/images/LSO.png

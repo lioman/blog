@@ -2,7 +2,7 @@ Fernsehtipp: Bis nichts mehr bleibt
 ###################################
 :date: 2010-03-31 20:14
 :author: Lioman
-:category: Allgemein, Gesellschaft, Medien
+:category: Gesellschaft, Medien
 :tags: ARD, Film, Filmtipp, scientology, Sekte
 :slug: fernsehtipp-bis-nichts-mehr-bleibt
 :status: published

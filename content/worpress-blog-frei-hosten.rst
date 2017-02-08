@@ -2,7 +2,7 @@ Worpress Blog frei hosten
 #########################
 :date: 2008-08-13 15:00
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Blog, frei, hosting, Internet, Kostenlos, Wordpress
 :slug: worpress-blog-frei-hosten
 :status: published

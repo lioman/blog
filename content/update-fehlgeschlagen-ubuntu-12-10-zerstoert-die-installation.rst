@@ -59,8 +59,8 @@ einzuspielen, dem rate ich proprietäre Grafiktreiber (ATI) erstmal zu
 deinstallieren, um Probleme zu vermeiden. Dann kann man gleich sein
 neues System genießen und die Shoping Lense deaktivieren.
 
-.. |image0| image:: images/ubuntulogo.png
+.. |image0| image:: {filename}/images/ubuntulogo.png
    :class: alignright size-full wp-image-3180
    :width: 190px
    :height: 194px
-   :target: images/ubuntulogo.png
+   :target: {filename}/images/ubuntulogo.png

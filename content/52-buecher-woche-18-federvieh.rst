@@ -2,7 +2,7 @@
 ###############################
 :date: 2012-06-12 14:20
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: 52 Bücher, Buch, Lesen
 :slug: 52-buecher-woche-18-federvieh
 :status: published

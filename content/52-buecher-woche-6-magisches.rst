@@ -2,7 +2,7 @@
 ############################
 :date: 2011-12-18 16:59
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: 52 Bücher, Buch, Bücher, Lesen, Lesetipp, Literatur, Schweden
 :slug: 52-buecher-woche-6-magisches
 :status: published
@@ -54,8 +54,8 @@ kein Cluburlaub. Du wirst belohnt,  du bist erfüllt von all den
 Begebenheiten der Reise und des Landes, du wirst mehr erzählen können
 als:  *Das Essen war gut und die Zimmer waren sauber!*
 
-.. |Buchdeckel Nils Holgersson| image:: images/nilsholgersson-219x300.jpg
+.. |Buchdeckel Nils Holgersson| image:: {filename}/images/nilsholgersson-219x300.jpg
    :class: size-medium wp-image-5494
    :width: 219px
    :height: 300px
-   :target: images/nilsholgersson.jpg
+   :target: {filename}/images/nilsholgersson.jpg

@@ -68,12 +68,12 @@ articles are included for example.
 Licensed under a `Creative Commons Attribution-Noncommercial-Share Alike
 3.0 License <http://creativecommons.org/licenses/by-nc-sa/3.0/>`__\ .
 
-.. |image0| image:: images/PureReader-300x133.png
+.. |image0| image:: {filename}/images/PureReader-300x133.png
    :class: aligncenter size-medium wp-image-2523
    :width: 300px
    :height: 133px
-   :target: images/PureReader.png
-.. |image1| image:: images/PureReader-300x133.png
+   :target: {filename}/images/PureReader.png
+.. |image1| image:: {filename}/images/PureReader-300x133.png
    :width: 300px
    :height: 133px
-   :target: images/PureReader.png
+   :target: {filename}/images/PureReader.png

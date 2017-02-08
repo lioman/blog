@@ -2,7 +2,7 @@ Hans-Peter-Uhl's Internetauftritt heute gehackt!
 ################################################
 :date: 2011-10-20 20:47
 :author: Lioman
-:category: Allgemein, Gesellschaft, Internet
+:category: Gesellschaft, Internet
 :tags: #0zapftis, Anonymous, CSU, Hacked, Uhl
 :slug: hans-peter-uhls-internetauftritt-heute-gehackt
 :status: published

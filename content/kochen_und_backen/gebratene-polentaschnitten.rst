@@ -2,7 +2,7 @@ Gebratene Polentaschnitten
 ##########################
 :date: 2011-12-19 14:00
 :author: Lioman
-:category: Allgemein, Kochen &amp; Backen
+:category: Kochen &amp; Backen
 :slug: gebratene-polentaschnitten
 :status: published
 

@@ -61,8 +61,8 @@ Kommentar/einen Pingback ab oder schickt mir eine Mail.
 |                          | de/>`__                  |                          |
 +--------------------------+--------------------------+--------------------------+
 
-.. |image0| image:: images/book_box-150x150.png
+.. |image0| image:: {filename}/images/book_box-150x150.png
    :class: aligncenter size-thumbnail wp-image-4343
    :width: 40px
    :height: 40px
-   :target: images/book_box.png
+   :target: {filename}/images/book_box.png

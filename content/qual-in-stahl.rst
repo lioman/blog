@@ -32,8 +32,8 @@ liebe Fahrradfahrer:
 
  
 
-.. |Fahrrad| image:: images/fahrrad.jpg
+.. |Fahrrad| image:: {filename}/images/fahrrad.jpg
    :class: alignright size-full wp-image-5357
    :width: 250px
    :height: 364px
-   :target: images/fahrrad.jpg
+   :target: {filename}/images/fahrrad.jpg

@@ -2,7 +2,7 @@ Drum prüfe welche Lizenz du wählst
 ##################################
 :date: 2012-05-04 12:45
 :author: Lioman
-:category: Allgemein, Internet, Open Source
+:category: Internet, Open Source
 :tags: creative commons, Leitfaden, Lizenz, Nichtkomerziell
 :slug: drum-pruefe-welche-lizenz-du-waehlst
 :status: published

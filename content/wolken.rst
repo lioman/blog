@@ -15,8 +15,8 @@ Wolken
 
 |image0|\ So muss ein Himmel aussehen.
 
-.. |image0| image:: images/wolken.jpg
+.. |image0| image:: {filename}/images/wolken.jpg
    :class: aligncenter size-full wp-image-2743
    :width: 900px
    :height: 675px
-   :target: images/wolken.jpg
+   :target: {filename}/images/wolken.jpg

@@ -2,7 +2,7 @@ Esokäsik
 ########
 :date: 2009-04-02 15:42
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Esokäsik, esotherik, Lustig
 :slug: esokaesik
 :status: published
@@ -69,7 +69,7 @@ zufällig grad' jemand eine dabei?
 
 Nur dass ich die Wurststulle durch ein großes Schnitzel ersetzen würde.
 
-.. |alles_kaese| image:: images/alles_kaese-238x300.png
+.. |alles_kaese| image:: {filename}/images/alles_kaese-238x300.png
    :class: alignleft size-medium wp-image-455
    :width: 238px
    :height: 300px

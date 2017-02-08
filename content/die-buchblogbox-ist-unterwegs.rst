@@ -2,7 +2,7 @@ Die BuchBlogBox ist unterwegs
 #############################
 :date: 2012-08-21 14:06
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: Aktion, Buch Box, Bücher, Lesen
 :slug: die-buchblogbox-ist-unterwegs
 :status: published
@@ -37,8 +37,8 @@ sich die Box gerade befindet kann man im Artikel "`Die Bücherbox
 besucht... <http://www.lioman.de/2012/02/die-buecherbox-besucht/>`__"
 nachlesen.
 
-.. |image0| image:: images/book_box.png
+.. |image0| image:: {filename}/images/book_box.png
    :class: alignright size-full wp-image-4343
    :width: 200px
    :height: 200px
-   :target: images/book_box.png
+   :target: {filename}/images/book_box.png

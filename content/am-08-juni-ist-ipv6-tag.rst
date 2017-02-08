@@ -2,7 +2,7 @@ Am 08.Juni ist IPv6-Tag
 #######################
 :date: 2011-06-06 19:32
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Google, Internet, ip, IPv6, Test, WorldIPv6Day
 :slug: am-08-juni-ist-ipv6-tag
 :status: published

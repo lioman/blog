@@ -36,7 +36,7 @@ Blog <http://chrome.blogspot.com/2010/12/browse-for-good-cause.html>`__
 -  *100 tabs = 1 square foot of shelter built*
 -  *200 tabs = 1 person's clean water for a year*
 
-.. |image0| image:: images/Chrome_for_a_cause_Icon.png
+.. |image0| image:: {filename}/images/Chrome_for_a_cause_Icon.png
    :class: alignright size-full wp-image-2639
    :width: 256px
    :height: 66px

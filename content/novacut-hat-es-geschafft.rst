@@ -17,7 +17,7 @@ Novacut hat es geschafft
 
 http://www.youtube.com/watch?v=ArABWlxusZ0
 
-.. |image0| image:: images/novacut-avatar-192.png
+.. |image0| image:: {filename}/images/novacut-avatar-192.png
    :class: size-full wp-image-3518 alignright
    :width: 192px
    :height: 192px

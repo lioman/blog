@@ -2,7 +2,7 @@ Wordpress 3.3
 #############
 :date: 2011-12-13 09:53
 :author: Lioman
-:category: Allgemein, Open Source
+:category: Open Source
 :tags: 3.3, Blog, update, Wordpress
 :slug: wordpress-3-3
 :status: published
@@ -24,8 +24,8 @@ sich immer eine **komplette** Sicherung. Das kann man mit diversen
 `Plugins <http://wordpress.org/extend/plugins/tags/backup>`__
 komfortabel lösen.
 
-.. |image0| image:: images/artikelbild_wordpress.png
+.. |image0| image:: {filename}/images/artikelbild_wordpress.png
    :class: alignright size-full wp-image-3306
    :width: 160px
    :height: 160px
-   :target: images/artikelbild_wordpress.png
+   :target: {filename}/images/artikelbild_wordpress.png

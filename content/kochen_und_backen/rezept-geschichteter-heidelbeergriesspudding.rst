@@ -2,7 +2,7 @@ Rezept: Geschichteter Heidelbeergrießpudding
 ############################################
 :date: 2011-01-24 11:33
 :author: Lioman
-:category: Allgemein, Kochen &amp; Backen
+:category: Kochen &amp; Backen
 :tags: Heidelbeeren, Kochen, Küche, Nachtisch, Pudding, Rezept
 :slug: rezept-geschichteter-heidelbeergriesspudding
 :status: published

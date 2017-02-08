@@ -2,7 +2,7 @@
 #################
 :date: 2009-05-14 14:42
 :author: Lioman
-:category: Allgemein, Gesellschaft, Medien
+:category: Gesellschaft, Medien
 :tags: aufarbeitung, auslachen, charlie chaplin, liotube, Lustig, Nazis, Satire, Video
 :slug: ueber-nazis-lachen
 :status: published

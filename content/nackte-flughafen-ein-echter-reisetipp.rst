@@ -2,7 +2,7 @@ Nackte am Flughafen - ein echter Reisetipp!
 ###########################################
 :date: 2008-10-24 20:32
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Aufreger, GMX, Menschenrechte, Nachrichten, Nacktscanner, Schwarze Pflaume
 :slug: nackte-flughafen-ein-echter-reisetipp
 :status: published
@@ -62,13 +62,13 @@ Und Falls die Nachricht mal gelöscht wird ein Screenshot:
 
    </div>
 
-.. |Schwarze Pflaume| image:: images/schwarze-pflaume-300x235.jpg
+.. |Schwarze Pflaume| image:: {filename}/images/schwarze-pflaume-300x235.jpg
    :class: size-medium wp-image-263
    :width: 213px
    :height: 167px
-   :target: images/schwarze-pflaume.jpg
-.. |GMX Nachricht zu Nacktscanner| image:: images/gmx_regierung_lehnt_nacktscanner_ab-150x150.png
+   :target: {filename}/images/schwarze-pflaume.jpg
+.. |GMX Nachricht zu Nacktscanner| image:: {filename}/images/gmx_regierung_lehnt_nacktscanner_ab-150x150.png
    :class: size-thumbnail wp-image-264
    :width: 116px
    :height: 125px
-   :target: images/gmx_regierung_lehnt_nacktscanner_ab.png
+   :target: {filename}/images/gmx_regierung_lehnt_nacktscanner_ab.png

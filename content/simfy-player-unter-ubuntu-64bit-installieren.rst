@@ -52,8 +52,8 @@ lesen.
 sind weitere (andere) Schritte nötig. `Siehe
 hier. <http://www.lioman.de/2011/10/simfy-64bit-unter-ubuntu-11-10-installieren/>`__
 
-.. |image0| image:: images/ubuntulogo.png
+.. |image0| image:: {filename}/images/ubuntulogo.png
    :class: size-full wp-image-3180 alignright
    :width: 133px
    :height: 137px
-   :target: images/ubuntulogo.png
+   :target: {filename}/images/ubuntulogo.png

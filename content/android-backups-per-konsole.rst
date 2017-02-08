@@ -2,7 +2,7 @@ Android: Backups per Konsole
 ############################
 :date: 2014-07-01 10:25
 :author: Lioman
-:category: Allgemein, PC und Technik
+:category: PC und Technik
 :tags: android, Backup, Ubuntu
 :slug: android-backups-per-konsole
 :status: published
@@ -50,8 +50,8 @@ dauern...
 Möchte man ein Backup wieder einspielen, kann man dies mit adb restore
 BACKUPDATEI.adb  tun
 
-.. |Android logo| image:: images/Android_robot-252x300.png
+.. |Android logo| image:: {filename}/images/Android_robot-252x300.png
    :class: wp-image-5563 size-medium
    :width: 252px
    :height: 300px
-   :target: images/Android_robot.png
+   :target: {filename}/images/Android_robot.png

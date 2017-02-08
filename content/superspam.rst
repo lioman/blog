@@ -2,7 +2,7 @@ Superspam
 #########
 :date: 2012-12-06 12:18
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: AntispamBee, Kommentar, Spam
 :slug: superspam
 :status: published
@@ -21,8 +21,8 @@ selbst enthält und zum Thema passt. Die Kommentator-URL führt aber dann
 zu irgendeiner Finanzoptimier-/Versicherungsseite und denn Müll muss man
 ja nicht unbedingt weiterverbreiten.
 
-.. |image0| image:: images/superspam-199x300.png
+.. |image0| image:: {filename}/images/superspam-199x300.png
    :class: alignright size-medium wp-image-5224
    :width: 199px
    :height: 300px
-   :target: images/superspam.png
+   :target: {filename}/images/superspam.png

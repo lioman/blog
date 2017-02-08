@@ -2,7 +2,7 @@ Freigesprochen - Lebenslänglich
 ###############################
 :date: 2008-08-07 11:17
 :author: Lioman
-:category: Allgemein, Welt
+:category: Welt
 :tags: Aufreger, Gericht, Guantanamo, International, Menschenrechte, Nachrichten, USA, Welt
 :slug: freigesprochen-lebenslnglich
 :status: published

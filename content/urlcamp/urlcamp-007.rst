@@ -60,8 +60,8 @@ Anonymisierungsdiensten speichern lassen +++[....]*
 `Norah Jones veröffentlicht zwei Lieder ihres neuen Albums auf Soundcloud <http://soundcloud.com/norahjonesofficial>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. |image0| image:: images/wegweiser_klein.jpg
+.. |image0| image:: {filename}/images/wegweiser_klein.jpg
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: images/wegweiser_klein.jpg
+   :target: {filename}/images/wegweiser_klein.jpg

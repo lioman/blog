@@ -2,7 +2,7 @@ Wordpress 2.9
 #############
 :date: 2009-12-21 17:25
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: 2.9, Blog, update, Wordpress
 :slug: wordpress-2-9
 :status: published

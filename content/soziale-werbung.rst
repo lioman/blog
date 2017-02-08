@@ -2,7 +2,7 @@ Soziale Werbung
 ###############
 :date: 2008-11-21 19:52
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Amnesty, Blog, Greenpeace, Sozial, Umwelt, Werbung, wwf
 :slug: soziale-werbung
 :status: published

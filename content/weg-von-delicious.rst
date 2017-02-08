@@ -2,7 +2,7 @@ Weg von Delicious
 #################
 :date: 2008-11-23 20:17
 :author: Lioman
-:category: Allgemein, Gesellschaft, Internet, Welt
+:category: Gesellschaft, Internet, Welt
 :tags: Boykott, China, Delicious, Ma.gnolia, Moral, Social Bookmarking, Yahoo
 :slug: weg-von-delicious
 :status: published

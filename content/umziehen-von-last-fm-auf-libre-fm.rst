@@ -53,11 +53,11 @@ gibt es eine einfache Anleitung, die ich hier kurz ins Deutsche
 
 Update: Links geändert. Es wird immer die aktuellste angezeigt
 
-.. |image0| image:: images/LastScrape_Bildschirm1.png
+.. |image0| image:: {filename}/images/LastScrape_Bildschirm1.png
    :class: aligncenter size-full wp-image-1981
    :width: 521px
    :height: 414px
-.. |image1| image:: images/LastScrape_Bildschirm2.png
+.. |image1| image:: {filename}/images/LastScrape_Bildschirm2.png
    :class: aligncenter size-full wp-image-1982
    :width: 500px
    :height: 400px

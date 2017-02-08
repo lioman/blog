@@ -2,7 +2,7 @@ MySQL: Einträge mit regulären Ausdrücken löschen
 ################################################
 :date: 2015-01-04 18:36
 :author: Lioman
-:category: Allgemein, Open Source
+:category: Open Source
 :tags: datenbank, mysql, Regex, sql
 :slug: mysql-eintrage-mit-regularen-ausdrucken-loschen
 :status: published

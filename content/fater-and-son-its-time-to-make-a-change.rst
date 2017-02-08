@@ -2,7 +2,7 @@ Father and Son: Its time to make a change...
 ############################################
 :date: 2011-07-12 13:28
 :author: Lioman
-:category: Allgemein, Medien, Welt
+:category: Medien, Welt
 :tags: Foto, Spaceshuttle, Start
 :slug: fater-and-son-its-time-to-make-a-change
 :status: published

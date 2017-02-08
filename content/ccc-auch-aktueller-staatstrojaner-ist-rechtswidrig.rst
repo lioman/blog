@@ -2,7 +2,7 @@ CCC: Auch aktueller Staatstrojaner ist rechtswidrig
 ###################################################
 :date: 2011-10-26 17:24
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: #0zapftis, Bundestrojaner, CCC, Malware, Staatstrojaner, Überwachung
 :slug: ccc-auch-aktueller-staatstrojaner-ist-rechtswidrig
 :status: published

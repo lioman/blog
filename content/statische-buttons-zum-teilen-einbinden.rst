@@ -2,7 +2,7 @@ Statische Buttons zum teilen einbinden
 ######################################
 :date: 2012-01-16 12:39
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Blog, Buttons, Flattr, Share, statisch
 :slug: statische-buttons-zum-teilen-einbinden
 :status: published

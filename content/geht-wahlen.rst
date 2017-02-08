@@ -2,7 +2,7 @@ Geht wählen
 ###########
 :date: 2009-06-06 21:05
 :author: Lioman
-:category: Allgemein, Gesellschaft, Welt
+:category: Gesellschaft, Welt
 :tags: Europa, Europawahl, Grün, Politik, Wahl, Wahlempfehlung
 :slug: geht-wahlen
 :status: published

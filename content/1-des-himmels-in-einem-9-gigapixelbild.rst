@@ -2,7 +2,7 @@
 #######################################
 :date: 2012-10-25 11:30
 :author: Lioman
-:category: Allgemein, Welt
+:category: Welt
 :tags: Astronomie, Bild, ESO
 :slug: 1-des-himmels-in-einem-9-gigapixelbild
 :status: published
@@ -18,8 +18,8 @@ sich frei zoombar im Netz anschauen: \ `VISTA gigapixel mosaic of the
 central parts of the Milky
 Way <http://www.eso.org/public/images/eso1242a/zoomable/>`__
 
-.. |image0| image:: images/milchstrasse_9gigapixel.jpg
+.. |image0| image:: {filename}/images/milchstrasse_9gigapixel.jpg
    :class: size-full wp-image-5121
    :width: 355px
    :height: 355px
-   :target: images/milchstrasse_9gigapixel.jpg
+   :target: {filename}/images/milchstrasse_9gigapixel.jpg

@@ -2,7 +2,7 @@ Lioman+
 #######
 :date: 2011-07-02 12:31
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Google, googleplus, Lioman, Redirect
 :slug: liomanplus
 :status: published

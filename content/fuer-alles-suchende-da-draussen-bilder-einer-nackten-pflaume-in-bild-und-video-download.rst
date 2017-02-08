@@ -2,7 +2,7 @@ Für alles Suchende da draußen - Eine nackte Pflaume in Bild und Video (+ Downl
 ##################################################################################
 :date: 2012-10-04 18:38
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Bilder, nackt, Pflaume, Video
 :slug: fuer-alles-suchende-da-draussen-bilder-einer-nackten-pflaume-in-bild-und-video-download
 :status: published
@@ -50,28 +50,28 @@ Ich hoffe ich habe nun alle Wünsche bezüglich nackter Tatsachen erfüllt.
 Weitere Artikel dieser Art werden vermutlich nicht folgen, denn dieser
 ganze Fruchtsaft ist so klebrig und macht eine ganz schöne Sauerei.
 
-.. |image0| image:: images/schwarze-pflaume-300x235.jpg
+.. |image0| image:: {filename}/images/schwarze-pflaume-300x235.jpg
    :class: alignright size-medium wp-image-1932
    :width: 300px
    :height: 235px
-   :target: images/schwarze-pflaume.jpg
-.. |image1| image:: images/nackte-pflaume001-300x169.jpg
+   :target: {filename}/images/schwarze-pflaume.jpg
+.. |image1| image:: {filename}/images/nackte-pflaume001-300x169.jpg
    :class: alignleft size-medium wp-image-5015
    :width: 300px
    :height: 169px
-   :target: images/nackte-pflaume001.jpg
-.. |image2| image:: images/nackte-pflaume002-300x169.jpg
+   :target: {filename}/images/nackte-pflaume001.jpg
+.. |image2| image:: {filename}/images/nackte-pflaume002-300x169.jpg
    :class: alignright size-medium wp-image-5016
    :width: 300px
    :height: 169px
-   :target: images/nackte-pflaume002.jpg
-.. |image3| image:: images/nackte-pflaume003.jpg
+   :target: {filename}/images/nackte-pflaume002.jpg
+.. |image3| image:: {filename}/images/nackte-pflaume003.jpg
    :class: alignleft size-full wp-image-5017
    :width: 267px
    :height: 239px
-   :target: images/nackte-pflaume003.jpg
-.. |image4| image:: images/nackte-pflaume004-300x193.jpg
+   :target: {filename}/images/nackte-pflaume003.jpg
+.. |image4| image:: {filename}/images/nackte-pflaume004-300x193.jpg
    :class: alignright size-medium wp-image-5018
    :width: 300px
    :height: 193px
-   :target: images/nackte-pflaume004.jpg
+   :target: {filename}/images/nackte-pflaume004.jpg

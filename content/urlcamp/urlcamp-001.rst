@@ -71,8 +71,8 @@ Zurück in die PC-Vergangenheit:
 
 Eine Internetseite ganz im Stile des alten OS
 
-.. |image0| image:: images/wegweiser_klein.jpg
+.. |image0| image:: {filename}/images/wegweiser_klein.jpg
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: images/wegweiser_klein.jpg
+   :target: {filename}/images/wegweiser_klein.jpg

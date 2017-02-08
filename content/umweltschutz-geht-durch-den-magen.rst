@@ -2,7 +2,7 @@ Umweltschutz geht durch den Magen
 #################################
 :date: 2008-09-28 19:07
 :author: Lioman
-:category: Allgemein, Welt
+:category: Welt
 :tags: Fisch, Greenpeace, Kochen, Meere, Umweltschutz, wwf
 :slug: umweltschutz-geht-durch-den-magen
 :status: published

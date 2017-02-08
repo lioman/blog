@@ -2,7 +2,7 @@ Buch auf Reisen
 ###############
 :date: 2009-01-10 19:37
 :author: Lioman
-:category: Allgemein, Gesellschaft, Medien
+:category: Gesellschaft, Medien
 :tags: Bookcrossing, Bücher, International, Internet, Lesen, Literatur, Tauschen
 :slug: buch-auf-reisen
 :status: published
@@ -57,7 +57,7 @@ die Hauptseite ist leider nur in Englisch verfügbar.
 ich mich dazu entschlossen dieses Thema noch einmal zu vertiefen. Es
 gibt also bald Neues.*
 
-.. |Buch auf Reisen| image:: images/runningbook33.gif
+.. |Buch auf Reisen| image:: {filename}/images/runningbook33.gif
    :class: size-full wp-image-439 aligncenter
    :width: 33px
    :height: 33px

@@ -2,7 +2,7 @@ Mails ein Gesicht geben
 #######################
 :date: 2010-12-03 13:24
 :author: Lioman
-:category: Allgemein, PC und Technik
+:category: PC und Technik
 :tags: Bilder, Erweiterung, Gravatar, Mail, thunderbird
 :slug: mails-ein-gesicht-geben
 :status: published
@@ -35,8 +35,8 @@ per E-Mail kann man leicht den Überblick verlieren. Ein Bild ist ein
 einfacher Anhaltspunkt und es ist doch auch schön, wenn einem die
 Liebste über ihrer Mail anlächelt.
 
-.. |image0| image:: images/DisplayPhoto.png
+.. |image0| image:: {filename}/images/DisplayPhoto.png
    :class: aligncenter size-full wp-image-2477
    :width: 600px
    :height: 518px
-   :target: images/DisplayPhoto.png
+   :target: {filename}/images/DisplayPhoto.png

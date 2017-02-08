@@ -32,8 +32,8 @@ Weitere Infos unter
 `sueddeutsche.de <http://www.sueddeutsche.de/computer/730/500002/text/>`__
 ROG
 
-.. |image0| image:: images/GoogleCN-300x225.png
+.. |image0| image:: {filename}/images/GoogleCN-300x225.png
    :class: aligncenter size-medium wp-image-1303
    :width: 300px
    :height: 225px
-   :target: images/GoogleCN.png
+   :target: {filename}/images/GoogleCN.png

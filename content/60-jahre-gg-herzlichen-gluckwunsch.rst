@@ -2,7 +2,7 @@
 ####################################
 :date: 2009-05-23 18:24
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Download, Geburtstag, GG, Jahrestag, Politik, President
 :slug: 60-jahre-gg-herzlichen-gluckwunsch
 :status: published

@@ -61,8 +61,8 @@ externe Bibliothek verwendet wird (Das kann zu Problemen führen)
 
  
 
-.. |Bild eines Tachos| image:: images/Tacho.jpg
+.. |Bild eines Tachos| image:: {filename}/images/Tacho.jpg
    :class: wp-image-3109 size-full
    :width: 240px
    :height: 240px
-   :target: images/Tacho.jpg
+   :target: {filename}/images/Tacho.jpg

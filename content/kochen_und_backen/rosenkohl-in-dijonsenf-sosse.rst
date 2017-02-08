@@ -2,7 +2,7 @@ Rosenkohl in Dijonsenf-Soße
 ###########################
 :date: 2011-12-19 14:30
 :author: Lioman
-:category: Allgemein, Kochen &amp; Backen
+:category: Kochen &amp; Backen
 :tags: Dijonsenf, Kochen, Rezept, Rosenkohl, vegetarisch
 :slug: rosenkohl-in-dijonsenf-sosse
 :status: published

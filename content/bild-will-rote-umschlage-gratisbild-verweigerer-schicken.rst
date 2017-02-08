@@ -2,7 +2,7 @@ BILD will rote Umschläge an GratisBILD-Verweigerer schicken
 ###########################################################
 :date: 2012-06-13 13:14
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Aktion, Die BILD, Werbung, Widerspruch, Zeitung
 :slug: bild-will-rote-umschlage-gratisbild-verweigerer-schicken
 :status: published

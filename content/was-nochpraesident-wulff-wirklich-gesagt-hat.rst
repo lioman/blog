@@ -2,7 +2,7 @@ Was Nochpräsident Wulff wirklich gesagt hat
 ###########################################
 :date: 2012-01-04 11:21
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Kalkofe, Satire, Video, Wulff
 :slug: was-nochpraesident-wulff-wirklich-gesagt-hat
 :status: published

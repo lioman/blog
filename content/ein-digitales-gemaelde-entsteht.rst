@@ -2,7 +2,7 @@ Ein digitales Gemälde entsteht
 ##############################
 :date: 2010-12-12 16:56
 :author: Lioman
-:category: Allgemein, Open Source
+:category: Open Source
 :tags: Kunst, Linux, Zeichnung
 :slug: ein-digitales-gemaelde-entsteht
 :status: published

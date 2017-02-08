@@ -2,7 +2,7 @@ Update auf 2.8.3
 ################
 :date: 2009-08-05 10:33
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: 2.8, 2.8.3, Blog, OpenID, Sicherheitslücke, update, Wordpress
 :slug: update-auf-2-8-3
 :status: published

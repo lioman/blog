@@ -2,7 +2,7 @@ Shredder - der neue Donnervogel
 ###############################
 :date: 2008-09-10 18:59
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Alpha, alpha 2, Internet, Linux, Mail, Mozilla, shredder, Software, thunderbird
 :slug: shredder-der-neue-donnervogel
 :status: published

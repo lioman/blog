@@ -2,7 +2,7 @@ Earth Hour 2011 - für 60 Minuten geht das Licht aus
 ###################################################
 :date: 2011-03-16 16:51
 :author: Lioman
-:category: Allgemein, Gesellschaft, Welt
+:category: Gesellschaft, Welt
 :tags: Aktion, Earth Hour, Energie, Nachhaltigkeit, Protest, wwf
 :slug: earth-hour-2011-fuer-60-minuten-geht-das-licht-aus
 :status: published
@@ -23,8 +23,8 @@ Earth Hour 2011 - für 60 Minuten geht das Licht aus
 | Bilder von 2010:
 | 
 
-.. |image0| image:: images/earth_hour2011.jpg
+.. |image0| image:: {filename}/images/earth_hour2011.jpg
    :class: size-full wp-image-3010 alignleft
    :width: 186px
    :height: 240px
-   :target: images/earth_hour2011.jpg
+   :target: {filename}/images/earth_hour2011.jpg

@@ -2,7 +2,7 @@ Ein bisschen Werbung für Ubuntu
 ###############################
 :date: 2010-07-23 14:47
 :author: Lioman
-:category: Allgemein, PC und Technik
+:category: PC und Technik
 :tags: Dell, Linux, Ubuntu, Video, Werbung
 :slug: ein-bisschen-werbung-fuer-ubuntu
 :status: published

@@ -22,8 +22,8 @@ Farben umzudrehen und den Namen ein bisschen anzupassen? Oder hätte man
 als Onlineredaktion der Bundesregierung nicht Zugriff auf fähige Leute
 die sich eine kreativere Lösung einfallen lassen könnten.
 
-.. |image0| image:: images/regierungonline.jpg
+.. |image0| image:: {filename}/images/regierungonline.jpg
    :class: aligncenter size-full wp-image-3957
    :width: 500px
    :height: 342px
-   :target: images/regierungonline.jpg
+   :target: {filename}/images/regierungonline.jpg

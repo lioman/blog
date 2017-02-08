@@ -23,33 +23,33 @@ nach dem Schlüpfen gezeigt.
 
 Siehe `hier <http://www.lioman.de/2008/08/es-ist-eine-messingeule/>`__
 
-.. |Puppe01| image:: images/Puppe01-150x150.jpg
+.. |Puppe01| image:: {filename}/images/Puppe01-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1002
    :width: 150px
    :height: 150px
-   :target: images/Puppe01.jpg
-.. |Puppe06| image:: images/Puppe06-150x150.jpg
+   :target: {filename}/images/Puppe01.jpg
+.. |Puppe06| image:: {filename}/images/Puppe06-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1003
    :width: 150px
    :height: 150px
-   :target: images/Puppe06.jpg
-.. |Puppe07| image:: images/Puppe07-150x150.jpg
+   :target: {filename}/images/Puppe06.jpg
+.. |Puppe07| image:: {filename}/images/Puppe07-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1004
    :width: 150px
    :height: 150px
-   :target: images/Puppe07.jpg
-.. |Puppe08| image:: images/Puppe08-150x150.jpg
+   :target: {filename}/images/Puppe07.jpg
+.. |Puppe08| image:: {filename}/images/Puppe08-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1005
    :width: 150px
    :height: 150px
-   :target: images/Puppe08.jpg
-.. |schlupfglas1| image:: images/schlupfglas1-150x150.jpg
+   :target: {filename}/images/Puppe08.jpg
+.. |schlupfglas1| image:: {filename}/images/schlupfglas1-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1006
    :width: 150px
    :height: 150px
-   :target: images/schlupfglas1.jpg
-.. |Schlupfglas2| image:: images/Schlupfglas2-150x150.jpg
+   :target: {filename}/images/schlupfglas1.jpg
+.. |Schlupfglas2| image:: {filename}/images/Schlupfglas2-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1007
    :width: 150px
    :height: 150px
-   :target: images/Schlupfglas2.jpg
+   :target: {filename}/images/Schlupfglas2.jpg

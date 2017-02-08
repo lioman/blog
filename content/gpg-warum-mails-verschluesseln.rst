@@ -2,7 +2,7 @@ GPG: Warum Mails verschlüsseln
 ##############################
 :date: 2011-01-19 16:01
 :author: Lioman
-:category: Allgemein, Internet, PC und Technik
+:category: Internet, PC und Technik
 :tags: E-Mail, GnuPG, GPG, Mail, Privatspähre, Sicherheit, Verschlüsselung
 :slug: gpg-warum-mails-verschluesseln
 :status: published
@@ -107,13 +107,13 @@ Passwort sinnvoll- und nicht wie hier "test"- gewählt ist).
   bewerkstelligen ist soll der nächsten Artikel zum `Thema
   GPG </tag/gpg>`__ zeigen.
 
-.. |image0| image:: images/mail_ohne_verschluesselung.png
+.. |image0| image:: {filename}/images/mail_ohne_verschluesselung.png
    :class: aligncenter size-full wp-image-2723
    :width: 671px
    :height: 258px
-   :target: images/mail_ohne_verschluesselung.png
-.. |image1| image:: images/mail_mit_verschluesselung.png
+   :target: {filename}/images/mail_ohne_verschluesselung.png
+.. |image1| image:: {filename}/images/mail_mit_verschluesselung.png
    :class: aligncenter size-full wp-image-2730
    :width: 671px
    :height: 238px
-   :target: images/mail_mit_verschluesselung.png
+   :target: {filename}/images/mail_mit_verschluesselung.png

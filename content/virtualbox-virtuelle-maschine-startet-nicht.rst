@@ -33,8 +33,8 @@ Den entscheidendeen Tipp hatte
 `skierpage <http://ubuntuforums.org/member.php?s=a13ed0ec93c0d6adb1f13785bfda9e87&u=874671>`__
 auf Ubuntuforums
 
-.. |image0| image:: images/virtualbox2.png
+.. |image0| image:: {filename}/images/virtualbox2.png
    :class: wp-image-4448 alignleft
    :width: 63px
    :height: 75px
-   :target: images/virtualbox2.png
+   :target: {filename}/images/virtualbox2.png

@@ -43,8 +43,8 @@ aber vielleicht kommt das noch
 Dafür funktioniert sie nicht mehr unter Linux. Im Firefox soll die
 Version zu alt sein und in Chrome läd der Player aber kein Videostream.
 
-.. |Amazon Videoplayer-Einstellungen| image:: images/amazon_video_einstellungen-1024x207.png
+.. |Amazon Videoplayer-Einstellungen| image:: {filename}/images/amazon_video_einstellungen-1024x207.png
    :class: size-large wp-image-5637
    :width: 620px
    :height: 125px
-   :target: images/amazon_video_einstellungen.png
+   :target: {filename}/images/amazon_video_einstellungen.png

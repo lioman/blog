@@ -68,18 +68,18 @@ schnell tippen wie mit meiner gut trainierten, eingangs erwähnten
 Referenz. Ab und zu unterbreche ich zwar noch mitten im Wort und muss
 dann löschen, aber das geht genauso schnell mit einem Wisch.
 
-.. |Fleksy mit Zahlenreihe| image:: images/wpid-wp-1424349595807-176x300.png
+.. |Fleksy mit Zahlenreihe| image:: {filename}/images/wpid-wp-1424349595807-176x300.png
    :class: wp-image-5719 size-medium
    :width: 176px
    :height: 300px
-   :target: images/wpid-wp-1424349595807.png
-.. |wpid-wp-1424349527553.png| image:: images/wpid-wp-1424349527553-176x300.png
+   :target: {filename}/images/wpid-wp-1424349595807.png
+.. |wpid-wp-1424349527553.png| image:: {filename}/images/wpid-wp-1424349527553-176x300.png
    :class: alignleft size-medium wp-image-5720
    :width: 176px
    :height: 300px
-   :target: images/wpid-wp-1424349527553.png
-.. |Fleksy Statistiken und Badges| image:: images/wpid-wp-1424349371333-176x300.png
+   :target: {filename}/images/wpid-wp-1424349527553.png
+.. |Fleksy Statistiken und Badges| image:: {filename}/images/wpid-wp-1424349371333-176x300.png
    :class: wp-image-5721 size-medium
    :width: 176px
    :height: 300px
-   :target: images/wpid-wp-1424349371333.png
+   :target: {filename}/images/wpid-wp-1424349371333.png

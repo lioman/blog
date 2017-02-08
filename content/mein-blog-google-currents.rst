@@ -2,7 +2,7 @@ Mein Blog in Google Currents
 ############################
 :date: 2012-06-14 14:29
 :author: Lioman
-:category: Allgemein, Internet, PC und Technik, Ubuntuusers Planet
+:category: Internet, PC und Technik, Ubuntuusers Planet
 :tags: android, Blog, Google Currents, iOS, mobil
 :slug: mein-blog-google-currents
 :status: published
@@ -44,23 +44,23 @@ align="alignleft" width="100"]\ |image2| Google Currents für
 id="attachment\_4754" align="alignleft" width="100"]\ |image3| Mein Blog
 bei Google Currents[/caption]
 
-.. |image0| image:: images/googlecurrents.png
+.. |image0| image:: {filename}/images/googlecurrents.png
    :class: alignright size-full wp-image-4760
    :width: 478px
    :height: 87px
-   :target: images/googlecurrents.png
-.. |image1| image:: images/currents_android.png
+   :target: {filename}/images/googlecurrents.png
+.. |image1| image:: {filename}/images/currents_android.png
    :class: size-full wp-image-4757
    :width: 100px
    :height: 100px
-   :target: images/currents_android.png
-.. |image2| image:: images/currents_ios.png
+   :target: {filename}/images/currents_android.png
+.. |image2| image:: {filename}/images/currents_ios.png
    :class: size-full wp-image-4758
    :width: 100px
    :height: 100px
-   :target: images/currents_ios.png
-.. |image3| image:: images/currents_blog.png
+   :target: {filename}/images/currents_ios.png
+.. |image3| image:: {filename}/images/currents_blog.png
    :class: size-full wp-image-4754
    :width: 100px
    :height: 100px
-   :target: images/currents_blog.png
+   :target: {filename}/images/currents_blog.png

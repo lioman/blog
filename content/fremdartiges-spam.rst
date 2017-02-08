@@ -2,7 +2,7 @@ Fremdartiges Spam
 #################
 :date: 2009-05-28 13:50
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Google-Übersetzer, hebräisch, Spam, Sprache
 :slug: fremdartiges-spam
 :status: published

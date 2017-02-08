@@ -19,8 +19,8 @@ Croissants und Madleines  durch die Grande Nation zu kutschieren.
 Man kann ja nicht einfach ohne sein Gebäck verreisen. Jetzt die Frage:
 Hat jemand mal einen Gebäckträger gesehen? Gibt es Beweisfotos?
 
-.. |image0| image:: images/gebaecktraeger.png
+.. |image0| image:: {filename}/images/gebaecktraeger.png
    :class: size-full wp-image-3090 aligncenter
    :width: 647px
    :height: 116px
-   :target: images/gebaecktraeger.png
+   :target: {filename}/images/gebaecktraeger.png

@@ -2,7 +2,7 @@ Faxe Energiesparlampe
 #####################
 :date: 2011-10-28 15:00
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Energiesparlampe, EU, Österreich, Rap, Video
 :slug: faxe-energiesparlampe
 :status: published

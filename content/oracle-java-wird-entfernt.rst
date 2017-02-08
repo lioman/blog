@@ -2,7 +2,7 @@ Oracle Java wird entfernt!
 ##########################
 :date: 2011-12-19 17:44
 :author: Lioman
-:category: Allgemein, PC und Technik, Ubuntuusers Planet
+:category: PC und Technik, Ubuntuusers Planet
 :tags: Java, Linux, OpenJDK, Oracle, Ubuntu
 :slug: oracle-java-wird-entfernt
 :status: published
@@ -40,8 +40,8 @@ Falsch finde ich das nicht, denn so wird das freie
 `OpenJDK <http://openjdk.java.net/>`__ stärker verbreitet, was die
 Entwicklung nur begünstigen kann.
 
-.. |image0| image:: images/ubuntulogo.png
+.. |image0| image:: {filename}/images/ubuntulogo.png
    :class: alignright size-full wp-image-3180
    :width: 190px
    :height: 194px
-   :target: images/ubuntulogo.png
+   :target: {filename}/images/ubuntulogo.png

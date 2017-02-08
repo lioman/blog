@@ -2,7 +2,7 @@ Spam oder nicht Spam
 ####################
 :date: 2012-10-12 11:02
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Blog, Kommentare, Spam
 :slug: spam-oder-nicht-spam
 :status: published

@@ -2,7 +2,7 @@
 ###########
 :date: 2010-11-22 11:42
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: #s21, akismet, Spam
 :slug: 21-spammer
 :status: published
@@ -58,7 +58,7 @@ Clever gemacht!
     Ab einer bestimmten Summe sollte es zur Pflicht werden, dass es
     einen Volksentscheid gibt!
 
-.. |SPAM Dose| image:: images/spam-300x157.jpg
+.. |SPAM Dose| image:: {filename}/images/spam-300x157.jpg
    :class: size-medium wp-image-5482
    :width: 300px
    :height: 157px

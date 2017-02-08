@@ -2,7 +2,7 @@ Webnews Bookmarklet
 ###################
 :date: 2011-12-14 14:00
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Bookmarklet, Javascript, Share, Webnews
 :slug: webnews-bookmarklet
 :status: published

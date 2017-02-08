@@ -2,7 +2,7 @@ The Humble Indie Bundle #4
 ##########################
 :date: 2011-12-27 19:22
 :author: Lioman
-:category: Allgemein, Ubuntuusers Planet
+:category: Ubuntuusers Planet
 :tags: Humblebundle, Linux, Paywhatyowant, Raumschiffe, Spiel
 :slug: the-humble-indie-bundle-4
 :status: published

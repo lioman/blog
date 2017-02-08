@@ -65,13 +65,13 @@ die Piwik nutzen wollen empfehle ich übrigens das Plugin
 
  
 
-.. |image0| image:: images/transitions_icon.png
+.. |image0| image:: {filename}/images/transitions_icon.png
    :class: alignleft size-full wp-image-5099
    :width: 91px
    :height: 50px
-   :target: images/transitions_icon.png
-.. |image1| image:: images/transitions.png
+   :target: {filename}/images/transitions_icon.png
+.. |image1| image:: {filename}/images/transitions.png
    :class: size-full wp-image-5100
    :width: 800px
    :height: 519px
-   :target: images/transitions.png
+   :target: {filename}/images/transitions.png

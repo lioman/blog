@@ -2,7 +2,7 @@ Oetti talking english (oder so was Ähnliches)
 #############################################
 :date: 2010-01-21 14:53
 :author: Lioman
-:category: Allgemein, Gesellschaft, Welt
+:category: Gesellschaft, Welt
 :slug: oetti-talking-english-oder-so-was-aehnliches
 :status: published
 

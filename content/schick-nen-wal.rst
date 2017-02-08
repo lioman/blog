@@ -2,7 +2,7 @@ Schick nen Wal
 ##############
 :date: 2009-04-25 14:07
 :author: Lioman
-:category: Allgemein, Internet, Welt
+:category: Internet, Welt
 :tags: Greenpeace, Internetaktion, Japan, Meere, Petition, Umweltschutz, Wale, Walfang, Webby
 :slug: schick-nen-wal
 :status: published

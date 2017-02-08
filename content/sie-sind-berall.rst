@@ -2,7 +2,7 @@ Sie sind überall!!!
 ###################
 :date: 2008-11-27 12:22
 :author: Lioman
-:category: Allgemein, Gesellschaft, Medien
+:category: Gesellschaft, Medien
 :tags: Aufreger, Bild, gaffer, kai diekmann, Leserreporter, lidl, Menschenwürde, Privatsphäre, Video
 :slug: sie-sind-berall
 :status: published

@@ -2,7 +2,7 @@ Selleriesuppe nach Lea Linster
 ##############################
 :date: 2011-12-27 18:04
 :author: Lioman
-:category: Allgemein, Kochen &amp; Backen
+:category: Kochen &amp; Backen
 :tags: Kochen, Lea Linster, Rezept, Sellerie, Suppe, Vorspeise
 :slug: selleriesuppe-nach-lea-linster
 :status: published

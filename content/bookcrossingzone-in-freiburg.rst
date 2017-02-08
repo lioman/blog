@@ -2,7 +2,7 @@ Bookcrossingzone in Freiburg
 ############################
 :date: 2009-12-10 17:14
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Bookcrossing, Bücher, freiburg, KHG, OBCZ
 :slug: bookcrossingzone-in-freiburg
 :status: published
@@ -40,8 +40,8 @@ handeln und über 1900 Bücher auf einmal freilassen.
 
 Meine Nächsten Bücher werde ich aber erstmal zur KHG tragen.
 
-.. |Buch auf Reisen| image:: images/runningbook33.gif
+.. |Buch auf Reisen| image:: {filename}/images/runningbook33.gif
    :class: size-full wp-image-439
    :width: 66px
    :height: 66px
-   :target: images/runningbook33.gif
+   :target: {filename}/images/runningbook33.gif

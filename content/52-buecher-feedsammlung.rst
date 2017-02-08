@@ -2,7 +2,7 @@
 #######################
 :date: 2011-11-22 13:00
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: 52 Bücher, Feed, OBML, RSS, Set
 :slug: 52-buecher-feedsammlung
 :status: published

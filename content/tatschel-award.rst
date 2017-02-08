@@ -28,7 +28,7 @@ interessant. Und ich verbeuge mich tief vor der Menge der Artikel. Ich
 bin da irgendwie langsamer :schildkroete: , wenn es um die "Befüllung"
 meines  Blogs geht.
 
-.. |Tätschel-Award von Fellmonster| image:: images/fellmonster_taetschel-300x287.jpg
+.. |Tätschel-Award von Fellmonster| image:: {filename}/images/fellmonster_taetschel-300x287.jpg
    :class: size-medium wp-image-667
    :width: 300px
    :height: 287px

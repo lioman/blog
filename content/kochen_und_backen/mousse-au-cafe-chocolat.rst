@@ -2,7 +2,7 @@ Mousse au café/ chocolat
 ########################
 :date: 2010-04-29 16:09
 :author: Lioman
-:category: Allgemein, Kochen &amp; Backen
+:category: Kochen &amp; Backen
 :tags: Kochen, Nachtisch, Rezept
 :slug: mousse-au-cafe-chocolat
 :status: published

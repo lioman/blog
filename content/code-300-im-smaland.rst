@@ -53,8 +53,8 @@ Rätsels Lösung als so profan herausstellte.
 
 Nichtwissen schreibt eben doch die besseren Geschichten.
 
-.. |image0| image:: images/flag_of_sweden.png
+.. |image0| image:: {filename}/images/flag_of_sweden.png
    :class: alignright size-full wp-image-3783
    :width: 200px
    :height: 125px
-   :target: images/flag_of_sweden.png
+   :target: {filename}/images/flag_of_sweden.png

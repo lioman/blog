@@ -2,7 +2,7 @@ Konsolentipps #003: GoogleNgram-Dateien runterladen
 ###################################################
 :date: 2010-12-21 14:45
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Bücher, GoogleNgram, Konsole, Konsolentipps, Linux, Ngram, Statistik
 :slug: konsolentipps-003-googlengram-dateien-runterladen
 :status: published

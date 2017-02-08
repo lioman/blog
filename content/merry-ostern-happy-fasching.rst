@@ -2,7 +2,7 @@ I wish you a merry ostern and a happy Fasching
 ##############################################
 :date: 2008-09-11 20:00
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Advent, Aufreger, Handel, Weihnachten
 :slug: merry-ostern-happy-fasching
 :status: published

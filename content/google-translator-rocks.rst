@@ -9,6 +9,6 @@ Google Translator rocks
 
 |image|
 
-.. |image| image:: images/wpid-2012-09-15_11-30-23.png
+.. |image| image:: {filename}/images/wpid-2012-09-15_11-30-23.png
    :class: alignnone
-   :target: images/wpid-2012-09-15_11-30-231.png
+   :target: {filename}/images/wpid-2012-09-15_11-30-231.png

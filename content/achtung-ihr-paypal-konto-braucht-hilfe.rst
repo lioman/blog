@@ -239,13 +239,13 @@ Hier die Mail:
 
        </div>
 
-.. |Paypal_Pishing1| image:: images/paypal_pishing1-300x208.png
+.. |Paypal_Pishing1| image:: {filename}/images/paypal_pishing1-300x208.png
    :class: alignright size-medium wp-image-5490
    :width: 300px
    :height: 208px
-   :target: images/paypal_pishing1.png
-.. |Paypal_Pishing2| image:: images/paypal_pishing2-300x230.png
+   :target: {filename}/images/paypal_pishing1.png
+.. |Paypal_Pishing2| image:: {filename}/images/paypal_pishing2-300x230.png
    :class: alignleft size-medium wp-image-5491
    :width: 300px
    :height: 230px
-   :target: images/paypal_pishing2.png
+   :target: {filename}/images/paypal_pishing2.png

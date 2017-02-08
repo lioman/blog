@@ -2,7 +2,7 @@ Was wir aus den Wikileaksveröffentlichungen lernen können
 #########################################################
 :date: 2010-12-01 16:28
 :author: Lioman
-:category: Allgemein, Gesellschaft, Internet
+:category: Gesellschaft, Internet
 :tags: daten, Datenschutz, Vorratsdatenspeicherung, Wikileaks
 :slug: was-wir-aus-den-wikileaksveroeffentlichungen-lernen-koennen
 :status: published

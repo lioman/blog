@@ -2,7 +2,7 @@ Herzlichen Glückwunsch und Danke Wikipedia
 ##########################################
 :date: 2011-01-14 19:53
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Jubiläum, Lexikon, Wikipedia
 :slug: herzlichen-glueckwunsch-und-danke-wikipedia
 :status: published

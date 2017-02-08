@@ -72,8 +72,8 @@ Jetzt nutze ich Finn eine Woche und bin immer noch äußerst zufrieden.
 **Update:** Random.org hat mir die zwei Gewinner ausgespuckt. Ich
 gratuliere Julia zur Halterung und Lars zum BikeCityGuide Stadtcode
 
-.. |Die Halterung für jedes Smartphone und Fahrrad| image:: images/finn.png
+.. |Die Halterung für jedes Smartphone und Fahrrad| image:: {filename}/images/finn.png
    :class: size-full wp-image-5412
    :width: 890px
    :height: 201px
-   :target: images/finn.png
+   :target: {filename}/images/finn.png

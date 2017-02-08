@@ -2,7 +2,7 @@ Umstellung auf Feedburner
 #########################
 :date: 2009-05-10 11:45
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Blog, Feed, Feedburner, Plugin, Statistik, Wordpress
 :slug: umstellung-auf-feedburner
 :status: published

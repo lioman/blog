@@ -2,7 +2,7 @@ So schlimm kann die Finanzkrise nicht sein
 ##########################################
 :date: 2009-05-13 18:28
 :author: Lioman
-:category: Allgemein, Welt
+:category: Welt
 :tags: Autobahn, Blöd, dumm gelaufen, Geld, Lustig
 :slug: so-schlimm-kann-die-finanzkrise-nicht-sein
 :status: published

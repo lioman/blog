@@ -2,7 +2,7 @@ Kampagne für gerechtere Steuern: 7% auf Kinderartikel
 #####################################################
 :date: 2011-11-15 16:00
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: 7%, Aktion, Familie, Familienpolitik, Kinder, Mehrwertsteuer, Politik
 :slug: kampagne-fuer-gerechtere-steuern-7-auf-kinderartikel
 :status: published
@@ -42,8 +42,8 @@ günstiger werden. Das wäre dann eine Steuererleichterung, die wirklich
 denen zugute kommt, die es benötigen. Damit würde unsere Gesellschaft
 ein Stück Familienfreundlicher.
 
-.. |image0| image:: images/7prozentaufblumen.jpg
+.. |image0| image:: {filename}/images/7prozentaufblumen.jpg
    :class: alignright size-full wp-image-3960
    :width: 400px
    :height: 283px
-   :target: images/7prozentaufblumen.jpg
+   :target: {filename}/images/7prozentaufblumen.jpg

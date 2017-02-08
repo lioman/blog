@@ -50,8 +50,8 @@ noch das Sprachpaket von Mozilla runterladen und installieren: de.xpi
 eine andere Tastenkombination umstellen, da sich sonst nur das
 Einstellungsfenster der Erweiterung öffnet.
 
-.. |image0| image:: images/firefox.png
+.. |image0| image:: {filename}/images/firefox.png
    :class: alignleft size-full wp-image-3038
    :width: 128px
    :height: 128px
-   :target: images/firefox.png
+   :target: {filename}/images/firefox.png

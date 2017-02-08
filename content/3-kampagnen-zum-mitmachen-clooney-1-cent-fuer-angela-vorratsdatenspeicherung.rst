@@ -66,8 +66,8 @@ sie alle für Unterstützungswert halte.
    <iframe width="560" height="315" src="https://www.youtube.com/embed/2G8QljHVn_A" frameborder="0" allowfullscreen></iframe>
 
 
-.. |image0| image:: images/push_europe_cent-300x249.jpg
+.. |image0| image:: {filename}/images/push_europe_cent-300x249.jpg
    :class: alignright size-full wp-image-3577
    :width: 300px
    :height: 249px
-   :target: images/push_europe_cent-300x249.jpg
+   :target: {filename}/images/push_europe_cent-300x249.jpg

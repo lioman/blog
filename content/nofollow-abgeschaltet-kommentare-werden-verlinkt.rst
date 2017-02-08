@@ -2,7 +2,7 @@ Nofollow abgeschaltet - Kommentare werden verlinkt
 ##################################################
 :date: 2010-11-11 11:25
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Blog, dofollow, Link, nofollow, Web
 :slug: nofollow-abgeschaltet-kommentare-werden-verlinkt
 :status: published

@@ -2,7 +2,7 @@
 ###############################
 :date: 2012-06-15 14:31
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: 52 Bücher, Buch, Frauenroman, Lesen
 :slug: 52-bucher-woche-19-chick-lit
 :status: published
@@ -40,7 +40,7 @@ Das wars, was an Inhaltsangabe in meinem Gedächtnis übrig geblieben ist.
 Wer genauere Angaben möchte kann ja in der Wikipedia oder  einem alten
 Deutschheft nachschauen bzw. einfach das Buch lesen.
 
-.. |image0| image:: images/52buecher.jpg
+.. |image0| image:: {filename}/images/52buecher.jpg
    :class: alignright size-full wp-image-3989
    :width: 138px
    :height: 150px

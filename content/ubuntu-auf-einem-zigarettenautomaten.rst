@@ -2,7 +2,7 @@ Ubuntu auf einem Zigarettenautomaten
 ####################################
 :date: 2012-08-31 13:53
 :author: Lioman
-:category: Allgemein, Open Source, PC und Technik, Ubuntuusers Planet
+:category: Open Source, PC und Technik, Ubuntuusers Planet
 :tags: Automat, Linux, Ubuntu
 :slug: ubuntu-auf-einem-zigarettenautomaten
 :status: published
@@ -31,8 +31,8 @@ geschossen von
 **Update:** Nachdem die Wordpress-Androidanwendung das Bild geschluckt
 hat, habe ich dieses nochmal hinzugefügt
 
-.. |image0| image:: images/ubuntu_zigarettenautomat.jpg
+.. |image0| image:: {filename}/images/ubuntu_zigarettenautomat.jpg
    :class: size-full wp-image-4965
    :width: 675px
    :height: 900px
-   :target: images/ubuntu_zigarettenautomat.jpg
+   :target: {filename}/images/ubuntu_zigarettenautomat.jpg

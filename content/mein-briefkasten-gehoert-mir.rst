@@ -2,7 +2,7 @@ Mein Briefkasten gehört mir!
 ############################
 :date: 2012-06-05 13:47
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Aktion, Auflage, Bild, Briefkasten, Kampagne, Werbung, Widerspruch, Zeitung
 :slug: mein-briefkasten-gehoert-mir
 :status: published
@@ -47,8 +47,8 @@ http://vimeo.com/41071633
 
  
 
-.. |image0| image:: images/alle-gegen-bild_logo_500x200.png
+.. |image0| image:: {filename}/images/alle-gegen-bild_logo_500x200.png
    :class: alignright size-full wp-image-4706
    :width: 500px
    :height: 200px
-   :target: images/alle-gegen-bild_logo_500x200.png
+   :target: {filename}/images/alle-gegen-bild_logo_500x200.png

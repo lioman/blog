@@ -32,8 +32,8 @@ eigenen Kommentars einladen.
 Lustig ist übrigens, dass man als Geschlecht Alles eintragen kann - es
 gibt ein Freitextfeld!
 
-.. |image0| image:: images/diaspora_dandy_logo-300x162.png
+.. |image0| image:: {filename}/images/diaspora_dandy_logo-300x162.png
    :class: size-medium wp-image-2411 alignleft
    :width: 300px
    :height: 162px
-   :target: images/diaspora_dandy_logo.png
+   :target: {filename}/images/diaspora_dandy_logo.png

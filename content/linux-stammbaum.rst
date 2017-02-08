@@ -54,8 +54,8 @@ die einem schnell bei allerlei Problemen hilft.
    :width: 240px
    :height: 129px
    :target: http://farm3.static.flickr.com/2444/3950212995_dbcdac9f18_o_d.png
-.. |linstammbaum| image:: images/linstammbaum-150x150.png
+.. |linstammbaum| image:: {filename}/images/linstammbaum-150x150.png
    :class: aligncenter size-thumbnail wp-image-1163
    :width: 150px
    :height: 150px
-   :target: images/linstammbaum.png
+   :target: {filename}/images/linstammbaum.png

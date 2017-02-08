@@ -2,7 +2,7 @@
 ###########################################
 :date: 2012-05-03 16:32
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: 52 Bücher, Bücher, harry potter, Lesen
 :slug: 52-buecher-woche-17-positive-ueberraschung
 :status: published

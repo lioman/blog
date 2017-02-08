@@ -2,7 +2,7 @@ Emailverschlüsselung im Bundestag
 #################################
 :date: 2011-12-19 12:55
 :author: Lioman
-:category: Allgemein, Gesellschaft, Internet, Ubuntuusers Planet
+:category: Gesellschaft, Internet, Ubuntuusers Planet
 :tags: Bundestag, E-Mail, GPG, Verschlüsseung
 :slug: emailverschluesselung-im-bundestag
 :status: published
@@ -62,8 +62,8 @@ schlicht für fahrlässig.
 
  
 
-.. |image0| image:: images/gnupg-logo.png
+.. |image0| image:: {filename}/images/gnupg-logo.png
    :class: alignright size-full wp-image-4146
    :width: 150px
    :height: 52px
-   :target: images/gnupg-logo.png
+   :target: {filename}/images/gnupg-logo.png

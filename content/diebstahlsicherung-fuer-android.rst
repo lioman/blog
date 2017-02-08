@@ -2,7 +2,7 @@
 ################################
 :date: 2012-07-12 14:30
 :author: Lioman
-:category: Allgemein, Open Source, PC und Technik, Ubuntuusers Planet
+:category: Open Source, PC und Technik, Ubuntuusers Planet
 :tags: android, Diebstahl, Linux, Prey, Sicherheit, Ubuntu
 :slug: diebstahlsicherung-fuer-android
 :status: published
@@ -99,17 +99,17 @@ ein Erklärvideo:
 
 http://vimeo.com/18728980
 
-.. |image0| image:: images/prey_logo.png
+.. |image0| image:: {filename}/images/prey_logo.png
    :class: alignright size-full wp-image-4870
    :width: 600px
    :height: 188px
-.. |image1| image:: images/prey_uebersicht.png
+.. |image1| image:: {filename}/images/prey_uebersicht.png
    :class: wp-image-4875
    :width: 216px
    :height: 384px
-   :target: images/prey_uebersicht.png
-.. |image2| image:: images/prey_test-168x300.png
+   :target: {filename}/images/prey_uebersicht.png
+.. |image2| image:: {filename}/images/prey_test-168x300.png
    :class: alignright size-medium wp-image-4877
    :width: 168px
    :height: 300px
-   :target: images/prey_test.png
+   :target: {filename}/images/prey_test.png

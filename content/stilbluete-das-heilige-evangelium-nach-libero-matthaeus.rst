@@ -22,8 +22,8 @@ einem breiten Grinsen erspare:
 
  
 
-.. |image0| image:: images/Lotharevangelium.jpg
+.. |image0| image:: {filename}/images/Lotharevangelium.jpg
    :class: aligncenter size-full wp-image-3143
    :width: 948px
    :height: 238px
-   :target: images/Lotharevangelium.jpg
+   :target: {filename}/images/Lotharevangelium.jpg

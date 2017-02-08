@@ -2,7 +2,7 @@ Höhrtipp: Kafka, Kanzler und da knackt nichts
 #############################################
 :date: 2010-01-14 14:14
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Audio, BKA, DLF, Feature, Geheimdienst, tipp
 :slug: hoehrtipp-kafka-kanzler-und-da-knackt-nichts
 :status: published

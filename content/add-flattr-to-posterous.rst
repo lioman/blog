@@ -69,40 +69,40 @@ Everything is done and your readers can flattr your Posterousblog
   ignore the scrolling= no attribute. I try to improve that.
 | |Share_on_Posterous|
 
-.. |image0| image:: images/posterous2flattr.jpg
+.. |image0| image:: {filename}/images/posterous2flattr.jpg
    :class: size-full wp-image-3214 alignright
    :width: 200px
    :height: 99px
-   :target: images/posterous2flattr.jpg
-.. |image1| image:: images/posterousnewsettings-300x158.jpg
+   :target: {filename}/images/posterous2flattr.jpg
+.. |image1| image:: {filename}/images/posterousnewsettings-300x158.jpg
    :class: aligncenter size-medium wp-image-3802
    :width: 300px
    :height: 158px
-   :target: images/posterousnewsettings.jpg
-.. |image2| image:: images/posterous2flattr02-300x207.png
+   :target: {filename}/images/posterousnewsettings.jpg
+.. |image2| image:: {filename}/images/posterous2flattr02-300x207.png
    :class: aligncenter size-medium wp-image-3198
    :width: 300px
    :height: 207px
-   :target: images/posterous2flattr02.png
-.. |image3| image:: images/posterous2flattr03-300x207.png
+   :target: {filename}/images/posterous2flattr02.png
+.. |image3| image:: {filename}/images/posterous2flattr03-300x207.png
    :class: aligncenter size-medium wp-image-3199
    :width: 300px
    :height: 207px
-   :target: images/posterous2flattr03.png
-.. |image4| image:: images/posterous2flattr04-300x207.png
+   :target: {filename}/images/posterous2flattr03.png
+.. |image4| image:: {filename}/images/posterous2flattr04-300x207.png
    :class: aligncenter size-medium wp-image-3201
    :width: 300px
    :height: 207px
-   :target: images/posterous2flattr04.png
-.. |image5| image:: images/posterous2flattr05-300x207.png
+   :target: {filename}/images/posterous2flattr04.png
+.. |image5| image:: {filename}/images/posterous2flattr05-300x207.png
    :class: aligncenter size-medium wp-image-3202
    :width: 300px
    :height: 207px
-   :target: images/posterous2flattr05.png
-.. |image6| image:: images/posterous2flattr06-300x207.png
+   :target: {filename}/images/posterous2flattr05.png
+.. |image6| image:: {filename}/images/posterous2flattr06-300x207.png
    :class: aligncenter size-medium wp-image-3203
    :width: 300px
    :height: 207px
-   :target: images/posterous2flattr06.png
+   :target: {filename}/images/posterous2flattr06.png
 .. |Share_on_Posterous| image:: http://posterous.com/images/share/share_posterous.png
    :target: http://posterous.com/share?linkto=http://www.lioman.de/add-flattr-to-posterous/

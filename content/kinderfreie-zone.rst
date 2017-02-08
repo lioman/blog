@@ -72,8 +72,8 @@ Urlauber unter sich…*
   anlegen. Wie wäre es mit Religion, Hautfarbe, etc.?
 | Und das wäre dann wirklich nicht tolerierbar!
 
-.. |Straßenschild: Ende der Spielstraße| image:: images/ende_spielstrasse.png
+.. |Straßenschild: Ende der Spielstraße| image:: {filename}/images/ende_spielstrasse.png
    :class: size-full wp-image-5608
    :width: 216px
    :height: 145px
-   :target: images/ende_spielstrasse.png
+   :target: {filename}/images/ende_spielstrasse.png

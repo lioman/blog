@@ -34,6 +34,6 @@ solche Umfragen überhaupt zu etwas gut? Ich denke ja! Sie können
 unterhaltend sein, wenn man die Richtigen stellt und sie zeitlich nicht
 zu stark einschränkt.
 
-.. |Abstimmung_Kruemmel| image:: images/Abstimmung_Kruemmel-150x150.png
+.. |Abstimmung_Kruemmel| image:: {filename}/images/Abstimmung_Kruemmel-150x150.png
    :class: aligncenter size-thumbnail wp-image-911
-   :target: images/Abstimmung_Kruemmel.png
+   :target: {filename}/images/Abstimmung_Kruemmel.png

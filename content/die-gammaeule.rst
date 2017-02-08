@@ -2,7 +2,7 @@ Die Gammaeule
 #############
 :date: 2008-07-19 01:06
 :author: Lioman
-:category: Allgemein, Welt
+:category: Welt
 :tags: Bilder, Messingeule, Nachtfalter, Raupe, Schmetterling, Zucht
 :slug: die-gammaeule
 :status: published

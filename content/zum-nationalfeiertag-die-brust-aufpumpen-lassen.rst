@@ -20,8 +20,8 @@ Einlösen nach Belgien fahren).
 
  
 
-.. |image0| image:: images/groupon_brustdeal-759x1024.png
+.. |image0| image:: {filename}/images/groupon_brustdeal-759x1024.png
    :class: aligncenter size-large wp-image-3417
    :width: 640px
    :height: 863px
-   :target: images/groupon_brustdeal.png
+   :target: {filename}/images/groupon_brustdeal.png

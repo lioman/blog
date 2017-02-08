@@ -2,7 +2,7 @@ Wikia Search tot
 ################
 :date: 2009-06-10 13:13
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Frage-Antwort, Google, Google Alternative, Q&amp;A, Suchmaschine, Wikia, Wikiasearch
 :slug: wikia-search-tot
 :status: published

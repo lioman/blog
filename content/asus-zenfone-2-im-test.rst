@@ -2,7 +2,7 @@ Asus ZenFone 2 im Test
 ######################
 :date: 2015-11-17 20:56
 :author: Lioman
-:category: Allgemein, PC und Technik
+:category: PC und Technik
 :tags: android, Asus, Smartphone, Test, ZenFone
 :slug: asus-zenfone-2-im-test
 :status: published
@@ -167,13 +167,13 @@ Updates ausgemerzt.  Auch die Kamera ist wirklich sehr gut und Auf die
 Frage von Asus, w\ **ürdet** **ihr es gerne behalten?**, kann ich nur
 mit **Ja** antworten.
 
-.. |AsusZenFone2| image:: images/AsusZenFone2.jpg
+.. |AsusZenFone2| image:: {filename}/images/AsusZenFone2.jpg
    :class: alignleft size-full wp-image-5879
    :width: 500px
    :height: 500px
-   :target: images/AsusZenFone2.jpg
-.. |image| image:: images/wpid-wp-1447776661746.png
+   :target: {filename}/images/AsusZenFone2.jpg
+.. |image| image:: {filename}/images/wpid-wp-1447776661746.png
    :class: alignright
    :width: 400px
    :height: 711px
-   :target: images/wpid-wp-1447776661746.png
+   :target: {filename}/images/wpid-wp-1447776661746.png

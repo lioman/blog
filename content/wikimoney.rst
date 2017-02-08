@@ -2,7 +2,7 @@ WikiMoney
 #########
 :date: 2008-11-08 21:51
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Internet, Wikipedia
 :slug: wikimoney
 :status: published

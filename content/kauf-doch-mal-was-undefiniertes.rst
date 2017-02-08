@@ -19,8 +19,8 @@ undefiniert und endete im Nichts.
 
 |undefined Google Ad|
 
-.. |undefined Google Ad| image:: images/undefined_ad.png
+.. |undefined Google Ad| image:: {filename}/images/undefined_ad.png
    :class: aligncenter size-full wp-image-3287
    :width: 675px
    :height: 493px
-   :target: images/undefined_ad.png
+   :target: {filename}/images/undefined_ad.png

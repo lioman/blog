@@ -2,7 +2,7 @@ Scheiß Spammer!!!
 #################
 :date: 2008-08-29 20:59
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Antispam, Blog, Internet, Spam, Wordpress
 :slug: scheiss-spammer
 :status: published

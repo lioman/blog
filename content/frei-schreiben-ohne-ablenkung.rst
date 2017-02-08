@@ -29,13 +29,13 @@ Das Plugin gibt es als erste Testversion im SVN unter
 http://plugins.svn.wordpress.org/tranquility/branches/ einfach die
 zip-Datei runterladen und wie gewohnt installieren.
 
-.. |image0| image:: images/Tranquility-300x187.jpg
+.. |image0| image:: {filename}/images/Tranquility-300x187.jpg
    :class: aligncenter size-medium wp-image-3133
    :width: 300px
    :height: 187px
-   :target: images/Tranquility.jpg
-.. |image1| image:: images/Tranquility_mitLeiste-300x187.jpg
+   :target: {filename}/images/Tranquility.jpg
+.. |image1| image:: {filename}/images/Tranquility_mitLeiste-300x187.jpg
    :class: aligncenter size-medium wp-image-3134
    :width: 300px
    :height: 187px
-   :target: images/Tranquility_mitLeiste.jpg
+   :target: {filename}/images/Tranquility_mitLeiste.jpg

@@ -2,7 +2,7 @@ Der Letzte Start eines Spaceshuttles
 ####################################
 :date: 2011-07-08 19:44
 :author: Lioman
-:category: Allgemein, PC und Technik, Welt
+:category: PC und Technik, Welt
 :tags: Ende, NASA, Spaceshuttle
 :slug: der-letzte-start-eines-spaceshuttles
 :status: published

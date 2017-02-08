@@ -2,7 +2,7 @@ Statistik-Plugintest 3
 ######################
 :date: 2009-04-27 19:03
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Blog, Plugin, Statistik, Test, Wordpress
 :slug: statistikplugintest-3
 :status: published

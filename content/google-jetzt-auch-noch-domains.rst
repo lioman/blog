@@ -2,7 +2,7 @@ Google - Jetzt auch noch Domains
 ################################
 :date: 2014-06-24 18:53
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Domains, Google, ICANN, Internet, tld
 :slug: google-jetzt-auch-noch-domains
 :status: published
@@ -63,8 +63,8 @@ Produkte, wie *".youtube"* oder *".gmail"*, sondern auch *".blog",
   noch eine weitere Monetarisierungsmöglichkeit, durch Verschmelzung mit
   AdSense einfällt.
 
-.. | Goggle hat 101 neue Domains beantragt.| image:: images/gtld_x2-300x208.png
+.. | Goggle hat 101 neue Domains beantragt.| image:: {filename}/images/gtld_x2-300x208.png
    :class: wp-image-5539 size-medium
    :width: 300px
    :height: 208px
-   :target: images/gtld_x2.png
+   :target: {filename}/images/gtld_x2.png

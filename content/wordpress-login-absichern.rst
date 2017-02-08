@@ -29,8 +29,8 @@ von Falscheingaben.
 Das bietet keine absolute Sicherheit, macht aber dieses private
 Kleinblog noch ein wenig uninteressanter für einen Angreifer.
 
-.. |image0| image:: images/artikelbild_wordpress.png
+.. |image0| image:: {filename}/images/artikelbild_wordpress.png
    :class: alignleft size-full wp-image-3306
    :width: 160px
    :height: 160px
-   :target: images/artikelbild_wordpress.png
+   :target: {filename}/images/artikelbild_wordpress.png

@@ -2,7 +2,7 @@ Facebook Like und Share blockieren
 ##################################
 :date: 2010-11-29 18:22
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Blockieren, Datenschutz, Erweiterung, Facebook, Privatsphäre, Sicherheit
 :slug: facebook-like-und-share-blockieren
 :status: published

@@ -2,7 +2,7 @@ Doofe Filmtitel
 ###############
 :date: 2009-04-17 11:11
 :author: Lioman
-:category: Allgemein, Gesellschaft, Medien
+:category: Gesellschaft, Medien
 :tags: Anglizismen, deutsch, englisch, Film, Sprache, Titel, übersetzen
 :slug: doofe-filmtitel
 :status: published

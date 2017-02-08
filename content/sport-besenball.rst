@@ -2,7 +2,7 @@ Sport: Besenball
 ################
 :date: 2008-12-01 14:45
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: besen, harry potter, Lustig, muggel, quidditch, Sport
 :slug: sport-besenball
 :status: published

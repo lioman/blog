@@ -2,7 +2,7 @@
 ##################
 :date: 2011-12-07 16:43
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: 42, 52 Bücher, Anhalter, Lesen
 :slug: 52-buecher-woche-4
 :status: published

@@ -69,13 +69,13 @@ angeht wird ein bisschen etwas geändert. Der *<leader>* wird von "\\"
 auf ","  gestellt, was gerade auf der deutschen Tastatur viel einfacher
 ( und damit schneller ) handzuhaben ist.
 
-.. |„Icon-Vim“ von User:ZyMOS, for the Open Icon Library - Open Icon Library. Lizenziert unter Public domain über Wikimedia Commons.| image:: images/Icon-Vim.png
+.. |„Icon-Vim“ von User:ZyMOS, for the Open Icon Library - Open Icon Library. Lizenziert unter Public domain über Wikimedia Commons.| image:: {filename}/images/Icon-Vim.png
    :class: wp-image-5601 size-full
    :width: 256px
    :height: 256px
-   :target: images/Icon-Vim.png
-.. |mit ",z" kommt man in den Zenmode| image:: images/vim_zenmode-300x159.png
+   :target: {filename}/images/Icon-Vim.png
+.. |mit ",z" kommt man in den Zenmode| image:: {filename}/images/vim_zenmode-300x159.png
    :class: wp-image-5599 size-medium
    :width: 300px
    :height: 159px
-   :target: images/vim_zenmode.png
+   :target: {filename}/images/vim_zenmode.png

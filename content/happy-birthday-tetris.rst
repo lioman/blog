@@ -2,7 +2,7 @@ Happy Birthday Tetris
 #####################
 :date: 2009-06-07 00:00
 :author: Lioman
-:category: Allgemein, PC und Technik
+:category: PC und Technik
 :tags: Feiern, Geburtstag, Spiel, Tetris
 :slug: happy-birthday-tetris
 :status: published

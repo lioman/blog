@@ -2,7 +2,7 @@
 ###################
 :date: 2012-01-27 10:50
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: 52 Bücher, Buch, Jim Knopf, Lesen, Verfilmung
 :slug: 52-buecher-woche-11
 :status: published

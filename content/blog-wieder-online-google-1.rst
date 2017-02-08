@@ -2,7 +2,7 @@ Blog wieder online & Google +1
 ##############################
 :date: 2011-06-06 15:44
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: +1, Blog, Button, Google
 :slug: blog-wieder-online-google-1
 :status: published

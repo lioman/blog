@@ -2,7 +2,7 @@ Wordtube abgeschafft - Vodpod ist Ersatz
 ########################################
 :date: 2010-01-13 14:47
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: Blog, oembed, Plugin, Video, vodpod, wordtube
 :slug: wordtube-abgeschafft-vodpod-ist-ersatz
 :status: published

@@ -2,7 +2,7 @@ Skript: Aktuelle Version von Chromium runterladen
 #################################################
 :date: 2011-11-18 14:00
 :author: Lioman
-:category: Allgemein, Ubuntuusers Planet
+:category: Ubuntuusers Planet
 :tags: bash, Chromium, Linux, Skript, Ubuntu
 :slug: skript-aktuelle-version-von-chromium-runterladen
 :status: published

@@ -12,8 +12,8 @@ Weg vom Bäcker gemacht:
 
 |image0|
 
-.. |image0| image:: images/winterbutte1.jpg
+.. |image0| image:: {filename}/images/winterbutte1.jpg
    :class: aligncenter size-full wp-image-2438
    :width: 1024px
    :height: 768px
-   :target: images/winterbutte1.jpg
+   :target: {filename}/images/winterbutte1.jpg

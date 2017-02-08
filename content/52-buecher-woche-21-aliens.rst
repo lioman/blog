@@ -2,7 +2,7 @@
 ############################
 :date: 2012-07-20 12:21
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: 52 Bücher, Aliens, Dune, Lesen, SiFi, Wüstenplanet
 :slug: 52-buecher-woche-21-aliens
 :status: published

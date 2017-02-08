@@ -2,7 +2,7 @@ Sich einen Wulff reden...
 #########################
 :date: 2012-01-04 13:25
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Nochpräsident, Politik, Redewendung, Wulff
 :slug: sich-einen-wulff-reden
 :status: published

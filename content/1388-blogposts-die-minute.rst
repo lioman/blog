@@ -50,8 +50,8 @@ Aber lest erstmal meinen Leserbrief:
 
     Mit freundlichen Grüßen Elias Kirchgässner
 
-.. |image0| image:: images/suedkurier_15-09-2012_infografikausriss.png
+.. |image0| image:: {filename}/images/suedkurier_15-09-2012_infografikausriss.png
    :class: wp-image-4986 alignright
    :width: 306px
    :height: 300px
-   :target: images/suedkurier_15-09-2012_infografikausriss.png
+   :target: {filename}/images/suedkurier_15-09-2012_infografikausriss.png

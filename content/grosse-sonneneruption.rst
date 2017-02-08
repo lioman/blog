@@ -2,7 +2,7 @@ Große Sonneneruption
 ####################
 :date: 2011-06-16 18:43
 :author: Lioman
-:category: Allgemein, PC und Technik
+:category: PC und Technik
 :tags: Astronomie, Eruption, NASA, Sonne
 :slug: grosse-sonneneruption
 :status: published
@@ -21,8 +21,8 @@ http://www.youtube.com/watch?v=j2B56nDX64E
 
 Faszinierend!
 
-.. |Sonneneruption| image:: images/sonneneruption.png
+.. |Sonneneruption| image:: {filename}/images/sonneneruption.png
    :class: alignright size-full wp-image-3296
    :width: 130px
    :height: 130px
-   :target: images/sonneneruption.png
+   :target: {filename}/images/sonneneruption.png

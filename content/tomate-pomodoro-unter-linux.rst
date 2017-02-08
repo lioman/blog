@@ -2,7 +2,7 @@ Tomate - Pomodoro unter Linux
 #############################
 :date: 2015-01-17 19:44
 :author: Lioman
-:category: Allgemein, Open Source, PC und Technik, Ubuntuusers Planet
+:category: Open Source, PC und Technik, Ubuntuusers Planet
 :tags: Arbeitstechnik, Disziplin, Linux, Open Source, Pomodoro, Python, Ubuntu
 :slug: tomate-pomodoro-unter-linux
 :status: published
@@ -55,8 +55,8 @@ Programm. Möchte man es nur in der Benachrichtigungsleiste haben, muss
 man auf das Icon klicken und kann dann mit einem Klick auf "*Hide*" das
 Fenster verstecken.
 
-.. |Logo des Programms Tomate| image:: images/tomate-300x300.png
+.. |Logo des Programms Tomate| image:: {filename}/images/tomate-300x300.png
    :class: wp-image-5700 size-medium
    :width: 300px
    :height: 300px
-   :target: images/tomate.png
+   :target: {filename}/images/tomate.png

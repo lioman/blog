@@ -58,18 +58,18 @@ gemessen? Oder ist Google in dem Fall schlicht zu nett?
 Update: Mit diesem `Link <http://bit.ly/eXp042>`__, kommt man direkt zum
 Haus im Telefonbuch  - einfach noch auf Vogelperspektive klicken
 
-.. |image0| image:: images/Problem_melden.jpg
+.. |image0| image:: {filename}/images/Problem_melden.jpg
    :class: alignright size-full wp-image-2335
    :width: 117px
    :height: 37px
-   :target: images/Problem_melden.jpg
-.. |Verpixelte Goethestrasse63 auf StreatView| image:: images/Goethestrasse63_SV-300x197.jpg
+   :target: {filename}/images/Problem_melden.jpg
+.. |Verpixelte Goethestrasse63 auf StreatView| image:: {filename}/images/Goethestrasse63_SV-300x197.jpg
    :class: aligncenter size-medium wp-image-2336
    :width: 300px
    :height: 197px
-   :target: images/Goethestrasse63_SV.jpg
-.. |image2| image:: images/Goethestrasse63_TelBuch-300x173.jpg
+   :target: {filename}/images/Goethestrasse63_SV.jpg
+.. |image2| image:: {filename}/images/Goethestrasse63_TelBuch-300x173.jpg
    :class: aligncenter size-medium wp-image-2337
    :width: 300px
    :height: 173px
-   :target: images/Goethestrasse63_TelBuch.jpg
+   :target: {filename}/images/Goethestrasse63_TelBuch.jpg

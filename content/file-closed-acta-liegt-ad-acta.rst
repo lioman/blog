@@ -14,8 +14,8 @@ File Closed - #ACTA liegt ad acta
   Lizenz <http://creativecommons.org/licenses/by-sa/2.0/>`__
 | Dieses Bild ist ebenfalls so lizenziert.[/caption]
 
-.. |image0| image:: images/acta.jpg
+.. |image0| image:: {filename}/images/acta.jpg
    :class: size-full wp-image-4858
    :width: 1279px
    :height: 961px
-   :target: images/acta.jpg
+   :target: {filename}/images/acta.jpg

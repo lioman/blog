@@ -2,7 +2,7 @@ Loriot ist Tot - sein Werk bleibt uns erhalten
 ##############################################
 :date: 2011-08-23 15:45
 :author: Lioman
-:category: Allgemein, Gesellschaft
+:category: Gesellschaft
 :tags: Loriot, RIP, Tot
 :slug: loriot-ist-tot-sein-werk-bleibt-uns-erhalten
 :status: published

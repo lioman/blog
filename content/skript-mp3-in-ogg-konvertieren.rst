@@ -2,7 +2,7 @@ Skript: mp3 in ogg konvertieren
 ###############################
 :date: 2011-01-12 14:52
 :author: Lioman
-:category: Allgemein, Open Source
+:category: Open Source
 :tags: Linux, mp3, ogg, script, Skript
 :slug: skript-mp3-in-ogg-konvertieren
 :status: published
@@ -66,8 +66,8 @@ vielen Distributionen mit dabei).
 Dieses Skript behält nichts. Alle alten Daten werden gelöscht. Möchte
 man das nicht muss man *rm -fv $i* entfernen.
 
-.. |image0| image:: images/mp3tovorbis.png
+.. |image0| image:: {filename}/images/mp3tovorbis.png
    :class: alignleft size-full wp-image-2705
    :width: 236px
    :height: 76px
-   :target: images/mp3tovorbis.png
+   :target: {filename}/images/mp3tovorbis.png

@@ -40,8 +40,8 @@ ein bisschen Nachlegen.
 gefunden bei
 `googlewatchblog <http://www.googlewatchblog.de/2009/12/14/google-integriert-twitter-in-feedburner/>`__
 
-.. |Feedburner_Twitsample| image:: images/Feedburner_Twitsample-150x150.png
+.. |Feedburner_Twitsample| image:: {filename}/images/Feedburner_Twitsample-150x150.png
    :class: aligncenter size-thumbnail wp-image-1206
    :width: 150px
    :height: 150px
-   :target: images/Feedburner_Twitsample.png
+   :target: {filename}/images/Feedburner_Twitsample.png

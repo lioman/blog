@@ -42,11 +42,11 @@ einem vorhandenen Breitbandzugang und einer Steckdose, muss man auch
 Kunde eines großen Nationalen ISP sein und darf natürlich nicht für
 einen der getesteten Anbieter arbeiten.
 
-.. |image0| image:: images/europa.png
+.. |image0| image:: {filename}/images/europa.png
    :class: alignright size-full wp-image-3952
    :width: 200px
    :height: 133px
-   :target: images/europa.png
+   :target: {filename}/images/europa.png
 .. |image1| image:: https://lh5.googleusercontent.com/-NgcilnSBBLw/Tr0atXgmizI/AAAAAAAACCg/81qt9AcDxCk/s400/neelieKroesEU_Broadband.jpg
    :class: aligncenter
    :width: 400px

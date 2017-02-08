@@ -2,7 +2,7 @@ Mit OpenSource Projekte planen
 ##############################
 :date: 2014-06-15 21:42
 :author: Lioman
-:category: Allgemein, Open Source, PC und Technik, Ubuntuusers Planet
+:category: Open Source, PC und Technik, Ubuntuusers Planet
 :tags: Entwicklung, LibrePlan, OpenProject, Projekt, Projektmanagment, Software
 :slug: mit-opensource-projekte-planen
 :status: published
@@ -142,17 +142,17 @@ Shared Hoster geeignet. Wären die Abzüge in der B-Note nicht, wäre es
 eine perfekte Software. Aber schon jetzt ist OpenProject für kleinere
 und mittlere Unternehmungen geeignet.
 
-.. |Das Logo von LibrePlan| image:: images/libreplan_logo.png
+.. |Das Logo von LibrePlan| image:: {filename}/images/libreplan_logo.png
    :class: size-full wp-image-5500
    :width: 205px
    :height: 60px
    :target: https://en.wikipedia.org/wiki/File:LibrePlan_Logo.png
-.. |Gantt-Chart in LibrePlan| image:: images/zeitplanung-300x195.png
+.. |Gantt-Chart in LibrePlan| image:: {filename}/images/zeitplanung-300x195.png
    :class: wp-image-5514 size-medium
    :width: 300px
    :height: 195px
-   :target: images/zeitplanung.png
-.. |Logo OpenProject| image:: images/logo_openproject_foundation.png
+   :target: {filename}/images/zeitplanung.png
+.. |Logo OpenProject| image:: {filename}/images/logo_openproject_foundation.png
    :class: alignright size-full wp-image-5518
    :width: 314px
    :height: 96px

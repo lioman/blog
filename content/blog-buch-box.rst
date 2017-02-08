@@ -2,7 +2,7 @@ Blog Buch Box
 #############
 :date: 2012-01-23 11:36
 :author: Lioman
-:category: Allgemein, Lesen
+:category: Lesen
 :tags: Aktion, Blogprojekt, Buch Box, Bücher, Lesen, Projekt
 :slug: blog-buch-box
 :status: published
@@ -95,8 +95,8 @@ Fragen zum Projekt:
 
 *Bild: `nicubunu <http://openclipart.org/user-detail/nicubunu>`__*
 
-.. |image0| image:: images/book_box.png
+.. |image0| image:: {filename}/images/book_box.png
    :class: alignright size-full wp-image-4343
    :width: 200px
    :height: 200px
-   :target: images/book_box.png
+   :target: {filename}/images/book_box.png

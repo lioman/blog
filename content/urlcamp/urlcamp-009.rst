@@ -50,8 +50,8 @@ enthält Links, die ich irgendwie für beachtenswert halte.
    stattfinden wird. Momentan ist die privat organisierte bemannte
    Mission zum Mars ja wieder einmal überall in den Medien. [....]*
 
-.. |image0| image:: images/wegweiser_klein.jpg
+.. |image0| image:: {filename}/images/wegweiser_klein.jpg
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: images/wegweiser_klein.jpg
+   :target: {filename}/images/wegweiser_klein.jpg

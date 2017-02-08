@@ -16,8 +16,8 @@ Welt.
 
  
 
-.. |image0| image:: images/drawastickman.jpg
+.. |image0| image:: {filename}/images/drawastickman.jpg
    :class: alignright size-full wp-image-3729
    :width: 400px
    :height: 279px
-   :target: images/drawastickman.jpg
+   :target: {filename}/images/drawastickman.jpg

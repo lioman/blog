@@ -60,19 +60,19 @@ ist übrigens etwas träge. Mobil nutze ich daher die inoffizielle und
 deutlich schlankere Anwendung `HabitRPG
 Client. <https://play.google.com/store/apps/details?id=com.magicmicky.habitrpgmobileapp>`__
 
-.. |habitrpg_pixel| image:: images/habitrpg_pixel.png
+.. |habitrpg_pixel| image:: {filename}/images/habitrpg_pixel.png
    :class: alignleft size-full wp-image-5713
    :width: 440px
    :height: 160px
-   :target: images/habitrpg_pixel.png
-.. |Gewohnheitenliste_auf_HabitRPG| image:: images/habit_gewohnheiten.png
+   :target: {filename}/images/habitrpg_pixel.png
+.. |Gewohnheitenliste_auf_HabitRPG| image:: {filename}/images/habit_gewohnheiten.png
    :class: size-full wp-image-5712
    :width: 360px
    :height: 366px
-   :target: images/habit_gewohnheiten.png
+   :target: {filename}/images/habit_gewohnheiten.png
    :alt: Gewohnheitenliste auf `HabitRPG <http://habitrpg.com>`__
-.. |Mein_Avatar| image:: images/Habit_Avatar.png
+.. |Mein_Avatar| image:: {filename}/images/Habit_Avatar.png
    :class: size-full wp-image-5715
    :width: 140px
    :height: 146px
-   :target: images/Habit_Avatar.png
+   :target: {filename}/images/Habit_Avatar.png

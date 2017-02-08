@@ -2,7 +2,7 @@ Wordtube Playlist-Verwaltung:Problem und Lösung
 ###############################################
 :date: 2009-07-13 10:06
 :author: Lioman
-:category: Allgemein, Internet
+:category: Internet
 :tags: 2.8, 2.8.1, Blog, Plugin, Wordpress, wordtube
 :slug: wordtube-playlist-verwaltung
 :status: published

@@ -2,7 +2,7 @@ Es ist eine.... Messingeule
 ###########################
 :date: 2008-08-03 17:59
 :author: Lioman
-:category: Allgemein, Welt
+:category: Welt
 :tags: Bilder, Gammeule, Messingeule, Schlüpfen, Schmetterling, Zucht
 :slug: es-ist-eine-messingeule
 :status: published
@@ -32,13 +32,13 @@ Schlupfglas|\ [/caption]
 
 |messingeule0002|
 
-.. |Messingeule in Schlupfglas| image:: images/messingeule0001-150x150.jpg
+.. |Messingeule in Schlupfglas| image:: {filename}/images/messingeule0001-150x150.jpg
    :class: size-thumbnail wp-image-998
    :width: 150px
    :height: 150px
-   :target: images/messingeule0001.jpg
-.. |messingeule0002| image:: images/messingeule0002-150x150.jpg
+   :target: {filename}/images/messingeule0001.jpg
+.. |messingeule0002| image:: {filename}/images/messingeule0002-150x150.jpg
    :class: alignleft size-thumbnail wp-image-999
    :width: 150px
    :height: 150px
-   :target: images/messingeule0002.jpg
+   :target: {filename}/images/messingeule0002.jpg
