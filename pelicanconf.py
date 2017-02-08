@@ -21,6 +21,7 @@ DISPLAY_CATEGORIES_ON_SUBMENU= True
 TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = 'de'
+DEFAULT_CATEGORY = 'Allgemein'
 
 PLUGINS = [
     'pelican_youtube',
