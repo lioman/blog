@@ -61,9 +61,11 @@ sie alle für Unterstützungswert halte.
    herzugeben, falls diese nicht auf faire Produktionsbedingungen
    umstellen.
 
-.. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/2G8QljHVn_A" frameborder="0" allowfullscreen></iframe>
+.. youtube:: 2G8QljHVn_A
+    :class: youtube-16x9
+    :allowfullscreen: yes
+    :seamless: yes
 
 
 .. |image0| image:: {filename}/images/push_europe_cent-300x249.jpg

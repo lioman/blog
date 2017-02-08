@@ -10,9 +10,21 @@ PATH = 'content'
 
 STATIC_PATHS = ['images']
 
+THEME = 'blueidea'
+
+DISPLAY_SEARCH_FORM = False
+DISPLAY_CATEGORIES_ON_MENU =False
+
+# Display categories list as a submenu of the top menu
+DISPLAY_CATEGORIES_ON_SUBMENU= True
+
 TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = 'de'
+
+PLUGINS = [
+    'pelican_youtube',
+]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
