@@ -2,8 +2,8 @@ Sicherheitsleck bei Piwik
 #########################
 :date: 2012-11-27 11:54
 :author: Lioman
-:category: Internet, Open Source, PC und Technik, Ubuntuusers Planet
-:tags: 1.9.2, Piwik, Sicherheitslücke, update
+:category: Internet, Open Source, PC und Technik 
+:tags: 1.9.2, Piwik, Sicherheitslücke, update, UbuntuusersPlanet
 :slug: sicherheitsleck-bei-piwik
 :status: published
 

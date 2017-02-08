@@ -2,7 +2,7 @@ Logoklau?
 #########
 :date: 2012-11-17 20:00
 :author: Lioman
-:category: Ubuntuusers Planet
+:tags: UbuntuusersPlanet
 :slug: logoklau
 :status: published
 

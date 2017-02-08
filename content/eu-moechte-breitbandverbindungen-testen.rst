@@ -2,8 +2,8 @@ EU möchte Breitbandverbindungen testen
 ######################################
 :date: 2011-11-11 14:35
 :author: Lioman
-:category: Gesellschaft, Internet, Ubuntuusers Planet
-:tags: Breitband, EU, Geschwindigkeit, Internet, Projekt, Standard, Test
+:category: Gesellschaft, Internet
+:tags: Breitband, EU, Geschwindigkeit, Internet, Projekt, Standard, Test, UbuntuusersPlanet
 :slug: eu-moechte-breitbandverbindungen-testen
 :status: published
 

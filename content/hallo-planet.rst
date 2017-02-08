@@ -2,8 +2,7 @@ Hallo Planet!
 #############
 :date: 2012-02-07 13:25
 :author: Lioman
-:category: Ubuntuusers Planet
-:tags: Betriebssystem, Linux, Ubuntu
+:tags: Betriebssystem, Linux, Ubuntu, UbuntuusersPlanet
 :slug: hallo-planet
 :status: published
 

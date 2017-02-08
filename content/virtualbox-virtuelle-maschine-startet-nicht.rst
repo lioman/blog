@@ -2,8 +2,8 @@ VirtualBox: Virtuelle Maschine startet nicht
 ############################################
 :date: 2012-04-05 10:36
 :author: Lioman
-:category: PC und Technik, Ubuntuusers Planet
-:tags: Fehler, Linux, Lösung, Rechte, Ubuntu, VirtualBox
+:category: PC und Technik
+:tags: Fehler, Linux, Lösung, Rechte, Ubuntu, VirtualBox, UbuntuusersPlanet
 :slug: virtualbox-virtuelle-maschine-startet-nicht
 :status: published
 

@@ -2,8 +2,8 @@ Update Fehlgeschlagen - Ubuntu 12.10 zerstört die Installation
 ##############################################################
 :date: 2012-10-26 13:25
 :author: Lioman
-:category: Open Source, Ubuntuusers Planet
-:tags: 12.04, 12.10, ATI, fglrx, update, update-manager
+:category: Open Source
+:tags: 12.04, 12.10, ATI, fglrx, update, update-manager, UbuntuusersPlanet
 :slug: update-fehlgeschlagen-ubuntu-12-10-zerstoert-die-installation
 :status: published
 

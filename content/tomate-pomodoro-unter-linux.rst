@@ -2,8 +2,8 @@ Tomate - Pomodoro unter Linux
 #############################
 :date: 2015-01-17 19:44
 :author: Lioman
-:category: Open Source, PC und Technik, Ubuntuusers Planet
-:tags: Arbeitstechnik, Disziplin, Linux, Open Source, Pomodoro, Python, Ubuntu
+:category: Open Source, PC und Technik
+:tags: Arbeitstechnik, Disziplin, Linux, Open Source, Pomodoro, Python, Ubuntu, UbuntuusersPlanet
 :slug: tomate-pomodoro-unter-linux
 :status: published
 

@@ -2,8 +2,8 @@ Befreie deinen Router
 #####################
 :date: 2012-05-03 15:44
 :author: Lioman
-:category: Open Source, PC und Technik, Ubuntuusers Planet
-:tags: befreien, dd-wrt, F7D4301, Firmware, Hardware, Linux, Router
+:category: Open Source, PC und Technik 
+:tags: befreien, dd-wrt, F7D4301, Firmware, Hardware, Linux, Router, UbuntuusersPlanet
 :slug: befreie-deinen-router
 :status: published
 

@@ -2,8 +2,8 @@ Nerdiger Wordpressclient: blogit.vim
 ####################################
 :date: 2012-02-08 22:04
 :author: Lioman
-:category: Open Source, PC und Technik, Ubuntuusers Planet
-:tags: Konsole, Linux, vim, Wordpress
+:category: Open Source, PC und Technik 
+:tags: Konsole, Linux, vim, Wordpress, UbuntuusersPlanet
 :slug: nerdiger-wordpressclient-blogit-vim
 :status: published
 

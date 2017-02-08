@@ -2,8 +2,8 @@ HTTPS Everywhere in neuer Version und für Chromium
 ##################################################
 :date: 2012-04-23 16:15
 :author: Lioman
-:category: Internet, Open Source, PC und Technik, Ubuntuusers Planet
-:tags: Add-on, Erweiterung, firefox, https, Sicherheit, Verschlüsselung
+:category: Internet, Open Source, PC und Technik
+:tags: Add-on, Erweiterung, firefox, https, Sicherheit, Verschlüsselung, UbuntuusersPlanet
 :slug: https-everywhere-in-neuer-version-und-fuer-chromium
 :status: published
 

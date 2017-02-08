@@ -2,8 +2,8 @@ Vi/Vim auf einen Schlag verbessern
 ##################################
 :date: 2014-08-17 21:29
 :author: Lioman
-:category: Open Source, Ubuntuusers Planet
-:tags: Editor, Konsole, Linux, vim
+:category: Open Source
+:tags: Editor, Konsole, Linux, vim, UbuntuusersPlanet
 :slug: vivim-auf-einen-schlag-verbessern
 :status: published
 

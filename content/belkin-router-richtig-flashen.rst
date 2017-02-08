@@ -2,8 +2,8 @@ Belkin-Router richtig Flashen
 #############################
 :date: 2013-01-14 15:11
 :author: Lioman
-:category: Open Source, Ubuntuusers Planet
-:tags: Belkin, dd-wrt, F7D4301, Firmware, MiniCFE, Router
+:category: Open Source
+:tags: Belkin, dd-wrt, F7D4301, Firmware, MiniCFE, Router, UbuntuusersPlanet
 :slug: belkin-router-richtig-flashen
 :status: published
 
