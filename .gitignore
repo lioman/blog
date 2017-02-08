@@ -1,5 +1,6 @@
 /output/
 /env/
 
+/__pycache__/
 # IDE files
 /.idea/
