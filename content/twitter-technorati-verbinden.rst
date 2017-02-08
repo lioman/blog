@@ -7,7 +7,7 @@ Twitter mit Technorati verbinden
 :slug: twitter-technorati-verbinden
 :status: published
 
-    **Twitter** ist ein `soziales
+|    **Twitter** ist ein `soziales
     Netzwerk <https://de.wikipedia.org/wiki/Soziales_Netzwerk_%28Internet%29>`__
     und ein auf einer Website oder mobil per Mobiltelefon geführtes und
     meist öffentlich einsehbares Tagebuch im Internet

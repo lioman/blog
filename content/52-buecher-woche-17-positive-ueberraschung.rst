@@ -7,7 +7,7 @@
 :slug: 52-buecher-woche-17-positive-ueberraschung
 :status: published
 
-    `Wie wär’s also mit Büchern, die man am Anfang so überhaupt gaaaaar
+|   `Wie wär’s also mit Büchern, die man am Anfang so überhaupt gaaaaar
     nicht lesen wollte, weil beim Lesen des Titels und Klappentextes
     alle nur erdenklichen Klischees der Welt das Gefühl von
     Och-nich-noch-so’n-Buch herbeiriefen… sich dann aber – auf Drängen

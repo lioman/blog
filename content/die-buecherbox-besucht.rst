@@ -28,9 +28,9 @@ Kommentar/einen Pingback ab oder schickt mir eine Mail.
 |                          |                          | wordpress.com/2012/08/28 |
 |                          |                          | /buchbox-von-lioman/>`__ |
 +--------------------------+--------------------------+--------------------------+
-|                          | `buecherdiddi <http://bu | `Die Bücherbox – ein     |
-|                          | echerdidi.blogspot.de/>` | schönes                  |
-|                          | __                       | Experiment <http://buech |
+|                          | `buecherdiddi            | `Die Bücherbox – ein     |
+|                          | <http://buecherdidi.blog | schönes                  |
+|                          | spot.de/>`__             | Experiment <http://buech |
 |                          |                          | erdidi.blogspot.de/2012/ |
 |                          |                          | 09/die-bucherbox-ein-sch |
 |                          |                          | ones-experiment.html>`__ |
@@ -50,10 +50,7 @@ Kommentar/einen Pingback ab oder schickt mir eine Mail.
 +--------------------------+--------------------------+--------------------------+
 |                          | wellseo                  |                          |
 +--------------------------+--------------------------+--------------------------+
-|                          | `Cogitos                 |                          |
-|                          | Bücherkiste <http://cogi |                          |
-|                          | tosbuecherkiste.blog.de> |                          |
-|                          | `__                      |                          |
+|                          | Cogitos Bücherkiste      |                          |
 +--------------------------+--------------------------+--------------------------+
 |                          | `Miss Ann                |                          |
 |                          | Thropy. <http://msannthr |                          |

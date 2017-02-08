@@ -32,7 +32,7 @@ werden ausgewählte Worte im Titel + Artikeltags mit der Raute versehen
 bzw. hinzugefügt.
 
 In der Vorschau sieht man aber auch womit der Dienst noch seine Probleme
-hat:\ |Feedburner\_Twitsample|\ Kommt ein Umlaut im Tag vor (wie bei
+hat:\ |Feedburner_Twitsample|\ Kommt ein Umlaut im Tag vor (wie bei
 bücher) ist laut Vorschau nach dem b Schluss mit dem Hashtag. Vielleicht
 macht Twitter das dann anders - wenn nicht müssen die Entwickler noch
 ein bisschen Nachlegen.
@@ -40,7 +40,7 @@ ein bisschen Nachlegen.
 gefunden bei
 `googlewatchblog <http://www.googlewatchblog.de/2009/12/14/google-integriert-twitter-in-feedburner/>`__
 
-.. |Feedburner\_Twitsample| image:: images/Feedburner_Twitsample-150x150.png
+.. |Feedburner_Twitsample| image:: images/Feedburner_Twitsample-150x150.png
    :class: aligncenter size-thumbnail wp-image-1206
    :width: 150px
    :height: 150px

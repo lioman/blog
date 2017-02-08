@@ -28,7 +28,7 @@ u.a.) hinzugefügt haben startete am 1.Oktober eben Twingly Channels.
 Was Twingly kann möchte ich an folgender Grafik verdeutlichen (klicken
 zum vergrößern):
 
-#. |netzwertig\_twingly\_channel|\ Wie bei Facebook kann man Artikel die
+#. |netzwertig_twingly_channel|\ Wie bei Facebook kann man Artikel die
    einem gefallen markieren
 #. Auf diesen Artikel verweisende Links werden angezeigt
 #. Twingly durchsucht Microbloggingdienste, um Verweise hier anzuzeigen
@@ -68,7 +68,7 @@ Folgende Medien nutzen schon Twingly:
    :width: 150px
    :height: 110px
    :target: images/twingly.png
-.. |netzwertig\_twingly\_channel| image:: images/netzwertig_twingly_channel-150x150.png
+.. |netzwertig_twingly_channel| image:: images/netzwertig_twingly_channel-150x150.png
    :class: aligncenter size-thumbnail wp-image-990
    :width: 150px
    :height: 150px
