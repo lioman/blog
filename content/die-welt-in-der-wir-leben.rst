@@ -7,10 +7,7 @@ Die Welt in der wir leben
 :slug: die-welt-in-der-wir-leben
 :status: published
 
-http://vimeo.com/26068168
-
- 
-
- 
+.. youtube:: yI_nUisW7Z0
+    :class: youtube-16x9
 
 Mehr dazu auf `panda.org/50 <http://panda.org/50>`__
