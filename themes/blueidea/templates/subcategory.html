@@ -1,0 +1,14 @@
+{% extends "index.html" %}
+{% block title %}{{ SITENAME }} - {{ category }}{% endblock %}
+<nav class="breadcrumb">
+<ol>
+    <li>
+        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category}}</a>
+    </li>
+{% for subcategory in article.subcategories %}
+    <li>
+        <a href="{{ SITEURL }}/{{ subcategory.url }}">{{ subcategory.shortname }}</a>
+    </li>
+{% endfor %}
+</ol>
+</nav>
