@@ -13,6 +13,8 @@ from pelicanconf import *
 SITEURL = 'http://www.lioman.de'
 RELATIVE_URLS = False
 
+OUTPUT_PATH = 'public'
+
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
