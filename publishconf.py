@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://www.lioman.de'
+SITEURL = '/blog'
 RELATIVE_URLS = False
 
 OUTPUT_PATH = 'public'
