@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /*
+Disallow: /pages/impressum
+
+Disallow: /ar/
+Disallow: /el/
+Disallow: /es/
+Disallow: /fr/
+Disallow: /it/
+Disallow: /pt/
+Disallow: /ru/
+Disallow: /pl/
+Disallow: /nl/

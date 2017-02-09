@@ -8,15 +8,19 @@ SITEURL = ''
 
 PATH = 'content'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'static/robots.txt', ]
+
+EXTRA_PATH_METADATA = {
+    'static/robots.txt': {'path': 'robots.txt'},
+}
 
 THEME = 'blueidea'
 
 DISPLAY_SEARCH_FORM = False
-DISPLAY_CATEGORIES_ON_MENU =False
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # Display categories list as a submenu of the top menu
-DISPLAY_CATEGORIES_ON_SUBMENU= True
+DISPLAY_CATEGORIES_ON_SUBMENU = True
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -47,9 +51,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-
 DEFAULT_PAGINATION = False
 
 TYPOGRIFY = True
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
