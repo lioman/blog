@@ -8,10 +8,15 @@ SITEURL = ''
 
 PATH = 'content'
 
-STATIC_PATHS = ['images', 'static/robots.txt', ]
+STATIC_PATHS = [
+    'images',
+    'static/robots.txt',
+    'static/favicon.ico',
+]
 
 EXTRA_PATH_METADATA = {
     'static/robots.txt': {'path': 'robots.txt'},
+    'static/favicon.ico': {'path': 'favicon.ico'},
 }
 
 THEME = 'blueidea'
