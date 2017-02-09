@@ -19,7 +19,7 @@ EXTRA_PATH_METADATA = {
     'static/favicon.ico': {'path': 'favicon.ico'},
 }
 
-THEME = 'blueidea'
+THEME = 'themes/blueidea'
 
 DISPLAY_SEARCH_FORM = False
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -35,8 +35,13 @@ DEFAULT_CATEGORY = 'Allgemein'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 
+PLUGIN_PATHS = [
+    'plugins'
+]
+
 PLUGINS = [
     'pelican_youtube',
+    'subcategory'
 ]
 
 # Feed generation is usually not desired when developing
