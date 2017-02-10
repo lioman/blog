@@ -12,15 +12,16 @@ macht!
 
 Folgende Situation:
 
-[caption id="attachment\_5654" align="alignright"
-width="512"]\ |Git-logo“ von Jason Long -
-http://git-scm.com/downloads/logos. Lizenziert unter CC BY 3.0 über
-Wikimedia Commons.|
-`Git-logo <https://commons.wikimedia.org/wiki/File:Git-logo.svg#mediaviewer/File:Git-logo.svg>`__\ “
-von `Jason Long <http://twitter.com/jasonlong>`__ -
-http://git-scm.com/downloads/logos. Lizenziert unter `CC BY
-3.0 <http://creativecommons.org/licenses/by/3.0>`__ über `Wikimedia
-Commons <//commons.wikimedia.org/wiki/>`__.[/caption]
+.. figure:: {filename}/images/Git-logo.png
+   :align: right
+   :alt: Git logo
+   :width: 512px
+   :height: 214px
+
+   `Git-logo <https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png>`__ von
+   `Jason Long <https://twitter.com/jasonlong>`__. Lizenziert unter
+   `CC BY 3.0 <https://creativecommons.org/licenses/by/3.0/>`__ .
+
 
 Ich hatte ein paar LaTeX-Dateien bearbeitet und in dieser alles mögliche
 hin und her geschoben, während mein Kollege eine kleine Einleitung
@@ -63,9 +64,3 @@ den aktuellen Stand nur noch mit dem benötigten zusammenführen.
 
 erledigt das und nach einem push ist auch auf dem Server alles so wie es
 sein sollte.
-
-.. |Git-logo“ von Jason Long - http://git-scm.com/downloads/logos. Lizenziert unter CC BY 3.0 über Wikimedia Commons.| image:: {filename}/images/Git-logo.png
-   :class: wp-image-5654 size-full
-   :width: 512px
-   :height: 214px
-   :target: {filename}/images/Git-logo.png
