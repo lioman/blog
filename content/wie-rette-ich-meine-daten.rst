@@ -2,7 +2,7 @@ Wie rette ich meine Daten
 #########################
 :date: 2009-01-09 19:06
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: Datenrettung, festplatte, Linux, PC
 :slug: wie-rette-ich-meine-daten
 :status: published

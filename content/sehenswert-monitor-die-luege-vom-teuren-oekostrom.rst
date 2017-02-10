@@ -2,7 +2,7 @@ Sehenswert: Monitor- Die lüge vom teuren Ökostrom
 #################################################
 :date: 2010-11-16 13:34
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: Atom, Monitor, Ökostrom, Preis, strom
 :slug: sehenswert-monitor-die-luege-vom-teuren-oekostrom
 :status: published

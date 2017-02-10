@@ -2,7 +2,7 @@ Novacut hat es geschafft
 ########################
 :date: 2011-07-28 12:55
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: Crowdfunding, Kickstarter, Linux, Novacut, Ubuntu, Videoeditor, Videoschnitt
 :slug: novacut-hat-es-geschafft
 :status: published

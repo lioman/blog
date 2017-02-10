@@ -2,7 +2,7 @@ Ubuntu Unity Tastenkombinationen
 ################################
 :date: 2011-04-29 22:08
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: 11.04, Linux, natty, Natty Narwhal, Ubuntu, Unity
 :slug: ubuntu-unity-tastenkombinationen
 :status: published

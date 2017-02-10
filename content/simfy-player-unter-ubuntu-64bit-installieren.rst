@@ -2,7 +2,7 @@ Simfy-Player unter Ubuntu-64bit installieren
 ############################################
 :date: 2011-05-04 20:57
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: 64bit, AdobeAir, Installation, Linux, Simfy, Starter, Ubuntu, Unity
 :slug: simfy-player-unter-ubuntu-64bit-installieren
 :status: published

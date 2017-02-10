@@ -21,11 +21,12 @@ EXTRA_PATH_METADATA = {
 
 THEME = 'themes/blueidea'
 
+DISPLAY_PAGES_ON_MENU = True
 DISPLAY_SEARCH_FORM = False
-DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = True
 
 # Display categories list as a submenu of the top menu
-DISPLAY_CATEGORIES_ON_SUBMENU = True
+DISPLAY_CATEGORIES_ON_SUBMENU = False
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -41,8 +42,11 @@ PLUGIN_PATHS = [
 
 PLUGINS = [
     'pelican_youtube',
-    'subcategory'
+    'subcategory',
+    'deadlinks',
 ]
+
+DEADLINK_VALIDATION = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -58,8 +62,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('Twitter', 'https://twitter.com/lioman'),
+    ('Another social link', '#'),
+)
 
 DEFAULT_PAGINATION = False
 

@@ -2,7 +2,7 @@ Android: Backups per Konsole
 ############################
 :date: 2014-07-01 10:25
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: android, Backup, Ubuntu
 :slug: android-backups-per-konsole
 :status: published

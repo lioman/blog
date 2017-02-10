@@ -2,7 +2,7 @@ Nautilusabstürze unter Ubuntu 11.10 (Oneric Ocelot)
 ###################################################
 :date: 2011-10-16 17:46
 :author: Lioman
-:category: Open Source, PC und Technik
+:category: Wissenschaft &amp; Technik/ Open Source
 :tags: 11.10, Bug, Linux, Nautilus, Ubuntu
 :slug: nautilusabstuerze-unter-ubuntu-11-10-oneric-ocelot
 :status: published

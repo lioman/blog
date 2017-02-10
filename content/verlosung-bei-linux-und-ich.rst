@@ -2,7 +2,7 @@ Verlosung bei Linux und Ich
 ###########################
 :date: 2011-12-09 17:50
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: Gewinnspiel
 :slug: verlosung-bei-linux-und-ich
 :status: published

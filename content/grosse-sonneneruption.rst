@@ -2,7 +2,7 @@ Große Sonneneruption
 ####################
 :date: 2011-06-16 18:43
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: Astronomie, Eruption, NASA, Sonne
 :slug: grosse-sonneneruption
 :status: published

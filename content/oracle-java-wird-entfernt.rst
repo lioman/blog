@@ -2,7 +2,7 @@ Oracle Java wird entfernt!
 ##########################
 :date: 2011-12-19 17:44
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: Java, Linux, OpenJDK, Oracle, Ubuntu, UbuntuusersPlanet
 :slug: oracle-java-wird-entfernt
 :status: published

@@ -2,7 +2,7 @@ IPad
 ####
 :date: 2010-01-28 17:37
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: apple, e reader, hype, ipad, notebook
 :slug: ipad
 :status: published

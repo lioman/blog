@@ -10,7 +10,7 @@ Kleine Verbesserungen am Blog
 [caption id="attachment\_3109" align="alignleft" width="240"]\ |Bild
 eines Tachos| Das Bild von
 `kusabi <https://www.flickr.com/photos/kusabi/>`__ steht unter `CC BY-SA
-2.0 <https://creativecommons.org/licenses/by-sa/2.0/deed.de>`__\ [/caption]
+2.0 <https://creativecommons.org/licenses/by-sa/2.0/>`__\ [/caption]
 
 Um mein Blog ein bisschen bequemer und vor allen Dingen schneller zu
 machen, habe ich ein paar Veränderungen vorgenommen.
@@ -38,7 +38,7 @@ machen, habe ich ein paar Veränderungen vorgenommen.
   langsamer <http://talkpress.de/artikel/deutsche-sprachdatei-wordpress-44-prozent-langsamer>`__
   und ich habe keine Probleme mit einem englischen Adminbereich. Eine
   weitere Verbesserung soll die Umstellung der eingebauten
-  `jQuery <http://jquery.com>`__ auf die von Google
+  `jQuery <https://jquery.com>`__ auf die von Google
   `gehostete <https://developers.google.com/speed/libraries/devguide#jquery>`__
   bringen. Dies ist aus verschiedenen Gründen schneller. Google
   unterhält ein weltweites schnelles CDN, mit dem mein Hoster niemals

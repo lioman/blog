@@ -2,7 +2,7 @@ Microbuntu oder Ubuntusoft?
 ###########################
 :date: 2009-07-07 12:38
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: Betriebssystem, Dell, Linux, Lustig, Microsoft, Ubuntu
 :slug: microbuntu-oder-ubuntusoft
 :status: published

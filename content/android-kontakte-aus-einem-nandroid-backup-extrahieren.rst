@@ -2,7 +2,7 @@ Android: Kontakte aus einem Nandroid-Backup extrahieren
 #######################################################
 :date: 2015-08-30 17:44
 :author: Lioman
-:category: Open Source, PC und Technik
+:category: Wissenschaft &amp; Technik/ Open Source
 :tags: android, Backup, kontakte, UbuntuusersPlanet
 :slug: android-kontakte-aus-einem-nandroid-backup-extrahieren
 :status: published

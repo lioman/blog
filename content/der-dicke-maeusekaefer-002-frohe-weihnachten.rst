@@ -2,7 +2,7 @@ Der Dicke Mäusekäfer #002: Frohe Weihnachten
 ############################################
 :date: 2010-12-24 14:38
 :author: Lioman
-:category: Mäusekäfer
+:category: Allgemein
 :tags: Bild, Comic, Dicker Mäusekäfer, Webcomic, Zeichnung
 :slug: der-dicke-maeusekaefer-002-frohe-weihnachten
 :status: published

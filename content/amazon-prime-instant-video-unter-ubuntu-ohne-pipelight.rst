@@ -2,7 +2,7 @@ Amazon Prime Instant Video unter Ubuntu ohne Pipelight
 ######################################################
 :date: 2014-11-02 15:28
 :author: Lioman
-:category: Open Source, PC und Technik
+:category: Wissenschaft &amp; Technik/ Open Source
 :tags: amazon, Flash, pipelight, streamen, Video, UbuntuusersPlanet
 :slug: amazon-prime-instant-video-unter-ubuntu-ohne-pipelight
 :status: published

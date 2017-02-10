@@ -2,7 +2,7 @@ In der Themse schwimmt ein Narwal
 #################################
 :date: 2011-04-01 09:49
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: 1.April, 11.04, GoogleEarth, Linux, Narwal, Ubuntu
 :slug: in-der-themse-schwimmt-ein-narwal
 :status: published

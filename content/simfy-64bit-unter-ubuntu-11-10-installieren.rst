@@ -2,7 +2,7 @@ Simfy 64bit unter Ubuntu 11.10 installieren
 ###########################################
 :date: 2011-10-16 19:17
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: 64bit, Anleitung, Installation, Linux, Simfy, Ubuntu
 :slug: simfy-64bit-unter-ubuntu-11-10-installieren
 :status: published

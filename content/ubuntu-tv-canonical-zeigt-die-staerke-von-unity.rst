@@ -2,7 +2,7 @@ Ubuntu TV - Canonical zeigt die Stärke von Unity
 ################################################
 :date: 2012-01-12 10:20
 :author: Lioman
-:category: Open Source, PC und Technik
+:category: Wissenschaft &amp; Technik/ Open Source
 :tags: Fernsehen, Linux, TV, Ubuntu, Unity, UbuntuusersPlanet
 :slug: ubuntu-tv-canonical-zeigt-die-staerke-von-unity
 :status: published

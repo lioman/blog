@@ -22,4 +22,5 @@ Orgel und ich finde  es hört sich gar nicht schlecht an:
 
  
 
-http://www.youtube.com/watch?v=UQDhH8-z14Q
+.. youtube:: UQDhH8-z14Q
+    :class: youtube-16x9

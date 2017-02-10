@@ -2,7 +2,7 @@ Ubuntu 10.04 LTS ist da
 #######################
 :date: 2010-04-30 06:18
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: Download, Linux, Lucid Lynx, Ubuntu, update
 :slug: ubuntu-10-04-lts-ist-da
 :status: published

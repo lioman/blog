@@ -8,7 +8,7 @@ Friedensnobelpreis geht an Chinesischen Gefangenen Liu Xiaobo!
 :status: published
 
 | [caption id="attachment\_2140" align="alignright" width="300"
-  caption="Friedensnobelpreisträger 2010"]\ |Liu Xiaobo|
+  caption="Friedensnobelpreisträger 2010"]\ |Liu_Xiaobo|
 | [/caption]
 
 Das schwedische Komitee hat den diesjährigen Friedensnobelpreis an Liu
@@ -27,16 +27,11 @@ und
 
 Und das wird auf Twitter gepfiffen:
 
-.. raw:: html
 
-   <p>
-   <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-   <script type="text/javascript">// <![CDATA[<br />
-     new TWTR.Widget({   version: 2,   type: 'search',   search: 'Liu Xiaobo',   interval: 6000,   title: 'Friedensnobelpreis',   subject: 'Twitter zu Liu Xiaobo',   width: 500,   height: 300,   theme: {     shell: {       background: '#8ec1da',       color: '#ffffff'     },     tweets: {       background: '#ffffff',       color: '#444444',       links: '#1985b5'     }   },   features: {     scrollbar: true,     loop: true,     live: true,     hashtags: true,     timestamp: true,     avatars: true,     toptweets: true,     behavior: 'default'   } }).render().start();<br />
-   // ]]></script>
-   </p>
 
-.. |Liu Xiaobo| image:: {filename}/images/Liu_Xiaobo-300.jpg
+**Update:** Widget wurde entfernt, da es nicht mehr funktionierte.
+
+.. |Liu_Xiaobo| image:: {filename}/images/Liu_Xiaobo-300.jpg
    :class: size-full wp-image-2140
    :width: 300px
    :height: 305px

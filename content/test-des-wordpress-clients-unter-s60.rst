@@ -2,7 +2,7 @@ Test des WordPress-Clients unter S60
 ####################################
 :date: 2012-03-31 09:12
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: bloggen, mobil, Nokia, s60, Wordpress
 :slug: test-des-wordpress-clients-unter-s60
 :status: published

@@ -2,7 +2,7 @@ Android kann viel
 #################
 :date: 2011-02-04 13:12
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: android, Google, handy, mobil, Video
 :slug: android-kann-viel
 :status: published

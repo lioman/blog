@@ -2,7 +2,7 @@ Suizidales getwitter
 ####################
 :date: 2009-10-09 12:51
 :author: Lioman
-:category: PC und Technik, Welt
+:category: Wissenschaft &amp; Technik
 :tags: Mond, NASA, Sonde LCROSS, Stream, twitter, wissenschaft
 :slug: suizidales-getwitter
 :status: published

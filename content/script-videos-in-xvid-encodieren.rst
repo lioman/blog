@@ -2,7 +2,7 @@ Script: Videos in XVID encodieren
 #################################
 :date: 2009-11-09 18:40
 :author: Lioman
-:category: PC und Technik
+:category: Wissenschaft &amp; Technik
 :tags: bash, encodieren, Linux, script, Video, videocodecs, xvid
 :slug: script-videos-in-xvid-encodieren
 :status: published
