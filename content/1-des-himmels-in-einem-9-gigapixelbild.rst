@@ -7,19 +7,19 @@
 :slug: 1-des-himmels-in-einem-9-gigapixelbild
 :status: published
 
-[caption id="attachment\_5121" align="aligncenter"
-width="355"]\ |image0| Ein kleiner Ausschnitt des `9
-Gigapixelbildes <http://www.eso.org/public/images/eso1242a/zoomable/>`__.[/caption]
+.. figure:: {filename}/images/milchstrasse_9gigapixel.jpg
+   :alt: Ausschnitt aus dem 9 Gigapixelbild des ESO
+   :align: right
+   :width: 355px
+   :height: 355px
+   :target: {filename}/images/milchstrasse_9gigapixel.jpg
 
-Astronomen der `ESO <http://eso.org>`__ haben mit Hilfe des
+   Ein kleiner Ausschnitt des `9 Gigapixelbildes <http://www.eso.org/public/images/eso1242a/zoomable/>`__.
+
+Astronomen des `ESO <http://eso.org>`__ haben mit Hilfe des
 `VISTA <http://de.wikipedia.org/wiki/Paranal-Observatorium#VISTA>`__ ein
 9 Gigapixelbild zusammengesetzt und veröffentlicht. Das Bild kann man
 sich frei zoombar im Netz anschauen: \ `VISTA gigapixel mosaic of the
 central parts of the Milky
 Way <http://www.eso.org/public/images/eso1242a/zoomable/>`__
 
-.. |image0| image:: {filename}/images/milchstrasse_9gigapixel.jpg
-   :class: size-full wp-image-5121
-   :width: 355px
-   :height: 355px
-   :target: {filename}/images/milchstrasse_9gigapixel.jpg
