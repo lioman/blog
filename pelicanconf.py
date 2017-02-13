@@ -66,7 +66,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (
     ('Twitter', 'https://twitter.com/lioman'),
     ('Github', 'https://github.com/lioman'),
+    ('Stack overflow', 'http://stackoverflow.com/users/3114491/lioman'),
 )
+
+TWITTER_USERNAME = 'lioman'
 
 DEFAULT_PAGINATION = False
 
