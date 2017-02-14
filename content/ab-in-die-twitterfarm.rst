@@ -2,7 +2,7 @@ Ab in die Twitterfarm
 #####################
 :date: 2010-02-02 13:28
 :author: Lioman
-:category: Internet, Medien
+:category: Internet
 :tags: Facebook, Frankreich, Journalismus, journalisten, Nachrichten, Radio, twitter
 :slug: ab-in-die-twitterfarm
 :status: published

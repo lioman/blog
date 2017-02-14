@@ -2,7 +2,7 @@ Konsolentipps #001: Audio-Cd in Image auslesen
 ##############################################
 :date: 2010-10-25 14:14
 :author: Lioman
-:category: Konsolentipps, PC und Technik
+:category: Konsolentipps
 :tags: Audio-Cd, auslesen, brennen, CD, Image, Konsolentipps, Linux, rippen
 :slug: konsolentipps-001-audio-cd-in-image-auslesen
 :status: published

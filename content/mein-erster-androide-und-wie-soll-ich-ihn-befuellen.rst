@@ -2,7 +2,7 @@ Mein erster Androide und wie soll ich ihn befüllen
 ##################################################
 :date: 2012-07-06 17:54
 :author: Lioman
-:category: Open Source, PC und Technik 
+:category: Open Source
 :tags: android, Apps, handy, Linux, Tipps, UbuntuusersPlanet
 :slug: mein-erster-androide-und-wie-soll-ich-ihn-befuellen
 :status: published

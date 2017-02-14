@@ -2,7 +2,7 @@ Tv-Tipp: Mit der Sonne um die Welt
 ##################################
 :date: 2011-04-08 16:39
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: Arte, Flugzeug, Nachhaltigkeit, PV, Solar, tipp, TV, TV-Tipp
 :slug: tv-tipp-mit-der-sonne-um-die-welt
 :status: published

@@ -2,7 +2,7 @@ Nacktscanner überlistet
 #######################
 :date: 2010-01-14 12:15
 :author: Lioman
-:category: Gesellschaft, Welt
+:category: Gesellschaft
 :tags: Flughafen, Flugzeug, Nacktscanner, scanner, Sicherheit, zdf mediathek
 :slug: nacktscanner-ueberlistet
 :status: published

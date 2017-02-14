@@ -2,7 +2,7 @@ Vor über 100 Jahren - Alice in wonderland
 #########################################
 :date: 2010-03-06 12:27
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: Alice in Wonderland, british film institute, Film, restauriert, Video
 :slug: vor-ueber-100-jahren-alice-in-wonderland
 :status: published

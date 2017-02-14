@@ -2,7 +2,7 @@ Ausgewogene Berichterstattung
 #############################
 :date: 2011-12-15 14:00
 :author: Lioman
-:category: Gesellschaft, Medien
+:category: Gesellschaft
 :tags: Amok, Anschlag, Belgien, Florenz, Gewalt, Italien, Lüttich, Medien, Nachrichten, Nazis
 :slug: ausgewogene-berichterstattung
 :status: published

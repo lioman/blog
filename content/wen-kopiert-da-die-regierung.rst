@@ -2,7 +2,7 @@ Wen kopiert da die Regierung
 ############################
 :date: 2011-11-15 13:06
 :author: Lioman
-:category: Gesellschaft, Medien
+:category: Gesellschaft
 :tags: CopyCat, Logo, Online, Plagiat, Regierung
 :slug: wen-kopiert-da-die-regierung
 :status: published

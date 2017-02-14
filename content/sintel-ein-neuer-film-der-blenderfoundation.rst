@@ -2,13 +2,16 @@ Sintel: ein neuer Film der Blenderfoundation
 ############################################
 :date: 2010-10-01 11:27
 :author: Lioman
-:category: Medien, Open Source
+:category: Gesellschaft
 :tags: Animiert, Blender, frei, Linux, Video
 :slug: sintel-ein-neuer-film-der-blenderfoundation
 :status: published
 
 Die Blenderfoundation hat gestern Abend einen neuen 15minütigen Film
 veröffentlicht.
+
+.. youtube:: eRsGyueVLvQ
+    :class: youtube-16x9
 
 Man kann den Film auch in verschiedenen Qualitätsstufen von der Hompage
 `sintel.org <http://www.sintel.org/>`__ herunterladen.

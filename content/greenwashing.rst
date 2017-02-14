@@ -2,7 +2,7 @@ Greenwashing
 ############
 :date: 2009-08-26 17:51
 :author: Lioman
-:category: Medien, Welt
+:category: Gesellschaft
 :tags: Energie, Green-Washing, Greenpeace, Lügendetektor, rwe, Umwelt, Video
 :slug: greenwashing
 :status: published

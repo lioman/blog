@@ -2,7 +2,7 @@ Skript: DVD/Video in XVID umwandeln
 ###################################
 :date: 2011-01-27 17:46
 :author: Lioman
-:category: Medien, PC und Technik
+:category: Gesellschaft, PC und Technik
 :tags: divx, DVD, encodieren, Konsole, Linux, Mplayer, rippen, Skript, Video, xvid
 :slug: skript-dvdvideo-in-xvid-umwandeln
 :status: published

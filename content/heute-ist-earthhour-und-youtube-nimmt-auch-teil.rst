@@ -2,7 +2,7 @@ Heute ist EarthHour und Youtube nimmt auch Teil
 ###############################################
 :date: 2011-03-26 12:14
 :author: Lioman
-:category: Internet, Welt
+:category: Internet
 :tags: 2011, Aktion, Earth Hour, wwf, Yoodle, Youtube
 :slug: heute-ist-earthhour-und-youtube-nimmt-auch-teil
 :status: published

@@ -2,7 +2,7 @@ Wo bleibt das "Science"?
 ########################
 :date: 2008-09-24 13:59
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: aeon flux, dna, Film, sci fi, science fiction, wissenschaft
 :slug: wo-bleibt-das-science
 :status: published

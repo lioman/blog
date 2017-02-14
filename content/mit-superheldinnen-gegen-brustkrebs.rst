@@ -2,7 +2,7 @@ Mit Superheldinnen gegen Brustkrebs
 ###################################
 :date: 2011-12-20 14:30
 :author: Lioman
-:category: Gesellschaft, Medien
+:category: Gesellschaft
 :tags: Brustkrebs, Frau, Kampagne, Superheldinnen, Werbung
 :slug: mit-superheldinnen-gegen-brustkrebs
 :status: published

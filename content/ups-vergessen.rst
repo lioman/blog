@@ -2,7 +2,7 @@ Ups vergessen...
 ################
 :date: 2009-10-26 17:32
 :author: Lioman
-:category: Gesellschaft, Medien
+:category: Gesellschaft
 :tags: Journalismus, Medien, Pressekonferenz, schäuble, Video
 :slug: ups-vergessen
 :status: published

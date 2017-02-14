@@ -2,7 +2,7 @@ Mit OpenSource Projekte planen
 ##############################
 :date: 2014-06-15 21:42
 :author: Lioman
-:category: Open Source, PC und Technik 
+:category: Open Source
 :tags: Entwicklung, LibrePlan, OpenProject, Projekt, Projektmanagment, Software, UbuntuusersPlanet
 :slug: mit-opensource-projekte-planen
 :status: published

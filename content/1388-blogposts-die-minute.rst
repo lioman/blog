@@ -2,7 +2,7 @@
 #########################
 :date: 2012-09-23 18:10
 :author: Lioman
-:category: Internet, Medien
+:category: Internet
 :tags: Blog, Infografik, Internet, Leserbrief
 :slug: 1388-blogposts-die-minute
 :status: published

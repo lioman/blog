@@ -2,7 +2,7 @@ I AM NOT MOVING - #occupywallstreet
 ###################################
 :date: 2011-10-17 15:00
 :author: Lioman
-:category: Gesellschaft, Welt
+:category: Gesellschaft
 :tags: #occupywallstreet, Protest, Video
 :slug: i-am-not-moving-occupywallstreet
 :status: published

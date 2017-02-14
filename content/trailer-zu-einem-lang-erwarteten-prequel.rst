@@ -2,7 +2,7 @@ Trailer zu einem lang erwarteten Prequel
 ########################################
 :date: 2009-10-27 15:50
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: Lustig, Prequel, Trailer, Video, Vögel
 :slug: trailer-zu-einem-lang-erwarteten-prequel
 :status: published

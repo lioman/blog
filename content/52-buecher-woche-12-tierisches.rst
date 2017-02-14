@@ -2,7 +2,7 @@
 ################################
 :date: 2012-02-02 11:01
 :author: Lioman
-:category: Gesellschaft, Lesen
+:category: Gesellschaft
 :tags: 52 Bücher, Bücher, Deutsche Geschichte, Geschichte, Lesen, Stasi
 :slug: 52-buecher-woche-12-tierisches
 :status: published

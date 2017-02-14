@@ -2,7 +2,7 @@ Der typische Tatort in 123 Sekunden
 ###################################
 :date: 2011-12-15 15:00
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: Tatort, Video, zusammenfassung
 :slug: der-typische-tatort-in-123-sekunden
 :status: published

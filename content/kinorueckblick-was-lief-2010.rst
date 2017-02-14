@@ -2,7 +2,7 @@ Kinorückblick: Was lief 2010
 ############################
 :date: 2010-12-15 13:18
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: 2010, Film, Jahresrückblick, Kino, Video
 :slug: kinorueckblick-was-lief-2010
 :status: published

@@ -2,7 +2,7 @@ Mitt Romney und Barack Obama im Rapduell
 ########################################
 :date: 2012-10-19 12:16
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: Election, Rap, USA, Video, Wahl
 :slug: mitt-romney-und-barack-obama-im-rap-duell
 :status: published

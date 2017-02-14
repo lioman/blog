@@ -2,7 +2,7 @@
 ################################
 :date: 2012-07-12 14:30
 :author: Lioman
-:category: Open Source, PC und Technik 
+:category: Open Source
 :tags: android, Diebstahl, Linux, Prey, Sicherheit, Ubuntu, UbuntuusersPlanet
 :slug: diebstahlsicherung-fuer-android
 :status: published

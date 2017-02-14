@@ -2,7 +2,7 @@ Photocomic - Union der Helden
 #############################
 :date: 2009-04-19 19:28
 :author: Lioman
-:category: Internet, Medien
+:category: Internet
 :tags: Comic, Internetcomic, Kostenloser Comic, Photo, Photogeschichte
 :slug: photocomic-union-der-helden
 :status: published

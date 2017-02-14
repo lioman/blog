@@ -2,7 +2,7 @@ Umfrage: Was soll mit AKWs passieren?
 #####################################
 :date: 2009-07-06 12:06
 :author: Lioman
-:category: Gesellschaft, Welt
+:category: Gesellschaft
 :tags: AKW, Energie, Krümmel, Politik, Störfall, twitter, Umfrage, Umwelt
 :slug: umfrage-was-soll-mit-akws-passieren
 :status: published

@@ -2,7 +2,7 @@ Noch mehr Videos zu Wolverine
 #############################
 :date: 2009-04-22 16:24
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: Comicverfilmung, Film, Marvel, Trailer
 :slug: noch-mehr-videos-zu-wolverine
 :status: published

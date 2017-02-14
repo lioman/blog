@@ -2,7 +2,7 @@ Zum Nationalfeiertag die Brust aufpumpen lassen
 ###############################################
 :date: 2011-07-14 19:57
 :author: Lioman
-:category: Gesellschaft, Welt
+:category: Gesellschaft
 :tags: Brust-OP, Fundstück, Groupon
 :slug: zum-nationalfeiertag-die-brust-aufpumpen-lassen
 :status: published

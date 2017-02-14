@@ -2,7 +2,7 @@ Ein Musikvideo für (fast) alle
 ##############################
 :date: 2010-09-21 19:04
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: behindert, gehörlos, Musik, Video
 :slug: ein-musikvideo-fuer-fast-alle
 :status: published

@@ -2,7 +2,7 @@ Grüne Suche
 ###########
 :date: 2009-06-25 14:14
 :author: Lioman
-:category: Internet, Welt
+:category: Internet
 :tags: CO2-neutral, Google, Google Alternative, Klimaschutz, Suchmaschine, Umweltschutz, Yahoo
 :slug: gruene-suche
 :status: published

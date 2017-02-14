@@ -2,7 +2,7 @@ Was passiert mit der Lampe
 ##########################
 :date: 2009-10-21 14:00
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: Animation, Lustig, Pixar, Video
 :slug: was-passiert-mit-der-lampe
 :status: published

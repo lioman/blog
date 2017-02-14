@@ -32,8 +32,14 @@ Jahr bin.
 Besucherstatistiken
 -------------------
 
-[caption id="attachment\_5692" align="alignright" width="494"]\ |Geräte
-der Leser im Jahr 2014| Geräte der Leser im Jahr 2014[/caption]
+.. figure:: {filename}/images/Geraete2014.png
+   :align: right
+   :class: size-full wp-image-5692
+   :width: 494px
+   :height: 250px
+   :target: {filename}/images/Geraete2014.png
+
+   Geräte der Leser im Jahr 2014
 
 Nun noch ein paar Statistiken über meine Besucher. Wie man
 nebenstehender Grafik sieht kommen die meisten immer noch mit einem
@@ -41,9 +47,14 @@ großen Bildschirm hier an. 72% sind es genauer gesagt. Doch auch mobil
 gab es einige Besucher und es sind sogar ein paar mehr geworden. Das hat
 mich nicht wirklich gewundert.
 
-[caption id="attachment\_5694" align="alignleft"
-width="494"]\ |Betriebssysteme der Leser im Jahre 2014| Betriebssysteme
-der Leser im Jahre 2014[/caption]
+.. figure:: {filename}/images/OS2014.png
+   :align: left
+   :class: size-full wp-image-5694
+   :width: 494px
+   :height: 250px
+   :target: {filename}/images/OS2014.png
+
+   Betriebssysteme der Leser im Jahre 2014
 
 Erstaunlich finde ich eher, dass der Anteil der Windowsnutzer weiterhin
 so groß ist. 55% aller Besucher hatten ein Betriebssystem aus dem Hause
@@ -65,14 +76,3 @@ dazu geben. Vornehmen tue ich mir erst mal nichts, denn am Ende kommt es
 doch anders. Nur mein Blogdesign gefällt mir nicht mehr ganz so gut und
 sollte ich mal einen Haufen Zeit finden, werde ich lioman.de einen neuen
 Anstrich verpassen.
-
-.. |Geräte der Leser im Jahr 2014| image:: {filename}/images/Geraete2014.png
-   :class: size-full wp-image-5692
-   :width: 494px
-   :height: 250px
-   :target: {filename}/images/Geraete2014.png
-.. |Betriebssysteme der Leser im Jahre 2014| image:: {filename}/images/OS2014.png
-   :class: size-full wp-image-5694
-   :width: 494px
-   :height: 250px
-   :target: {filename}/images/OS2014.png

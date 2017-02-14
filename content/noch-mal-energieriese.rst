@@ -2,7 +2,7 @@ Noch mal Energieriese
 #####################
 :date: 2009-09-25 10:54
 :author: Lioman
-:category: Gesellschaft, Medien
+:category: Gesellschaft
 :tags: Atom, Atomenergie, Gree, Green-Washing, Greenpeace, rwe, Umwelt, Video
 :slug: noch-mal-energieriese
 :status: published

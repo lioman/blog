@@ -2,7 +2,7 @@ Wahlspots als Code
 ##################
 :date: 2011-03-22 18:21
 :author: Lioman
-:category: Gesellschaft, Medien
+:category: Gesellschaft
 :tags: Baden-Württemberg, cdu, Colorbar, FDP, Grüne, Landtagswahl, Linke, Piraten, Politik, SPD, Videos
 :slug: wahlspots-als-code
 :status: published

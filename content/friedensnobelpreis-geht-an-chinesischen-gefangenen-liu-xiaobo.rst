@@ -2,7 +2,7 @@ Friedensnobelpreis geht an Chinesischen Gefangenen Liu Xiaobo!
 ##############################################################
 :date: 2010-10-08 11:49
 :author: Lioman
-:category: Gesellschaft, Welt
+:category: Gesellschaft
 :tags: China, Frieden, Menschenrechte, Nobel, Oslo, Preis
 :slug: friedensnobelpreis-geht-an-chinesischen-gefangenen-liu-xiaobo
 :status: published

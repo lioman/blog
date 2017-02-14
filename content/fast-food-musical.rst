@@ -2,7 +2,7 @@ Fast Food Musical
 #################
 :date: 2009-05-19 11:41
 :author: Lioman
-:category: Gesellschaft, Medien
+:category: Gesellschaft
 :tags: fast food, flashmob, Lustig, Video
 :slug: fast-food-musical
 :status: published

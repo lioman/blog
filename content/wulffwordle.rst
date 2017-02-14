@@ -2,7 +2,7 @@ WulffWordle
 ###########
 :date: 2012-01-05 07:00
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: interview, Wordle, Wulff
 :slug: wulffwordle
 :status: published

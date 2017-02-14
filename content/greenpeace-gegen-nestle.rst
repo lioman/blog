@@ -2,7 +2,7 @@ Greenpeace gegen Nestlé
 #######################
 :date: 2010-03-22 16:04
 :author: Lioman
-:category: Medien, Welt
+:category: Gesellschaft
 :tags: Greenpeace, kitkat, Nestlé, Orang-Utan, Regenwald, Umweltschutz, Video
 :slug: greenpeace-gegen-nestle
 :status: published

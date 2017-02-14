@@ -2,7 +2,7 @@ Wolverine - eine kleine Kritik
 ##############################
 :date: 2009-04-29 22:10
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: Comicverfilmung, Film, Kino, Kritik, Marvel, X-Men
 :slug: wolverine-eine-kleine-kritik
 :status: published

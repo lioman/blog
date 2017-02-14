@@ -2,7 +2,7 @@ Bachs komplettes Orgelwerk kostenlos
 ####################################
 :date: 2010-11-27 13:48
 :author: Lioman
-:category: Internet, Medien
+:category: Internet
 :tags: Bach, frei, Klassik, Kostenlos, Musik, Orgel
 :slug: bachs-komplettes-orgelwerk-kostenlos
 :status: published

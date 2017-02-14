@@ -2,7 +2,7 @@ Star Wars mal schnell zusammengefasst.
 ######################################
 :date: 2010-05-05 17:23
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: lego star wars, star wars, Video, zusammenfassung
 :slug: star-wars-mal-schnell-zusammengefasst
 :status: published

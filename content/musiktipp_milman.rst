@@ -2,7 +2,7 @@ Musiktipp: Sophie Milman - take love easy
 #########################################
 :date: 2010-01-28 15:55
 :author: Lioman
-:category: Medien
+:category: Gesellschaft
 :tags: CD, Musik, Musiktipp, tipp
 :slug: musiktipp_milman
 :status: published
