@@ -14,12 +14,12 @@ kann, damit sie auch ein DVD-Player abspielen kann.
 Mein Skript habe ich ein wenig verbessert:
 
 #. man kann direkt den ersten Titel einer DVD rippen und umrechnen
-  lassen wenn man als ersten Parameter *dvd* eingibt. So kann man
-  Aufnahmen einfach archivieren.
+   lassen wenn man als ersten Parameter *dvd* eingibt. So kann man
+   Aufnahmen einfach archivieren.
 #. Schwarze Balken werden automatisch abgeschnitten. Das spart Größe
-  und verbessert die Qualität. Dazu habe ich
-  `dieses <http://lists.mplayerhq.hu/pipermail/mplayer-users/2005-November/056636.html>`__
-  Skript in meines integriert.
+   und verbessert die Qualität. Dazu habe ich
+   `dieses <http://lists.mplayerhq.hu/pipermail/mplayer-users/2005-November/056636.html>`__
+   Skript in meines integriert.
 #. Die Bitrate habe ich ein bisschen nach oben geschraubt.
 
 Ansonsten ist die Benutzung gleich geblieben.  Also Skript runterladen -

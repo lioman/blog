@@ -79,8 +79,8 @@ Bild von
 
  
 
-.. |image0| image:: https://lh4.googleusercontent.com/-zOhsGfePV0E/T6Oq5F9cOlI/AAAAAAAACxE/kNU-25fZ1Uk/s400/2500_Creative_Commons_Licenses.jpg
+.. |image0| image:: {filename}/images/2500_Creative_Commons_Licenses.jpg
    :class: alignright
    :width: 400px
    :height: 400px
-   :target: https://lh4.googleusercontent.com/-zOhsGfePV0E/T6Oq5F9cOlI/AAAAAAAACxE/kNU-25fZ1Uk/s2048/2500_Creative_Commons_Licenses.jpg
+   :target: https://www.flickr.com/photos/55943778@N00/3640362081
