@@ -23,19 +23,23 @@ THEME = 'themes/pelican-bootstrap3'
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 BOOTSTRAP_THEME = 'readable'
+BOOTSTRAP_FLUID = False
 PYGMENTS_STYLE = 'solarizedlight'
+
 
 DIRECT_TEMPLATES = ('index', 'categories', 'search')
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_SEARCH_FORM = False
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_SUBMENU = False
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
+DISPLAY_TAGS_ON_SIDEBAR = True
+
 SHARIFF = True
 SHARIFF_TWITTER_VIA = 'lioman'
 
-# Display categories list as a submenu of the top menu
-DISPLAY_CATEGORIES_ON_SUBMENU = False
+CC_LICENSE = 'CC-BY-SA'
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -64,12 +68,13 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (
     ('Twitter', 'https://twitter.com/lioman'),
     ('Github', 'https://github.com/lioman'),
-    ('Stack overflow', 'http://stackoverflow.com/users/3114491/lioman'),
+    ('Stackoverflow', 'http://stackoverflow.com/users/3114491/lioman', 'stack-overflow'),
 )
 
 TWITTER_USERNAME = 'lioman'
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 5
+USE_PAGER = True
 
 TYPOGRIFY = True
 # Uncomment following line if you want document-relative URLs when developing
