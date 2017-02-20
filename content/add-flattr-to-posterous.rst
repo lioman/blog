@@ -2,7 +2,7 @@ Add Flattr to Posterous
 #######################
 :date: 2011-05-12 12:11
 :author: Lioman
-:category: Internet, PC und Technik
+:category: Internet
 :tags: Anleitung, Button, Flattr, HowTo, Posterous, Theme
 :slug: add-flattr-to-posterous
 :status: published

@@ -2,12 +2,21 @@ Vogelperspektive und keiner schreit danach
 ##########################################
 :date: 2010-11-26 15:34
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Privatsphäre, StreetView, Telekom, Vogelperspektive
 :slug: vogelperspektive-und-keiner-schreit-danach
 :status: published
 
-|image0|\ Ich hatte `hier </google-ist-boese-die-telekom-nicht>`__ schon
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Juvenile_pelecanus_occidentalis_in_flight.jpg/256px-Juvenile_pelecanus_occidentalis_in_flight.jpg
+   :alt: Juvenile pelecanus occidentalis in flight
+   :align: right
+   :width: 256px
+   :target: https://commons.wikimedia.org/wiki/File:Juvenile_pelecanus_occidentalis_in_flight.jpg
+
+   Juvenile pelecanus occidentalis in flight,
+   © Frank Schulenburg, via `Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Juvenile_pelecanus_occidentalis_in_flight.jpg>`__
+
+Ich hatte `hier </google-ist-boese-die-telekom-nicht>`__ schon
 über die Möglichkeit Häuser auf der Telefonbuch-Seite aus vier
 Richtungen in Vogelperspektive anzeigen zu lassen. Klar es ist noch ein
 bisschen weiter entfernt, als Google StreetView, aber viele
@@ -37,11 +46,3 @@ Eine wirkliche schlüssige Erklärung , warum Unternehmen von
 Gesellschaft und Medien so unterschiedlich behandelt werden ist mir
 nicht klar. Vielleicht ist Google schlicht zu nett und sollte die
 Möglichkeit, sein Haus auszugrauen einfach wieder abschaffen.
-
-[Bild: `tibchris <http://www.flickr.com/photos/arcticpuppy/>`__]
-
-.. |image0| image:: http://farm4.static.flickr.com/3070/3020931978_dca49f014d_m.jpg
-   :class: alignright
-   :width: 240px
-   :height: 199px
-   :target: http://www.flickr.com/photos/arcticpuppy/3020931978/sizes/s/

@@ -2,7 +2,7 @@ Tabbrowsing für einen guten Zweck
 #################################
 :date: 2010-12-16 12:31
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Browsen, Cause, Chrome, Chromium, Google, Tab
 :slug: tabbrowsing-fuer-einen-guten-zweck
 :status: published

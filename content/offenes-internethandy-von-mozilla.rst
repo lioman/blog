@@ -2,7 +2,7 @@ Offenes Internethandy von Mozilla
 #################################
 :date: 2010-09-29 11:12
 :author: Lioman
-:category: Internet, Open Source, PC und Technik
+:category: Open Source
 :tags: handy, Mozilla, Video
 :slug: offenes-internethandy-von-mozilla
 :status: published

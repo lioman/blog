@@ -2,7 +2,7 @@ Den Euro verfolgen
 ##################
 :date: 2012-01-10 14:13
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Euro, Eurobilltracker, Geld, Internetseite, Scheine, Verfolgen
 :slug: den-euro-verfolgen
 :status: published

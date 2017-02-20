@@ -2,7 +2,7 @@ Hörtipp: Breitband - Alle gegen SOPA
 ####################################
 :date: 2012-01-15 13:52
 :author: Lioman
-:category: Gesellschaft, Internet, Medien
+:category: Gesellschaft
 :tags: Höhrtipp, interview, Radio, SOPA
 :slug: hoertipp-breitband-alle-gegen-sopa
 :status: published

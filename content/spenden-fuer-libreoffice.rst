@@ -2,7 +2,7 @@ Spenden für LibreOffice
 #######################
 :date: 2011-02-16 20:44
 :author: Lioman
-:category: Internet, Open Source, PC und Technik
+:category: Open Source
 :tags: Aktion, Document Foundation, LibreOffice, Linux, OpenOffice.org, Spenden, Stiftung
 :slug: spenden-fuer-libreoffice
 :status: published

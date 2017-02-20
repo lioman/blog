@@ -2,7 +2,7 @@ Aus einem Youtube-Video ein animiertes GIF erstellen
 ####################################################
 :date: 2011-08-03 19:41
 :author: Lioman
-:category: Internet, PC und Technik
+:category: Internet
 :tags: Anleitung, Bilder, Gif, Google, Konsole, Linux
 :slug: aus-einem-youtube-video-ein-animiertes-gif-erstellen
 :status: published

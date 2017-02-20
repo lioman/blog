@@ -2,7 +2,7 @@ Höhrtipp: Gemein-Frei ~ Vorboten digitaler Kultur
 #################################################
 :date: 2012-07-13 13:34
 :author: Lioman
-:category: Gesellschaft, Internet, Open Source
+:category: Open Source
 :tags: creative commons, Gemeinfrei, Urheberrecht
 :slug: hoehrtipp-gemein-frei-vorboten-digitaler-kultur
 :status: published

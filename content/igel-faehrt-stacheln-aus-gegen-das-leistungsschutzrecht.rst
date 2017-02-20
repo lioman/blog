@@ -2,7 +2,7 @@ IGEL fährt Stacheln aus - gegen das Leistungsschutzrecht
 ########################################################
 :date: 2010-12-13 15:44
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: IGEL, Initiative, Internet, Leistungsschutzrecht, LSR, Politik, Urheberrecht, Verlage
 :slug: igel-faehrt-stacheln-aus-gegen-das-leistungsschutzrecht
 :status: published

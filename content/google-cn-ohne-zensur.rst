@@ -2,7 +2,7 @@ Google.cn ohne Zensur
 #####################
 :date: 2010-01-13 18:28
 :author: Lioman
-:category: Gesellschaft, Internet, Welt
+:category: Gesellschaft
 :tags: China, Google, ROG, Suchmaschine, Zensur
 :slug: google-cn-ohne-zensur
 :status: published

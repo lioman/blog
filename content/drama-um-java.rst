@@ -2,7 +2,7 @@ Drama um Java
 #############
 :date: 2010-06-27 13:51
 :author: Lioman
-:category: Internet, PC und Technik
+:category: Internet
 :tags: .Net, Java, Lustig, Trailer, Video
 :slug: drama-um-java
 :status: published

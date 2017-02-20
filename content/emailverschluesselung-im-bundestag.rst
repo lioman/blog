@@ -2,7 +2,7 @@ Emailverschlüsselung im Bundestag
 #################################
 :date: 2011-12-19 12:55
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Bundestag, E-Mail, GPG, Verschlüsseung, UbuntuusersPlanet
 :slug: emailverschluesselung-im-bundestag
 :status: published

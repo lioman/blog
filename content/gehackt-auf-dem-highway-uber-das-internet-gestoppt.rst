@@ -2,7 +2,7 @@ Gehackt: Auf dem Highway über das Internet gestoppt
 ###################################################
 :date: 2015-07-22 15:30
 :author: Lioman
-:category: Internet, PC und Technik
+:category: Internet
 :tags: Auto, Black Hat, Hacking, Sicherheit
 :slug: gehackt-auf-dem-highway-uber-das-internet-gestoppt
 :status: published

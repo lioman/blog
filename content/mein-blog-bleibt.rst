@@ -2,7 +2,7 @@ Mein Blog bleibt
 ################
 :date: 2010-12-02 14:30
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Gesetz, Internet, JMStV, Politik, Recht
 :slug: mein-blog-bleibt
 :status: published

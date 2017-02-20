@@ -2,7 +2,7 @@ Morgen bleibts hier dunkel
 ##########################
 :date: 2012-01-17 22:13
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Protest, SOPA, Zensur
 :slug: morgen-bleibts-hier-dunkel
 :status: published

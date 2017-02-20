@@ -2,7 +2,7 @@
 #########################################
 :date: 2009-06-16 11:42
 :author: Lioman
-:category: Gesellschaft, Internet, Welt
+:category: Gesellschaft
 :tags: Demokratie, iranelection, Proxy, twitter, Widget, Zensur
 :slug: iranelection-pfeifen-demokratie
 :status: published

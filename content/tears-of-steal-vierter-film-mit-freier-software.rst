@@ -2,7 +2,7 @@ Tears of Steal -  Vierter Film mit freier Software
 ##################################################
 :date: 2012-09-27 16:38
 :author: Lioman
-:category: Internet, Open Source, PC und Technik
+:category: Open Source
 :tags: Animation, Blender, creative commons, Download, Film, science fiction
 :slug: tears-of-steal-vierter-film-mit-freier-software
 :status: published

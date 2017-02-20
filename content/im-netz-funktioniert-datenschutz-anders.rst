@@ -2,7 +2,7 @@ Im Netz funktioniert Datenschutz anders...
 ##########################################
 :date: 2011-10-25 13:46
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Datenschutz, Internet, ip, Technik
 :slug: im-netz-funktioniert-datenschutz-anders
 :status: published

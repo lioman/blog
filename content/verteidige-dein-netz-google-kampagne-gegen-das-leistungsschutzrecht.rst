@@ -2,7 +2,7 @@ Verteidige Dein Netz! - Google-Kampagne gegen das Leistungsschutzrecht
 ######################################################################
 :date: 2012-11-27 10:11
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Google, Kampagne, Leistungsschutzrecht, LSR, Politik
 :slug: verteidige-dein-netz-google-kampagne-gegen-das-leistungsschutzrecht
 :status: published

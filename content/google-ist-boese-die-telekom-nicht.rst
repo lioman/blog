@@ -2,7 +2,7 @@ Google ist Böse - Die Telekom nicht
 ###################################
 :date: 2010-11-19 15:18
 :author: Lioman
-:category: Gesellschaft, PC und Technik
+:category: Gesellschaft
 :tags: Bilder, Google, Privatsphäre, StreetView, Telekom, verpixelt
 :slug: google-ist-boese-die-telekom-nicht
 :status: published

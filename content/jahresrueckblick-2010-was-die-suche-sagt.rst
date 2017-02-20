@@ -2,7 +2,7 @@ Jahresrückblick 2010 - was die Suche sagt
 #########################################
 :date: 2010-12-13 11:54
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Allgemein
 :tags: 2010, Google, Jahresrückblick, Statistik, Zeitgeist
 :slug: jahresrueckblick-2010-was-die-suche-sagt
 :status: published

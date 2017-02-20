@@ -2,7 +2,7 @@ Kunsthülle
 ##########
 :date: 2008-12-04 22:42
 :author: Lioman
-:category: Gesellschaft, Internet, Medien
+:category: Gesellschaft
 :tags: Bilder, Kunst, LP, lp cover, Lustig, Plattencover, Sleeveface, Trend
 :slug: kunsthuelle
 :status: published

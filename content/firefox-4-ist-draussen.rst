@@ -2,7 +2,7 @@ Firefox 4 ist draußen
 #####################
 :date: 2011-03-23 18:48
 :author: Lioman
-:category: Internet, Open Source, PC und Technik
+:category: Open Source
 :tags: Browser, firefox, Firefox 4, Linux, Mozilla, PPA, Ubuntu
 :slug: firefox-4-ist-draussen
 :status: published

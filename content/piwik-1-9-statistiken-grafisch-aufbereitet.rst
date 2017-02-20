@@ -7,9 +7,8 @@ Piwik 1.9 - Statistiken grafisch aufbereitet
 :slug: piwik-1-9-statistiken-grafisch-aufbereitet
 :status: published
 
-***Die Open-Source Webanalysesoftware `Piwik <http://piwik.org>`__ ist
-in der neuen Version 1.9 erschienen und hat tolle neue Funktionen mit an
-Bord.***
+**Die Open-Source Webanalysesoftware** `Piwik <http://piwik.org>`__ **ist in der
+neuen Version 1.9 erschienen und hat tolle neue Funktionen mit an Bord.**
 
 Da alle Statistikplugins für Wordpress die Datenbank aufblasen und
 externe Dienste meist aus Datenschutzgründen nicht in Frage kommen,

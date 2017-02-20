@@ -2,7 +2,7 @@
 ####################################
 :date: 2009-06-16 17:06
 :author: Lioman
-:category: Gesellschaft, Internet, Welt
+:category: Gesellschaft
 :tags: Hilfe, Iran, iranelection, Politik, Protest, Proxy, twitter, Zensur
 :slug: iranelection-cyberwar-fur-anfanger
 :status: published

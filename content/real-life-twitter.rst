@@ -2,7 +2,7 @@ Real Life Twitter
 #################
 :date: 2009-05-15 14:41
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Lustig, twitter, Video
 :slug: real-life-twitter
 :status: published

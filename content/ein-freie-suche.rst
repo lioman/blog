@@ -2,7 +2,7 @@ Eine freie Suche
 ################
 :date: 2009-04-27 12:58
 :author: Lioman
-:category: Internet, Open Source, PC und Technik
+:category: Open Source
 :tags: Crawler, Google, Index, P2P, Suchmaschine, verteiltes Rechnen, Yacy
 :slug: ein-freie-suche
 :status: published

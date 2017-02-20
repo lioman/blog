@@ -2,7 +2,7 @@ Zensur kommt
 ############
 :date: 2009-06-19 08:51
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Bundestag, Gesetz, Politik, Zensur, Zensursula
 :slug: zensur-kommt
 :status: published

@@ -2,7 +2,7 @@ Petition gegen Vorratsdatenspeicherung
 ######################################
 :date: 2011-09-13 19:12
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: Datenschutz, Petition, Politik, Vorratsdatenspeicherung
 :slug: petition-gegen-vorratsdatenspeicherung
 :status: published

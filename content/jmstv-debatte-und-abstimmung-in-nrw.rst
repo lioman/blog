@@ -2,7 +2,7 @@ JMSTV: Debatte und Abstimmung in NRW
 ####################################
 :date: 2010-12-16 15:32
 :author: Lioman
-:category: Gesellschaft, Internet, Medien
+:category: Gesellschaft
 :tags: JMStV, Landtag, Netzpolitik, NRW, Politik
 :slug: jmstv-debatte-und-abstimmung-in-nrw
 :status: published

@@ -33,6 +33,7 @@ Besucherstatistiken
 -------------------
 
 .. figure:: {filename}/images/Geraete2014.png
+   :alt: Geräte der Leser 2014
    :align: right
    :class: size-full wp-image-5692
    :width: 494px
@@ -48,6 +49,7 @@ gab es einige Besucher und es sind sogar ein paar mehr geworden. Das hat
 mich nicht wirklich gewundert.
 
 .. figure:: {filename}/images/OS2014.png
+   :alt: Betriebssysteme der Leser 2014
    :align: left
    :class: size-full wp-image-5694
    :width: 494px

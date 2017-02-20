@@ -2,7 +2,7 @@ Noch 29 Stunden...
 ##################
 :date: 2009-06-15 18:59
 :author: Lioman
-:category: Gesellschaft, Internet, Medien
+:category: Gesellschaft
 :tags: GG, Internet, Kinderpornographie, Petition, Politik, Zensur, Zensursula
 :slug: noch-29-stunden
 :status: published

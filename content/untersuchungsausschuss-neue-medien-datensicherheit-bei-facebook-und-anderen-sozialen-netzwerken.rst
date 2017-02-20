@@ -2,7 +2,7 @@ Untersuchungsausschuss Neue Medien: Datensicherheit bei Facebook und anderen soz
 ################################################################################################
 :date: 2011-10-24 14:02
 :author: Lioman
-:category: Gesellschaft, Internet
+:category: Gesellschaft
 :tags: #uanm, Bundestag, Datenschutz, Social Network
 :slug: untersuchungsausschuss-neue-medien-datensicherheit-bei-facebook-und-anderen-sozialen-netzwerken
 :status: published
