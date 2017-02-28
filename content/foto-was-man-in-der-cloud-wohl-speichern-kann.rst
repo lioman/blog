@@ -9,8 +9,7 @@ Foto: Was man in der Cloud wohl speichern kann?
 
 |image0|
 
-.. |image0| image:: {filename}/images/claud.jpg
+.. |image0| image:: {filename}/images/cloud.jpg
    :class: size-full wp-image-3591 aligncenter
    :width: 900px
    :height: 675px
-   :target: http://www.lioman.de/2011/09/foto-was-man-in-der-cloud-wohl-speichern-kann/claud/
