@@ -2,7 +2,6 @@ Aus dem Zug
 ###########
 :date: 2012-08-18 17:22
 :author: Lioman
-:category: Allgemein
 :tags: Hotspot, ICE, mobil bloggen, reisen, WLAN, Zug
 :slug: aus-dem-zug
 :status: published

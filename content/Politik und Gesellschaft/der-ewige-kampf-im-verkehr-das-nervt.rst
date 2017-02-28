@@ -2,7 +2,6 @@ Der ewige Kampf im Verkehr - das nervt
 ######################################
 :date: 2013-02-05 12:43
 :author: Lioman
-:category: Gesellschaft
 :tags: Autofahrer, Radfahrer, Verkehr
 :slug: der-ewige-kampf-im-verkehr-das-nervt
 :status: published

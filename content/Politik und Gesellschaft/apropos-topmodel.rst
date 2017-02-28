@@ -2,7 +2,6 @@ Apropos Topmodel
 ################
 :date: 2011-06-10 14:57
 :author: Lioman
-:category: Gesellschaft
 :tags: Schönheit, Topmodel, Werbung
 :slug: apropos-topmodel
 :status: published

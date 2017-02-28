@@ -2,7 +2,7 @@ Die Gammaeule
 #############
 :date: 2008-07-19 01:06
 :author: Lioman
-:category: Welt
+:category: Allgemein
 :tags: Bilder, Messingeule, Nachtfalter, Raupe, Schmetterling, Zucht
 :slug: die-gammaeule
 :status: published
@@ -21,4 +21,4 @@ griechischen Buchstabens GAMMA.
 **Nachtrag**: Dies war die Puppe einer Messingeule, dass hat sich erst
 nach dem Schlüpen gezeigt.
 
-Siehe `hier <http://www.lioman.de/2008/08/es-ist-eine-messingeule/>`__
+Siehe `hier <{filename}/es-ist-eine-messingeule.rst>`__

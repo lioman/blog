@@ -2,7 +2,6 @@ Gigi d'Agostino auf der Orgel
 #############################
 :date: 2011-03-10 09:12
 :author: Lioman
-:category: Allgemein
 :tags: Musik, Orgel, Video
 :slug: gigi-dagostino-auf-der-orgel
 :status: published

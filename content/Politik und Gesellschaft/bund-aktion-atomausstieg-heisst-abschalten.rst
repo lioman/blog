@@ -2,7 +2,6 @@ BUND Aktion: Atomausstieg heißt abschalten
 ##########################################
 :date: 2010-03-08 17:47
 :author: Lioman
-:category: Allgemein
 :tags: Aktion, Atomenergie, BUND, Eregiepolitik, norbert röttgen, strom, Umwelt
 :slug: bund-aktion-atomausstieg-heisst-abschalten
 :status: published

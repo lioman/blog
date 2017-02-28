@@ -9,7 +9,8 @@ Dinner for Merkel
 
 Kurz vor Sylvester mal wieder ein Klassiker:
 
-http://www.youtube.com/watch?v=ECjz5Y7Antk
+.. youtube :: ECjz5Y7Antk
+   :class: youtube-16x9
 
 via
 `wiesaussieht <http://www.wiesaussieht.de/2011/12/28/dinner-for-one/>`__

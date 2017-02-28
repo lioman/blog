@@ -12,8 +12,7 @@ Regen zeigen sich in unserem Garten einige Blumen in voller Blüte.
 Gestern bin ich mal ein bisschen mit der (Handy)Kamera durch den Acker
 gestreift und habe ein paar nette Fotos geschossen.
 
-|  
-| 
+.. comments TODO gallery
 
 Ich dachte ich stelle sie mal hier rein. Die Erdbeeren sind übrigens
 sehr lecker und ich kann jedem Gärtner nur empfehlen die Sorte "`Mieze

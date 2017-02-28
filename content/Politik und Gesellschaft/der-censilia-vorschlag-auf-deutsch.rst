@@ -2,7 +2,6 @@ Der Censilia-Vorschlag auf Deutsch
 ##################################
 :date: 2010-03-31 19:09
 :author: Lioman
-:category: Internet
 :tags: Censilia, Europa, Internet, Politik, Zensur, Zensursula
 :slug: der-censilia-vorschlag-auf-deutsch
 :status: published

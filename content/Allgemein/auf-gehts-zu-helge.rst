@@ -23,7 +23,7 @@ lesen kann:
 
     Viel Spaß bei Helge!
 
-Ich freue :bravo:  mich schon auf nachher :hurra:  . Es gibt sicher viel
-zu lachen :mrgreen:  .  Ich schreib hier sicher raein wie es war.
+Ich freue mich schon auf nachher. Es gibt sicher viel
+zu lachen .  Ich schreib hier sicher raein wie es war.
 
 Und nochmal Danke an `fudder.de <http://fudder.de/index.php>`__

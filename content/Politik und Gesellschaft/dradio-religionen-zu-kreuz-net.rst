@@ -2,7 +2,6 @@ Dradio - Religionen zu kreuz.net
 ################################
 :date: 2012-11-05 23:22
 :author: Lioman
-:category: Gesellschaft
 :tags: Audio, katholisch, kreuz.net, Podcast, reaktionär, religion
 :slug: dradio-religionen-zu-kreuz-net
 :status: published

@@ -2,7 +2,7 @@ Es ist eine.... Messingeule
 ###########################
 :date: 2008-08-03 17:59
 :author: Lioman
-:category: Welt
+:category: Allgemein
 :tags: Bilder, Gammeule, Messingeule, Schlüpfen, Schmetterling, Zucht
 :slug: es-ist-eine-messingeule
 :status: published
@@ -26,17 +26,17 @@ Eier legt und erst dann ein Teil der **Nahrungskette** wird.
 Und um alles ein wenig Medial aufzupeppen ein Bild einer Messingeule,
 das auf Wikipedia zu sehen ist:
 
-[caption id="attachment\_998" align="alignleft" width="150"
-caption="Messingeule in Schlupfglas"]\ |Messingeule in
-Schlupfglas|\ [/caption]
+ |MessingeuleSchlupfglas|
 
 |messingeule0002|
 
-.. |Messingeule in Schlupfglas| image:: {filename}/images/messingeule0001-150x150.jpg
+.. |MessingeuleSchlupfglas| image:: {filename}/images/messingeule0001-150x150.jpg
+   :alt: Messingeule in Schlupfglas
    :class: size-thumbnail wp-image-998
    :width: 150px
    :height: 150px
    :target: {filename}/images/messingeule0001.jpg
+
 .. |messingeule0002| image:: {filename}/images/messingeule0002-150x150.jpg
    :class: alignleft size-thumbnail wp-image-999
    :width: 150px

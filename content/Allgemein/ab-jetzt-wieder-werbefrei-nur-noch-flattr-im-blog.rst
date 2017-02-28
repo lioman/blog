@@ -2,7 +2,7 @@ Ab jetzt wieder Werbefrei - Nur noch Flattr im Blog
 ###################################################
 :date: 2010-10-13 16:02
 :author: Lioman
-:category: Internet
+:category: Allgemein
 :tags: Flattr, Geld, GoogleAds, Spende, Werbung
 :slug: ab-jetzt-wieder-werbefrei-nur-noch-flattr-im-blog
 :status: published

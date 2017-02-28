@@ -12,12 +12,6 @@ Die Satiriker von
 ein Video gemacht, dass die Datensammelwut der Regierung aufs Korn
 nimmt. Der Neue Dienst der Bundesregierung Boogle StreetView:
 
-http://www.youtube.com/watch?v=9sYJ7sT7dNM
+.. youtube:: CKbNE5ql0A
+   :class: youtube-16x9
 
-.. raw:: html
-
-   <div style="font-size: 10px;">
-
-.. raw:: html
-
-   </div>

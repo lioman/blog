@@ -2,7 +2,6 @@ Greenwashing
 ############
 :date: 2009-08-26 17:51
 :author: Lioman
-:category: Gesellschaft
 :tags: Energie, Green-Washing, Greenpeace, Lügendetektor, rwe, Umwelt, Video
 :slug: greenwashing
 :status: published
@@ -14,11 +13,10 @@ posten.
 Er nimmt die aktuelle Green-Washing-Kampagne, des Energieriesen RWE aufs
 Korn.
 
+.. youtube:: xZFGYG7acz4
+   :class: youtube-16x9
+
 Zu diesem Thema möchte ich vor dem Video noch einen Linktipp abgeben.
-
-.. raw:: html
-
-   </p>
 
 Der `Klima-Lügendetektor <http://www.klima-luegendetektor.de/>`__, ein
 Projekt des greenpeace-Magazins und wir-klimaretter.de, zeigt auf wie

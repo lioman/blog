@@ -2,7 +2,6 @@ Astrologie im FAZ-Feuilleton
 ############################
 :date: 2010-12-10 19:50
 :author: Lioman
-:category: Allgemein
 :tags: Astrologie, Astronomie, esoterik, Feuilleton, Leserbrief, Sternzeichen
 :slug: astrologie-im-faz-feuilleton
 :status: published

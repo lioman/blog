@@ -2,7 +2,6 @@ ARD-Fakt zur Handy-Bespitzelung in Dresden
 ##########################################
 :date: 2011-07-01 13:55
 :author: Lioman
-:category: Allgemein
 :tags: Datenschutz, Dresden, Handydaten, Polizei
 :slug: ard-fakt-zur-handy-bespitzelung-in-dresden
 :status: published

@@ -7,10 +7,14 @@
 :slug: 21-spammer
 :status: published
 
-[caption id="attachment\_5482" align="alignright" width="300"]\ |SPAM
-Dose| Quelle: Bodo Akdeniz (
-`cypher <https://de.wikipedia.org/wiki/Benutzer:Cypher789>`__ ) Lizenz:
-`CC-BY-SA <https://creativecommons.org/licenses/by-sa/3.0/deed.de>`__\ [/caption]
+.. figure:: {filename}/images/spam-300x157.jpg
+   :alt: Spam-Konservendose
+   :class: size-medium wp-image-5482
+   :width: 300px
+   :height: 157px
+
+   Quelle: Bodo Akdeniz (`cypher <https://de.wikipedia.org/wiki/Benutzer:Cypher789>`__ )
+   Lizenz: `CC-BY-SA <https://creativecommons.org/licenses/by-sa/3.0/deed.de>`__
 
 Interessant wie Spammer auf aktuelle (politische) Themen reagieren. S21
 ist in aller Munde und auf vielen Blogs tauchen dazu regelmäßig Artikel
@@ -57,8 +61,3 @@ Clever gemacht!
     solchen Beträgen über den Wunsch des Bürgershinweg entschieden wird.
     Ab einer bestimmten Summe sollte es zur Pflicht werden, dass es
     einen Volksentscheid gibt!
-
-.. |SPAM Dose| image:: {filename}/images/spam-300x157.jpg
-   :class: size-medium wp-image-5482
-   :width: 300px
-   :height: 157px

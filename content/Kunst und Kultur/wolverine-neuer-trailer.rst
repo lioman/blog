@@ -2,7 +2,6 @@ Wolverine neuer Trailer
 #######################
 :date: 2009-04-07 16:53
 :author: Lioman
-:category: Gesellschaft
 :tags: Comic, Comicverfilmung, Film, Kino, Marvel, Trailer
 :slug: wolverine-neuer-trailer
 :status: published
@@ -14,4 +13,5 @@ Ich stelle ihn mal unkommentiert hier rein.
 
 Ich freue mich schon auf den Film
 
-http://www.youtube.com/watch?v=LPmbGzQaOCs
+.. youtube:: cPRJYwFz1t4
+   :class: youtube-16x9

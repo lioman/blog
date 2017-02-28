@@ -2,7 +2,6 @@ Aberkennen ist nicht genug - Warum der Kampf gegen Doping im Spitzensport zahnlo
 ######################################################################################
 :date: 2012-10-14 17:37
 :author: Lioman
-:category: Gesellschaft
 :tags: Betrug, Doping, Lance Armstrong, Olympia, Sport, Strafe
 :slug: aberkennen-ist-nicht-genug-warum-der-kampf-gegen-doping-im-spitzensport-zahnlos-ist
 :status: published

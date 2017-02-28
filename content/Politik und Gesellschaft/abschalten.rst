@@ -2,7 +2,6 @@ Abschalten!
 ###########
 :date: 2011-03-26 20:43
 :author: Lioman
-:category: Gesellschaft
 :tags: Abschalten, Baden-Württemberg, Landtagswahl, Wahl
 :slug: abschalten
 :status: published
