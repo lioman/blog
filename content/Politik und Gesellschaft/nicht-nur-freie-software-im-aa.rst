@@ -2,7 +2,6 @@ Nicht nur freie Software im AA
 ##############################
 :date: 2011-02-12 19:51
 :author: Lioman
-:category: Gesellschaft, Open Source
 :tags: Auswärtiges Amt, IT, Politik, schwarz-gelb, Sicherheit
 :slug: nicht-nur-freie-software-im-aa
 :status: published

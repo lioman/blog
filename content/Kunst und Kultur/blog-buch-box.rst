@@ -2,7 +2,6 @@ Blog Buch Box
 #############
 :date: 2012-01-23 11:36
 :author: Lioman
-:category: Lesen
 :tags: Aktion, Blogprojekt, Buch Box, Bücher, Lesen, Projekt
 :slug: blog-buch-box
 :status: published

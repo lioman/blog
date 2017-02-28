@@ -2,7 +2,6 @@ Auch der Winter ist schön!
 ##########################
 :date: 2010-12-10 16:20
 :author: Lioman
-:category: Allgemein
 :tags: Bild, Blatt, Natur, Schnee, Winter
 :slug: auch-der-winter-ist-schoen
 :status: published

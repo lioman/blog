@@ -7,12 +7,12 @@ Openlike in Wordpress einbinden
 :slug: openlike-in-wordpress-einbinden
 :status: published
 
-***Viele verschiedene Blogs haben über den Like-Button von Facebook
-`geschrieben. <http://netzwertig.com/2010/04/22/like-button-facebooks-version-der-thank-you-economy/>`__
-Per Social-Plugin kann man den bekannten Like-Button einfügen. Ist man
+*Viele verschiedene Blogs haben über den Like-Button von Facebook*
+`geschrieben <http://netzwertig.com/2010/04/22/like-button-facebooks-version-der-thank-you-economy/>`__
+*. Per Social-Plugin kann man den bekannten Like-Button einfügen. Ist man
 bei Facebook eingeloggt kann man auf den eingebundenen Button klicken
 und die Daten werden an Facebook übertragen. Gibt es Alternativen und
-wie bindet man sie ein?***
+wie bindet man sie ein?*
 
 Nutzt man diesen kleinen Knopf häufig kann man daraus natürlich wieder
 entsprechende Profile erstellen und nutzbar machen (finanziell).
@@ -28,11 +28,9 @@ Das einbinden ist relativ einfach.
 
 In den Header kommt:
 
-::
+.. code-block:: html
 
-| 
-
-| 
+   <script type=\text/javascript\ src=\http://openlike.org/v1/openlike.js\></script>
 
 Und nun muss man noch das Widget in das Template einfügen. Das ist bei
 jedem Template unterschiedlich. Nutzt man wie ich das Theme Atahualpa
@@ -41,31 +39,19 @@ LOOP
 
 direkt nach der Zeile
 
-::
+.. code-block:: php
 
     ',''); ?>
 
-.. raw:: html
-
-   </p>
-
-| 
-
-| 
 
 fügt man folgenden Code ein.
 
-::
+.. code-block:: php
 
     OPENLIKE.Widget({url:<?php echo '\'.get_permalink().'\'; ?>,title:<?php the_title('\', '\'); ?>})
 
-| 
-
-| 
 
 Hat man alles richtig gemacht sieht es aus wie bei mir und man kann auf
 einen der Buttons klicken
 
-.. raw:: html
-
-   </p>
+**Update:** Buttons sind nicht mehr verfügbar in diesem Blog.

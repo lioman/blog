@@ -2,7 +2,6 @@ Negativrekord: 1000 Spamkommentare
 ##################################
 :date: 2009-05-13 11:54
 :author: Lioman
-:category: Welt
 :tags: akismet, Plugin, Rekord, Spam
 :slug: negativrekord-1000-spamkommentare
 :status: published

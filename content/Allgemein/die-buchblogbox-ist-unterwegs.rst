@@ -2,7 +2,6 @@ Die BuchBlogBox ist unterwegs
 #############################
 :date: 2012-08-21 14:06
 :author: Lioman
-:category: Lesen
 :tags: Aktion, Buch Box, Bücher, Lesen
 :slug: die-buchblogbox-ist-unterwegs
 :status: published

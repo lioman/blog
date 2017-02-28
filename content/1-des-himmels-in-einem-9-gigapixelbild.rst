@@ -2,7 +2,7 @@
 #######################################
 :date: 2012-10-25 11:30
 :author: Lioman
-:category: Wissenschaft &amp; Technik/Astronomie
+:category: Wissenschaft &amp; Technik
 :tags: Astronomie, Bild, ESO
 :slug: 1-des-himmels-in-einem-9-gigapixelbild
 :status: published

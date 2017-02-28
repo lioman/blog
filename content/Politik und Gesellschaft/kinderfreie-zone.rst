@@ -2,21 +2,22 @@ Kinderfreie Zone
 ################
 :date: 2014-09-07 22:04
 :author: Lioman
-:category: Gesellschaft
 :tags: Familienfreundlichkeit, Hotel, Kinder
 :slug: kinderfreie-zone
 :status: published
 
-[caption id="attachment\_5608" align="alignright"
-width="216"]\ |Straßenschild: Ende der Spielstraße| „\ `Zeichen
-325.2 <http://commons.wikimedia.org/wiki/File:Zeichen_325.2.svg#mediaviewer/Datei:Zeichen_325.2.svg>`__\ “
-von
-`Andreas06 <//commons.wikimedia.org/w/index.php?title=User:Andreas06&action=edit&redlink=1>`__
-and `Mediatus <//commons.wikimedia.org/wiki/User:Mediatus>`__ - Eigenes
-Werk. Lizenziert unter Public domain über `Wikimedia
-Commons <//commons.wikimedia.org/wiki/>`__.[/caption]
+.. figure:: {filename}/images/ende_spielstrasse.png
+   :class: size-full wp-image-5608
+   :width: 216px
+   :height: 145px
+   :target: {filename}/images/ende_spielstrasse.png
 
-***Kinderfreie Zone -*** hieß es immer, wenn meine Eltern mal nicht von
+   `Zeichen 325.2 <https://commons.wikimedia.org/wiki/File:Zeichen_325.2.svg>`__
+   von `Andreas06 <//commons.wikimedia.org/w/index.php?title=User:Andreas06&action=edit&redlink=1>`__
+   und `Mediatus <//commons.wikimedia.org/wiki/User:Mediatus>`__ - Eigenes
+   Werk. Lizenziert unter Public domain über `Wikimedia Commons <//commons.wikimedia.org/wiki/>`__.
+
+**Kinderfreie Zone** - hieß es immer, wenn meine Eltern mal nicht von
 der tobenden Horde belagert werden wollte. Wir konnten uns immer sehr
 gut mit uns selbst beschäftigen, aber wenn die Erwachsenen plötzlich die
 Lust nach einem Kaffee überkam und sie sich auch noch über langweilige
@@ -71,9 +72,3 @@ Urlauber unter sich…*
   aber man könnte ja durchaus auch andere Kategorien an die "Kunden"
   anlegen. Wie wäre es mit Religion, Hautfarbe, etc.?
 | Und das wäre dann wirklich nicht tolerierbar!
-
-.. |Straßenschild: Ende der Spielstraße| image:: {filename}/images/ende_spielstrasse.png
-   :class: size-full wp-image-5608
-   :width: 216px
-   :height: 145px
-   :target: {filename}/images/ende_spielstrasse.png

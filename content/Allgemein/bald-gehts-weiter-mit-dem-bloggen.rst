@@ -2,7 +2,6 @@ bald gehts weiter mit dem Bloggen
 #################################
 :date: 2008-12-19 17:49
 :author: Lioman
-:category: Allgemein
 :tags: Blog, festplatte
 :slug: bald-gehts-weiter-mit-dem-bloggen
 :status: published

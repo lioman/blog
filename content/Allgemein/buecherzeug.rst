@@ -2,7 +2,6 @@ Bücherzeug
 ##########
 :date: 2012-04-27 15:14
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Blogprojekt, Buch Box, Lesen
 :slug: buecherzeug
 :status: published

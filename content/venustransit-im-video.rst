@@ -2,7 +2,7 @@ Venustransit im Video
 #####################
 :date: 2012-06-11 11:14
 :author: Lioman
-:category: Welt
+:category: Wissenschaft &amp; Technik
 :tags: Astronomie, Sonne, Venus
 :slug: venustransit-im-video
 :status: published
@@ -12,8 +12,9 @@ hier leider nicht sehen. Das Wetter war hier unten im Süden schlicht zu
 schlecht. Da wir alle den nächsten Venustransit höchstwahrscheinlich
 nicht erleben werden bleibt leider nur ein Video der NASA:
 
-http://www.youtube.com/watch?v=QX6BbP1wAIs&hd=1
+.. youtube:: QX6BbP1wAIs
+   :class: youtube-16x9
 
-Das ist aber umso eindrucksvoller und schöner
+Das ist aber umso eindrucksvoller und schöner.
 
  

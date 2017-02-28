@@ -2,8 +2,8 @@ Weiße Welten
 ############
 :date: 2010-01-09 13:06
 :author: Lioman
-:category: Welt
-:tags: Bild, NASA, nasa satellite, satellite terra, Satellitenbild, Schnee, Vereinigtes Königreicg, Winter
+:category:  Wissenschaft &amp; Technik
+:tags: Bild, NASA, nasa satellite, satellite terra, Satellitenbild, Schnee, Vereinigtes Königreich, Winter
 :slug: weisse-welten
 :status: published
 

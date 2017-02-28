@@ -2,7 +2,6 @@ NHK weitet Broadcasting-Angebot auf Englisch aus
 ################################################
 :date: 2011-03-15 12:58
 :author: Lioman
-:category: Welt
 :tags: Atom, Fukushima, Japan, NHK, Stream, Video
 :slug: nhk-weitet-broadcasting-angebot-auf-englisch-aus
 :status: published

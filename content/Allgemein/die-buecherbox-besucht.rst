@@ -2,7 +2,6 @@ Die Bücherbox besucht...
 ########################
 :date: 2012-02-02 11:34
 :author: Lioman
-:category: Lesen
 :tags: Blogprojekt, Buch Box, Bücher, Lesen
 :slug: die-buecherbox-besucht
 :status: published

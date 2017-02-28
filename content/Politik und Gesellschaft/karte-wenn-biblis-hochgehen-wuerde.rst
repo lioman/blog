@@ -2,7 +2,6 @@ Karte: Wenn Biblis hochgehen würde
 ##################################
 :date: 2011-03-14 15:48
 :author: Lioman
-:category: Welt
 :tags: AKW, Atom, Atomenergie, Biblis, Fukushima
 :slug: karte-wenn-biblis-hochgehen-wuerde
 :status: published
@@ -19,7 +18,7 @@ müssen. Fukishima sollte demnächst außer Dienst gestellt werden - doch
 die Japaner haben gezögert.
 
 | Wir sollten nicht zögern sonst sieht es hinterher so
-  aus:\ ` <images/biblis_gau_karte.png>`__\ |image0|
+  aus: |image0|
 | Ich weiß, dass das nur eine sehr, sehr grobe Näherung ohne
   Berücksichtigung von Geographie und Meteorologie ist.
 

@@ -2,7 +2,6 @@ So sieht eine Evakuierungszone aus
 ##################################
 :date: 2011-04-11 11:28
 :author: Lioman
-:category: Welt
 :tags: Atomenergie, Fukushima, Gau, Japan, Reaktorunfall, Reportage, Video
 :slug: so-sieht-eine-evakuierungszone-aus
 :status: published
@@ -18,7 +17,8 @@ Evakuierungszone fahren, in der nur noch Hunde und Kühe streunen. Diese
 wurden von ihren Besitzern leider zurückgelassen, falls diese überhaupt
 die Flutwelle überlebt haben.
 
-http://www.youtube.com/watch?v=yp9iJ3pPuL8&webm=1
+.. youtube:: yp9iJ3pPuL8
+   :class: youtube-16x9
 
 .. |image0| image:: {filename}/images/artikel_nuklear.png
    :class: alignleft size-full wp-image-2926

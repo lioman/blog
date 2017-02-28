@@ -2,7 +2,6 @@ Umweltschutz geht durch den Magen - Immer noch
 ##############################################
 :date: 2009-05-20 16:59
 :author: Lioman
-:category: Gesellschaft
 :tags: Aktion, Beifang, Fisch, Meere, MSC, Umwelt, Umweltschutz, wwf
 :slug: umweltschutz-geht-durch-den-magen-immer-noch
 :status: published

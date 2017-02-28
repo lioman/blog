@@ -2,7 +2,6 @@ Interaktive Karte: Produkte aus Sklavenarbeit
 #############################################
 :date: 2011-09-10 19:38
 :author: Lioman
-:category: Welt
 :tags: Sklaverei
 :slug: interaktive-karte-produkte-aus-sklavenarbeit
 :status: published
