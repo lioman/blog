@@ -15,11 +15,15 @@ immer wieder Musik über
 `Album <http://www.tonspion.de/musik/smashing-pumpkins/musik/639532>`__
 zum Download ins Netz stellen.
 
-[caption id="" align="alignright" width="400"]\ |image0|\ Screenshot von
-SPOCEANIA.com[/caption]Auch das neuste Album Oceania das, laut
-Wikipedia, mam 19. Juni bei EMI erscheinen soll, ist wieder im Netz
-anhörbar. Dazu kann man auf die eigens kreierte Seite SPOCEANIA gehen
-und das Album komplett im Stream abspielen.
+.. figure:: {filename}/images/spoceania.png
+   :width: 400px
+   :height: 253px
+   :target: {filename}/images/spoceania.png
+
+   Screenshot von SPOCEANIA.com Auch das neuste Album Oceania das, laut Wikipedia,
+   mam 19. Juni bei EMI erscheinen soll, ist wieder im Netz anhörbar.
+   Dazu kann man auf die eigens kreierte Seite SPOCEANIA gehen und das
+   Album komplett im Stream abspielen.
 
 Die ursprünglich Ende der 1980er gegründete Band zeigt für mich, wie man
 auch als kommerzielle Band das Internet nutzen kann, um die eigene Musik
@@ -34,8 +38,3 @@ wirklich gut finde und gerne höre.
 
 via `Das
 Kraftfuttermischwerk <http://www.kraftfuttermischwerk.de/blogg/?p=37772>`__
-
-.. |image0| image:: https://lh5.googleusercontent.com/-PVtVlu6IJoQ/T98SppoP7KI/AAAAAAAAC8E/-0AVBoNe4bw/s400/spoceania.png
-   :width: 400px
-   :height: 253px
-   :target: https://lh5.googleusercontent.com/-PVtVlu6IJoQ/T98SppoP7KI/AAAAAAAAC8E/-0AVBoNe4bw/s2048/spoceania.png

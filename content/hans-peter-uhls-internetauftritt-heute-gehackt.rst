@@ -20,8 +20,8 @@ in diesem Internet! Alles verbieten, filtern, überwachen." *
 Nachdem die Seite dann gar nicht mehr erreichbar  war - heißt es nun
 (20:46h), dass die Seite überarbeitet wird.
 
-.. |image0| image:: https://lh4.googleusercontent.com/-Vpa0Go0w1fQ/TqBrnwDQj5I/AAAAAAAACBs/yFM28h-obo0/s400/Uhl-hacked.jpg
+.. |image0| image:: {filename}/images/Uhl-hacked.jpg
    :class: alignright
    :width: 400px
    :height: 320px
-   :target: https://lh4.googleusercontent.com/-Vpa0Go0w1fQ/TqBrnwDQj5I/AAAAAAAACBs/yFM28h-obo0/s400/Uhl-hacked.jpg
+   :target: {filename}/images/Uhl-hacked.jpg

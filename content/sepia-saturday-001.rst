@@ -9,8 +9,8 @@ Sepia Saturday 001
 
 |image0|
 
-.. |image0| image:: https://lh6.googleusercontent.com/-UdSxF7PrOPQ/Tockgy_zt8I/AAAAAAAACA0/bIaAQf9BdJo/s912/Konstanz-Bruecke_Sepia.jpg
+.. |image0| image:: {filename}/images/Konstanz-Bruecke_Sepia.jpg
    :class: alignright
    :width: 912px
    :height: 684px
-   :target: https://lh6.googleusercontent.com/-UdSxF7PrOPQ/Tockgy_zt8I/AAAAAAAACA0/bIaAQf9BdJo/s912/Konstanz-Bruecke_Sepia.jpg
+   :target: {filename}/images/Konstanz-Bruecke_Sepia.jpg

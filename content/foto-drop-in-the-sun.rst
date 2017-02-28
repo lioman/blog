@@ -15,8 +15,8 @@ erstaunliche Welten entdecken.
 
 |image0|
 
-.. |image0| image:: https://lh6.googleusercontent.com/-Y5oEUbclvvs/TomW_u6WATI/AAAAAAAACBM/Zestzn_WERU/s400/drop_in_the_sun.jpg
+.. |image0| image:: {filename}/images/drop_in_the_sun.jpg
    :class: aligncenter
    :width: 400px
    :height: 300px
-   :target: https://lh6.googleusercontent.com/-Y5oEUbclvvs/TomW_u6WATI/AAAAAAAACBM/Zestzn_WERU/drop_in_the_sun.jpg
+   :target: {filename}/images/drop_in_the_sun.jpg

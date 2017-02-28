@@ -26,8 +26,8 @@ Interview die Worte Freund oder Freunde fielen*"
 
 Ich bin übrigens auf 19 mal Freund(e(n)) gekommen
 
-.. |image0| image:: https://lh4.googleusercontent.com/-iDczph0A_Pc/TwU6fFu2gYI/AAAAAAAACRU/EnKB1Md-zH4/s640/Wordle_WulffInterview.png
+.. |image0| image:: {filename}/images/Wordle_WulffInterview.png
    :class: aligncenter
    :width: 678px
    :height: 400px
-   :target: https://lh4.googleusercontent.com/-iDczph0A_Pc/TwU6fFu2gYI/AAAAAAAACRU/EnKB1Md-zH4/s640/Wordle_WulffInterview.png
+   :target: {filename}/images/Wordle_WulffInterview.png

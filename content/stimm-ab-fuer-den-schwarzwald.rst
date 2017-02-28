@@ -33,8 +33,8 @@ möchte ich alle bitten doch für diese schöne Region abzustimmen.
   Ausflügen geschossen habe:
 | 
 
-.. |image0| image:: https://lh5.googleusercontent.com/-ZsnAdKI_pbY/ThSisr_WiOI/AAAAAAAABbA/-AURjYLKR9U/s400/image_5119925643.jpg
+.. |image0| image:: {filename}/images/image_5119925643.jpg
    :class: alignright
    :width: 280px
    :height: 210px
-   :target: https://lh5.googleusercontent.com/-ZsnAdKI_pbY/ThSisr_WiOI/AAAAAAAABbA/-AURjYLKR9U/image_5119925643.jpg
+   :target: {filename}/images/image_5119925643.jpg

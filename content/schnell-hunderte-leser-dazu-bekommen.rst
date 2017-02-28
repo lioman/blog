@@ -15,8 +15,8 @@ Wenn du zu wenig Leser hast, dann druck sie dir doch einfach aus.
 
 |image0|
 
-.. |image0| image:: https://lh5.googleusercontent.com/-9bN3HRX4xOM/T2mVogW598I/AAAAAAAACY8/T2sK7PJFkSE/s800/Leserdrucker.png
+.. |image0| image:: {filename}/images/Leserdrucker.png
    :class: aligncenter
    :width: 800px
    :height: 572px
-   :target: https://lh5.googleusercontent.com/-9bN3HRX4xOM/T2mVogW598I/AAAAAAAACY8/T2sK7PJFkSE/s2048/Leserdrucker.png
+   :target: {filename}/images/Leserdrucker.png

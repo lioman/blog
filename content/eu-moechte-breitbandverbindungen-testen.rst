@@ -47,7 +47,7 @@ einen der getesteten Anbieter arbeiten.
    :width: 200px
    :height: 133px
    :target: {filename}/images/europa.png
-.. |image1| image:: https://lh5.googleusercontent.com/-NgcilnSBBLw/Tr0atXgmizI/AAAAAAAACCg/81qt9AcDxCk/s400/neelieKroesEU_Broadband.jpg
+.. |image1| image:: {filename}/images/neelieKroesEU_Broadband.jpg
    :class: aligncenter
    :width: 400px
    :height: 181px

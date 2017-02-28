@@ -14,16 +14,16 @@ grünen Zweig. Gut die Gruppe war wirklich schwer, aber so richtig
 und die werden einfach ausgeschaltet und erst gegen die Oranje entdeckt
 CR7 plötzlich wieder das Tore schießen.
 
-[caption id="" align="alignright" width="381"]\ |image0| Abgerufen von
-`Meteox <http://meteox.de/>`__ am 18.06.2012[/caption]
+.. figure:: {filename}/images/NL_Regenradar.png
+   :alt: Wetterradar über den Niederlanden
+   :width: 381px
+   :height: 400px
+   :target: {filename}/images/NL_Regenradar.png
+
+   Abgerufen von `Meteox <http://meteox.de/>`__ am 18.06.2012
 
 Jetzt sind sie verdient draußen und in der Heimat öffnet sich der Himmel
 und weint kräftig über den Niederlanden.
 
 Schade eigentlich, denn ich hätte sie gerne im Finale gesehen (neben
 Deutschland natürlich)
-
-.. |image0| image:: https://lh6.googleusercontent.com/-mqRfeHICavM/T97m-W1OiMI/AAAAAAAAC7o/6S-KehUTdMM/s400/NL_Regenradar.png
-   :width: 381px
-   :height: 400px
-   :target: https://lh6.googleusercontent.com/-mqRfeHICavM/T97m-W1OiMI/AAAAAAAAC7o/6S-KehUTdMM/s2048/NL_Regenradar.png

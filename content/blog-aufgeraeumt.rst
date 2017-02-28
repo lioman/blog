@@ -21,7 +21,7 @@ irgendwie bin ich nicht dazu gekommen.
 Da ich schon mal dabei war habe ich mit Piwik getestet welche meiner
 "Pages" überhaupt besucht werden und hab alles bis auf "`Über
 mich <http://www.lioman.de/liokontakt/>`__" und "`Kontakt &
-Impressum <http://www.lioman.de/liokontakt/>`__" rausgeschmissen.
+Impressum <impressum>`__" rausgeschmissen.
 
 Auch das Impressum ist aktualisiert und an die frisch eingebauten
 Buttons "+1" und "Facebook" angepasst. Die Vorlage dazu stammt von

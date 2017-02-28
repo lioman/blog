@@ -135,26 +135,26 @@ Rutsch ins neue Jahr und alles Gute. Vorsätze fürs nächste Blogjahr
 werde ich mir nicht nehmen - ich schau einfach was sich ergibt und
 schreibe, dann darüber.
 
-.. |image0| image:: https://lh4.googleusercontent.com/-yyIQ3DsdQds/Tv8MrwQ5M7I/AAAAAAAACHw/G4wCrVJKn-k/s400/Jahresrueckblich2011_Besucherlaender.png
+.. |image0| image:: {filename}/images/Jahresrueckblich2011_Besucherlaender.png
    :class: alignright
    :width: 400px
    :height: 202px
-.. |image1| image:: https://lh5.googleusercontent.com/-xP78Q_DEkZk/Tv8ntMfdK8I/AAAAAAAACH8/9SQjjOzWHl8/s400/Blogrueckblick2011_Betriebsysteme.png
+.. |image1| image:: {filename}/images/Blogrueckblick2011_Betriebsysteme.png
    :class: alignleft
    :width: 400px
    :height: 202px
-   :target: https://lh5.googleusercontent.com/-xP78Q_DEkZk/Tv8ntMfdK8I/AAAAAAAACH8/9SQjjOzWHl8/Blogrueckblick2011_Betriebsysteme.png
-.. |image2| image:: https://lh6.googleusercontent.com/-sV1lFHivrFA/Tv8qqx0HTPI/AAAAAAAACII/OKgVgO4ueAI/s400/Jahresrueckblick2011_Browser.png
+   :target: {filename}/images/Blogrueckblick2011_Betriebsysteme.png
+.. |image2| image:: {filename}/images/Jahresrueckblick2011_Browser.png
    :class: alignright
    :width: 320px
    :height: 282px
-.. |image3| image:: https://lh5.googleusercontent.com/-Us9c0uPWRlY/Tv8xuHFZK-I/AAAAAAAACIU/QrSeR6aq3iU/s400/Blogrueckblick2011_Suchmaschinen.png
+.. |image3| image:: {filename}/images/Blogrueckblick2011_Suchmaschinen.png
    :class: alignleft
    :width: 400px
    :height: 202px
-   :target: https://lh5.googleusercontent.com/-Us9c0uPWRlY/Tv8xuHFZK-I/AAAAAAAACIU/QrSeR6aq3iU/Blogrueckblick2011_Suchmaschinen.png
-.. |image4| image:: https://lh6.googleusercontent.com/-DrXNawSzzBc/Tv9ArE1OyCI/AAAAAAAACIg/KlpMl02g3eY/s800/Geschrieben2011.png
+   :target: {filename}/images/Blogrueckblick2011_Suchmaschinen.png
+.. |image4| image:: {filename}/images/Geschrieben2011.png
    :class: aligncenter
    :width: 800px
    :height: 538px
-   :target: https://lh6.googleusercontent.com/-DrXNawSzzBc/Tv9ArE1OyCI/AAAAAAAACIg/KlpMl02g3eY/s800/Geschrieben2011.png
+   :target: {filename}/images/Geschrieben2011.png

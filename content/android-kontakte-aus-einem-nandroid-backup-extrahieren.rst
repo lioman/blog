@@ -7,10 +7,15 @@ Android: Kontakte aus einem Nandroid-Backup extrahieren
 :slug: android-kontakte-aus-einem-nandroid-backup-extrahieren
 :status: published
 
-[caption id="attachment\_5563" align="alignleft" width="252"]\ |Android
-logo| Bild von `Google <http://www.android.com/branding.html>`__ steht
-unter
-`CC-BY-SA <http://creativecommons.org/licenses/by-sa/3.0/deed.de>`__\ [/caption]
+.. figure:: {filename}/images/Android_robot-252x300.png
+   :alt: Android-Logo
+   :class: size-medium wp-image-5563
+   :width: 252px
+   :height: 300px
+   :target: {filename}/images/Android_robot.png
+
+   Bild von `Google <http://www.android.com/branding.html>`__ steht unter
+   `CC-BY-SA <http://creativecommons.org/licenses/by-sa/3.0/deed.de>`__
 
 Bevor man irgend eine neue ROM auf einem Android-Handy installiert macht
 man natürlich ein Backup vom alten System. Das kann man über
@@ -62,9 +67,3 @@ folgendermaßen auszuführen:
 Kopiert man diese zurück auf das Mobiltelefon kann die Kontakte-App
 diese Datei dann wieder importieren und man hat alle alten Kontakte
 wieder.
-
-.. |Android logo| image:: {filename}/images/Android_robot-252x300.png
-   :class: size-medium wp-image-5563
-   :width: 252px
-   :height: 300px
-   :target: {filename}/images/Android_robot.png
