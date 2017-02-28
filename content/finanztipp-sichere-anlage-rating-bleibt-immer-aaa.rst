@@ -33,4 +33,4 @@ wiederaufladbare Akkus oder Einwegbatterien setzt.
    :class: alignright size-medium wp-image-3598
    :width: 300px
    :height: 229px
-   :target: http://www.lioman.de/2011/09/finanztipp-sichere-anlage-rating-bleibt-immer-aaa/aaa/
+   :target: {filename}/images/aaa.jpg
