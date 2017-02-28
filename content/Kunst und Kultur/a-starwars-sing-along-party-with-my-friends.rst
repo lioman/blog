@@ -2,7 +2,6 @@ A StarWars Sing-Along: Party with my friends
 ############################################
 :date: 2012-04-26 13:59
 :author: Lioman
-:category: Allgemein
 :tags: Film, Fundstück, Musikvideo, StarWars, Video
 :slug: a-starwars-sing-along-party-with-my-friends
 :status: published

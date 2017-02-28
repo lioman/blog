@@ -2,7 +2,6 @@ Cassis - Buttermilcheis
 #######################
 :date: 2013-08-01 19:58
 :author: Lioman
-:category: Kochen &amp; Backen
 :tags: Cassis, Dessert, Eis, Rezept, Schwarze Johannisbeere, Sommer
 :slug: cassis-buttermilcheis
 :status: published

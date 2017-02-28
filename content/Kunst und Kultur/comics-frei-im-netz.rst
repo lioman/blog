@@ -2,7 +2,6 @@ Comics frei im Netz
 ###################
 :date: 2008-07-30 15:53
 :author: Lioman
-:category: Allgemein
 :tags: Comic, Download, Internet, Kostenlos, Lesen
 :slug: comics-frei-im-netz
 :status: published

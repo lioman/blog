@@ -2,7 +2,6 @@ Aufruf: Unterzeichnet die Petition gegen die Zensur
 ###################################################
 :date: 2009-05-06 14:41
 :author: Lioman
-:category: Gesellschaft
 :tags: Gesetz, Internet, Kinderpornographie, Petition, Politik, Zensur
 :slug: aufruf-unterzeichnet-die-petition-gegen-die-zensur
 :status: published

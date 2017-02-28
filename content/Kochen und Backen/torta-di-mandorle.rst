@@ -2,7 +2,6 @@ Torta di mandorle
 #################
 :date: 2011-12-10 15:31
 :author: Lioman
-:category: Kochen &amp; Backen
 :tags: Kuchen, Mandeln, Rezept
 :slug: torta-di-mandorle
 :status: published

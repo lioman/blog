@@ -2,7 +2,6 @@ Filmtipp: Kops
 ##############
 :date: 2009-06-03 15:26
 :author: Lioman
-:category: Gesellschaft
 :tags: Film, Filmtipp, Komödie, Trailer
 :slug: filmtipp-kops
 :status: published

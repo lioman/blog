@@ -2,7 +2,6 @@ Apfeltarte mit gesalzenem Karamell
 ##################################
 :date: 2012-10-24 22:42
 :author: Lioman
-:category: Kochen &amp; Backen
 :tags: Apfel, Karamell, Kuchen, Rezept, Tarte
 :slug: apfeltarte-mit-gesalzenem-karamell
 :status: published

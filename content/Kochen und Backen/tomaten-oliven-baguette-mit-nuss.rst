@@ -2,7 +2,6 @@ Tomaten-Oliven-Baguette mit Nuss
 ################################
 :date: 2012-06-28 20:36
 :author: Lioman
-:category: Kochen &amp; Backen
 :tags: Baguette, Beilage, Brot, Hefeteig, Olive, Rezept, Rosmarin
 :slug: tomaten-oliven-baguette-mit-nuss
 :status: published
