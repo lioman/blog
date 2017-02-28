@@ -2,7 +2,6 @@
 #################################
 :date: 2012-05-02 12:08
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Krimi, Lesen, Ökothriller, Thriller
 :slug: 52-buecher-woche-15-naheliegend
 :status: published

@@ -2,7 +2,6 @@
 #########################################
 :date: 2012-06-22 14:26
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Ameisen, Butziwackel, Insekten, Kinderbuch, Lesen
 :slug: 52-bucher-woche-20-lieblingskinderbuch
 :status: published

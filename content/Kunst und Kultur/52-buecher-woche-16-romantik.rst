@@ -2,7 +2,6 @@
 ##############################
 :date: 2012-05-02 16:29
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Buch, Lesen, Romantik
 :slug: 52-buecher-woche-16-romantik
 :status: published

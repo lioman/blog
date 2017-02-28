@@ -2,7 +2,6 @@
 ############################
 :date: 2011-12-18 16:59
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Buch, Bücher, Lesen, Lesetipp, Literatur, Schweden
 :slug: 52-buecher-woche-6-magisches
 :status: published

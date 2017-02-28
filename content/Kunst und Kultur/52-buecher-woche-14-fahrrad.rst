@@ -2,7 +2,6 @@
 #############################
 :date: 2012-04-15 13:56
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Bücher, Fahrrad, Frank McCourt, Lesen, Literatur
 :slug: 52-buecher-woche-14-fahrrad
 :status: published

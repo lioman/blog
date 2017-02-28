@@ -2,7 +2,6 @@
 #############################
 :date: 2012-02-16 14:30
 :author: Lioman
-:category: Allgemein
 :tags: 52 Bücher, Lesen, Monster, Teufel, Thriller
 :slug: 52-buecher-woche-13-monster
 :status: published

@@ -2,7 +2,6 @@ Alles gute zum StarWars-Tag
 ###########################
 :date: 2010-05-04 16:38
 :author: Lioman
-:category: Allgemein
 :tags: 4. Mai, StarWars
 :slug: alles-gute-zum-starwars-tag
 :status: published

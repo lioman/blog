@@ -2,7 +2,6 @@
 ##################
 :date: 2011-12-14 16:35
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Buch, Lesen, Literatur, russisch, Russland, Sibirien
 :slug: 52-buecher-woche-5
 :status: published

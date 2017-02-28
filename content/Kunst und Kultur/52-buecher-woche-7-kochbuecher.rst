@@ -2,7 +2,6 @@
 ###############################
 :date: 2011-12-28 06:28
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Blogprojekt, Buch, Kochen
 :slug: 52-buecher-woche-7-kochbuecher
 :status: published

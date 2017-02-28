@@ -2,7 +2,6 @@
 ##################
 :date: 2011-11-20 15:38
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Bücher, Comic, Herge, Lesen, Literatur, Tim und Struppi
 :slug: 52-buecher-woche-2
 :status: published

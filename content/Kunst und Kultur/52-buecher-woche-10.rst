@@ -2,7 +2,6 @@
 ###################
 :date: 2012-01-24 10:03
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Buch, Lesen
 :slug: 52-buecher-woche-10
 :status: published

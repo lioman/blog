@@ -2,7 +2,6 @@
 ###################
 :date: 2011-11-18 12:00
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Buch, Island, Krimi, Lesen
 :slug: 52-buecher-woche-1
 :status: published

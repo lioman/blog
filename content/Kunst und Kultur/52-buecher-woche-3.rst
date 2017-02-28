@@ -2,7 +2,6 @@
 ##################
 :date: 2011-11-21 13:04
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Bücher, Geschichte, Krücke, Lesen, Nachkriegszeit
 :slug: 52-buecher-woche-3
 :status: published
