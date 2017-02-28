@@ -2,7 +2,6 @@
 ################################################################################
 :date: 2011-09-04 20:40
 :author: Lioman
-:category: Gesellschaft
 :tags: Fairer Kaffee, George Clooney, Kampagne, Klimapolitik, Petition, Vorratsdatenspeicherung
 :slug: 3-kampagnen-zum-mitmachen-clooney-1-cent-fuer-angela-vorratsdatenspeicherung
 :status: published

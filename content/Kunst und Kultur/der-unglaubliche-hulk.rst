@@ -2,7 +2,6 @@ Der unglaubliche Hulk
 #####################
 :date: 2008-07-24 12:59
 :author: Lioman
-:category: Allgemein
 :tags: Comic, Film, Kino
 :slug: der-unglaubliche-hulk
 :status: published
@@ -40,4 +39,5 @@ Man** konkurrieren zu können.
 
 Und hier nochmal der Trailer, für alle die ihn noch nicht gesehen haben:
 
-
+.. youtube:: NWWzve8Z90s
+   :class: youtube-16x9

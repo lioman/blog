@@ -2,7 +2,6 @@ Heuchler
 ########
 :date: 2012-12-02 19:50
 :author: Lioman
-:category: Gesellschaft, Internet, Welt
 :tags: Leistungsschutzrecht, LSR, Politik, Rant, Verleger
 :slug: heuchler
 :status: published

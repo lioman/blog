@@ -2,15 +2,14 @@ Ab in die Twitterfarm
 #####################
 :date: 2010-02-02 13:28
 :author: Lioman
-:category: Internet
 :tags: Facebook, Frankreich, Journalismus, journalisten, Nachrichten, Radio, twitter
 :slug: ab-in-die-twitterfarm
 :status: published
 
-|image0|\ ***Vielerorts wurde über neue Informationsquellen im
+|image0|\ **Vielerorts wurde über neue Informationsquellen im
 Journalismus diskutiert. Zu klassischen Quellen sind neue Netzwerke wie
 Facebook und vor allen Dingen Twitter hinzugekommen. Französische
-Radiosender wagen nun ein Experiment***.
+Radiosender wagen nun ein Experiment**.
 
 Während der Proteste im Iran hatten ausländische Journalisten
 Arbeitsverbot bzw. waren sehr stark eingeschränkt. Über lange Strecken
@@ -24,10 +23,6 @@ zuverlässiger als herkömmliche, doch sndererseits galt es immer
 abzuwägen wie vertrauenswürdig ein Account eines Berichtenden war. Auf
 jeden Fall beeinflussen diese neunen Quellen die Arbeitsweise von
 Jornalisten.
-
-.. raw:: html
-
-   </p>
 
 Nun starteten gestern verschiedene `französische
 Radiosender <http://sites.radiofrance.fr/franceinter/ev/fiche.php?ev_id=1148>`__
@@ -44,18 +39,8 @@ waren. Möchte man das Projekt verfolgen und ist der französischen
 Sprache mächtig kann man auf dem eingerichteten Blog nachschauen: Huis
 clos sur le net
 
-| 
-
-.. raw:: html
-
-   <div>
-
-Orginalbild: http://www.flickr.com/photos/peagreenchick/ / `CC BY
+Orginalbild: `Newspaper <https://www.flickr.com/photos/peagreenchick/384744367/>`__   `CC BY
 2.0 <http://creativecommons.org/licenses/by/2.0/>`__
-
-.. raw:: html
-
-   </div>
 
 .. |image0| image:: {filename}/images/news_twitter_facebook-201x300.jpg
    :class: alignleft size-medium wp-image-1407

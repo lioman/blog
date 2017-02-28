@@ -2,7 +2,6 @@ ADELE singt den Titelsong des kommenden James Bond Filmes "SKYFALL"
 ###################################################################
 :date: 2012-10-08 11:51
 :author: Lioman
-:category: Gesellschaft
 :tags: Film, James Bond, Musik
 :slug: adele-singt-den-titelsong-des-kommenden-james-bond-filmes-skyfall
 :status: published

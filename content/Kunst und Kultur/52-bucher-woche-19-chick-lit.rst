@@ -2,7 +2,6 @@
 ###############################
 :date: 2012-06-15 14:31
 :author: Lioman
-:category: Lesen
 :tags: 52 Bücher, Buch, Frauenroman, Lesen
 :slug: 52-bucher-woche-19-chick-lit
 :status: published
