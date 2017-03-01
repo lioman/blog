@@ -10,13 +10,22 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = '/blog'
+SITEURL = 'http://www.lioman.de'
 RELATIVE_URLS = False
 
 OUTPUT_PATH = 'public'
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_DOMAIN = SITEURL
+
+FEED_ALL_ATOM = 'feed/atom/'
+CATEGORY_FEED_ATOM = '%s/feed/atom/'
+TAG_FEED_ATOM = '%s/feed/atom/'
+
+FEED_ALL_RSS = 'feed/'
+CATEGORY_FEED_RSS = '%s/feed/'
+TAG_FEED_RSS = '%s/feed/'
+
+RSS_FEED_SUMMARY_ONLY = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
