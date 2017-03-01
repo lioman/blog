@@ -2,7 +2,6 @@ Ein Musikvideo für (fast) alle
 ##############################
 :date: 2010-09-21 19:04
 :author: Lioman
-:category: Gesellschaft
 :tags: behindert, gehörlos, Musik, Video
 :slug: ein-musikvideo-fuer-fast-alle
 :status: published
@@ -18,4 +17,5 @@ umgesetzt. Zusätzlich helfen ein paar grafische Symbolanimationen die
 verschiedenen Instrumente wie Gitarre , Beat usw. die Musik zu
 verdeutlichen.
 
-http://vimeo.com/13424700
+.. youtube:: BGRFrUFPdRk
+  :class: youtube-16x9

@@ -2,7 +2,6 @@ Geburtstag!!!
 #############
 :date: 2009-06-20 18:53
 :author: Lioman
-:category: Allgemein
 :tags: Blog, Geburtstag, Jahrestag
 :slug: geburtstag
 :status: published

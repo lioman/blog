@@ -2,7 +2,7 @@ Ubuntu auf einem Zigarettenautomaten
 ####################################
 :date: 2012-08-31 13:53
 :author: Lioman
-:category: Wissenschaft &amp; Technik/ Open Source
+:category: Open Source
 :tags: Automat, Linux, Ubuntu, UbuntuusersPlanet
 :slug: ubuntu-auf-einem-zigarettenautomaten
 :status: published

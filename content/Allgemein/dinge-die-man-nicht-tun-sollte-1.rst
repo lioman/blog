@@ -2,14 +2,13 @@ Dinge die man nicht tun sollte #1
 #################################
 :date: 2009-11-06 08:59
 :author: Lioman
-:category: Allgemein
 :tags: dinge die man nicht tun sollte, gestank, nudeln, topf, verbrannt
 :slug: dinge-die-man-nicht-tun-sollte-1
 :status: published
 
-***Es gibt Dinge die man wirklich nicht tun sollte. Man weiß es genau,
+**Es gibt Dinge die man wirklich nicht tun sollte. Man weiß es genau,
 man kennt die Konsequenzen - aber - man tut es manchmal trotzdem.
-Manchmal aus Versehen - manchmal mit voller Absicht.***
+Manchmal aus Versehen - manchmal mit voller Absicht.**
 
 Nr. 001
 

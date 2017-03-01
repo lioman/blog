@@ -2,7 +2,6 @@ Bookcrossingzone in Freiburg
 ############################
 :date: 2009-12-10 17:14
 :author: Lioman
-:category: Gesellschaft
 :tags: Bookcrossing, Bücher, freiburg, KHG, OBCZ
 :slug: bookcrossingzone-in-freiburg
 :status: published
@@ -15,8 +14,7 @@ Wetters oder des Facility Service (wie die Putzkolonne neuerdings
 heißt). Ohne Verlust, kann man die Bücher in einer Official BookCrossing
 Zone (OBCZ) auslegen.***
 
-[caption id="attachment\_439" align="alignleft" width="66" caption="Buch
-auf Reisen"]\ |Buch auf Reisen|\ [/caption]
+|Buch auf Reisen|
 
 Dies ist ein Regal oder ein Tisch in einer öffentlich zugänglichen
 Einrichtung (Bibliotheken, VHS, Restaurants, etc.). Bücher werden dort

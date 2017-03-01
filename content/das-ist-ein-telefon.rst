@@ -10,15 +10,5 @@ Das ist ein Telefon
 Das xphone ist ein Knaller. So eins möchte ich, dann kann ich die alten
 Floppys wieder auspacken.
 
-http://www.youtube.com/watch?v=r0RqPhr-hdA
-
-.. raw:: html
-
-   <div
-   style="margin: 0pt auto; text-align: left; display: block; padding: 0px 6px;">
-
-via `info-tain <http://www.info-tain.de>`__
-
-.. raw:: html
-
-   </div>
+.. youtube:: 9-nezImUP0w
+   :class: youtube-16x9

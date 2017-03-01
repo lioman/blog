@@ -2,7 +2,6 @@ Die ersten 50.000 sind voll!
 ############################
 :date: 2011-09-14 15:28
 :author: Lioman
-:category: Gesellschaft
 :tags: Datenschutz, Petition, Politik, Vorratsdatenspeicherung
 :slug: die-ersten-50-000-sind-voll
 :status: published

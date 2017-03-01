@@ -2,7 +2,6 @@ Gefressen und Gefressen werden
 ##############################
 :date: 2010-12-04 18:22
 :author: Lioman
-:category: Allgemein
 :tags: Bild, Essen, Fressen, Kunst, Lebensmittel
 :slug: gefressen-und-gefressen-werden
 :status: published
