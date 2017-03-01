@@ -7,9 +7,13 @@ Kleines Projekt: Mapstats - Statistiken auf einer D3.js Karte
 :slug: kleines-projekt-mapstats-statistiken-auf-einer-d3-js-karte
 :status: published
 
-[caption id="attachment\_5814" align="alignright" width="400"]\ |Mit dem
-Flugzeug beförderte Passagiere in Europa| Mit dem Flugzeug beförderte
-Passagiere in Europa[/caption]
+.. figure:: {filename}/images/mapstats_karte.png
+   :class: wp-image-5814
+   :width: 400px
+   :height: 401px
+   :target: https://lioman.github.io/mapstats/
+
+   Mit dem Flugzeug beförderte Passagiere in Europa
 
 Ich bastel gerade an einem kleinen Projekt und versuche mich an
 der\ `Visualisierung diverser
@@ -32,9 +36,3 @@ Wer mitarbeiten möchte kann gerne mal im
 `Repository <https://github.com/lioman/mapstats>`__ vorbeischauen.  Das
 Ergebnis ist dann: `Mapstats- Statistics on
 D3.js-maps <https://lioman.github.io/mapstats/>`__
-
-.. |Mit dem Flugzeug beförderte Passagiere in Europa| image:: {filename}/images/mapstats_karte.png
-   :class: wp-image-5814
-   :width: 400px
-   :height: 401px
-   :target: https://lioman.github.io/mapstats/
