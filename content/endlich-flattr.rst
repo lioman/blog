@@ -2,7 +2,7 @@ Endlich Flattr
 ##############
 :date: 2010-05-11 13:30
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Flattr, Geld, Micropayment, Plugin, verdienen, Wordpress
 :slug: endlich-flattr
 :status: published

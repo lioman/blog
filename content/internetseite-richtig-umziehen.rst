@@ -2,7 +2,7 @@ Internetseite richtig umziehen
 ##############################
 :date: 2009-11-23 15:38
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: 301, Blog, Domain, php header, robot, SEO, tipp, Umziehen
 :slug: internetseite-richtig-umziehen
 :status: published

@@ -2,7 +2,7 @@
 ###################
 :date: 2010-12-15 12:03
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Eilt, JMStV, Nachrichten, Netzpolitik, Politik
 :slug: jmstv-faellt-in-nrw
 :status: published

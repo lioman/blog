@@ -2,7 +2,7 @@ Piwik Login geht nicht
 ######################
 :date: 2010-12-09 16:05
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: error, Erweiterung, Fehler, firefox, Login, Piwik, refControl, Referrer, Statistik
 :slug: piwik-login-geht-nicht
 :status: published

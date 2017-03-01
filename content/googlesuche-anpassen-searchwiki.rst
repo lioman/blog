@@ -2,7 +2,7 @@ Googlesuche anpassen - SearchWiki
 #################################
 :date: 2009-04-29 15:06
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: bewerten, Google, Internet, Suchmaschine
 :slug: googlesuche-anpassen-searchwiki
 :status: published

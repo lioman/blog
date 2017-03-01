@@ -2,7 +2,7 @@ GPG: Warum Mails verschlüsseln
 ##############################
 :date: 2011-01-19 16:01
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: E-Mail, GnuPG, GPG, Mail, Privatspähre, Sicherheit, Verschlüsselung
 :slug: gpg-warum-mails-verschluesseln
 :status: published

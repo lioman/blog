@@ -2,7 +2,7 @@ Eurekahaus twittert
 ###################
 :date: 2008-09-10 13:58
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Eureka, Serie, TV, twitter
 :slug: eurekahaus-twittert
 :status: published

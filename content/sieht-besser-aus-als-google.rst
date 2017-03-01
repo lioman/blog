@@ -2,7 +2,7 @@ Sieht besser aus als Google
 ###########################
 :date: 2008-08-07 16:48
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Internet, Lustig, Suchmaschine
 :slug: sieht-besser-aus-als-google
 :status: published

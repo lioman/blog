@@ -2,7 +2,7 @@ Radiotipp: Umgang mit Nachrichten
 #################################
 :date: 2010-06-21 16:26
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Breitband, Leistungsschutzrecht, Medien, Nachrichten, Radio
 :slug: radiotipp-umgang-mit-nachrichten
 :status: published

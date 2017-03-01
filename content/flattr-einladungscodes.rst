@@ -2,7 +2,7 @@ Flattr Einladungscodes
 ######################
 :date: 2010-05-26 20:48
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Einladungscode, Flattr, Invitation, Micropayment
 :slug: flattr-einladungscodes
 :status: published

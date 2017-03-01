@@ -2,7 +2,7 @@ Schlimme, schlimme LSOs
 #######################
 :date: 2010-11-25 14:28
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: BetterPrivacy, Cookie, Datenschutz, DOM, Erweiterung, firefox, Flash, LSO, Privacy, Sicherheit, Super-Cookie
 :slug: schlimme-schlimme-lsos
 :status: published

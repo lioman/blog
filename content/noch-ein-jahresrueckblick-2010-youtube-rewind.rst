@@ -2,7 +2,7 @@ Noch ein Jahresrückblick 2010: Youtube Rewind
 #############################################
 :date: 2010-12-15 12:47
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: 2010, Jahresrückblick, Video, Youtube
 :slug: noch-ein-jahresrueckblick-2010-youtube-rewind
 :status: published

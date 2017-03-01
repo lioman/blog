@@ -2,7 +2,7 @@ Such nicht nach Chuck Norris - Er findet dich!!!
 ################################################
 :date: 2008-09-29 19:08
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: chuck norris, Google, gut glück, Lustig
 :slug: nicht-nach-chuck-norris-er-findet-dich
 :status: published

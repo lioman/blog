@@ -2,13 +2,13 @@ Update auf 2.8.3
 ################
 :date: 2009-08-05 10:33
 :author: Lioman
-:category: Internet
+:category: Allgemein
 :tags: 2.8, 2.8.3, Blog, OpenID, Sicherheitslücke, update, Wordpress
 :slug: update-auf-2-8-3
 :status: published
 
-***Bei Wordpress 2.8.2 und älter ist eine Sicherheitslücke aufgetaucht.
-Ein Update behebt das Problem.***
+**Bei Wordpress 2.8.2 und älter ist eine Sicherheitslücke aufgetaucht.
+Ein Update behebt das Problem.**
 
 Änderte man als Abonnent nur ein wenig die URL konnte man sonst
 geschützte Einstellungen ändern.

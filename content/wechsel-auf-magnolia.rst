@@ -2,7 +2,7 @@ Wechsel auf Ma.gnolia
 #####################
 :date: 2008-12-01 11:10
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Delicious, firefox, Internet, Ma.gnolia, Social Bookmarking, umzug
 :slug: wechsel-auf-magnolia
 :status: published

@@ -2,7 +2,7 @@ Kleine Verbesserungen am Blog
 #############################
 :date: 2011-04-14 13:24
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Google, Jquery, Sprachdatei, Syntax Highlighter, Wordpress
 :slug: kleine-verbesserungen-am-blog
 :status: published

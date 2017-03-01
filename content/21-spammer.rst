@@ -2,7 +2,7 @@
 ############
 :date: 2010-11-22 11:42
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: #s21, akismet, Spam
 :slug: 21-spammer
 :status: published

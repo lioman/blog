@@ -2,7 +2,7 @@ Erklärvideo Was E-Mailverschlüsselung heißt
 ###########################################
 :date: 2010-12-20 16:40
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: E-Mail, GPG, Nachrichten, PGP, Post, Sicherheit, Verschlüsselung
 :slug: erklaervideo-was-e-mailverschluesselung-heisst
 :status: published

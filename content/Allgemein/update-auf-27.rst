@@ -2,7 +2,6 @@ Update auf 2.7
 ##############
 :date: 2008-12-12 18:07
 :author: Lioman
-:category: Allgemein
 :tags: Blog, update, Wordpress
 :slug: update-auf-27
 :status: published

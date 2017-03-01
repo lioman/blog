@@ -2,7 +2,7 @@ Zeichne ein Strichmännchen
 ##########################
 :date: 2011-09-28 12:47
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Kreativ, Linktipp, Stickman, Strichmännchen
 :slug: zeichne-ein-strichmaennchen
 :status: published

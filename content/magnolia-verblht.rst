@@ -2,7 +2,7 @@ Magnolia verblüht
 #################
 :date: 2009-02-20 22:58
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Delicious, Diigo, Internet, Ma.gnolia, Social Bookmarking
 :slug: magnolia-verblht
 :status: published

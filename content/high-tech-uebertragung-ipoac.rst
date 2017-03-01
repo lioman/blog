@@ -2,7 +2,7 @@ High-Tech Übertragung: IPoAC
 ############################
 :date: 2009-06-24 16:03
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Internet, Lustig, RFC
 :slug: high-tech-uebertragung-ipoac
 :status: published

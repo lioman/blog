@@ -2,7 +2,7 @@ Beiträge bekannt machen!
 ########################
 :date: 2008-08-05 12:28
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Internet, Pingdienst, SEO
 :slug: beitraege-bekannt-machen
 :status: published

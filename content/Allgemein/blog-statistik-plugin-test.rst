@@ -2,7 +2,7 @@ Blog-Statistik-Plugin-Test
 ##########################
 :date: 2009-04-03 09:21
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Plugin, Test, Wordpress
 :slug: blog-statistik-plugin-test
 :status: published

@@ -2,7 +2,7 @@ Google-Labs: Neue Bildersuche
 #############################
 :date: 2009-11-19 16:52
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Bilder, bildersuche, Google, Google Labs, Image-swirl, Suche
 :slug: google-labs-neue-bildersuche
 :status: published

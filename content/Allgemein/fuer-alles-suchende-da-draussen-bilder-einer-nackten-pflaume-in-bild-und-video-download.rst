@@ -2,7 +2,6 @@ Für alles Suchende da draußen - Eine nackte Pflaume in Bild und Video (+ Downl
 ##################################################################################
 :date: 2012-10-04 18:38
 :author: Lioman
-:category: Gesellschaft
 :tags: Bilder, nackt, Pflaume, Video
 :slug: fuer-alles-suchende-da-draussen-bilder-einer-nackten-pflaume-in-bild-und-video-download
 :status: published

@@ -2,7 +2,7 @@ Spammonat Mai
 #############
 :date: 2009-05-05 14:41
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: akismet, Blog, Spam, Umweltschutz, Wordpress
 :slug: spammonat-mai
 :status: published

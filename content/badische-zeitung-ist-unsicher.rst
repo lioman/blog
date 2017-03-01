@@ -2,7 +2,7 @@ Badische-Zeitung ist unsicher!
 ##############################
 :date: 2010-10-27 12:29
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Badische Zeitung, freiburg, Hacker, Schadcode, Sicherheit, XSS
 :slug: badische-zeitung-ist-unsicher
 :status: published

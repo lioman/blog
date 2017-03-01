@@ -2,7 +2,7 @@ Diaspora ist offen - zumindest fast
 ###################################
 :date: 2010-11-25 15:56
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Alpha, diaspora, einladungen, Facebook
 :slug: diaspora-ist-offen-zumindest-fast
 :status: published

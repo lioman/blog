@@ -2,7 +2,7 @@ Share - das Musical
 ###################
 :date: 2011-07-20 11:56
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Fundstück, Improvv Everywhere, Musical, Share
 :slug: share-das-musical
 :status: published

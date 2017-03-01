@@ -2,7 +2,7 @@ Musik überall
 #############
 :date: 2008-10-20 13:01
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Internet, lastfm, Musik, Web 2.0, Webapplication
 :slug: musik-ueberall
 :status: published

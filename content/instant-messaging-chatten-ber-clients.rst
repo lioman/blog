@@ -2,7 +2,7 @@ Instant messaging - Chatten über Clients
 ########################################
 :date: 2008-08-20 13:06
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Chat, Datenschutz, Internet, Jabber, Kommunikation, XMPP
 :slug: instant-messaging-chatten-ber-clients
 :status: published

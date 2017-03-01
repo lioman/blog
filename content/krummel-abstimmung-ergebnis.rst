@@ -2,7 +2,7 @@ Krümmel-Abstimmung: Ergebnis
 ############################
 :date: 2009-07-13 21:01
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Atom, Krümmel, Twi, twitter, twtpoll, Umfrage
 :slug: krummel-abstimmung-ergebnis
 :status: published

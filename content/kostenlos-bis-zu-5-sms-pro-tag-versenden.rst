@@ -2,7 +2,7 @@ Kostenlos bis zu 5 SMS pro Tag versenden
 ########################################
 :date: 2011-10-27 14:04
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: FreeSMS, Kostenlos, SMS, tipp
 :slug: kostenlos-bis-zu-5-sms-pro-tag-versenden
 :status: published

@@ -2,7 +2,7 @@ Deutscher Linux-Kanal
 #####################
 :date: 2009-10-15 13:03
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Internet, Linux, RSS, twingly
 :slug: deutscher-linux-kanal
 :status: published

@@ -2,7 +2,7 @@ Bösen Bots den Kampf ansagen!
 #############################
 :date: 2009-04-28 13:24
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Bot, Crawler, robots.txt, Spam, Spider
 :slug: boesen-bots-kampf-ansagen
 :status: published

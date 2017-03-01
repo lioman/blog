@@ -2,7 +2,7 @@ Update ist da - Endlich
 #######################
 :date: 2009-06-11 09:13
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: 2.8, Blog, update, Wordpress
 :slug: update-ist-da-endlich
 :status: published

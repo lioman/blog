@@ -2,7 +2,7 @@ Neuerung bei Flattr: ein Abo
 ############################
 :date: 2010-11-25 17:07
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Abo, Abonnement, Flattr, Micropayment, Subscribe
 :slug: neuerung-bei-flattr-ein-abo
 :status: published

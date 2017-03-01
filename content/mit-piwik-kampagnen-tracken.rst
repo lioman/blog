@@ -2,7 +2,7 @@ Mit Piwik Kampagnen tracken
 ###########################
 :date: 2011-02-11 18:00
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Kampagne, Piwik, Statitik
 :slug: mit-piwik-kampagnen-tracken
 :status: published

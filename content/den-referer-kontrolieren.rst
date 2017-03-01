@@ -2,7 +2,7 @@ Den Referrer kontrollieren
 ##########################
 :date: 2010-12-06 15:10
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Add-on, Addon, Erweiterung, firefox, Privatsphäre, Referrer, Sicherheit
 :slug: den-referer-kontrolieren
 :status: published

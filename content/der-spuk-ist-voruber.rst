@@ -2,7 +2,7 @@ Der Spuk ist vorüber
 ####################
 :date: 2009-06-09 16:11
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: akismet, Blog, Frage, Mai, Spam
 :slug: der-spuk-ist-voruber
 :status: published

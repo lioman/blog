@@ -2,7 +2,7 @@ Links von GoogleReader an Wordpress-Blog schicken
 #################################################
 :date: 2011-12-13 14:10
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Google Reader, Links, Linksammlung, senden an, Wordpress
 :slug: links-von-googlereader-an-wordpress-blog-schicken
 :status: published

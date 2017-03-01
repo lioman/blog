@@ -2,7 +2,7 @@ Google+ ist offen - Einladung dennoch nötig
 ###########################################
 :date: 2011-07-11 10:24
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Einladung, Google, Netzwerk, Social Network
 :slug: google-ist-offen-einladung-dennoch-noetig
 :status: published

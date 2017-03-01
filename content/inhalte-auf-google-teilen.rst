@@ -2,7 +2,7 @@ Inhalte auf Google+ teilen
 ##########################
 :date: 2012-04-02 16:41
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Google, Share, statisch, Teilen, Wordpress
 :slug: inhalte-auf-google-teilen
 :status: published

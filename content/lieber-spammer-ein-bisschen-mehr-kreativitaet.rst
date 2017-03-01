@@ -2,7 +2,7 @@ Lieber Spammer - ein bisschen mehr Kreativität
 ##############################################
 :date: 2009-11-03 13:24
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: akismet, Bots, Puscheligkeit, Spam
 :slug: lieber-spammer-ein-bisschen-mehr-kreativitaet
 :status: published

@@ -2,7 +2,7 @@ Wer bin ich
 ###########
 :date: 2009-07-13 08:49
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Internet, Linktipp, raten, Spaß, Spiel
 :slug: wer-bin-ich
 :status: published

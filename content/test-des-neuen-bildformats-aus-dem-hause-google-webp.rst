@@ -2,7 +2,7 @@ Test des neuen Bildformats aus dem Hause Google: WebP
 #####################################################
 :date: 2010-10-06 22:10
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Bild, Codec, Google, JPEG, Komprimierung, PNG, VP8, WebM, WebP
 :slug: test-des-neuen-bildformats-aus-dem-hause-google-webp
 :status: published

@@ -2,7 +2,7 @@ Wordpress 3.0 ist da!
 #####################
 :date: 2010-06-18 12:17
 :author: Lioman
-:category: Internet
+:category: Digital
 :slug: wordpress-3-0-ist-da
 :status: published
 

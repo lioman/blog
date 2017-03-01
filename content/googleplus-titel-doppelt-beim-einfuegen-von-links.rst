@@ -2,7 +2,7 @@ GooglePlus: Titel doppelt beim einfügen von Links
 #################################################
 :date: 2011-11-15 17:08
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Facebook, Gplus, OG, Opengraph
 :slug: googleplus-titel-doppelt-beim-einfuegen-von-links
 :status: published

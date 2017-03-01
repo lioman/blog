@@ -2,7 +2,7 @@ Wordpress-Plugins kompromitiert
 ###############################
 :date: 2011-06-23 17:48
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Backdoor, Schadsoftware, Sicherheit, Wordpress
 :slug: wordpress-plugins-kompromitiert
 :status: published

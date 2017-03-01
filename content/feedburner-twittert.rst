@@ -2,7 +2,7 @@ Feedburner Twittert
 ###################
 :date: 2009-12-15 09:27
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Feed, Feedburner, goo.gl, Google, Test, twitter, URL-Shortener
 :slug: feedburner-twittert
 :status: published

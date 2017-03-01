@@ -2,7 +2,7 @@
 ##############################################
 :date: 2014-06-03 11:09
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Drache, Esteregg, Fundstück, Google Maps
 :slug: easteregg-und-dann-auf-den-drachen-umsteigen
 :status: published

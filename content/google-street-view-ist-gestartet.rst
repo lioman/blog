@@ -2,7 +2,7 @@ Google Street View ist gestartet
 ################################
 :date: 2010-11-02 10:43
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Google, StreetView
 :slug: google-street-view-ist-gestartet
 :status: published

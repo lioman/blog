@@ -2,7 +2,7 @@ Das ist ein Telefon
 ###################
 :date: 2010-02-10 17:20
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: iphone, Video
 :slug: das-ist-ein-telefon
 :status: published

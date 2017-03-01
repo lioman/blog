@@ -2,7 +2,7 @@ Lobende Spammer
 ###############
 :date: 2009-11-26 18:59
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Google-Übersetzer, heroic work, Lustig, Spam
 :slug: lobende-spammer
 :status: published

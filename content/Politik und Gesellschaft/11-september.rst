@@ -2,7 +2,6 @@
 #############
 :date: 2011-09-11 17:04
 :author: Lioman
-:category: Allgemein
 :tags: 11.September, 9/11, wwf
 :slug: 11-september
 :status: published

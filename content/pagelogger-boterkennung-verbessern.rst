@@ -2,7 +2,7 @@ pageLogger Boterkennung verbessern
 ##################################
 :date: 2009-11-24 14:04
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Bots, Crawler, Download, PageLogger, Regex, robots, Statistik
 :slug: pagelogger-boterkennung-verbessern
 :status: published

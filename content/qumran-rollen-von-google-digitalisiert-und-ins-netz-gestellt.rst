@@ -2,7 +2,7 @@ Qumran-Rollen von Google digitalisiert und ins Netz gestellt
 ############################################################
 :date: 2011-09-28 19:07
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Bibel, Digitalisiert, Google, Qumran, Rollen
 :slug: qumran-rollen-von-google-digitalisiert-und-ins-netz-gestellt
 :status: published

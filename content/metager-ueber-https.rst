@@ -2,7 +2,7 @@ Metager über https
 ##################
 :date: 2011-02-04 11:11
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: firefox, metager, Plugin, Suche, Suchmaschine
 :slug: metager-ueber-https
 :status: published

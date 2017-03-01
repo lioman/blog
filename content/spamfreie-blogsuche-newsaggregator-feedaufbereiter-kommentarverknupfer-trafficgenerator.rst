@@ -2,7 +2,7 @@ Spamfreie Blogsuche + Newsaggregator + Feedaufbereiter + Kommentarverknüpfer + 
 ###############################################################################################
 :date: 2009-10-04 15:31
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blogsuche, Feed, Internet, SEO, Startup, traffic, twingly
 :slug: spamfreie-blogsuche-newsaggregator-feedaufbereiter-kommentarverknupfer-trafficgenerator
 :status: published

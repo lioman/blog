@@ -2,7 +2,7 @@ Achtung: Ihr Paypal-Konto braucht Hilfe
 #######################################
 :date: 2012-04-12 15:20
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Mail, Passwort, Paypal, Pishing, Sicherheit
 :slug: achtung-ihr-paypal-konto-braucht-hilfe
 :status: published

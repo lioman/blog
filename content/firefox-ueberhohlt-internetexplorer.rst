@@ -2,7 +2,7 @@ Firefox überhohlt Internetexplorer
 ##################################
 :date: 2009-12-03 19:54
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Browser, firefox, internet explorer, Microsoft, Mozilla, Studie, umfragen
 :slug: firefox-ueberhohlt-internetexplorer
 :status: published

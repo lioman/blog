@@ -2,7 +2,7 @@ do a barrell roll
 #################
 :date: 2011-11-05 12:40
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Easter Egg, Google
 :slug: do-a-barrell-roll
 :status: published

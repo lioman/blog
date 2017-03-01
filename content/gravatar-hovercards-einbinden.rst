@@ -2,7 +2,7 @@ Gravatar Hovercards einbinden
 #############################
 :date: 2010-10-12 13:26
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Gravatar, Hover, Javascript, Kommentare, script
 :slug: gravatar-hovercards-einbinden
 :status: published

@@ -2,7 +2,7 @@ Wordpress Login absichern
 #########################
 :date: 2011-06-18 18:38
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Login, Plugin, Sicherheit, Wordpress
 :slug: wordpress-login-absichern
 :status: published

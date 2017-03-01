@@ -2,7 +2,7 @@ Grafik: Bundesländer Autocompleted
 ##################################
 :date: 2010-12-08 13:39
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Bild, Bundesländer, Deutschland, Google autocomplet, Grafik, Karte
 :slug: grafik-bundeslaender-autocompleted
 :status: published

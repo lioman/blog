@@ -2,7 +2,7 @@ Facebook aber sicher(er)!
 #########################
 :date: 2010-05-19 13:18
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: AGB, Datenschutz, Facebook, privacy control, Tool, Video
 :slug: facebook-aber-sicherer
 :status: published

@@ -2,7 +2,7 @@ Flattr-Ergebnisse
 #################
 :date: 2010-06-07 14:29
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, bloggen, Fazit, Flattr, Micropayment, Monetarisierung, moneybookers, verbesserungen
 :slug: flattr-ergebnisse
 :status: published

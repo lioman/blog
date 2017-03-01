@@ -2,7 +2,7 @@ Superspam
 #########
 :date: 2012-12-06 12:18
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: AntispamBee, Kommentar, Spam
 :slug: superspam
 :status: published

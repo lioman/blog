@@ -2,7 +2,6 @@ Neue Szenen vom Ironman-set
 ###########################
 :date: 2009-10-19 18:23
 :author: Lioman
-:category: Gesellschaft
 :tags: Comicverfilmung, Ironman, Marvel, Video
 :slug: neue-szenen-vom-ironman-set
 :status: published

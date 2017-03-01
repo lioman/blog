@@ -2,7 +2,7 @@ Commentarist ist zurück
 #######################
 :date: 2011-09-12 17:55
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Internet, Kommentare, Medien, Meinung, Relaunch
 :slug: commentarist-ist-zurueck
 :status: published

@@ -2,7 +2,7 @@ OpenID-Ersatz
 #############
 :date: 2009-10-01 14:32
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, Facebook, OpenID, Plugin, twitter
 :slug: openid-ersatz
 :status: published

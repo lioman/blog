@@ -2,7 +2,7 @@ Neue Schriftart im Blog
 #######################
 :date: 2011-06-08 15:11
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, CSS, Fonts, Linux, Style, Ubuntu, Webfont, Wordpress
 :slug: neue-schriftart-im-blog
 :status: published

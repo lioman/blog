@@ -2,7 +2,7 @@ Spieltipp: LotGD
 ################
 :date: 2009-07-24 19:23
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Browsergame, Browserspiele, LoTGD, OGame, Spiel, Spieltipp, Tipps, Travian
 :slug: spieltipp-lotgd
 :status: published

@@ -2,7 +2,7 @@ Mein Blog in Google Currents
 ############################
 :date: 2012-06-14 14:29
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: android, Blog, Google Currents, iOS, mobil, UbuntuusersPlanet
 :slug: mein-blog-google-currents
 :status: published

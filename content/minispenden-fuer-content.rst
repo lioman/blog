@@ -2,7 +2,7 @@ Minispenden für Content
 #######################
 :date: 2010-02-11 19:58
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Bezahlen, Flattr, Geld, Micropaiment, PaidContent
 :slug: minispenden-fuer-content
 :status: published

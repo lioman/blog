@@ -2,7 +2,7 @@ Plugin-Problem OpenID
 #####################
 :date: 2009-08-05 13:13
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Fail, OpenID, Plugin, Trackback, Wordpress
 :slug: plugin-problem-openid
 :status: published

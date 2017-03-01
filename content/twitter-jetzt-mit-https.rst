@@ -2,7 +2,7 @@ Twitter jetzt mit https
 #######################
 :date: 2011-03-16 10:35
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: https, Sicherheit, twitter, Verschlüsselung
 :slug: twitter-jetzt-mit-https
 :status: published

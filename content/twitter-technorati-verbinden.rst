@@ -2,7 +2,7 @@ Twitter mit Technorati verbinden
 ################################
 :date: 2009-06-25 18:29
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Blog, claim, Inter, Internet, Technorati, twitter, verbinden
 :slug: twitter-technorati-verbinden
 :status: published

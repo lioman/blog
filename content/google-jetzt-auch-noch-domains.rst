@@ -2,7 +2,7 @@ Google - Jetzt auch noch Domains
 ################################
 :date: 2014-06-24 18:53
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Domains, Google, ICANN, Internet, tld
 :slug: google-jetzt-auch-noch-domains
 :status: published

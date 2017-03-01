@@ -2,7 +2,7 @@ Google +1 blocken
 #################
 :date: 2011-06-05 15:27
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: +1, AdBlockPlus, Button, Datenschutz, Filter, Google, Privacy, Share
 :slug: google-1-blocken
 :status: published

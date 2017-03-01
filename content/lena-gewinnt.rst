@@ -2,7 +2,7 @@ Lena gewinnt
 ############
 :date: 2010-05-18 16:17
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: Eurovision Song Contest, Google, Lena, Vorhersage
 :slug: lena-gewinnt
 :status: published

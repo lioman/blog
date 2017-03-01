@@ -2,7 +2,7 @@ WP 2.8 Neuer Termin
 ###################
 :date: 2009-06-04 14:15
 :author: Lioman
-:category: Internet
+:category: Digital
 :tags: 2.8, Blog, Roadmap, update, Wordpress
 :slug: wp-28-neuer-termin
 :status: published
