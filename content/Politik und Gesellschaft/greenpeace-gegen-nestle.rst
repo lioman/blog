@@ -2,18 +2,16 @@ Greenpeace gegen Nestlé
 #######################
 :date: 2010-03-22 16:04
 :author: Lioman
-:category: Gesellschaft
 :tags: Greenpeace, kitkat, Nestlé, Orang-Utan, Regenwald, Umweltschutz, Video
 :slug: greenpeace-gegen-nestle
 :status: published
 
-***Schon auf vielen Kanälen, Plattformen und Blogs ist der
+**Schon auf vielen Kanälen, Plattformen und Blogs ist der
 Greenpeace-Spot gegen Palmölbenutzung bei Kitkat (Nestlé) aufgetaucht
-und auch ich möchte ihn mit ein paar Nebenbemerkungen hier posten.***
+und auch ich möchte ihn mit ein paar Nebenbemerkungen hier posten.**
 
-|image0|
-
-| 
+.. youtube:: IzF3UGOlVDc
+   :class: youtube-16x9
 
 Zudem möchte ich noch auf ein paar  andere Seiten verweisen:
 
@@ -28,14 +26,19 @@ Artikel, die man auf jeden Fall dazu lesen sollte. Möchte man sich
 weiter zur Problematik um Palmöl informieren gibt es bei jeder größeren
 Umweltschutzorganisation ausreichend Material.
 
-.. raw:: html
-
-   </p>
-
 Wichtig ist es die Herkunft von Palmöl generell zu hinterfragen. Nestlé
 verarbeitet laut eigener Aussage nur einen geringen Teil der Weltweiten
 Produktion (und widerspricht sich mit den genauen Zahlen
-selbst).\ |image1| Es stimmt, das nicht nur in Kitkat Palmöl verarbeitet
+selbst).
+
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Orang2.jpg/512px-Orang2.jpg
+   :alt: Orang-Utan-Baby im Münchner Zoo
+   :width: 512
+   :target: https://commons.wikimedia.org/wiki/File%3AOrang2.jpg
+
+   `GFDL`_, `CC-BY-SA-3.0`_ or `CC BY-SA 2.5`_, by Oliver Spalt (Own work), from Wikimedia Commons
+
+Es stimmt, das nicht nur in Kitkat Palmöl verarbeitet
 wird (was die Sache nicht besser macht). Besonderst Kosmetika und
 Waschmittel sind erst einmal verdächtig. Besonders Letztere stellen ein
 spezielles Problem dar, denn für den Konsumenten ist überhaupt nicht
@@ -46,16 +49,10 @@ wurde.
 
 Will man sich sicher sein, kann man auf entsprechende Ökosiegel bauen
 und/ oder sich
-diese\ `Weiße-Liste-Palmöl <http://www.borneoorangutanhilfe.de/weisse-liste-palmoel.html>`__
+diese `Weiße-Liste-Palmöl <http://www.borneoorangutanhilfe.de/weisse-liste-palmoel.html>`__
 zu Gemüte führen.
 
-.. |image0| image:: http://i.ytimg.com/vi/IzF3UGOlVDc/hqdefault.jpg
-   :class: alignnone
-   :width: 487px
-   :height: 304px
-   :target: http://www.youtube.com/watch?v=IzF3UGOlVDc
-.. |image1| image:: http://static.flickr.com/3573/3563490011_509f0e507f.jpg
-   :class: alignright
-   :width: 304px
-   :height: 228px
-   :target: http://www.flickr.com/photos/karamell/3563490011/
+
+.. _GFDL: http://www.gnu.org/copyleft/fdl.html
+.. _CC-BY-SA-3.0: http://creativecommons.org/licenses/by-sa/3.0/
+.. _CC BY-SA 2.5: http://creativecommons.org/licenses/by-sa/2.5

@@ -2,7 +2,6 @@ Buch auf Reisen
 ###############
 :date: 2009-01-10 19:37
 :author: Lioman
-:category: Gesellschaft
 :tags: Bookcrossing, Bücher, International, Internet, Lesen, Literatur, Tauschen
 :slug: buch-auf-reisen
 :status: published

@@ -2,7 +2,6 @@ Höhrtipp: SWR2 Wissen: Wie sich Städte entschleunigen lassen
 ############################################################
 :date: 2013-06-02 09:13
 :author: Lioman
-:category: Allgemein
 :tags: Auto, Fahrrad, Fußgänger, Höhrtipp, Stadt, Verkehr
 :slug: hoehrtipp-swr2-wissen-wie-sich-staedte-entschleunigen-lassen-swr2-programm-sendungen-a-z-wissen-swr-de
 :status: published

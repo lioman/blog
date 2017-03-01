@@ -2,7 +2,6 @@ Koch versalzt Sozialstaat
 #########################
 :date: 2010-01-17 12:41
 :author: Lioman
-:category: Gesellschaft
 :tags: arbeitslosenhilfe, hartz iv, hessen, interview, koch, sozialstaat, wirtschaftswoche
 :slug: koch-versalzt-sozialstaat
 :status: published

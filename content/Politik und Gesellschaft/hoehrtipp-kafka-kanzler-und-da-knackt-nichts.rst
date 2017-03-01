@@ -2,20 +2,18 @@ Höhrtipp: Kafka, Kanzler und da knackt nichts
 #############################################
 :date: 2010-01-14 14:14
 :author: Lioman
-:category: Gesellschaft
 :tags: Audio, BKA, DLF, Feature, Geheimdienst, tipp
 :slug: hoehrtipp-kafka-kanzler-und-da-knackt-nichts
 :status: published
 
-***Eine Feature, dass am 12.1.2010 im Deutschlandfunk gesendet wurde
+**Eine Feature, dass am 12.1.2010 im Deutschlandfunk gesendet wurde
 erzählt die Geschichte eines jungen Mannes, der durch Zufall mitbekommt,
-dass er wegen Terrorverdachts abgehört wird.***
+dass er wegen Terrorverdachts abgehört wird.**
 
 Holger Siemann erzählt die Geschichte des zu Unrecht Verfolgten. Das
 ganze gibt es zum nachhöhren als MP3.
 
-[audio:
-http://ondemand-mp3.dradio.de/file/dradio/2010/01/12/dlf\_20100112\_1915\_35733235.mp3]
+**Update:** Nur noch erhältlich als `Transskript <http://www.deutschlandfunk.de/kafka-kanzler-und-da-knackt-nichts-pdf-dokument.media.4781c4bc9b08bb22c02ae5eb6765addf.pdf>`__.
 
 Den im Feature erwähnten Panorama-Bericht gibt es
 `hier <http://daserste.ndr.de/panorama/archiv/2007/erste4308.html>`__.

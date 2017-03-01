@@ -2,7 +2,6 @@ Mehrheit der Schweizer ist für Diskriminierung
 ##############################################
 :date: 2009-11-29 19:09
 :author: Lioman
-:category: Gesellschaft
 :tags: Abstimmung, Demokratie, Diskriminierung, Initiative, Minarett, Poltik, Rechts, Schweiz
 :slug: mehrheit-der-schweizer-ist-fuer-diskriminierung
 :status: published
