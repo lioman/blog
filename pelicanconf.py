@@ -22,19 +22,19 @@ EXTRA_PATH_METADATA = {
 THEME = 'themes/pelican-bootstrap3'
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
 BOOTSTRAP_THEME = 'readable'
 BOOTSTRAP_FLUID = False
 PYGMENTS_STYLE = 'solarizedlight'
-
-
 DIRECT_TEMPLATES = ('index', 'categories', 'search')
 
 DISPLAY_PAGES_ON_MENU = True
-DISPLAY_SEARCH_FORM = False
-DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_CATEGORIES_ON_SUBMENU = False
-DISPLAY_CATEGORIES_ON_SIDEBAR = True
+# DISPLAY_SEARCH_FORM = False
+DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+DISPLAY_CATEGORIES_ON_SIDEBAR = False
 DISPLAY_TAGS_ON_SIDEBAR = True
+DISPLAY_TAGS_INLINE = True
 
 SHARIFF = True
 SHARIFF_TWITTER_VIA = 'lioman'
@@ -59,7 +59,13 @@ PLUGINS = [
     'i18n_subsites',
     'pelican_youtube',
     'tipue_search',
+    'tag_cloud',
 ]
+
+# Tags
+TAG_CLOUD_SORTING = 'random'
+TAG_CLOUD_STEPS = 5
+TAG_CLOUD_MAX_ITEMS = 40
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
