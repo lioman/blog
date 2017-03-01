@@ -2,7 +2,6 @@ Ein Klecks Farbe
 ################
 :date: 2010-12-17 18:26
 :author: Lioman
-:category: Allgemein
 :tags: Bild, Blume, farbe, Winter, Zinie
 :slug: ein-klecks-farbe
 :status: published
@@ -14,12 +13,12 @@ Straßen doch eher grau und matschig.
 Nach den letzten Winterbildern muss hier mal wieder ein Klecks Farbe ins
 Blog und auf die Bildschirme.
 
-|Zinnia violacea|
+|ZinniaViolacea|
 
 Wen es interessiert: das ist eine
 `Zinie <https://secure.wikimedia.org/wikipedia/de/wiki/Zinnie>`__
 
-.. |Zinnia violacea| image:: {filename}/images/zinie.jpg
+.. |ZinniaViolacea| image:: {filename}/images/zinie.jpg
    :class: aligncenter size-full wp-image-2650
    :width: 900px
    :height: 675px

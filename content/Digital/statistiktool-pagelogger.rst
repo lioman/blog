@@ -2,8 +2,8 @@ Statistiktool: PageLogger
 #########################
 :date: 2009-11-15 13:40
 :author: Lioman
-:category: Internet, Open Source
-:tags: Google Analytics, GPL, PageLogger, Piwik, Statistik, web analytics software
+:category: Digital
+:tags: Open Source, Google Analytics, GPL, PageLogger, Piwik, Statistik, web analytics software
 :slug: statistiktool-pagelogger
 :status: published
 

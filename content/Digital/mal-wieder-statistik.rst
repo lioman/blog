@@ -2,8 +2,8 @@ Mal wieder Statistik
 ####################
 :date: 2009-11-04 12:53
 :author: Lioman
-:category: Internet, Open Source
-:tags: CyStats, GA, Google, Google Analytics, Piwik, Statistik, tracking software, Wordpress
+:category: Digital
+:tags: Open Source, CyStats, GA, Google, Google Analytics, Piwik, Statistik, tracking software, Wordpress
 :slug: mal-wieder-statistik
 :status: published
 

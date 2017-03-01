@@ -7,9 +7,9 @@ IPad
 :slug: ipad
 :status: published
 
-***Das Netz ist voll davon, überall auf jedem Blog, auf jeder
+*Das Netz ist voll davon, überall auf jedem Blog, auf jeder
 Nachrichten-, Computer- oder Technikseite wird das neue IPad besprochen,
-gezeigt und gelobt oder verurteilt.***
+gezeigt und gelobt oder verurteilt.*
 
 Irgendwie nervt das, ich musste mich in meinem RSS-Reader durch die
 tausend Artikel wühlen, sie löschen und verwerfen. Mich stört der Hype

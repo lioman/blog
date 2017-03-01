@@ -2,8 +2,8 @@ Umziehen von Last.fm auf Libre.fm
 #################################
 :date: 2010-09-22 16:59
 :author: Lioman
-:category: Internet, Open Source
-:tags: daten, Datenschutz, lastfm, Libre.fm, Linux, migrieren, Musik, Scrobbeln, Umziehen
+:category: Digital
+:tags: Open Source, daten, Datenschutz, lastfm, Libre.fm, Linux, migrieren, Musik, Scrobbeln, Umziehen
 :slug: umziehen-von-last-fm-auf-libre-fm
 :status: published
 

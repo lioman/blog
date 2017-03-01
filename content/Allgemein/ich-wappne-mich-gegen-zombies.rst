@@ -7,8 +7,6 @@ Ich wappne mich gegen Zombies
 :slug: ich-wappne-mich-gegen-zombies
 :status: published
 
-| 
-
 |image0|\ Eine Vorhangstange, eine Tasse Tee, und ein halbes Grissini.
 Spätestens das Grissini wird den Zombies den Rest geben...
 

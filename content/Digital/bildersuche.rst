@@ -2,7 +2,7 @@ Bildersuche
 ###########
 :date: 2011-09-25 15:01
 :author: Lioman
-:category: Allgemein
+:category: Digital
 :tags: bildersuche, Feature, Google, Wo ist das
 :slug: bildersuche
 :status: published

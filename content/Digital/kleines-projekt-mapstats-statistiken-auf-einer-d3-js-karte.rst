@@ -2,8 +2,8 @@ Kleines Projekt: Mapstats - Statistiken auf einer D3.js Karte
 #############################################################
 :date: 2015-07-20 12:34
 :author: Lioman
-:category: Internet, Open Source
-:tags: D3.js, daten, Karte, Mapstats, Statistik, Visualisierung
+:category: Digital
+:tags: Open Source, D3.js, daten, Karte, Mapstats, Statistik, Visualisierung
 :slug: kleines-projekt-mapstats-statistiken-auf-einer-d3-js-karte
 :status: published
 

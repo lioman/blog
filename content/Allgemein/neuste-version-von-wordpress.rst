@@ -2,7 +2,6 @@ Neuste Version von Wordpress
 ############################
 :date: 2008-11-06 16:44
 :author: Lioman
-:category: Allgemein
 :tags: Beta, Blog, Wordpress
 :slug: neuste-version-von-wordpress
 :status: published

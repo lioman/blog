@@ -2,8 +2,8 @@ Piwik 1.9 - Statistiken grafisch aufbereitet
 ############################################
 :date: 2012-10-23 09:48
 :author: Lioman
-:category: Internet, Open Source
-:tags: Blog, Piwik, Statistik, Transitions, update
+:category: Digital
+:tags: Open Source, Blog, Piwik, Statistik, Transitions, update
 :slug: piwik-1-9-statistiken-grafisch-aufbereitet
 :status: published
 

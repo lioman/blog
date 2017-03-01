@@ -2,8 +2,8 @@ Openlike in Wordpress einbinden
 ###############################
 :date: 2010-04-27 13:30
 :author: Lioman
-:category: Internet, Open Source
-:tags: Button, Facebook, like, openlike, script, Widget
+:category: Digital
+:tags: Open Source, Button, Facebook, like, openlike, script, Widget
 :slug: openlike-in-wordpress-einbinden
 :status: published
 

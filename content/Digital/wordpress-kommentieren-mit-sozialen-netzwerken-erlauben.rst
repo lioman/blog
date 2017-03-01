@@ -2,8 +2,8 @@ Wordpress: Kommentieren mit sozialen Netzwerken erlauben
 ########################################################
 :date: 2013-02-04 13:26
 :author: Lioman
-:category: Internet, Open Source
-:tags: Login, OAuth, Persona, Plugin, Wordpress
+:category: Digital
+:tags: Open Source, Login, OAuth, Persona, Plugin, Wordpress
 :slug: wordpress-kommentieren-mit-sozialen-netzwerken-erlauben
 :status: published
 

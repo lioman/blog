@@ -2,8 +2,8 @@ HabitRPG - Oder wie man die Aufgabenliste interessanter macht
 #############################################################
 :date: 2015-01-31 18:18
 :author: Lioman
-:category: Internet, Open Source
-:tags: Arbeitsweise, Gamification, HabitRPG, Open Source, Spiel, Todo
+:category: Digital
+:tags: Open Source, Arbeitsweise, Gamification, HabitRPG, Open Source, Spiel, Todo
 :slug: habitrpg-oder-wie-man-die-aufgabenliste-interessanter-macht
 :status: published
 
