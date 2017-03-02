@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'Lioman'
 SITENAME = 'Liomans Blog'
 SITEURL = ''
+LOCALE = 'de_De'
+TIMEZONE = "Europe/Berlin"
 
 PATH = 'content'
 
