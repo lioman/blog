@@ -10,7 +10,7 @@ Liomans Blog unter neuer Adresse
 Nach einem Jahr bloggen habe ich beschlossen dieses kleine Experiment
 weiterzuführen. Es ist ein echtes Hobby geworden. Man kann so viel in
 und um ein Blog tun. Bisher war die URL
-(www.blog.familie-kirchgaessner.de)ziemlich lang und hatte nichts mit
+(www.blog.familie-kirchgaessner.de) ziemlich lang und hatte nichts mit
 dem Titel: Liomans Blog zu tun. Um es allen ein bisschen einfacher zu
 machen und um im URL-Registrierungs-Wettrennen das Nachsehen zu haben,
 ließ ich die Domain **http://www.lioman.de** auf mich einschreiben

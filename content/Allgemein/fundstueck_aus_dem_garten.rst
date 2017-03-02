@@ -7,8 +7,8 @@ Ein Fundstück aus dem Garten
 :slug: fundstueck_aus_dem_garten
 :status: published
 
-***Hier habe ich mal wieder etwas aus der Kategorie kuriose
-Fundstücke.***
+**Hier habe ich mal wieder etwas aus der Kategorie kuriose
+Fundstücke.**
 
 Wir sind gerade dabei unseren Garten anzulegen und ein Beet zu richten.
 Man glaubt gar nicht, was man aus so einem Stück Land rausholen kann. So

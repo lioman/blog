@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Lioman'
 SITENAME = 'Liomans Blog'
+SITESUBTITLE = '42 ist die Antwort – aber wie lautet die Frage?'
 SITEURL = ''
 LOCALE = 'de_De'
 TIMEZONE = "Europe/Berlin"

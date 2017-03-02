@@ -7,9 +7,9 @@ Bill pumpt
 :slug: bill-pumpt
 :status: published
 
-***Es gibt in Wissenschaft und Technik immer wieder ziemlich
+**Es gibt in Wissenschaft und Technik immer wieder ziemlich
 größenwahnsinnige und gesponnene Ideen. Manche davon werden sogar als
-Patent angemeldet.***
+Patent angemeldet.**
 
 Heute bin ich über was lustiges :D gestolpert: eine
 `Nachricht <http://www.sueddeutsche.de/wissen/434/482885/text/>`__ bei

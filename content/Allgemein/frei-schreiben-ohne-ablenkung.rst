@@ -2,7 +2,7 @@ Frei schreiben - ohne Ablenkung
 ###############################
 :date: 2011-04-15 15:17
 :author: Lioman
-:category: Wissenschaft &amp; Technik
+:category: Allgemein
 :tags: Blog, Plugin, Ruhe, TinyMCE, Wordpress
 :slug: frei-schreiben-ohne-ablenkung
 :status: published

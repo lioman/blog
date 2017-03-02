@@ -2,7 +2,7 @@ StarWars That I Used To Know
 ############################
 :date: 2012-06-29 12:36
 :author: Lioman
-:category: Allgemein
+:category: Kunst und Kultur
 :tags: Parodie, StarWars, Video
 :slug: starwars-that-i-used-to-know
 :status: published
@@ -19,7 +19,8 @@ mit Animationsprogrammen gibt" -* halte ich für einen großen Schmarrn.
 Auf jeden Fall gibt es eine nette Song-Parodie (‘*Somebody That I Used
 To Know*\ ” von Gotye) zu diesem Thema .
 
-http://www.youtube.com/watch?&v=qJlbPXZEpRE
+.. youtube:: qJlbPXZEpRE
+   :class: youtube-16x9
 
 via
 `Gilly <http://blog.gilly.ws/2012/06/27/gotye-parodie-the-star-wars-that-i-used-to-know>`__

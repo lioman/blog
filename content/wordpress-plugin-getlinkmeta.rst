@@ -3,6 +3,7 @@ Wordpress-Plugin: GetLinkMeta
 :date: 2012-01-10 10:46
 :author: Lioman
 :slug: wordpress-plugin-getlinkmeta
+:lang: en
 :status: published
 
 Update: This Plug in is not maintained any more!!

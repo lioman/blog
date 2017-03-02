@@ -6,4 +6,4 @@ pelican-youtube==0.2.0
 
 # Additional packages
 bs4
-#pillow
+pillow

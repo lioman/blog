@@ -2,7 +2,7 @@ Piano zehnhändig
 ################
 :date: 2012-07-19 11:05
 :author: Lioman
-:category: Allgemein
+:category: Kunst und Kultur
 :tags: Flügel, Musik, Piano
 :slug: piano-zehnhaendig
 :status: published
@@ -15,7 +15,8 @@ Das geht auch mit anderen Instrumenten.
 `ThePianoGuys <http://thepianoguys.com/>`__ spielen hier gemeinsam auf
 einem Flügel.
 
-http://www.youtube.com/watch?v=0VqTwnAuHws
+.. youtube:: 0VqTwnAuHws
+   :class: youtube-16x9
 
 via
 `OneCoolThingADay <http://www.onecoolthingaday.com/today/2012/7/19/5-guys-1-piano.html>`__

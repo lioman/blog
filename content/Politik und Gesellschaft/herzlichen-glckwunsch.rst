@@ -2,7 +2,7 @@ Herzlichen Glückwunsch!
 #######################
 :date: 2008-11-05 19:57
 :author: Lioman
-:category: Allgemein
+:category: Politik und Gesellschaft
 :slug: herzlichen-glckwunsch
 :status: published
 

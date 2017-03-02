@@ -2,7 +2,7 @@ Kampf im 15. Jahrhundert - nicht wie im Film
 ############################################
 :date: 2012-01-11 14:39
 :author: Lioman
-:category: Allgemein
+:category: Wissenschaft &amp; Technik
 :tags: Geschichte, Kampf, Mittelalter, Ritter, Video
 :slug: kampf-im-15-jahrhundert-nicht-wie-im-film
 :status: published
@@ -16,7 +16,8 @@ springen, hechten und sonstigem kunstvollem Unsinn. Etwas
 desillusionierend kommt da dann dieses Video daher, obwohl ich von der
 Beweglichkeit in einer solchen Rüstung ziemlich überrascht bin.
 
-http://www.youtube.com/watch?v=zvCvOC2VwDc&feature
+.. youtube:: zvCvOC2VwDc
+   :class: youtube-16x9
 
 Dazu gibt es ein `Interview <http://www.youtube.com/v/cVLIZWR8k50>`__
 auf Französisch.

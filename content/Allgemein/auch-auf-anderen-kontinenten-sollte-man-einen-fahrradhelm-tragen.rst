@@ -7,4 +7,5 @@ Auch auf anderen Kontinenten sollte man einen Fahrradhelm tragen
 :slug: auch-auf-anderen-kontinenten-sollte-man-einen-fahrradhelm-tragen
 :status: published
 
-http://youtu.be/S2oymHHyV1M
+.. youtube:: S2oymHHyV1M
+   :class: youtube-16x9

@@ -9,7 +9,7 @@ Die Sterne sagen: Geh mal zum Friseur
 
 Gestern spülte die deutsche Bahn mir eine Bild am Sonntag zu und ich war
 bass erstaunt, was ich unter Astrologie zu lesen
-bekam:\ |image0|\ |Waage mit Glatze|\ Ich muss sagen ich bin ein echter
+bekam:\ |image0|\ |WaageGlatze|\ Ich muss sagen ich bin ein echter
 Zweifler, was esoterische Sternkuckerei angeht, aber diesmal hat die
 Autorin Recht. Was sich mir da optisch bot geht ja mal modisch gar
 nicht. Die Waage zu Hause trug Glatze und das ist sowas von out. schon
@@ -34,7 +34,7 @@ versprochen hat.
    :width: 850px
    :height: 647px
    :target: http://www.lioman.de/2011/09/die-sterne-sagen-geh-mal-zum-friseur/waagenhaarschnitthoroskop/
-.. |Waage mit Glatze| image:: {filename}/images/waage_glatze-300x225.jpg
+.. |WaageGlatze| image:: {filename}/images/waage_glatze-300x225.jpg
    :class: alignright size-medium wp-image-3705
    :width: 300px
    :height: 225px
