@@ -69,3 +69,5 @@ coverage.xml
 venv/
 ENV/
 env/
+/srv.pid
+/pelican.pid
