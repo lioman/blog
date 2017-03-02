@@ -168,12 +168,5 @@ Frage von Asus, w\ **ürdet** **ihr es gerne behalten?**, kann ich nur
 mit **Ja** antworten.
 
 .. |AsusZenFone2| image:: {filename}/images/AsusZenFone2.jpg
-   :class: alignleft size-full wp-image-5879
-   :width: 500px
-   :height: 500px
-   :target: {filename}/images/AsusZenFone2.jpg
+
 .. |image| image:: {filename}/images/wpid-wp-1447776661746.png
-   :class: alignright
-   :width: 400px
-   :height: 711px
-   :target: {filename}/images/wpid-wp-1447776661746.png

@@ -59,15 +59,11 @@ PLUGIN_PATHS = [
 ]
 
 PLUGINS = [
-    'better_figures_and_images',
     'i18n_subsites',
     'pelican_youtube',
     'tipue_search',
     'tag_cloud',
 ]
-
-# Setting for the better_figures_and_images plugin
-RESPONSIVE_IMAGES = True
 
 # Tags
 TAG_CLOUD_SORTING = 'random'

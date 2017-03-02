@@ -3,8 +3,3 @@ typogrify==2.0.7
 
 # Plugins
 pelican-youtube==0.2.0
-
-# Additional packages
-bs4
-pillow
-pysvg
