@@ -7,16 +7,17 @@ Vi/Vim auf einen Schlag verbessern
 :slug: vivim-auf-einen-schlag-verbessern
 :status: published
 
-[caption id="attachment\_5601" align="alignright"
-width="256"]\ |„Icon-Vim“ von User:ZyMOS, for the Open Icon Library -
-Open Icon Library. Lizenziert unter Public domain über Wikimedia
-Commons.|
-„\ `Icon-Vim <https://commons.wikimedia.org/wiki/File:Icon-Vim.svg#mediaviewer/File:Icon-Vim.svg>`__\ “
-von `User:ZyMOS <//commons.wikimedia.org/wiki/User:ZyMOS>`__, for the
-`Open Icon Library <http://openiconlibrary.sourceforge.net/>`__ - `Open
-Icon Library <http://openiconlibrary.sourceforge.net/>`__. Lizenziert
-unter Public domain über `Wikimedia
-Commons <//commons.wikimedia.org/wiki/>`__.[/caption]
+.. figure:: {filename}/images/Icon-Vim.png
+   :alt: vim icon
+   :align: right
+   :target: {filename}/images/Icon-Vim.png
+
+   `Icon-Vim <https://commons.wikimedia.org/wiki/File:Icon-Vim.svg#mediaviewer/File:Icon-Vim.svg>`__ \ 
+   von `User:ZyMOS <//commons.wikimedia.org/wiki/User:ZyMOS>`__,\ for the 
+   `Open Icon Library <http://openiconlibrary.sourceforge.net/>`__ - 
+   `Open Icon Library <http://openiconlibrary.sourceforge.net/>`__. 
+   Lizenziert unter Public domain über 
+   `Wikimedia Commons <//commons.wikimedia.org/wiki/>`__.
 
 Es gibt derzeit alle halbe Jahr irgendeinen neuen Texteditor, der
 irgendwas besonders toll oder schön machen soll.
@@ -44,8 +45,12 @@ aktivieren. Ist Vim einmal mit  sudo apt-get install vim installiert,
 kann man  das Programm perfekt auf die eigenen Bedürfnisse anpassen und
 der Editor bleibt trotzdem sehr schlank und performant.
 
-[caption id="attachment\_5599" align="alignleft" width="300"]\ |mit ",z"
-kommt man in den Zenmode| mit ",z" kommt man in den Zenmode[/caption]
+.. figure:: {filename}/images/vim_zenmode-300x159.png
+   :alt: mit ,z kommt man in den Zenmode
+   :align: left
+   :target: {filename}/images/vim_zenmode.png
+
+   mit ",z" kommt man in den Zenmode
 
 Möchte man mit der Konfiguration nicht bei null beginnen, gibt es mit 
 *The Ultimate Vimrc* schon mal ein gutes Anfangsset. Das Projekt wird
@@ -53,7 +58,7 @@ von `amix <https://github.com/amix>`__ auf
 `github <https://github.com/amix/vimrc>`__ gehostet und ist mit nur zwei
 Befehlen ganz einfach installiert.
 
-.. code:: bash
+.. code-block:: bash
 
     git clone git://github.com/amix/vimrc.git ~/.vim_runtime
     # Volles Paket:
@@ -69,13 +74,3 @@ angeht wird ein bisschen etwas geändert. Der *<leader>* wird von "\\"
 auf ","  gestellt, was gerade auf der deutschen Tastatur viel einfacher
 ( und damit schneller ) handzuhaben ist.
 
-.. |„Icon-Vim“ von User:ZyMOS, for the Open Icon Library - Open Icon Library. Lizenziert unter Public domain über Wikimedia Commons.| image:: {filename}/images/Icon-Vim.png
-   :class: wp-image-5601 size-full
-   :width: 256px
-   :height: 256px
-   :target: {filename}/images/Icon-Vim.png
-.. |mit ",z" kommt man in den Zenmode| image:: {filename}/images/vim_zenmode-300x159.png
-   :class: wp-image-5599 size-medium
-   :width: 300px
-   :height: 159px
-   :target: {filename}/images/vim_zenmode.png

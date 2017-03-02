@@ -299,9 +299,11 @@ Topa <http://tomasz.topa.pl/>`__ bearbeitet, da *Word Stats* nicht mehr
 so richtig will. Näheres dazu gibt es aber
 `hier <http://www.lioman.de/plugins-scripte/2012-summary/>`__.
 
-[caption id="attachment\_5259" align="alignright"
-width="494"]\ |Blogbesucher 2012 nach Ländern| Blogbesucher 2012 nach
-Ländern[/caption]
+.. figure:: {filename}/images/stats2012_laender.png
+   :alt: Blogbesucher 2012 nach Ländern
+   :align: left
+
+   Blogbesucher 2012 nach Ländern
 
 Und nun weiter im Text, denn wie letztes Jahr möchte ich noch ein paar
 Zahlen aus Piwik präsentieren.Keine große Überraschung ist die
@@ -310,9 +312,11 @@ meisten Besucher eben aus dem deutschsprachigen Raum. Unter *"Andere"*
 verbergen sich übrigens wirklich aller Herren Länder. Soweit so
 uninteressant. Kommen wir zu etwas Anderen.
 
-[caption id="attachment\_5258" align="alignleft" width="309"]\ |Mit
-welchen Browsern mein Blog 2012 besucht wurde.| Mit welchen Browsern
-mein Blog 2012 besucht wurde.[/caption]
+.. figure:: {filename}/images/stats2012_browser-e1357638742260.png
+   :align: left
+   :alt: Browserbesuche
+
+   Mit welchen Browsern mein Blog 2012 besucht wurde.
 
 Bei der Verteilung der Browser hat sich ein bisschen was getan. Firefox
 büßt gegenüber der WebKit-Fraktion ein paar Prozentpunkte ein. Knapp 10%
@@ -323,8 +327,11 @@ hier. Immer mehr nutzen jetzt Tablets und Smartphones um im Internet zu
 surfen. So haben 2011 noch 3% dieses Blog mit tastaturlosen Geräten
 besucht nun sind es **10%** .
 
-[caption id="attachment\_5263" align="alignright" width="285"]\ |Mobil
-vs. Desktop 2012| Mobil vs. Desktop 2012[/caption]
+.. figure:: {filename}/images/stats2012_mobil_vs_desktop.png
+   :align: right
+   :alt: Mobil vs Desktop
+
+   Mobil vs. Desktop 2012
 
 Diese Entwicklung wird meiner Einschätzung nach auch noch weiter gehen,
 da es immer mehr vergleichsweise gute Tablets zu erschwinglichen Preisen
@@ -332,8 +339,11 @@ gibt. Gerade Lowcost-Androiden eignen sich perfekt als kleine
 Surfmaschinen, da dafür weder extrem gute Prozessoren/viel
 Arbeitsspeicher usw. benötigt werden.
 
-[caption id="attachment\_5260" align="alignleft" width="281"]\ |Besucher
-nach OS| Besucher nach OS[/caption]
+.. figure:: {filename}/images/stats2012_os-e1357640059635.png
+   :align: left
+   :alt: Besucher nach OS
+
+   Besucher nach OS
 
 Kommen wir zu den Betriebssystemen. 30 % nutzen hier Linux, also 7%
 weniger als 2011. Das fand ich erst einmal schade, denn das freie OS
@@ -368,25 +378,3 @@ hoffe, dass ihr hier wieder interessantes findet und vielleicht den ein
 oder anderen Kommentar absetzt oder Link teilt. Dann kommen auch viele
 neue Leser hinzu.
 
- 
-
-.. |Blogbesucher 2012 nach Ländern| image:: {filename}/images/stats2012_laender.png
-   :class: size-full wp-image-5259
-   :width: 494px
-   :height: 250px
-   :target: {filename}/images/stats2012_laender.png
-.. |Mit welchen Browsern mein Blog 2012 besucht wurde.| image:: {filename}/images/stats2012_browser-e1357638742260.png
-   :class: size-full wp-image-5258
-   :width: 309px
-   :height: 218px
-   :target: {filename}/images/stats2012_browser-e1357638742260.png
-.. |Mobil vs. Desktop 2012| image:: {filename}/images/stats2012_mobil_vs_desktop.png
-   :class: size-full wp-image-5263
-   :width: 285px
-   :height: 182px
-   :target: {filename}/images/stats2012_mobil_vs_desktop.png
-.. |Besucher nach OS| image:: {filename}/images/stats2012_os-e1357640059635.png
-   :class: size-full wp-image-5260
-   :width: 281px
-   :height: 211px
-   :target: {filename}/images/stats2012_os.png

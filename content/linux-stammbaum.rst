@@ -26,15 +26,15 @@ Murdock <http://ianmurdock.com/linux/linux-family-tree-version-0-90/>`__,
 die einen großen Teil der vielen Distributionen in einem Stammbaum
 zeigt. Da diese unter Creative Commons steht, zeige ich sie auch hier:
 
-[caption id="" align="aligncenter" width="240" caption="Stammbaum
-verschiedener Linuxdistributionen"]\ |Stammbaum verschiedener
-Linuxdistributionen|\ [/caption]
+.. figure:: http://farm3.static.flickr.com/2444/3950212995_b1c0fb9b9f_m_d.jpg
+   :alt: Stammbaum Linuxdistributionen
+   :width: 240px
+   :height: 129px
+   :target: http://farm3.static.flickr.com/2444/3950212995_dbcdac9f18_o_d.png
+
+   Stammbaum verschiedener Linuxdistributionen
 
 Entdeckt via `F!XMBR <http://www.fixmbr.de/der-linux-stammbaum/>`__
-
-.. raw:: html
-
-   </p>
 
 Etwas bunter und klarer ist die Version von `Nicholas J.
 Radcliffe <http://maczero.blogspot.com/2009/09/linux-family-tree.html>`__:
@@ -50,10 +50,6 @@ Ubuntu. Es ist einigermaßen intuitiv, unterstützt sehr viel Hardware und
 es gibt eine wirklich starke `Comunnity <http://www.ubuntuusers.de>`__,
 die einem schnell bei allerlei Problemen hilft.
 
-.. |Stammbaum verschiedener Linuxdistributionen| image:: http://farm3.static.flickr.com/2444/3950212995_b1c0fb9b9f_m_d.jpg
-   :width: 240px
-   :height: 129px
-   :target: http://farm3.static.flickr.com/2444/3950212995_dbcdac9f18_o_d.png
 .. |linstammbaum| image:: {filename}/images/linstammbaum-150x150.png
    :class: aligncenter size-thumbnail wp-image-1163
    :width: 150px

@@ -21,11 +21,15 @@ können. Es gibt gerade für große Planungen sicher auch alle möglichen
 Bei meiner Recherche bin ich auf zwei interessante Möglichkeiten, die
 hier kurz vorstellen möchte.
 
-[caption id="attachment\_5500" align="alignright" width="205"]\ |Das
-Logo von LibrePlan| Das Bild von
-`Regocasasnovas <https://commons.wikimedia.org/w/index.php?title=User:Regocasasnovas&action=edit&redlink=1>`__
-steht unter
-`CC-BY-SA <https://creativecommons.org/licenses/by-sa/3.0/deed.en>`__\ [/caption]
+.. figure:: {filename}/images/libreplan_logo.png
+   :align: right
+   :class: size-full wp-image-5500
+   :width: 205px
+   :height: 60px
+   :target: https://en.wikipedia.org/wiki/File:LibrePlan_Logo.png
+
+   Das Bild von `Regocasasnovas <https://commons.wikimedia.org/w/index.php?title=User:Regocasasnovas&action=edit&redlink=1>`__
+   steht unter `CC-BY-SA <https://creativecommons.org/licenses/by-sa/3.0/deed.en>`__
 
 LibrePlan
 ---------
@@ -52,9 +56,14 @@ und erste Tests waren wirklich vielversprechend. Man kann gut
 Abhängigkeiten von Phasen, etc abbilden, Milestones setzen und recht
 einfach per
 
-[caption id="attachment\_5514" align="alignleft"
-width="300"]\ |Gantt-Chart in LibrePlan| Gantt-Chart in
-LibrePlan[/caption]
+.. figure:: {filename}/images/zeitplanung-300x195.png
+   :align: left
+   :alt: Gantt-Chart
+   :width: 300px
+   :height: 195px
+   :target: {filename}/images/zeitplanung.png
+
+   Gantt-Chart in LibrePlan
 
 Drag&Drop umplanen. Generell merkt man, dass LibrePlan durchdacht ist
 und gerade für große Infrastrukurprojekte entworfen ist. So kann man
@@ -82,7 +91,6 @@ müssen. LibrePlan braucht allerdings ein paar Ressourcen, da ein
 Applikationsserver benötigt wird. So kann man die Projektsoftware nicht
 so einfach auf einem shared Hoster installieren.
 
- 
 
 |Logo OpenProject|\ OpenProject
 -------------------------------
@@ -142,16 +150,6 @@ Shared Hoster geeignet. Wären die Abzüge in der B-Note nicht, wäre es
 eine perfekte Software. Aber schon jetzt ist OpenProject für kleinere
 und mittlere Unternehmungen geeignet.
 
-.. |Das Logo von LibrePlan| image:: {filename}/images/libreplan_logo.png
-   :class: size-full wp-image-5500
-   :width: 205px
-   :height: 60px
-   :target: https://en.wikipedia.org/wiki/File:LibrePlan_Logo.png
-.. |Gantt-Chart in LibrePlan| image:: {filename}/images/zeitplanung-300x195.png
-   :class: wp-image-5514 size-medium
-   :width: 300px
-   :height: 195px
-   :target: {filename}/images/zeitplanung.png
 .. |Logo OpenProject| image:: {filename}/images/logo_openproject_foundation.png
    :class: alignright size-full wp-image-5518
    :width: 314px

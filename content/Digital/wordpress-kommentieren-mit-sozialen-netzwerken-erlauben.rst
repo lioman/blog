@@ -15,9 +15,12 @@ anderen Seiten und Diensten in eingebaut, kann man sich recht einfach
 mit dem großen Netzwerk anmelden oder registrieren. Das ist praktisch
 und senkt die Hürde sich anzumelden ungemein.
 
-[caption id="attachment\_5332" align="alignright"
-width="300"]\ |Wordpress.com Kommentarformular| Wordpress.com
-Kommentarformular[/caption]
+.. figure:: {filename}/images/wordpress_com-commentform-300x144.png
+   :align: right
+   :alt: Wordpress.com Kommentarformular
+   :target: {filename}/images/wordpress_com-commentform.png
+
+   Wordpress.com Kommentarformular
 
 Dies kann man sich in Blogs zu Nutze machen und potentiellen
 Kommentatoren das Kommentieren erleichtern.
@@ -44,9 +47,12 @@ das Dashboard. Nun muss man noch die Daten der unterschiedlichen
 Netzwerke eingeben. Auf der Einstellungsseite des Plugins ist eigentlich
 alles hinreichend für jedes einzelne Netzwerk erklärt.
 
-[caption id="attachment\_5333" align="alignright"
-width="300"]\ |Einstellungen des "Wordpress Social Login" Plugins|
-Einstellungen des *"Wordpress Social Login"* Plugins[/caption]
+.. figure:: {filename}/images/wps_facebook-einstellungen-300x195.png
+   :alt: Einstellungen des Wordpress Social Login Plugins
+   :align: right
+   :target: {filename}/images/wps_facebook-einstellungen.png
+
+   Einstellungen des *"Wordpress Social Login"* Plugins
 
 Der Ablauf ist allerdings immer gleich und geht in drei Schritten:
 
@@ -64,9 +70,14 @@ PHP-Konfiguration die Variable *REGISTER\_GLOBALS* auf *"Off"* stellen
 kommt es zu anderen Problemen hilft der Diagnosemodus des Plugins unter
 "Help & Support" weiter.
 
-[caption id="attachment\_5336" align="alignleft"
-width="300"]\ |Kommentarfeld mit Social Logins| Kommentarfeld mit Social
-Logins[/caption]
+.. figure:: {filename}/images/wordpress_social_logins_kommentarfeld-300x254.png
+   :alt: Kommentarfeld
+   :align: left
+   :width: 300px
+   :height: 254px
+   :target: {filename}/images/wordpress_social_logins_kommentarfeld.png
+
+   Kommentarfeld mit Social Logins
 
 Leider bietet die Bibliothek im Hintergrund noch keine Unterstützung für
 das, von Mozilla entwickelte, `Persona <https://login.persona.org/>`__
@@ -77,18 +88,3 @@ sich oberhalb des Kommentarfeldes Persona jedoch unterhalb. Möchte man
 dies verbessern sind Änderungen am Theme notwendig und ich hoffe einfach
 darauf, dass Persona bald in Hybridauth eingebaut wird.
 
-.. |Wordpress.com Kommentarformular| image:: {filename}/images/wordpress_com-commentform-300x144.png
-   :class: size-medium wp-image-5332
-   :width: 300px
-   :height: 144px
-   :target: {filename}/images/wordpress_com-commentform.png
-.. |Einstellungen des "Wordpress Social Login" Plugins| image:: {filename}/images/wps_facebook-einstellungen-300x195.png
-   :class: size-medium wp-image-5333
-   :width: 300px
-   :height: 195px
-   :target: {filename}/images/wps_facebook-einstellungen.png
-.. |Kommentarfeld mit Social Logins| image:: {filename}/images/wordpress_social_logins_kommentarfeld-300x254.png
-   :class: size-medium wp-image-5336
-   :width: 300px
-   :height: 254px
-   :target: {filename}/images/wordpress_social_logins_kommentarfeld.png

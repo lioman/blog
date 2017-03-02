@@ -23,8 +23,14 @@ offiziell nicht für Linux. Die Lösungen mit
 `Pipelight <http://pipelight.net/cms/>`__ hatten bei mir nie
 zufriedenstellende Ergebnisse gebracht.
 
-[caption id="attachment\_5637" align="aligncenter" width="620"]\ |Amazon
-Videoplayer-Einstellungen| Amazon Videoplayer-Einstellungen[/caption]
+.. figure:: {filename}/images/amazon_video_einstellungen-1024x207.png
+   :alt: Amazon-Einstellungen
+   :class: size-large wp-image-5637
+   :width: 620px
+   :height: 125px
+   :target: {filename}/images/amazon_video_einstellungen.png
+
+   Amazon Videoplayer-Einstellungen
 
 Nun hat Amazon einen Schritt in die (falsche) richtige Richtung
 vollzogen. Nun kann man in den eigenen Einstellungen einen Flashplayer
@@ -42,9 +48,3 @@ aber vielleicht kommt das noch
 `zurück. <http://www.raspitux.de/amazon-prime-instant-video-wieder-mit-flash-unterstuetzung/>`__
 Dafür funktioniert sie nicht mehr unter Linux. Im Firefox soll die
 Version zu alt sein und in Chrome läd der Player aber kein Videostream.
-
-.. |Amazon Videoplayer-Einstellungen| image:: {filename}/images/amazon_video_einstellungen-1024x207.png
-   :class: size-large wp-image-5637
-   :width: 620px
-   :height: 125px
-   :target: {filename}/images/amazon_video_einstellungen.png

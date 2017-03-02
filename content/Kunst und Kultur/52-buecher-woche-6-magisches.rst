@@ -6,9 +6,14 @@
 :slug: 52-buecher-woche-6-magisches
 :status: published
 
-[caption id="attachment\_5494" align="alignright"
-width="219"]\ |Buchdeckel Nils Holgersson| Buchdeckel Nils
-Holgersson[/caption]
+.. figure:: {filename}/images/nilsholgersson-219x300.jpg
+   :alt: Buchdeckel Nils Holgersson
+   :align: right
+   :width: 219px
+   :height: 300px
+   :target: {filename}/images/nilsholgersson.jpg
+
+   Buchdeckel Nils Holgersson
 
 **Magisches** ist das Thema der `6.
 Woche  <https://monstermeute.wordpress.com/2011/12/09/52-bucher-woche-6/>`__,
@@ -32,7 +37,7 @@ sogar vorgelesen  - aus einer wunderschönen Ausgabe von vor 1936)
 
 Es ist das bekannteste Werk der Schwedin: `Die wunderbare Reise des
 kleinen Nils Holgersson mit den
-Wildgänsen <http://www.amazon.de/gp/product/3485001732/ref=as_li_ss_tl?ie=UTF8&tag=liomblog-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3485001732>`__.
+Wildgänsen <https://de.wikipedia.org/wiki/Die_wunderbare_Reise_des_kleinen_Nils_Holgersson_mit_den_Wildg%C3%A4nsen>`__.
 
 Und in diesem Buch passiert wahrlich Magisches. Ein böser Junge wird in
 einen Däumling verwandelt und begibt sich mit dem Hofgänserich und einer
@@ -52,9 +57,3 @@ auch mal ein bisschen anstrengend aber das ist eine wundersame Reise und
 kein Cluburlaub. Du wirst belohnt,  du bist erfüllt von all den
 Begebenheiten der Reise und des Landes, du wirst mehr erzählen können
 als:  *Das Essen war gut und die Zimmer waren sauber!*
-
-.. |Buchdeckel Nils Holgersson| image:: {filename}/images/nilsholgersson-219x300.jpg
-   :class: size-medium wp-image-5494
-   :width: 219px
-   :height: 300px
-   :target: {filename}/images/nilsholgersson.jpg

@@ -15,9 +15,13 @@ So auch diese Frage:
 
 Papa, warum heißt das Albtraum und nicht nur schlechter Traum?
 
-[caption id="" align="alignnone" width="1200"]\ |image0| Der Albtraum,
-Künstler unbekannt, um die Jahrhundertwende 18/19. Quelle
-`Wikimedia <https://commons.wikimedia.org/wiki/Category:Nightmares_in_art?uselang=de#/media/File:Der_Albtraum_(Anonym_19_Jh).jpg>`__\ [/caption]
+.. figure:: https://upload.wikimedia.org/wikipedia/commons/b/b4/Der_Albtraum_%28Anonym_19_Jh%29.jpg
+   :width: 1200px
+   :height: 909px
+   :target: https://commons.wikimedia.org/wiki/Category:Nightmares_in_art?uselang=de#/media/File:Der_Albtraum_(Anonym_19_Jh).jpg
+            
+   Der Albtraum, Künstler unbekannt, um die Jahrhundertwende 18/19. Quelle 
+   `Wikimedia <https://commons.wikimedia.org/wiki/Category:Nightmares_in_art?uselang=de#/media/File:Der_Albtraum_(Anonym_19_Jh).jpg>`__
 
 Ich erinnerte mich dunkel an Darstellungen von Monsterchen, die auf
 halbnackten Damen auf denen komische Mönsterchen sitzen. Aber so richtig
@@ -29,7 +33,3 @@ zu tun als auf der Brust schlafender herumzusitzen und ein unangenehmes
 Druckgefühl auszulösen. Wieder was gelernt und damit ich es in Zukunft
 nicht vergesse steht es jetzt hier.
 
-.. |image0| image:: https://upload.wikimedia.org/wikipedia/commons/b/b4/Der_Albtraum_%28Anonym_19_Jh%29.jpg
-   :width: 1200px
-   :height: 909px
-   :target: https://commons.wikimedia.org/wiki/Category:Nightmares_in_art?uselang=de#/media/File:Der_Albtraum_(Anonym_19_Jh).jpg

@@ -37,30 +37,21 @@ Currents-Suche
 
 Und hier zum Scannen noch die QR-Codes:
 
-[caption id="attachment\_4757" align="alignleft" width="100"]\ |image1|
-Google Currents im Play Store[/caption][caption id="attachment\_4758"
-align="alignleft" width="100"]\ |image2| Google Currents für
-`iOS <http://itunes.apple.com/us/app/google-currents/id459182288>`__\ [/caption][caption
-id="attachment\_4754" align="alignleft" width="100"]\ |image3| Mein Blog
-bei Google Currents[/caption]
+.. figure:: {filename}/images/currents_android.png
+   :align: left
+   :alt: QR für Android
+
+   Google Currents im Play Store
+
+.. figure:: {filename}/images/currents_ios.png
+   :align: left
+   :alt: QR für iOs
+
+   Google Currents für `iOS <http://itunes.apple.com/us/app/google-currents/id459182288>`__
+
+.. figure:: {filename}/images/currents_blog.png
+   :align: left
+
+   Mein Blog bei Google Currents
 
 .. |image0| image:: {filename}/images/googlecurrents.png
-   :class: alignright size-full wp-image-4760
-   :width: 478px
-   :height: 87px
-   :target: {filename}/images/googlecurrents.png
-.. |image1| image:: {filename}/images/currents_android.png
-   :class: size-full wp-image-4757
-   :width: 100px
-   :height: 100px
-   :target: {filename}/images/currents_android.png
-.. |image2| image:: {filename}/images/currents_ios.png
-   :class: size-full wp-image-4758
-   :width: 100px
-   :height: 100px
-   :target: {filename}/images/currents_ios.png
-.. |image3| image:: {filename}/images/currents_blog.png
-   :class: size-full wp-image-4754
-   :width: 100px
-   :height: 100px
-   :target: {filename}/images/currents_blog.png

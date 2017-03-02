@@ -10,9 +10,15 @@ Fleksy - schneller unter Android tippen
 Tastaturen unter Android
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-[caption id="attachment\_5719" align="alignright" width="176"]\ |Fleksy
-mit Zahlenreihe| Die Tastatur Fleksy im Markdowneditor mit
-Zahlenreihe[/caption]
+.. figure:: {filename}/images/wpid-wp-1424349595807-176x300.png
+   :alt: Fleksy mit Zahlenreihe
+   :align: left
+   :class: wp-image-5719 size-medium
+   :width: 176px
+   :height: 300px
+   :target: {filename}/images/wpid-wp-1424349595807.png
+
+   Die Tastatur Fleksy im Markdowneditor mit Zahlenreihe
 
 Android hat den Vorteil, dass m n auch zentrale Elemente wie die
 Systemtastatur austauschen kann. Das hat schon früh entsprechende
@@ -45,7 +51,16 @@ Worten wie *hskko* wird das erwünschte Hallo. Außerdem muss man für das
 Umschalten zwischen den Vorschlägen nicht den Schreibbereich verlassen,
 sondern erreicht das erwünschte Ergebnis durch wischen und Gesten.
 
-|wpid-wp-1424349527553.png|\ Möchte man noch Sonderfunktionen oder
+.. figure:: {filename}/images/wpid-wp-1424349527553-176x300.png
+   :alt: Fleksy
+   :align: left
+   :class: alignleft size-medium wp-image-5720
+   :width: 176px
+   :height: 300px
+   :target: {filename}/images/wpid-wp-1424349527553.png
+
+
+Möchte man noch Sonderfunktionen oder
 spezielle optische Gimmicks, kann man die Erweiterungen aktivieren.
 Unter Ihnen gibt es optischen Schnickschnack, wie herzförmige Pop-ups.
 Praktischer ist da die permanente Zahlenleiste und die Shortcuts (man
@@ -55,8 +70,15 @@ unsichtbaren Tastatur bekommt man sogar Badges.
 Training ist alles
 ~~~~~~~~~~~~~~~~~~
 
-[caption id="attachment\_5721" align="alignright" width="176"]\ |Fleksy
-Statistiken und Badges| Allerlei Badges und Statistiken[/caption]
+.. figure:: {filename}/images/wpid-wp-1424349371333-176x300.png
+   :alt: Fleksy Badges
+   :align: right
+   :class: wp-image-5721 size-medium
+   :width: 176px
+   :height: 300px
+   :target: {filename}/images/wpid-wp-1424349371333.png
+            
+   Allerlei Badges und Statistiken
 
 Gameification soll wohl den Umstieg auf diese Art von Eingabe
 erleichtern und versüßen. Denn das Hauptproblem ist die Gewöhnung. Es
@@ -68,18 +90,3 @@ schnell tippen wie mit meiner gut trainierten, eingangs erwähnten
 Referenz. Ab und zu unterbreche ich zwar noch mitten im Wort und muss
 dann löschen, aber das geht genauso schnell mit einem Wisch.
 
-.. |Fleksy mit Zahlenreihe| image:: {filename}/images/wpid-wp-1424349595807-176x300.png
-   :class: wp-image-5719 size-medium
-   :width: 176px
-   :height: 300px
-   :target: {filename}/images/wpid-wp-1424349595807.png
-.. |wpid-wp-1424349527553.png| image:: {filename}/images/wpid-wp-1424349527553-176x300.png
-   :class: alignleft size-medium wp-image-5720
-   :width: 176px
-   :height: 300px
-   :target: {filename}/images/wpid-wp-1424349527553.png
-.. |Fleksy Statistiken und Badges| image:: {filename}/images/wpid-wp-1424349371333-176x300.png
-   :class: wp-image-5721 size-medium
-   :width: 176px
-   :height: 300px
-   :target: {filename}/images/wpid-wp-1424349371333.png

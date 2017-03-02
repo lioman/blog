@@ -7,9 +7,13 @@ Verteidige Dein Netz! - Google-Kampagne gegen das Leistungsschutzrecht
 :slug: verteidige-dein-netz-google-kampagne-gegen-das-leistungsschutzrecht
 :status: published
 
-[caption id="attachment\_5200" align="alignright" width="207"]\ |image0|
-Verteidige Dein Netz! Google Kampagne gegen das
-Leistungsschutzrecht[/caption]
+.. figure:: {filename}/images/deinnetz_logo.png
+   :align: right
+   :width: 207px
+   :height: 97px
+   :target: {filename}/images/deinnetz_logo.png
+
+   Verteidige Dein Netz! Google Kampagne gegen das Leistungsschutzrecht
 
 Google hat eine Kampagne gegen das
 `Leistungsschutzrecht <http://de.wikipedia.org/wiki/Leistungsschutzrecht_f%C3%BCr_Presseverleger>`__
@@ -29,10 +33,5 @@ Die Argumente gegen das LSR sind auf der Kampagnenseite noch einmal kurz
 zusammengefasst. Möchte man genauere Informationen, sollte man bei
 `IGEL <http://leistungsschutzrecht.info/>`__ vorbei schauen.
 
-http://www.youtube.com/watch?v=OvhrC2eWIxw
-
-.. |image0| image:: {filename}/images/deinnetz_logo.png
-   :class: size-full wp-image-5200
-   :width: 207px
-   :height: 97px
-   :target: {filename}/images/deinnetz_logo.png
+.. youtube:: OvhrC2eWIxw
+   :class: youtube-16x9

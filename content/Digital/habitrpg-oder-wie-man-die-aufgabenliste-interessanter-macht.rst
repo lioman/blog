@@ -7,7 +7,9 @@ HabitRPG - Oder wie man die Aufgabenliste interessanter macht
 :slug: habitrpg-oder-wie-man-die-aufgabenliste-interessanter-macht
 :status: published
 
-|habitrpg_pixel|\ Vor ein paar Wochen bin ich auf
+|habitrpg_pixel|
+
+Vor ein paar Wochen bin ich auf
 `HabitRPG <https://habitrpg.com>`__ gestoßen. Die Webanwendung hat vor
 einiger Zeit durch eine erfolgreiche Finanzierung bei
 `Kickstarter <https://www.kickstarter.com/projects/lefnire/habitrpg-mobile?ref=nav_search>`__
@@ -31,7 +33,12 @@ Silber/Gold und Erfahrung, je nach eingestellter Schwierigkeit
 unterschiedlich viel. Für Gold kauft man dann Ausrüstungsgegenstände für
 seinen
 
-[caption id="attachment\_5715" align="alignleft" width="140"]\ |Mein_Avatar| Mein Avatar in Partyrobe[/caption]
+.. figure:: {filename}/images/Habit_Avatar.png
+   :align: left
+   :alt: Mein Avatar
+   :target: {filename}/images/Habit_Avatar.png
+
+   Mein Avatar in Partyrobe
 
 Avatar oder gönnt sich selbst Belohnungen (Sofern man das Spiel so
 spielen möchte). Auch sonst gibt es alle möglichen Dinge, die das
@@ -61,18 +68,5 @@ deutlich schlankere Anwendung `HabitRPG
 Client. <https://play.google.com/store/apps/details?id=com.magicmicky.habitrpgmobileapp>`__
 
 .. |habitrpg_pixel| image:: {filename}/images/habitrpg_pixel.png
-   :class: alignleft size-full wp-image-5713
-   :width: 440px
-   :height: 160px
-   :target: {filename}/images/habitrpg_pixel.png
 .. |Gewohnheitenliste_auf_HabitRPG| image:: {filename}/images/habit_gewohnheiten.png
-   :class: size-full wp-image-5712
-   :width: 360px
-   :height: 366px
-   :target: {filename}/images/habit_gewohnheiten.png
    :alt: Gewohnheitenliste auf `HabitRPG <http://habitrpg.com>`__
-.. |Mein_Avatar| image:: {filename}/images/Habit_Avatar.png
-   :class: size-full wp-image-5715
-   :width: 140px
-   :height: 146px
-   :target: {filename}/images/Habit_Avatar.png

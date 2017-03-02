@@ -7,9 +7,11 @@ Friedensnobelpreis geht an Chinesischen Gefangenen Liu Xiaobo!
 :slug: friedensnobelpreis-geht-an-chinesischen-gefangenen-liu-xiaobo
 :status: published
 
-| [caption id="attachment\_2140" align="alignright" width="300"
-  caption="Friedensnobelpreisträger 2010"]\ |Liu_Xiaobo|
-| [/caption]
+.. figure:: {filename}/images/Liu_Xiaobo-300.jpg
+   :align: right
+   :target: {filename}/images/Liu_Xiaobo-300.jpg
+
+   Friedensnobelpreisträger 2010
 
 Das schwedische Komitee hat den diesjährigen Friedensnobelpreis an Liu
 Xiaobo vergeben.
@@ -27,12 +29,4 @@ und
 
 Und das wird auf Twitter gepfiffen:
 
-
-
 **Update:** Widget wurde entfernt, da es nicht mehr funktionierte.
-
-.. |Liu_Xiaobo| image:: {filename}/images/Liu_Xiaobo-300.jpg
-   :class: size-full wp-image-2140
-   :width: 300px
-   :height: 305px
-   :target: {filename}/images/Liu_Xiaobo-300.jpg

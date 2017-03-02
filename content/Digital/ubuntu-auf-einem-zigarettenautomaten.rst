@@ -18,10 +18,12 @@ Ubuntu auf einem Zigarettenautomaten
   auch das Handy griffbereit. Das Bild hat er mir freundlicherweise zur
   Verfügung gestellt.
 
-[caption id="attachment\_4965" align="aligncenter"
-width="675"]\ |image0| Bild eines Zigarettenautomaten mit Ubuntu
-geschossen von
-`@whatsup0815 <http://twitter.com/whatsup0815>`__\ [/caption]
+.. figure:: {filename}/images/ubuntu_zigarettenautomat.jpg
+   :alt: ubuntu auf Zigarettemautomat
+   :align: center
+
+   Bild eines Zigarettenautomaten mit Ubuntu geschossen von
+   `@whatsup0815 <http://twitter.com/whatsup0815>`__
 
 | Auf dem Zigarettenautomat sorgt Ubuntu dafür, dass die Süchtigen an
   ihre Glimmstängel kommen.
@@ -31,8 +33,4 @@ geschossen von
 **Update:** Nachdem die Wordpress-Androidanwendung das Bild geschluckt
 hat, habe ich dieses nochmal hinzugefügt
 
-.. |image0| image:: {filename}/images/ubuntu_zigarettenautomat.jpg
-   :class: size-full wp-image-4965
-   :width: 675px
-   :height: 900px
-   :target: {filename}/images/ubuntu_zigarettenautomat.jpg
+

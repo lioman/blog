@@ -43,10 +43,14 @@ TLDs ein und neben Endungen wie .\ *berlin,* dass sich die Stadt Berlin
 sicherte können auch Unternehmen mit entsprechender Größe und dem
 nötigen Kleingeld neue TLDs beantragen.
 
-[caption id="attachment\_5539" align="alignright" width="300"]\ | Goggle
-hat 101 neue Domains beantragt.| `Goggle <http://google.com>`__ hat 101
-neue Domains
-`beantragt <http://googleblog.blogspot.de/2012/05/expanding-internet-domain-space.html>`__.[/caption]
+.. figure:: {filename}/images/gtld_x2-300x208.png
+   :alt: Google domains
+   :width: 300px
+   :height: 208px
+   :target: {filename}/images/gtld_x2.png
+
+   `Goggle <http://google.com>`__ hat 101 neue Domains
+   `beantragt <http://googleblog.blogspot.de/2012/05/expanding-internet-domain-space.html>`__.
 
 Und natürlich hat Google da ordentlich
 `zugeschlagen <http://googleblog.blogspot.de/2012/05/expanding-internet-domain-space.html>`__.
@@ -62,9 +66,3 @@ Produkte, wie *".youtube"* oder *".gmail"*, sondern auch *".blog",
 | Ich bin nur gespannt, ob dem Unternehmen aus Mountainview nicht auch
   noch eine weitere Monetarisierungsmöglichkeit, durch Verschmelzung mit
   AdSense einfällt.
-
-.. | Goggle hat 101 neue Domains beantragt.| image:: {filename}/images/gtld_x2-300x208.png
-   :class: wp-image-5539 size-medium
-   :width: 300px
-   :height: 208px
-   :target: {filename}/images/gtld_x2.png

@@ -11,8 +11,11 @@ Als ich heute morgen eine kleine Googlesuche gemacht habe, sprang mir
 gleich etwas ins Auge. Die Ergebnissliste hat sich verändert. Hinter
 jedem Treffer waren 2 Buttons und drunter noch ne Sprechblase.
 
-[caption id="attachment\_523" align="aligncenter" width="536"
-caption="SearchWiki"]\ |SearchWiki|\ [/caption]
+.. figure:: {filename}/images/searchwiki.png
+   :alt: SearchWiki
+   :align: center
+
+   SearchWiki
 
 Mit dem Pfeil kann man den Treffer nach oben schieben, oder mit dem
 Kreuz entfernen. Die Sprechblase ist zum Kommentieren gedacht. Soll
@@ -42,8 +45,3 @@ auch in den Suchindex ein?  Das fragen sich auch andere Blogger wie z.B.
 
 Sucht man aber nicht immer nach den gleichen Worten so ist das Feature
 unötig.
-
-.. |SearchWiki| image:: {filename}/images/searchwiki.png
-   :class: size-full wp-image-523
-   :width: 536px
-   :height: 135px

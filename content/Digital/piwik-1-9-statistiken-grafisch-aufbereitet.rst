@@ -52,25 +52,17 @@ Mit diesen Daten kann man dann weiter arbeiten und seine Seite
 optimieren, um die Verweildauer zu erhöhen. Oder man kann es einfach
 interessant finden und sich an den schicken Grafiken erfreuen.
 
-[caption id="attachment\_5100" align="aligncenter"
-width="800"]\ |image1| Dieses Bild zeigt Transitions zum Artikel `Hallo
-OSBN.de <http://www.lioman.de/2012/10/hallo-osbn-de/>`__ an. In Piwik
-ist diese Grafik interaktiv.[/caption]
+.. figure:: {filename}/images/transitions.png
+   :align: center
+   :alt: Transitions in Piwik
+
+   Dieses Bild zeigt Transitions zum Artikel
+   `Hallo OSBN.de <http://www.lioman.de/2012/10/hallo-osbn-de/>`__ an.
+   In Piwik ist diese Grafik interaktiv.[/caption]
 
 Das Update lohnt sich also dieses Mal wirklich, denn es gibt nicht nur
 kleinere Bugfixes sondern mal ein echtes neues Feature. Allen Bloggern,
 die Piwik nutzen wollen empfehle ich übrigens das Plugin
 `WP-Piwik <http://wordpress.org/extend/plugins/wp-piwik/>`__
 
- 
-
 .. |image0| image:: {filename}/images/transitions_icon.png
-   :class: alignleft size-full wp-image-5099
-   :width: 91px
-   :height: 50px
-   :target: {filename}/images/transitions_icon.png
-.. |image1| image:: {filename}/images/transitions.png
-   :class: size-full wp-image-5100
-   :width: 800px
-   :height: 519px
-   :target: {filename}/images/transitions.png

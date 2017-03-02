@@ -7,10 +7,14 @@ Kleine Verbesserungen am Blog
 :slug: kleine-verbesserungen-am-blog
 :status: published
 
-[caption id="attachment\_3109" align="alignleft" width="240"]\ |Bild
-eines Tachos| Das Bild von
-`kusabi <https://www.flickr.com/photos/kusabi/>`__ steht unter `CC BY-SA
-2.0 <https://creativecommons.org/licenses/by-sa/2.0/>`__\ [/caption]
+.. figure:: {filename}/images/Tacho.jpg
+   :alt: Tacho
+   :width: 240px
+   :height: 240px
+   :target: {filename}/images/Tacho.jpg
+
+   Das Bild von`kusabi <https://www.flickr.com/photos/kusabi/>`__ steht unter
+   `CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/>`__
 
 Um mein Blog ein bisschen bequemer und vor allen Dingen schneller zu
 machen, habe ich ein paar Veränderungen vorgenommen.
@@ -49,7 +53,7 @@ machen, habe ich ein paar Veränderungen vorgenommen.
   *"wp\_enqueue\_script('jquery');"* durch folgenden Code ersetzt
   werden:
 
-::
+.. code-block:: php
 
     if ( !is_admin() ) { 
         wp_deregister_script( 'jquery' );
@@ -58,11 +62,3 @@ machen, habe ich ein paar Veränderungen vorgenommen.
 
 Die Prüfung is\_admin soll dabei verhindern, dass im Adminbereich die
 externe Bibliothek verwendet wird (Das kann zu Problemen führen)
-
- 
-
-.. |Bild eines Tachos| image:: {filename}/images/Tacho.jpg
-   :class: wp-image-3109 size-full
-   :width: 240px
-   :height: 240px
-   :target: {filename}/images/Tacho.jpg

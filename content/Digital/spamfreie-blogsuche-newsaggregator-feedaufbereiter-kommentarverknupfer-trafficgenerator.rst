@@ -12,8 +12,12 @@ Spamfreie Blogsuche + Newsaggregator + Feedaufbereiter + Kommentarverknüpfer + 
 ***Dank netzwertig.com habe ich eine Einladung zur geschlossenen Beta
 bekommen. Hier das Testergebnis:***
 
-[caption id="attachment\_986" align="alignleft" width="150"
-caption="twingly"]\ |twingly|\ [/caption]
+.. figure:: {filename}/images/twingly-150x110.png
+   :align: left
+   :alt: Logo: Twingly
+   :target: {filename}/images/twingly.png
+
+   twingly
 
 Ich bin schon vor einiger Zeit auf die
 `Blogsuchmaschine <http://www.twingly.com/search>`__ aufmerksam
@@ -63,11 +67,7 @@ Folgende Medien nutzen schon Twingly:
 -  `freitag.de <http://www.freitag.de/community/blogs/jkabisch/freitag-mit-soekmotor/?searchterm=twingly>`__
 -  `lr-online.de <http://www.lr-online.de/meinungen/Twingly-Blog-Suche-Twingly-Blog-Blogger-Suche-Blog-Suche;art100260,2629877?fCMS=99204b3a7ec9f97fb95477f14d3e2163>`__
 
-.. |twingly| image:: {filename}/images/twingly-150x110.png
-   :class: size-thumbnail wp-image-986
-   :width: 150px
-   :height: 110px
-   :target: {filename}/images/twingly.png
+
 .. |netzwertig_twingly_channel| image:: {filename}/images/netzwertig_twingly_channel-150x150.png
    :class: aligncenter size-thumbnail wp-image-990
    :width: 150px

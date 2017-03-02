@@ -15,46 +15,27 @@ Man glaubt gar nicht, was man aus so einem Stück Land rausholen kann. So
 manches Fundstück hat schon seinen Weg zum Recyclinghof gefunden.Dieses
 hier fand ich aber Kurios genug:
 
-[caption id="attachment\_1434" align="alignright" width="150"
-caption="Hinten"]\ |image0|\ [/caption]
+.. figure:: {filename}/images/Garantie_vorne-199x300.png
+   :alt: alte Garantiekarte vorne
+   :class: size-thumbnail wp-image-1435
+   :target: {filename}/images/Garantie_vorne.png
 
-[caption id="attachment\_1435" align="alignleft" width="150"
-caption="Vorne"]\ |image1|\ [/caption]
+   Vorne
 
-| 
+.. figure:: {filename}/images/Garantiehinten-203x300.png
+   :alt: alte Garantiekarte hinten
+   :target: {filename}/images/Garantiehinten.png
 
-| 
+   Hinten
 
-| 
-
-| 
-
-| 
-
-| 
-
-| 
-
-| 
 
 Jetzt muss ich noch fieberhaft das dazu passende Gerät suchen,
 wahrscheinlich kann ich es morgen gebrauchen, denn es kommt mal wieder
 was auf uns zu:
 
-|image2|\ *Quelle: Deutscher Wetterdienst*
+.. figure:: {filename}/images/schneefront.png
+   :alt: Satellitenbild
 
-.. |image0| image:: {filename}/images/Garantiehinten-150x150.png
-   :class: size-thumbnail wp-image-1434
-   :width: 150px
-   :height: 150px
-   :target: {filename}/images/Garantiehinten.png
-.. |image1| image:: {filename}/images/Garantie_vorne-150x150.png
-   :class: size-thumbnail wp-image-1435
-   :width: 150px
-   :height: 150px
-   :target: {filename}/images/Garantie_vorne.png
-.. |image2| image:: {filename}/images/schneefront-150x150.png
-   :class: aligncenter size-thumbnail wp-image-1439
-   :width: 150px
-   :height: 150px
-   :target: {filename}/images/schneefront.png
+   Quelle: Deutscher Wetterdienst
+
+
