@@ -6,7 +6,7 @@ AUTHOR = 'Lioman'
 SITENAME = 'Liomans Blog'
 SITESUBTITLE = '42 ist die Antwort – aber wie lautet die Frage?'
 SITEURL = ''
-LOCALE = 'de_De'
+LOCALE = 'de'
 TIMEZONE = "Europe/Berlin"
 
 PATH = 'content'
