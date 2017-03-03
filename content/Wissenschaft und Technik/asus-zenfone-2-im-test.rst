@@ -7,7 +7,9 @@ Asus ZenFone 2 im Test
 :slug: asus-zenfone-2-im-test
 :status: published
 
-|AsusZenFone2|\ Im Rahmen einer Testaktion von Asus wurde mir ein
+|AsusZenFone2|
+
+Im Rahmen einer Testaktion von Asus wurde mir ein
 Testgerät zur Verfügung gestellt. Einen Monat darf ich das Gerät testen.
 Leider sind schon dreiviertel des Testzeitraumes vergangen, denn ich
 habe mich an das schicke Gerät schon gewöhnt.  Ich fange mal gleich mit

@@ -61,6 +61,7 @@ PLUGIN_PATHS = [
 PLUGINS = [
     'i18n_subsites',
     'pelican_youtube',
+    'series',
     'tipue_search',
     'tag_cloud',
 ]
