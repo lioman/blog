@@ -26,7 +26,7 @@ funktioniert perfekt. Funktionsweise und Funktionen sind gut auf der
 `Pluginseite <http://playground.ebiene.de/1137/antispam-bee-wordpress-plugin/>`__
 erklärt.
 
-Von dort auch ein kleines Zitat, was die Stärken der Bine gegnüber
+Von dort auch ein kleines Zitat, was die Stärken der Biene gegenüber
 Akismet sind:
 
 +-------------------------------------------+--------+------+
