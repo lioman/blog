@@ -72,9 +72,11 @@ TAG_CLOUD_STEPS = 5
 TAG_CLOUD_MAX_ITEMS = 40
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),)
+LINKS = (
+        ('Pelican', 'http://getpelican.com/'),
+        ('Python.org', 'http://python.org/'),
+        ('OSBN', 'https://osbn.de'),
+         )
 
 # Social widget
 SOCIAL = (
