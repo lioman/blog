@@ -3,3 +3,8 @@ typogrify==2.0.7
 
 # Plugins
 pelican-youtube==0.2.0
+pelican-series==1.0.0
+pelican-comment-system==1.4.0
+
+# additional packages
+Pillow
