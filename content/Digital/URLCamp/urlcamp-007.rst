@@ -3,6 +3,7 @@ URLcamp #007
 :date: 2012-04-19 13:29
 :author: Lioman
 :category: Digital
+:series: URLcamp
 :tags: Datenschutz, Flaschenpfand, Flughafen, IPv6, Leak, Linktipp, Musik, Norah Jones, SPDY, URLcamp, VDS, Voratsdatenspeicherung
 :slug: urlcamp-007
 :status: published

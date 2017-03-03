@@ -6,6 +6,7 @@ Konsolentipps #001: Audio-Cd in Image auslesen
 :tags: Konsolentipps, Audio-Cd, auslesen, brennen, CD, Image, Konsolentipps, Linux, rippen
 :slug: konsolentipps-001-audio-cd-in-image-auslesen
 :status: published
+:series: Konsolentipps
 
 |image0|\ Möchte man eine komplette CD in eine Datei schreiben bietet
 sich normalerweise ein Iso-Image an. Handelt es sich jedoch um eine

@@ -3,6 +3,7 @@ URLcamp #002
 :date: 2010-02-03 16:11
 :author: Lioman
 :category: Digital
+:series: URLcamp
 :tags: Comics, Internetcomic, ipad, Kostenloser Comic, Links, Linksammlung, Linkschau, URLcamp
 :slug: urlcamp-002
 :status: published

@@ -6,6 +6,7 @@ Konsolentipps #003: GoogleNgram-Dateien runterladen
 :tags: Bücher, GoogleNgram, Konsole, Konsolentipps, Linux, Ngram, Statistik
 :slug: konsolentipps-003-googlengram-dateien-runterladen
 :status: published
+:series: Konsolentipps
 
 | Bei
   `Commandlinefu <http://www.commandlinefu.com/commands/view/7363/download-all-data-from-google-ngram-viewer>`__

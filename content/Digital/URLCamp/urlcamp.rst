@@ -7,9 +7,8 @@ URLcamp
 :slug: urlcamp
 :status: published
 
-***Was in vielen Blogs schon üblich ist, soll nun auch hier eingeführt
-werden: Eine Linkschau, eine Sammlung von URLs.
-***
+**Was in vielen Blogs schon üblich ist, soll nun auch hier eingeführt
+werden: Eine Linkschau, eine Sammlung von URLs.**
 
 Das Netz ist groß und weit und es gibt viel - sehr viel Müll und
 unnützes Zeug. All dies anzuschauen und zu lesen ist absolute

@@ -6,6 +6,7 @@ Konsolentipps #002 Alle Dateien eines Typs bearbeiten
 :tags: Konsolentipps, Linux, Schleife, terminal
 :slug: konsolentipps-002-alle-dateien-eines-typs-bearbeiten
 :status: published
+:series: Konsolentipps
 
 |image0|\ Es kommt immer mal wieder vor, dass man alle Dateien eines
 Typs in einem Ordner bearbeiten muss.

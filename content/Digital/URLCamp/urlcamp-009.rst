@@ -3,6 +3,7 @@ URLcamp #009
 :date: 2015-02-24 19:08
 :author: Lioman
 :category: Digital
+:series: URLcamp
 :tags: adware, Raumfahrt, Snowden
 :slug: urlcamp-009
 :status: published

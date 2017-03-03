@@ -3,6 +3,7 @@ URLcamp #006
 :date: 2011-10-25 12:16
 :author: Lioman
 :category: Digital
+:series: URLcamp
 :tags: Eclipse, Facebook, Linksammlung, Linktipp, RIP, URL, URLcamp
 :slug: urlcamp-006
 :status: published

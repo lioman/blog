@@ -3,6 +3,7 @@ URLcamp #010
 :date: 2015-07-19 16:01
 :author: Lioman
 :category: Digital
+:series: URLcamp
 :tags: Griechenland, Karten, Links, Politik, Python
 :slug: urlcamp-010
 :status: published

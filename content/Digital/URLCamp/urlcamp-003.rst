@@ -3,6 +3,7 @@ URLcamp #003
 :date: 2010-04-29 13:47
 :author: Lioman
 :category: Digital
+:series: URLcamp
 :tags: like, Links, twitter, URLcamp, Werbung
 :slug: urlcamp-003
 :status: published

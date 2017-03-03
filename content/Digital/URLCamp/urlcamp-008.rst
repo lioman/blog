@@ -3,6 +3,7 @@ URLcamp #008
 :date: 2014-12-02 12:01
 :author: Lioman
 :category: Digital
+:series: URLcamp
 :tags: apple, Mozilla, ssl, Supercomputer, Ubuntu
 :slug: urlcamp-008
 :status: published
