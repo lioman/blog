@@ -53,10 +53,10 @@ DEFAULT_CATEGORY = 'Allgemein'
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
-CATEGORY_URL = 'category/%s/'
-CATEGORY_SAVE_AS = 'category/%s/index.html'
-TAG_URL = 'tag/%s'
-TAG_SAVE_AS = 'tag/%s/index.html'
+CATEGORY_URL = 'category/{sluf}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+TAG_URL = 'tag/{slug}'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 PLUGIN_PATHS = [
     'plugins'
