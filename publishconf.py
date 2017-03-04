@@ -18,12 +18,12 @@ OUTPUT_PATH = 'public'
 FEED_DOMAIN = SITEURL
 
 FEED_ALL_ATOM = 'feed/atom.xml'
-CATEGORY_FEED_ATOM = '%s/feed/atom.xml'
-TAG_FEED_ATOM = '%s/feed/atom.xml'
+CATEGORY_FEED_ATOM = 'category/%s/feed/atom.xml'
+TAG_FEED_ATOM = 'tag/%s/feed/atom.xml'
 
 FEED_ALL_RSS = 'feed/rss.xml'
-CATEGORY_FEED_RSS = '%s/feed/rss.xml'
-TAG_FEED_RSS = '%s/feed/rss.xml'
+CATEGORY_FEED_RSS = 'category/%s/feed/rss.xml'
+TAG_FEED_RSS = 'tag/%s/feed/rss.xml'
 
 RSS_FEED_SUMMARY_ONLY = False
 
