@@ -8,3 +8,4 @@ pelican-comment-system==1.4.0
 
 # additional packages
 Pillow
+bs4
