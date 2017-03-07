@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=indus.uberspace.de
 SSH_PORT=22
 SSH_USER=lioman
-SSH_TARGET_DIR=/home/lioman/blog
+SSH_TARGET_DIR=/home/lioman/html
 
 S3_BUCKET=my_s3_bucket
 
