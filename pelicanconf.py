@@ -15,11 +15,13 @@ STATIC_PATHS = [
     'images',
     'static/robots.txt',
     'static/favicon.ico',
+    'static/.htaccess',
 ]
 
 EXTRA_PATH_METADATA = {
     'static/robots.txt': {'path': 'robots.txt'},
     'static/favicon.ico': {'path': 'favicon.ico'},
+    'static/.htaccess': {'path': '.htaccess'},
 }
 
 THEME = 'themes/pelican-bootstrap3'

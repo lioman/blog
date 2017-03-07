@@ -1,0 +1,9 @@
+#Domain festlegen
+RewriteCond %{HTTP_HOST} !^www\.lioman\.de$ [NC]
+RewriteRule ^(.*)$ http://www.lioman.de/$1 [R=301,L]
+
+Redirect 301 /+ https://plus.google.com/u/0/109360831420720419136/
+Order Deny,Allow
+Deny from 208.167.245.77
+Deny from 146.50.79.106
+Deny from 85.25.210.189
