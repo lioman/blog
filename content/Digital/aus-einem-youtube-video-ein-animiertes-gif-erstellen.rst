@@ -24,7 +24,8 @@ vielen
 für den Firefox oder mit dem kleinen Python-Skript
 `youtube-dl <http://rg3.github.com/youtube-dl/download.html>`__
 
-http://www.youtube.com/watch?v=HLDG5sNMX2M
+.. youtube:: HLDG5sNMX2M
+   :class: youtube-16x9
 
 Das lange Video kann man mit dem Videoschnittprogramm ( Ich habe
 `avidemux <http://avidemux.org/>`__ benutzt)seiner Wahl beschneiden,

@@ -10,7 +10,8 @@ Video: So essen Tiere
 Weil ich so lachen musste, hier nochmal nur ein Video. (Notiz an mich:
 Schreib mal wieder etwas Richtiges!)
 
-http://www.youtube.com/watch?v=qnydFmqHuVo
+.. youtube:: qnydFmqHuVo
+   :class: youtube-16x9
 
  
 

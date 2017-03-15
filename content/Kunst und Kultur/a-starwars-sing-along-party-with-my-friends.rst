@@ -15,5 +15,8 @@ A StarWars Sing-Along: Party with my friends
   Rechtsabteilung von LucasArts einfach still, weil genau solche
   Fanfiction, Filmchen, Zitate usw. dem Kult von StarWars nur förderlich
   sein können.
-| http://www.youtube.com/watch?v=eSUH8GnAJdg&webm=1
-| `via <http://www.seitvertreib.de/2012/04/25/lip-sync-musikvideo-star-wars/>`__
+
+.. youtube:: eSUH8GnAJdg
+   :class: youtube-16x9
+
+`via <http://www.seitvertreib.de/2012/04/25/lip-sync-musikvideo-star-wars/>`__

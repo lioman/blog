@@ -16,7 +16,8 @@ Umgebung agieren lässt. Der Film kann sich sehen lassen, sollte aber
 eher als ein Werbefilm für die freie Software verstanden werden, als
 eine Eingabe für die *Palme d'or* in Cannes.
 
-http://www.youtube.com/watch?v=R6MlUcmOul8
+.. youtube:: R6MlUcmOul8
+   :class: youtube-16x9
 
 Der Film ist lizenziert unter (CC) Blender Foundation
 \| \ `mango.blender.org <http://mango.blender.org/>`__

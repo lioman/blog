@@ -38,7 +38,8 @@ festhält.
   rumbasteln bis nichts mehr vor der Linse ist).
 | Aber seht selbst:
 
-http://www.youtube.com/watch?v=xlKm6EmkEEE
+.. youtube:: xlKm6EmkEEE
+   :class: youtube-16x9
 
 Jetzt nutze ich Finn eine Woche und bin immer noch äußerst zufrieden.
 

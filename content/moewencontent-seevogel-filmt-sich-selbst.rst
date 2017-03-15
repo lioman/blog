@@ -11,4 +11,6 @@ Möwencontent: Seevogel filmt sich selbst
   `opica1983 <http://www.youtube.com/user/opica1983>`__ und möchte sich
   wohl für die Festspiele im nächsten Jahr bewerben. Das Erstlingswerk
   kann man auf Youtube bestaunen:
-| http://www.youtube.com/watch?v=rIu5B3Fsstg
+
+.. youtube:: rIu5B3Fsstg
+   :class: youtube-16x9

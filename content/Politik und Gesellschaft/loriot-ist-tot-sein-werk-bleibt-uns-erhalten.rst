@@ -15,7 +15,8 @@ Jahren auf dieser Erde nicht mehr unter uns.
 
 Sein Werk mit all den komischen Momenten bleibt uns Erhalten.
 
-http://www.youtube.com/watch?v=nJhNUE2tbS8
+.. youtube:: nJhNUE2tbS8
+   :class: youtube-16x9
 
 Sketche wie "Die Nudel" gehören zu den absoluten deutschen
 Fernsehklassikern und ich kann mir wohl keine einzige Vorweihnachtszeit

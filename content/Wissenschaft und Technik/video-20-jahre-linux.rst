@@ -15,7 +15,8 @@ werden mit Linux betrieben. Die Linux Foundation hat nun ein kleines
 Video herausgebracht, um die Entstehungsgeschichte von Linux
 zusammenzufassen.
 
-http://www.youtube.com/watch?v=5ocq6\_3-nEw&webm=1
+.. youtube:: 5ocq6_3-nEw
+   :class: youtube-16x9
 
 .. |image0| image:: {filename}/images/tux2.png
    :class: alignleft size-full wp-image-3079

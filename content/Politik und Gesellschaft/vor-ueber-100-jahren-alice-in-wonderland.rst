@@ -16,9 +16,8 @@ restauriert und ins Netz gestellt.
 Das Ergebnis zeigt gute neun Minuten des 37 Jahre nach erscheinen des
 Buches veröffentliche Films:
 
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/zeIXfdogJbA" frameborder="0" allowfullscreen></iframe>
+.. youtube:: zeIXfdogJbA
+   :class: youtube-16x9
 
 via
 `YuccaTree <http://yuccatree.de/2010/03/appetizer-erste-verfilmung-von-alice-im-wunderland-aus-dem-jahr-1903-ist-online/>`__

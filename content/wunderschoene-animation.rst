@@ -10,6 +10,7 @@ Wunderschöne Animation
 Gut hiermit mache ich kostenlose Werbung für ein Teeunternehmen, aber
 die Animation ist einfach schön und wirklich gut gemacht:
 
-http://www.youtube.com/watch?feature=player\_embedded&v=LdkcsDueSMM
+.. youtube:: LdkcsDueSMM
+   :class: youtube-16x9
 
 `via <http://www.onecoolthingaday.com/today/2011/10/13/wanna-see-some-beautiful-animation-like-youve-never-seen-bef.html>`__

@@ -14,6 +14,7 @@ Der Beginn vom Ende einer Raumfahrtära konnte man live per Webstream
 bestaunen.  Für alle die es nicht mitbekommen haben gibt es hier ein
 Video (Screencast Ustream):
 
-http://www.youtube.com/watch?v=DLHDLuuvxCw
+.. youtube:: DLHDLuuvxCw
+   :class: youtube-16x9
 
 Leider ist der Ton abhandengekommen.

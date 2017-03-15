@@ -29,7 +29,8 @@ Nun wird das ganze konkreter, denn auf der
 Entwickler <http://blog.canonical.com/2012/01/09/canonical-to-showcase-ubuntu-tv-at-ces/>`__
 UbuntuTV vor und schalteten ein Video auf Youtube:
 
-http://www.youtube.com/watch?v=jq\_WaOLjdyQ&hd=1
+.. youtube:: jq_WaOLjdyQ
+   :class: youtube-16x9
 
 Geht das Konzept auf und schafft man es wirklich das System erfolgreich
 auf TV-Geräte zu portieren, dann könnten natürlich einige TV-Nutzer

@@ -25,4 +25,5 @@ oder auch
 mit ein paar netten Grafiken aufgehübscht oder auch in der
 Zusammenfassung als (werbe)Filmchen:
 
-http://www.youtube.com/watch?v=F0QXB5pw2qE&feature=player\_embedded
+.. youtube:: F0QXB5pw2qE
+   :class: youtube-16x9

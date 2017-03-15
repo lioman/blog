@@ -14,6 +14,8 @@ Faxe Energiesparlampe
   übersetzt). Obwohl ich finde, dass die Regelung durchaus seinen Sinn
   hat möchte ich dieses Video,da dessen Statement so sympathisch
   vorgetragen ist, hier teilen:
-| http://www.youtube.com/watch?v=inC\_zWsmuus
+
+.. youtube:: inC_zWsmuus
+   :class: youtube-16x9
 
 `via <http://www.fakeblog.de/2011/10/28/hip-hop-aus-osterreich-fuck-se-energiesparlampe/>`__

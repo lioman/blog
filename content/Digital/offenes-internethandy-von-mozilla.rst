@@ -16,7 +16,8 @@ soll das schöne Mobiltelephon heißen, dass mit Projektorer ausgestattet
 fast schon PC-Ersatz werden könnte. Mit projezierter Tastatur und
 "Monitor" fielen alle Kabel weg und man hätte den PC immer dabei.
 
-http://www.youtube.com/watch?v=oG3tLxEQEdg
+.. youtube:: oG3tLxEQEdg
+   :class: youtube-16x9
 
 .. |image0| image:: {filename}/images/seabird_2-300x224.jpg
    :class: alignright size-medium wp-image-2062

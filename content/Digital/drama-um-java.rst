@@ -17,4 +17,6 @@ wird da in einem wirklich lustigen Trailer verpackt.***
   ganze ist wie ein echtes Familiendrama aufgezogen und der Junge bricht
   aus der .Net Welt und entdeckt die plattformunabhängige Welt von
   Java... Doch ich möchte nicht zu viel verraten.
-| http://www.youtube.com/watch?v=gLDFQ\_IhnDc
+
+.. youtube:: gLDFQ_IhnDc
+   :class: youtube-16x9

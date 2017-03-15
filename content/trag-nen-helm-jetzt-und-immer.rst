@@ -8,7 +8,9 @@ Trag nen Helm  - Jetzt und immer
 :status: published
 
 | Ohne Helm auf dem Fahrrad ist wie Cabrio fahren ohne anschnallen!
-| http://www.youtube.com/watch?v=nu4QzAIayTU
+
+.. youtube:: nu4QzAIayTU
+   :class: youtube-16x9
 
 `James
 Cracknell <http://web.archive.org/web/20140512234516/http://www.jamescracknell.com:80/blog/2011/07/20/a_video_appeal_from_james_use_your_head_use_your_helmet-220>`__

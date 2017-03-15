@@ -40,7 +40,8 @@ Daraus wurde dann einer der Besten Chaplinfilme in dem die Rede Hynkels
 sicher das Highlight darstellt. Deswegen habe ich sie hier angefügt, wer
 den Film noch nicht kennt sollte ihn aber ganz sehen.
 
-http://www.youtube.com/watch?v=DkL6azMwJ-U
+.. youtube:: DkL6azMwJ-U
+   :class: youtube-16x9
 
 Auch deutsche Zeitgenossen zogen trotz Repressalien die Nazis durch den
 Kakao.

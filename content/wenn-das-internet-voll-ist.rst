@@ -16,7 +16,8 @@ da lieber einen Anderen" - wäre alles in Ordnung. So kann man nur
 herzlich über das Kasperltheater lachen. Und mit diesem Video das
 Internet weiter voll machen.
 
-http://www.youtube.com/watch?v=nF8WK9aSFmc
+.. youtube:: nF8WK9aSFmc
+   :class: youtube-16x9
 
  
 

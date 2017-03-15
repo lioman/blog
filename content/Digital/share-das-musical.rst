@@ -15,4 +15,5 @@ abonniert habe ging es irgendwie an mir vorbei, aber dank
 `Dirk <http://www.deimeke.net/dirk/blog/index.php?/archives/2708-Gotta-share!.html>`__ hat
 es auch so meinen Schirm erreicht.
 
-http://www.youtube.com/watch?v=soAk3F0wX9s
+.. youtube:: soAk3F0wX9s
+   :class: youtube-16x9

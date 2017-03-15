@@ -13,4 +13,5 @@ bin ich auf ein schönes Video gestoßen. Ein Videozusammenschnitt von 270
 Filmen, die 2010 in die Kinos kamen. Nach 6 Minuten weiß man was man
 alles verpasst hat und welche DVDs man nächstes Jahr erstehen kann.
 
-http://www.youtube.com/watch?v=I4dEWOB6THE&feature=player\_embedded
+.. youtube:: I4dEWOB6THE
+   :class: youtube-16x9

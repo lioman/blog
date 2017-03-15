@@ -15,6 +15,7 @@ noch folgendes Video hinzufügen.
 Der Spot ist der gleiche nur bekommt man noch ein paar Fakten zu dem
 freundlich-knuffigen gelulle des RWE-Riesen.
 
-http://www.youtube.com/watch?v=xZFGYG7acz4
+.. youtube:: xZFGYG7acz4
+   :class: youtube-16x9
 
  

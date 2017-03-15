@@ -15,7 +15,8 @@ Verkaufsgespräch wandelt sich schnell und *Daniel Cloud
 Campos*\ entlockt der Wohnung nicht nur Musik, sondern zaubert auch eine
 tolle Tanznummer in die Bude. Ansehen!
 
-http://www.youtube.com/watch?v=5ekUyxxpBt0&webm=1
+.. youtube:: 5ekUyxxpBt0
+   :class: youtube-16x9
 
 via
 `onecoolthingaday <http://www.onecoolthingaday.com/today/2011/3/30/the-music-box-a-one-man-musical-an-absolute-joy.html>`__

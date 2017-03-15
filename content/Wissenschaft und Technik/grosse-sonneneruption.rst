@@ -17,7 +17,8 @@ Um eine möglichst hohe Qualität zu gewährleisten, habe ich die Sequenz
 als Einzelbilder exportiert und später mit
 `Openshot <http://www.openshot.org/>`__ zusammengeschnitten. Voilà:
 
-http://www.youtube.com/watch?v=j2B56nDX64E
+.. youtube:: j2B56nDX64E
+   :class: youtube-16x9
 
 Faszinierend!
 

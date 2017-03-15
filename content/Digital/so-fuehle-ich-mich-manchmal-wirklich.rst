@@ -7,4 +7,5 @@ So fühle ich mich manchmal wirklich...
 :slug: so-fuehle-ich-mich-manchmal-wirklich
 :status: published
 
-http://www.youtube.com/watch?v=fa9DLxDtPtc
+.. youtube:: fa9DLxDtPtc
+   :class: youtube-16x9

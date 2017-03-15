@@ -38,7 +38,8 @@ Bilder interessant.
   Bitteschön: Hier ist auch noch das Video, dass ich mit ihr zu Hause
   gedreht haben:
 
-http://www.youtube.com/watch?v=SBNtEWYX8rQ
+.. youtube:: SBNtEWYX8rQ
+   :class: youtube-16x9
 
 Ich hatte mir kurz überlegt, auch einen Dowload über Rapidshare
 anzubieten, aber das wäre doch etwas zu viel des Guten, denn wer die

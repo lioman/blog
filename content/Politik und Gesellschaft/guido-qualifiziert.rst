@@ -23,7 +23,9 @@ und so wird es auch dieses Mal sein.
   diplomatische Geschick mitbringt. Auf der Pressekonferenz bittet ein
   BBC-Reporter eine Frage auf Englisch zu beantworten.  Doch seht
   selbst:
-| http://www.youtube.com/watch?v=laUJzGMUEI4
+
+.. youtube:: laUJzGMUEI4
+   :class: youtube-16x9
 
 Man kann sich jetzt darüber streiten, ob es von Qualität zeugt einen
 Journalisten ins europäische Ausland zu schicken, der nicht mal die
@@ -35,7 +37,10 @@ herablassend.
   Sprache vorbereitet sich Peinlichkeiten ersparen möchte. Zumal, wenn
   man dies schon einmal erlebt hat und das Video noch jetzt auf Youtube
   für Belustigung sorgt.
-| http://www.youtube.com/watch?v=lLYGPWQ0VjY
+
+.. youtube:: lLYGPWQ0VjY
+   :class: youtube-16x9
+
 | Doch sich in seiner (zukünftigen) Position auch die Frage noch
   übersetzen zu lassen, löst bei mir einen sofortigen
   **Fremdschämreflex** aus.

@@ -15,7 +15,8 @@ Novacut hat es geschafft
 | Weitere Nachricten dazu wird es sicher bald auf der
   `Homepage <http://novacut.com/>`__ des Projektes geben.
 
-http://www.youtube.com/watch?v=ArABWlxusZ0
+.. youtube:: ArABWlxusZ0
+   :class: youtube-16x9
 
 .. |image0| image:: {filename}/images/novacut-avatar-192.png
    :class: size-full wp-image-3518 alignright

@@ -16,11 +16,14 @@ Aber die Brillenmode liegt heute (wieder) absolut im Trend. Und mal
 ehrlich würde sich heute jemand in diesen lärmenden Propellertransrapid
 setzen?
 
-http://www.youtube.com/watch?v=kaGnBNhE2xI&feature=player\_embedded
+.. youtube:: kaGnBNhE2xI
+   :class: youtube-16x9
 
-http://www.youtube.com/watch?v=WiOaN5RbCBk&feature=player\_embedded
+.. youtube:: WiOaN5RbCBk
+   :class: youtube-16x9
 
-http://www.youtube.com/watch?v=StxNtLIhf4k&feature=player\_embedded
+.. youtube:: StxNtLIhf4k
+   :class: youtube-16x9
 
 via
 `YuccaTree <http://yuccatree.de/2010/11/retrofuture-das-jahr-2000-aus-sicht-von-1972/>`__

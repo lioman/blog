@@ -23,9 +23,10 @@ unterschreiben. Und jede Stimme zählt auch nach dem 13 September.
 
 Also ganz wichtig Zeichne mit!
 
-http://www.youtube.com/watch?v=qKySz7eFi3E
+.. youtube:: qKySz7eFi3E
+   :class: youtube-16x9
 
- 
+..
 
     .. rubric:: Text der Petition
        :name: text-der-petition

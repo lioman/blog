@@ -29,4 +29,5 @@ einfach blocken.
 
 Gibt es andere Einschätzungen zu +1 ?
 
-http://www.youtube.com/watch?v=OAyUNI3\_V2c
+.. youtube:: OAyUNI3_V2c
+   :class: youtube-16x9

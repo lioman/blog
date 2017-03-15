@@ -14,4 +14,5 @@ zusammen wie viele Daten in Dresden gesammelt wurden. Außerdem wird
 knapp erklärt, was man damit machen kann und wieso dies ein
 (rechtliches) Problem ist.
 
-http://www.youtube.com/watch?v=DXIBOjMg6l0
+.. youtube:: DXIBOjMg6l0
+   :class: youtube-16x9

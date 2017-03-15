@@ -26,4 +26,5 @@ Und weil es das erste Mal war habe ich ein kleines Video gedreht,
 hauptsächlich um die Schnittsoftware
 `Openshot <http://www.openshot.org>`__ auszuprobieren:
 
-http://www.youtube.com/watch?v=y4WkcaM-wWk&html5=True
+.. youtube:: y4WkcaM-wWk
+   :class: youtube-16x9

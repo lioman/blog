@@ -7,6 +7,7 @@ Samstagskatzencontent: DJ Kittens
 :slug: samstagskatzencontent-dj-kittens
 :status: published
 
-http://www.youtube.com/watch?v=bTLgeqCaYMY
+.. youtube:: bTLgeqCaYMY
+   :class: youtube-16x9
 
  

@@ -51,4 +51,5 @@ Youtube gibt es dazu leider nur eine Coverversion
 **UPDATE**: Die Coverversion ist nicht mehr erreichbar, dafür das
 Original:
 
-https://www.youtube.com/watch?v=wnyIopW3290
+.. youtube:: wnyIopW3290
+   :class: youtube-16x9

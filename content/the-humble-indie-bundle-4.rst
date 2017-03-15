@@ -21,4 +21,5 @@ schön animiert und sieht gut aus, die Dauer ist aber für meinen
 Geschmack zu lang und die Spielgeschwindigkeit kann man nur auf das
 Vierfache hochdrehen, was meines Erachtens nicht reicht.
 
-http://www.youtube.com/watch?v=U1QYMFGEv5M
+.. youtube:: U1QYMFGEv5M
+   :class: youtube-16x9

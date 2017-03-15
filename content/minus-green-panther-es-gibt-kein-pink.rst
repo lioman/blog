@@ -9,7 +9,7 @@ Minus Green Panther - Es gibt kein Pink
 
 Gerade habe ich auf tagesschau.de dieses nette Video entdeckt. Die Leute
 von `Minute
-Physics <http://www.youtube.com/user/minutephysics>`__ erklären warum es
+Physics <https://www.youtube.com/user/minutephysics>`__ erklären warum es
 die Farbe Pink nicht gibt und, dass diese eigentlich "Minus Green"
 heißen müsste.
 

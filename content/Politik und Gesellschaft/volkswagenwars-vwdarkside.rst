@@ -15,7 +15,9 @@ Video nimmt den aktuellen
 `TV-Spot <http://www.youtube.com/v/pdX3RIkdQz8>`__ von VW auf die
 Schippe und fordert alle dazu auf sich der Rebellion anzuschließen.
 
-| http://www.youtube.com/watch?v=nXndQuvOacU
+.. youtube:: nXndQuvOacU
+   :class: youtube-16x9
+
 | |image0|
 | 
 | 

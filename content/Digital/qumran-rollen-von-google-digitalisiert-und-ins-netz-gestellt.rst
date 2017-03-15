@@ -28,7 +28,8 @@ betrachten.
 
 `Hier gehts zu den Rollen <http://dss.collections.imj.org.il/>`__
 
-http://www.youtube.com/watch?v=5rYj\_0foJYA
+.. youtube:: 5rYj_0foJYA
+   :class: youtube-16x9
 
  
 

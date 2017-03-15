@@ -10,4 +10,5 @@ Terrorangst-Video
 Schon auf hunderten Blogs gesehen, aber da es einfach gut ist verlinke
 ich es auch noch hier:
 
-http://www.youtube.com/watch?v=BjQj05Mr8oU&feature=player\_embedded
+.. youtube:: BjQj05Mr8oU
+   :class: youtube-16x9

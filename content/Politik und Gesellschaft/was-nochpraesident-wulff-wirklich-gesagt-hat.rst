@@ -11,6 +11,7 @@ Oliver Kalkofe, hat die Presserklärung von Cristian Wulff
 nachgesprochen. In diesem Video sieht man, was der Präsident wirklich
 sagen [STRIKEOUT:musste] wollte.
 
-http://www.youtube.com/watch?v=dL2T30O2NQs&hd=1
+.. youtube:: dL2T30O2NQs
+   :class: youtube-16x9
 
 `via <http://www.wiesaussieht.de/2012/01/04/wulff-mochte-mussen/>`__

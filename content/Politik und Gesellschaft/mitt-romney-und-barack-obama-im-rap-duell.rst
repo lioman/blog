@@ -11,7 +11,8 @@ Die beiden Kandidaten für den Presidentenstuhl der USA tragen derzeit
 die verschiedensten TV-Duelle aus. Hier ist die Epic Rap Battle der
 beiden:
 
-http://www.youtube.com/watch?v=dX\_1B0w7Hzc
+.. youtube:: dX_1B0w7Hzc
+   :class: youtube-16x9
 
 Den Kanal `ERB <https://www.youtube.com/user/ERB?feature=watch>`__ kann
 ich übrigens nur empfehlen.
