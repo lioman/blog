@@ -22,12 +22,13 @@ EXTRA_PATH_METADATA = {
     'static/robots.txt': {'path': 'robots.txt'},
     'static/favicon.ico': {'path': 'favicon.ico'},
     'static/.htaccess': {'path': '.htaccess'},
-    'static/google86567dac9a42f48a.verification': {'path': 'google86567dac9a42f48a.html'},
 }
 
 THEME = 'themes/pelican-bootstrap3'
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
+GOOGLE_VERIFICATION = 'BqcGhsYr8KQ8E04PLoinE-PdzUdlvvgxGBxA1M_HRyo'
 
 BOOTSTRAP_THEME = 'readable'
 BOOTSTRAP_FLUID = False

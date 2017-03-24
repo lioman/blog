@@ -100,6 +100,9 @@
               title="{{ SITENAME }} {{ category }} ATOM Feed"/>
     {% endif %}
 
+    {% if GOOGLE_VERIFICATION %}
+    <meta name="google-site-verification" content="{{ GOOGLE_VERIFICATION }}" />
+    {% endif %}
 </head>
 <body>
 
