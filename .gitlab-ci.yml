@@ -21,6 +21,7 @@ before_script:
   - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
 
 build:
+  stage: build
   script:
   - pip install -r requirements.txt
   - make rsync_upload
