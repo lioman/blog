@@ -2,7 +2,7 @@ Nur zur Erinnerung Herr Wulff
 #############################
 :date: 2011-12-15 16:07
 :author: Lioman
-:category: Allgemein
+:category: Politik und Gesellschaft
 :tags: Affäre, Bundespräsident, Politik, Politiker, Wulff
 :slug: nur-zur-erinnerung-herr-wulff
 :status: published

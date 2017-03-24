@@ -2,7 +2,7 @@ Infografik: "A History of Web Standards"
 ########################################
 :date: 2011-11-24 12:00
 :author: Lioman
-:category: Allgemein
+:category: Digital
 :tags: Infografik, Internet, Webstandards
 :slug: infografik-a-history-of-web-standards
 :status: published

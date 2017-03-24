@@ -11,7 +11,7 @@ Tja in unserem Hof heißt die
 `Nahrungskette <http://de.wikipedia.org/wiki/Nahrungskette>`__ wohl:
 `Estragon <http://de.wikipedia.org/wiki/Estragon>`__ -->
 `Messingeule <http://de.wikipedia.org/wiki/Diachrysia%20chrysitis>`__
---> `Meisenk <http://de.wikipedia.org/wiki/Meisen>`__\ üken.
+--> `Meisenküken <http://de.wikipedia.org/wiki/Meisen>`__.
 
 Es wird also dieses Jahr keine Bilder einer Messingeule geben. Schade
 :-( , ich hätte sie gerne beim verpuppen beobachtet. Nächstes Mal rette

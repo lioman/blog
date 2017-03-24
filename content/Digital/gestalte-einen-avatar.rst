@@ -2,7 +2,7 @@ Gestalte einen Avatar....
 #########################
 :date: 2011-04-14 17:11
 :author: Lioman
-:category: Allgemein
+:category: Digital
 :slug: gestalte-einen-avatar
 :status: published
 

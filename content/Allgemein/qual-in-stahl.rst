@@ -30,7 +30,6 @@ liebe Fahrradfahrer:
 
 **ÖLT VERDAMMT NOCHMAL EURE KETTE!**
 
- 
 
 .. |Fahrrad| image:: {filename}/images/fahrrad.jpg
    :class: alignright size-full wp-image-5357

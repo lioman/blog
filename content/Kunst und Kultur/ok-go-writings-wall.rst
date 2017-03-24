@@ -2,7 +2,7 @@ OK Go - The Writings On The Wall
 ################################
 :date: 2014-06-20 22:57
 :author: Lioman
-:category: Allgemein
+:category: Kunst und Kultur
 :tags: Fundstück, Optische Täuschung
 :slug: ok-go-writings-wall
 :status: published

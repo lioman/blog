@@ -2,7 +2,7 @@ Hip-Hop meet Beat
 #################
 :date: 2010-01-24 08:58
 :author: Lioman
-:category: Allgemein
+:category: Kunst und Kultur
 :tags: genres, hip hop, magical mystery tour, Musik
 :slug: hip-hop-meet-beat
 :status: published
@@ -22,7 +22,3 @@ Unter wutangvsthebeatles.bandcamp.com konnte man sich das ganze
 anhöhren, doch ich muss feststellen, dass es schon heute morgen nicht
 mehr Verfügbar ist. Wahrscheinlich war das ganze Projekt von der
 Plattenfirma nicht lizensiert.
-
-.. raw:: html
-
-   </p>

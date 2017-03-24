@@ -3,7 +3,7 @@ Herzlichen Glückwunsch Ubuntu!
 :date: 2011-10-20 21:30
 :author: Lioman
 :category: Allgemein
-:tags: Geburtstag, Linux, Ubuntu
+:tags: Geburtstag, Linux, Ubuntu, Open Source
 :slug: herzlichen-glueckwunsch-ubuntu
 :status: published
 
@@ -15,7 +15,7 @@ Einen Überblick über alle vergangenen Versionen gibt es
 `hier <http://ikhaya.ubuntuusers.de/2011/10/20/herzlichen-glueckwunsch-ubuntu-alles-gute-zum-siebenjaehrigen/>`__.
 
 .. |image0| image:: {filename}/images/ubuntulogo.png
-   :class: alignright size-full wp-image-3180
+   :class: alignright size-full
    :width: 190px
    :height: 194px
    :target: {filename}/images/ubuntulogo.png
