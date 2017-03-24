@@ -22,6 +22,7 @@ EXTRA_PATH_METADATA = {
     'static/robots.txt': {'path': 'robots.txt'},
     'static/favicon.ico': {'path': 'favicon.ico'},
     'static/.htaccess': {'path': '.htaccess'},
+    'static/google86567dac9a42f48a.html': {'path': 'google86567dac9a42f48a.html'},
 }
 
 THEME = 'themes/pelican-bootstrap3'
