@@ -66,6 +66,7 @@ PLUGIN_PATHS = [
 ]
 
 PLUGINS = [
+    'extended_sitemap',
     'i18n_subsites',
     'pelican_youtube',
     'series',
@@ -77,6 +78,21 @@ PLUGINS = [
 TAG_CLOUD_SORTING = 'random'
 TAG_CLOUD_STEPS = 5
 TAG_CLOUD_MAX_ITEMS = 40
+
+EXTENDED_SITEMAP_PLUGIN = {
+    'priorities': {
+        'index': 1.0,
+        'articles': 0.8,
+        'pages': 0.5,
+        'others': 0.4
+    },
+    'changefrequencies': {
+        'index': 'daily',
+        'articles': 'weekly',
+        'pages': 'monthly',
+        'others': 'monthly',
+    }
+}
 
 # Blogroll
 LINKS = (
