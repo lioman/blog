@@ -22,6 +22,7 @@ before_script:
 
 build:
   stage: build
+  environment: blog
   script:
   - pip install -r requirements.txt
   - make rsync_upload
