@@ -8,6 +8,8 @@ RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 RewriteCond %{HTTP_HOST} !^www\.lioman\.de$ [NC]
 RewriteRule ^(.*)$ http://www.lioman.de/$1 [R=301,L]
 
+ErrorDocument 404 /404.html
+
 Redirect 301 /+ https://plus.google.com/u/0/109360831420720419136/
 
 Order Deny,Allow

@@ -1,0 +1,5 @@
+:title: 404 - Seite nicht verfügbar
+:status: hidden
+:save_as: 404.html
+
+Die angeforderte Seite existiert hier leider nicht.
