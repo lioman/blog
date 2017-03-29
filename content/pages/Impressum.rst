@@ -10,7 +10,7 @@ Impressum
 |    **Elias Kirchgässner**\
 |    Alter Postweg 15A, 76149 Karlsruhe\
 |    E-Mail: `blog [at] lioman.de <mailto:blog@lioman.de>`__\
-|    GPG-Schlüssel: `8371B35E <images/8371b35e.asc>`__\
+|    GPG-Schlüssel: `8371B35E <{filename}/images/8371b35e.asc>`__\
 |    Tel.: 017612107060\
 
 #. Inhalt des Onlineangebotes
