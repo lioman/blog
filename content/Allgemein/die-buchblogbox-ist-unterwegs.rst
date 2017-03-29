@@ -16,7 +16,7 @@ Die BuchBlogBox ist unterwegs
   nettes, das sich zu lesen und zu beschreiben lohnt.
 | Ich habe ja immer noch die Hoffnung, dass noch ein paar lesewütige
   Blogger dazustoßen und sich für die Box `hier
-  anmelden <http://www.lioman.de/2012/01/blog-buch-box/>`__.
+  anmelden <{filename}/Allgemein/blog-buch-box.rst>`__.
 
 Hier die Kurzzusammenfassung der Aktion:
 
@@ -31,9 +31,9 @@ auf sein  Blog stellen. Zeit spielt dabei keine wirkliche Rolle - die
 Box muss nicht sofort weitergeschickt werden und auch die Artikel haben
 Zeit. Man soll ja auch in Ruhe lesen können. Alles weitere zur Aktion
 steht im
-`Anfangsartikel <http://www.lioman.de/2012/01/blog-buch-box/>`__. Wo
+`Anfangsartikel <{filename}/Allgemein/blog-buch-box.rst>`__. Wo
 sich die Box gerade befindet kann man im Artikel "`Die Bücherbox
-besucht... <http://www.lioman.de/2012/02/die-buecherbox-besucht/>`__"
+besucht... <{filename}/Allgemein/die-buecherbox-besucht.rst>`__"
 nachlesen.
 
 .. |image0| image:: {filename}/images/book_box.png

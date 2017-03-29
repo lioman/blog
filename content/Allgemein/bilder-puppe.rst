@@ -21,7 +21,7 @@ erstmal auf die Jagd gehen.
 **Nachtrag**: Dies war die Puppe einer Messingeule, dass hat sich erst
 nach dem Schlüpfen gezeigt.
 
-Siehe `hier <http://www.lioman.de/2008/08/es-ist-eine-messingeule/>`__
+Siehe `hier <{filename}/Allgemein/es-ist-eine-messingeule.rst>`__
 
 .. |Puppe01| image:: {filename}/images/Puppe01-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1002

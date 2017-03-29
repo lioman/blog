@@ -24,7 +24,7 @@ derzeit im Googleprofil explizit erlauben. So lange das so ist und wenn
 Google sich um die Einhaltung der gestellten Bedingungen kümmert - ist
 der Button Datenschutzmäßig unbedenklicherals der Facebookbutton. Ist
 einem das ganze nicht geheuer kann man zusätzlich, wie im vorherigen
-`Beitrag <http://www.lioman.de/google-1-blocken/>`__ beschrieben, +1
+`Beitrag <{filename}/Digital/google-1-blocken.rst>`__ beschrieben, +1
 einfach blocken.
 
 Gibt es andere Einschätzungen zu +1 ?

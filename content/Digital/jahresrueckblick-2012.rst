@@ -268,12 +268,12 @@ habe.
 -  `Mein erster Androide und wie soll ich ihn
    befüllen <http://www.lioman.de/2012/07/mein-erster-androide-und-wie-soll-ich-ihn-befuellen-2/>`__:
    **24** comments
--  `Blog Buch Box <http://www.lioman.de/2012/01/blog-buch-box/>`__:
+-  `Blog Buch Box <{filename}/Allgemein/blog-buch-box.rst>`__:
    **22** comments
 -  `Logoklau? <http://www.lioman.de/2012/11/logoklau/>`__: **18**
    comments
 -  `Die Bücherbox
-   besucht... <http://www.lioman.de/2012/02/die-buecherbox-besucht/>`__:
+   besucht... <{filename}/Allgemein/die-buecherbox-besucht.rst>`__:
    **17** comments
 -  `Befreie deinen
    Router <http://www.lioman.de/2012/05/befreie-deinen-router/>`__:

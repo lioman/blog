@@ -14,9 +14,9 @@ Bücherzeug
   komme.
 | Auch ein anderes Bücherprojekt kommt einfach nicht in die Pötte: Mein
   Eigenes!
-| Die `Buch Blog Box <http://www.lioman.de/2012/01/blog-buch-box/>`__
+| Die `Buch Blog Box <{filename}/Allgemein/blog-buch-box.rst>`__
   sollte eigentlich ab `fünf
-  Teilnehmern <http://www.lioman.de/2012/02/die-buecherbox-besucht/>`__
+  Teilnehmern <{filename}/Allgemein/die-buecherbox-besucht.rst>`__
   starten, aber ich werde sie jetzt vorzeitig starten und einfach
   hoffen, dass währenddessen noch ein paar Lese- und Blogbegeisterte
   dazu stoßen.

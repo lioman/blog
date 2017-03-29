@@ -16,11 +16,12 @@ So auch diese Frage:
 Papa, warum heißt das Albtraum und nicht nur schlechter Traum?
 
 .. figure:: https://upload.wikimedia.org/wikipedia/commons/b/b4/Der_Albtraum_%28Anonym_19_Jh%29.jpg
+   :alt: Gemälde: Der Albtraum
    :width: 1200px
    :height: 909px
    :target: https://commons.wikimedia.org/wiki/Category:Nightmares_in_art?uselang=de#/media/File:Der_Albtraum_(Anonym_19_Jh).jpg
-            
-   Der Albtraum, Künstler unbekannt, um die Jahrhundertwende 18/19. Quelle 
+
+   Der Albtraum, Künstler unbekannt, um die Jahrhundertwende 18/19. Quelle
    `Wikimedia <https://commons.wikimedia.org/wiki/Category:Nightmares_in_art?uselang=de#/media/File:Der_Albtraum_(Anonym_19_Jh).jpg>`__
 
 Ich erinnerte mich dunkel an Darstellungen von Monsterchen, die auf
@@ -32,4 +33,3 @@ die Träume zuständig. Anscheinend hatten diese nächtens nichts besseres
 zu tun als auf der Brust schlafender herumzusitzen und ein unangenehmes
 Druckgefühl auszulösen. Wieder was gelernt und damit ich es in Zukunft
 nicht vergesse steht es jetzt hier.
-
