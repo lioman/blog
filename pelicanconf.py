@@ -24,6 +24,8 @@ EXTRA_PATH_METADATA = {
     'static/.htaccess': {'path': '.htaccess'},
 }
 
+IGNORE_FILES = ['__pycache__']
+
 THEME = 'themes/pelican-bootstrap3'
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}

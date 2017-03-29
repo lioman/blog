@@ -8,6 +8,15 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
+PAGESDIR=$(INPUTDIR)/pages
+DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
+TITLELENGTH := $(shell echo '${NAME}'|awk '{print length}')
+TITLELINE := $(shell  printf '%${TITLELENGTH}s\n' | tr ' ' '\#')
+SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/ä/ae/g;s/ü/ue/g;s/ö/oe/g;s/ß/ss/g;s/Ä/ae/g;s/Ü/ue/g;s/Ö/oe/g')
+EXT ?= rst
+STATUS ?= draft
+CATEGORY ?= Allgemein
+
 FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
@@ -121,4 +130,52 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-.PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+newpost:
+ifdef NAME
+	echo "$(NAME)" >  $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo "$(TITLELINE)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo ":date: $(DATE)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo ":author: $(Lioman)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo ":category: $(CATEGORY)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo ":tags:" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo ":slug: $(SLUG)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo ":status: $(STATUS)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	echo ""              >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+	#${EDITOR} ${INPUTDIR}/${SLUG}.${EXT} &
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make newpost NAME='"'"'Post Name'"'"
+endif
+
+editpost:
+ifdef NAME
+	${EDITOR} ${INPUTDIR}/${SLUG}.${EXT} &
+else
+	echo 'Variable NAME is not defined.'
+	@echo 'Do make editpost NAME='"'"'Post Name'"'"
+endif
+
+newpage:
+ifdef NAME
+	echo "$(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ":slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
+	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make newpage NAME='"'"'Page Name'"'"
+endif
+
+editpage:
+ifdef NAME
+	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make editpage NAME='"'"'Page Name'"'"
+endif
+
+
+
+.PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github newpost editpost
