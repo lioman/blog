@@ -13,9 +13,7 @@ URLcamp #008
 Folge 008 des URLcamps:
 -----------------------
 
-Eigentlich sollte das ja eine regelmäßige Veranstaltung hier sein: Mein
-`URLcamp <http://www.lioman.de/category/allgemein/internet/urlcamp/>`__
-enthält Links, die ich irgendwie für besuchenswert halte.
+Eigentlich sollte das ja eine regelmäßige Veranstaltung hier sein:
 
 -  | **Ubuntu rennt schneller als Apples OS X Yosemite auf einem MacBook
      Air**

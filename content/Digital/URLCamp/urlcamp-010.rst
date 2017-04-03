@@ -13,10 +13,6 @@ URLcamp #010
 Folge 010 des URLcamps:
 -----------------------
 
-Mein
-`URLcamp <http://www.lioman.de/category/allgemein/internet/urlcamp/>`__
-enthält Links, die ich irgendwie für beachtenswert halte.
-
 -   `Mahmoud Hashemi <https://twitter.com/mhashemi>`__  **über Python bei PayPal/eBay**
 
    .. rubric:: `10 Myths of Enterprise

@@ -13,10 +13,6 @@ URLcamp #009
 Folge 009 des URLcamps:
 -----------------------
 
-Mein
-`URLcamp <http://www.lioman.de/category/allgemein/internet/urlcamp/>`__
-enthält Links, die ich irgendwie für beachtenswert halte.
-
 -  **Über die Frau, die Snowden von Hongkong nach Moskau geholfen hat**
 
    .. rubric:: `How a Snowdenista Kept the NSA Leaker Hidden in a Moscow
