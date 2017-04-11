@@ -5,7 +5,7 @@ Farewell Wordpress - Hello Pelican!
 :category: Allgemein
 :tags:
 :slug: farewell-wordpress-hello-pelican
-:status: draft
+:status: published
 
 Dieses Blog existiert seit 2008.
 Von Anfang an habe ich Wordpress eingesetzt.
