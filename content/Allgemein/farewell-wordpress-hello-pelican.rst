@@ -3,14 +3,14 @@ Farewell Wordpress - Hello Pelican!
 :date: 2017-04-11 21:37:02
 :author: Lioman
 :category: Allgemein
-:tags:
+:tags: Blog, Pelican, Wordpress, statisch
 :slug: farewell-wordpress-hello-pelican
 :status: published
 
 Dieses Blog existiert seit 2008.
 Von Anfang an habe ich Wordpress eingesetzt.
 Wie viele andere auch nahm ich zuallererst die Dienste von Wordpress-Hersteller
-`Automatic <https://automattic.com/>`__ in Anspruch und veröffentlichte
+`Automattic <https://automattic.com/>`__ in Anspruch und veröffentlichte
 mein Blog auf `Wordpress.com <https://wordpress.com>`__.
 Um mehr Kontrolle über Plugins, Themes, etc. zu bekommen,
 wechselte ich dann auf die selstbgehostete Version.
