@@ -1,7 +1,7 @@
 Farewell Wordpress - Hello Pelican!
 ###################################
 :date: 2017-04-11 21:37:02
-:author:
+:author: Lioman
 :category: Allgemein
 :tags:
 :slug: farewell-wordpress-hello-pelican
