@@ -1,0 +1,4 @@
+---
+- hosts: blog
+- include: packages.yml
+- include: nginx.yml

@@ -1,0 +1,14 @@
+---
+- hosts: blog
+  become: yes
+  become_method: sudo
+  tasks:
+  - name: 'add nginx repository'
+    apt_repository:
+      repo: 'ppa:nginx/stable'
+      state: present
+      update_cache: yes
+  - name: 'install nginx'
+    apt:
+      name: nginx
+      state: latest

@@ -1,0 +1,16 @@
+---
+- hosts: blog_init
+  tasks:
+  - name: 'Add lioman user'
+    user:
+      name: lioman
+      comment: "Lioman"
+      state: present
+      groups: sudo
+      append: yes
+      password: $6$ICXLqvV1icR1aR/v$/IZX.VU2MvPBgxmpI4vashne.S.ADf9wF2O9Cu2bwNy5.IMsNRKbze/dV9Sel3yw4uqsDSP0glye3WX21Wyhk0
+  - name: Set authorized key for lioman from file
+    authorized_key:
+      user: lioman
+      state: present
+      key: "{{ lookup('file', '/home/elias/.ssh/lioman_de.pub') }}"

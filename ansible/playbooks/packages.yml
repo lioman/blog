@@ -1,0 +1,28 @@
+---
+- hosts: blog
+  become: yes
+  become_method: sudo
+  tasks:
+  - name: Only run "update_cache=yes" if the last one is more than 3600 seconds ago
+    apt:
+      update_cache: yes
+      cache_valid_time: 3600
+  - name: 'Ensure that aptitude is available'
+    apt:
+      name: aptitude
+      state: latest
+  - name: 'Upgrade all system packages'
+    apt:
+      upgrade: safe
+  - name: 'install vim'
+    apt:
+      name: vim
+      state: latest
+  - name: 'install htop'
+    apt:
+      name: htop
+      state: latest
+  - name: 'install git'
+    apt:
+      name: git
+      state: latest
