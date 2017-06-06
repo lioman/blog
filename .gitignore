@@ -74,3 +74,6 @@ ENV/
 env/
 /srv.pid
 /pelican.pid
+
+# ansible
+*.retry
