@@ -1,4 +1,6 @@
 ---
 - hosts: blog
 - include: packages.yml
-- include: nginx.yml
+- include: deploy.yml
+- include: web_server.yml
+- include: pelican.yml

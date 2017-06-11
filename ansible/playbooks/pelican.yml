@@ -1,0 +1,15 @@
+---
+- hosts: blog
+  become: true
+  become_method: sudo
+  roles:
+    - role: avanov.pyenv
+      pyenv_path: "/home/{{ instance_user }}/pyenv"
+      pyenv_owner: "{{ instance_user }}"
+      pyenv_update_git_install: no
+      pyenv_enable_autocompletion: yes
+      pyenv_python_versions:
+        - "3.6.1"
+      pyenv_virtualenvs:
+        - venv_name: "latest_v3"
+          py_version: "3.6.1"

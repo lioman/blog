@@ -10,9 +10,9 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 PAGESDIR=$(INPUTDIR)/pages
 DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
-TITLELENGTH := $(shell echo '${NAME}'|awk '{print length}')
+TITLELENGTH := $(shell echo '${TITLE}'|awk '{print length}')
 TITLELINE := $(shell  printf '%${TITLELENGTH}s\n' | tr ' ' '\#')
-SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/ä/ae/g;s/ü/ue/g;s/ö/oe/g;s/ß/ss/g;s/Ä/ae/g;s/Ü/ue/g;s/Ö/oe/g')
+SLUG := $(shell echo '${TITLE}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/ä/ae/g;s/ü/ue/g;s/ö/oe/g;s/ß/ss/g;s/Ä/ae/g;s/Ü/ue/g;s/Ö/oe/g')
 EXT ?= rst
 STATUS ?= draft
 CATEGORY ?= Allgemein
@@ -28,7 +28,7 @@ SSH_TARGET_DIR=/home/lioman/html
 
 S3_BUCKET=my_s3_bucket
 
-CLOUDFILES_USERNAME=my_rackspace_username
+CLOUDFILES_USERTITLE=my_rackspace_username
 CLOUDFILES_API_KEY=my_rackspace_api_key
 CLOUDFILES_CONTAINER=my_cloudfiles_container
 
@@ -124,15 +124,15 @@ s3_upload: publish
 	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed --guess-mime-type --no-mime-magic --no-preserve
 
 cf_upload: publish
-	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
+	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERTITLE) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 newpost:
-ifdef NAME
-	echo "$(NAME)" >  $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
+ifdef TITLE
+	echo "$(TITLE)" >  $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
 	echo "$(TITLELINE)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
 	echo ":date: $(DATE)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
 	echo ":author: $(Lioman)" >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
@@ -144,36 +144,36 @@ ifdef NAME
 	echo ""              >> $(INPUTDIR)/$(CATEGORY)/$(SLUG).$(EXT)
 	#${EDITOR} ${INPUTDIR}/${SLUG}.${EXT} &
 else
-	@echo 'Variable NAME is not defined.'
-	@echo 'Do make newpost NAME='"'"'Post Name'"'"
+	@echo 'Variable TITLE is not defined.'
+	@echo 'Do make newpost TITLE='"'"'Post Name'"'"
 endif
 
 editpost:
-ifdef NAME
+ifdef TITLE
 	${EDITOR} ${INPUTDIR}/${SLUG}.${EXT} &
 else
-	echo 'Variable NAME is not defined.'
-	@echo 'Do make editpost NAME='"'"'Post Name'"'"
+	echo 'Variable TITLE is not defined.'
+	@echo 'Do make editpost TITLE='"'"'Post Name'"'"
 endif
 
 newpage:
-ifdef NAME
-	echo "$(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
+ifdef TITLE
+	echo "$(TITLE)" >  $(PAGESDIR)/$(SLUG).$(EXT)
 	echo ":slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
 	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
 else
-	@echo 'Variable NAME is not defined.'
-	@echo 'Do make newpage NAME='"'"'Page Name'"'"
+	@echo 'Variable TITLE is not defined.'
+	@echo 'Do make newpage TITLE='"'"'Page Name'"'"
 endif
 
 editpage:
-ifdef NAME
+ifdef TITLE
 	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
 else
-	@echo 'Variable NAME is not defined.'
-	@echo 'Do make editpage NAME='"'"'Page Name'"'"
+	@echo 'Variable TITLE is not defined.'
+	@echo 'Do make editpage TITLE='"'"'Page Name'"'"
 endif
 
 

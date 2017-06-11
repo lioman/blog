@@ -1,8 +1,18 @@
+# {{ ansible_managed }}
 {% block server_redirect %}
 {% if item.server_name_redirect is defined %}
+server {
     listen       {{ item.listen | default('80') }};
     server_name  {{ item.server_name_redirect }};
-    return       301 $scheme://{{ item.server_name.split(' ')[0] }}$request_uri;
+    # return       301 $scheme://{{ item.server_name.split(' ')[0] }}$request_uri;
+    location '/.well-known/acme-challenge' {
+        default_type "text/plain";
+        root        /tmp/letsencrypt-auto;
+    }
+
+    #location / {
+    #  return              301 https://$server_name$request_uri;
+    #}
 }
 {% endif %}
 {% endblock %}
