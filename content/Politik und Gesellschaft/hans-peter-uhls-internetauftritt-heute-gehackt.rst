@@ -14,7 +14,7 @@ der Seite einen neuen Anstrich verpasst.
 
 |image0|\ Das wird natürlich Uhl's Internetparanoia in die Hände spielen
 und er wird sagen: *"Seht ihr - ich hab es doch gesagt. Alles Verbrecher
-in diesem Internet! Alles verbieten, filtern, überwachen." *
+in diesem Internet! Alles verbieten, filtern, überwachen."*
 
 Nachdem die Seite dann gar nicht mehr erreichbar  war - heißt es nun
 (20:46h), dass die Seite überarbeitet wird.

@@ -7,22 +7,14 @@ Jahresrückblick 2012 - eigene Statistiken und Nutzersoftware
 :slug: jahresrueckblick-2012
 :status: published
 
-.. raw:: html
 
-   <style type="text/css"><!--<br />
-   .y2012summaryChartBar{height:15px;background:#1A87D5;display:inline-block;}<br />
-   --></style>
-
-Schon letztes Jahr habe ich einen `kleinen
-Jahresrückblick <http://www.lioman.de/2011/12/jahresrueckblick-2011/>`__
+Schon letztes Jahr habe ich einen 
+`kleinen Jahresrückblick <https://www.lioman.de/2011/12/jahresrueckblick-2011/>`__
 geschrieben und dieses Jahr kommt der entsprechende Artikel spät, aber
 er kommt. Zuerst ein paar Zahlen, was hier so los war.  2012 wurden hier
-**92** posts und  **3 ** Seiten mit insgesamt 19872 Wörtern (deutlich
+**92** posts und  **3** Seiten mit insgesamt 19872 Wörtern (deutlich
 weniger als letztes Jahr) veröffentlicht bzw. aktualisiert.
 
-.. raw:: html
-
-   <div class="y2012summaryCol1">
 
 **Artikel pro Monat:**
 

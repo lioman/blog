@@ -20,8 +20,8 @@ und eine einfache Lösung in Verbindung mit dem GoogleReader wäre
 wünschenswert.
 
 Möchte man Links direkt aus dem Reader an das eigene Blog übertragen
-muss man in den "*Reader-Einstellungen"* unter "*Senden an"* einen
-*"Benutzerdefinierten Link erstellen" *
+muss man in den "*Reader-Einstellungen*" unter "*Senden an*" einen
+"*Benutzerdefinierten Link erstellen*"
 
 *|image0|*
 

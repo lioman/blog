@@ -41,4 +41,4 @@ einfach in die *WHERE*-Klausel in folgender Weise modifizieren:
 
 In diesem Fall werden alle Zeilen gelöscht, die nur aus leeren Zeichen
 und ein oder mehreren Zeilenumbrüchen bestehen. Das funktioniert
-natürlich analog auch mit *SELECT. *
+natürlich analog auch mit SELECT. *
