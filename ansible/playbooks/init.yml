@@ -13,4 +13,8 @@
     authorized_key:
       user: lioman
       state: present
-      key: "{{ lookup('file', '/home/elias/.ssh/lioman_de.pub') }}"
+      key: "{{ lookup('file', '/Users/ekirchgaessner/.ssh/lioman_de.pub') }}"
+  - name: Create directory
+    file:
+      path: /var/www/lioman.de
+      state: directory
