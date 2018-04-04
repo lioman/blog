@@ -25,6 +25,6 @@ build:
   environment: blog
   script:
   - pip install -r requirements.txt
-  - make html
+  - make rsync_upload
   only:
   - master
