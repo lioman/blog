@@ -24,14 +24,17 @@ Group={{ caddy_user }}
 ; Letsencrypt-issued certificates will be written to this directory.
 Environment=CADDYPATH={{ caddy_certs_dir }}
 
+
 ; Always set "-root" to something safe in case it gets forgotten in the Caddyfile.
-ExecStart={{ caddy_bin_dir }}/caddy -log {{ caddy_log_file }} -agree=true -conf={{ caddy_conf_dir }}/Caddyfile -root=/var/tmp
+ExecStart={{ caddy_bin_dir }}/caddy -log {{ caddy_log_file }} -http2={{ caddy_http2_enabled }} -agree=true -conf={{ caddy_conf_dir }}/Caddyfile -root=/var/tmp
 ExecReload=/bin/kill -USR1 $MAINPID
 
 ; Limit the number of file descriptors; see `man systemd.exec` for more limit settings.
 LimitNOFILE=1048576
-; Unmodified caddy is not expected to use more than that.
-LimitNPROC=64
+{% if caddy_systemd_nproc_limit > 0 %}
+; Limit the number of caddy threads.
+LimitNPROC={{ caddy_systemd_nproc_limit }}
+{% endif %}
 
 ; Use private /tmp and /var/tmp, which are discarded after caddy stops.
 PrivateTmp={{ caddy_systemd_private_tmp }}
@@ -45,12 +48,23 @@ ProtectSystem={{ caddy_systemd_protect_system }}
 ;   This merely retains r/w access rights, it does not add any new. Must still be writable on the host!
 ReadWriteDirectories={{ caddy_certs_dir }}
 
+{% if caddy_systemd_capabilities_enabled %}
 ; The following additional security directives only work with systemd v229 or later.
-; They further retrict privileges that can be gained by caddy. Uncomment if you like.
+; They further retrict privileges that can be gained by caddy.
 ; Note that you may have to add capabilities required by any plugins in use.
-;CapabilityBoundingSet=CAP_NET_BIND_SERVICE
-;AmbientCapabilities=CAP_NET_BIND_SERVICE
-;NoNewPrivileges=true
+CapabilityBoundingSet={{ caddy_systemd_capabilities }}
+AmbientCapabilities={{ caddy_systemd_capabilities }}
+NoNewPrivileges=true
 
+{% endif %}
+{% if caddy_environment_variables|length %}
+
+; Additional environment variables:
+
+{% for key, value in caddy_environment_variables.items() %}
+Environment={{ key }}={{ value }}
+{% endfor %}
+
+{% endif %}
 [Install]
 WantedBy=multi-user.target

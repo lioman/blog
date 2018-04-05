@@ -5,10 +5,24 @@
   roles:
     - role: caddy-ansible
       caddy_setcap: yes
+      caddy_features: tls.dns.namecheap
+      # caddy_environment_variables:
+      #   NAMECHEAP_API_USER=TBD
+      #   NAMECHEAP_API_KEY=TBD
+      caddy_license: personal
       caddy_config: |
-        www.lioman.de
-        gzip
-
-        tls blog@lioman.de
-
-        root /var/www/lioman.de
+        lioman.de {
+          tls blog@lioman.de
+          redir https://www.lioman.de{uri}
+        }
+        www.lioman.de {
+          gzip
+          tls blog@lioman.de
+          root /var/www/lioman.de
+        }
+        comments.lioman.de {
+          tls blog@lioman.de
+          proxy / localhost:8000 {
+            transparent
+          }
+        }
