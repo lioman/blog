@@ -24,7 +24,9 @@ build:
   stage: build
   environment: blog
   script:
-  - pip install -r requirements.txt
+  - pip install pipenv
+  - pipenv install
+  - pipenv shell
   - make rsync_upload
   only:
   - master

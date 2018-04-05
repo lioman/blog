@@ -1,0 +1,20 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+pelican = "==3.7.1"
+typogrify = "==2.0.7"
+pelican_youtube = "==0.2.0"
+pelican_vimeo = "==0.1.1"
+pelican-extended-sitemap = "==1.0.4"
+Pillow = "*"
+"bs4" = "*"
+
+
+[dev-packages]
+
