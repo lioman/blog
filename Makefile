@@ -24,7 +24,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=lioman.de
 SSH_PORT=22
 SSH_USER=lioman
-SSH_TARGET_DIR=/home/lioman/html
+SSH_TARGET_DIR=/var/www/lioman.de
 
 S3_BUCKET=my_s3_bucket
 
