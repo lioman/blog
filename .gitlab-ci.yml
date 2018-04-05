@@ -26,7 +26,6 @@ build:
   script:
   - pip install pipenv
   - pipenv install
-  - pipenv shell
-  - make rsync_upload
+  - pipenv run make rsync_upload
   only:
   - master
