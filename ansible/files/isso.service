@@ -1,0 +1,10 @@
+[Unit]
+Description=lightweight Disqus alternative
+
+[Service]
+User=isso
+Environment="ISSO_SETTINGS=/home/lioman/isso.cfg"
+ExecStart=systemctl daemon --log-file /var/log/isso.log --preload isso.run
+
+[Install]
+WantedBy=multi-user.target
