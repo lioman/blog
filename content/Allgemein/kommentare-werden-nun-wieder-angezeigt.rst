@@ -5,7 +5,7 @@ Kommentare werden nun wieder angezeigt
 :category: Allgemein
 :tags: kommentare, isso, blog
 :slug: kommentare-werden-nun-wieder-angezeigt
-:status: draft
+:status: published
 
 Über das Osterwochenende habe ich diesem stiefmütterlich behandelten Blog
 mal wieder ein bisschen Zeit geschenkt. Auch wenn es hier nie besonders viele Kommentare
