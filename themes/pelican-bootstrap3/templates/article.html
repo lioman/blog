@@ -92,13 +92,7 @@
             {% include 'includes/series.html' %}
             {% include 'includes/addthis.html' %}
             {% include 'includes/shariff.html' %}
-            <script data-isso="//comments.lioman.de/"
-                    data-isso-reply-to-self="false"
-                    data-isso-require-author="true"
-                    data-isso-require-email="true"
-                src="//comments.lioman.de/js/embed.min.js"></script>
-
-            <section id="isso-thread"></section>
+            <section id="isso-thread" data-title="{{ article.title|striptags }}"></section>
             {% include 'includes/comments.html' %}
         </article>
     </section>
@@ -116,4 +110,9 @@
     <!-- add shariff support -->
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/shariff.min.js"></script>
 {% endif %}
+            <script data-isso="//comments.lioman.de/"
+                    data-isso-reply-to-self="false"
+                    data-isso-require-author="true"
+                    data-isso-require-email="true"
+                src="//comments.lioman.de/js/embed.min.js"></script>
 {% endblock %}
