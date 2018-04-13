@@ -121,9 +121,7 @@ Ingredients
 -  1EL Wasser
 -  1/4 l Buttermilch
 -  200g Saure Sahne
--  2 EL [url
-   href="http://www.amazon.de/gp/product/B0014C1L8I/ref=as\_li\_ss\_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B0014C1L8I&linkCode=as2&tag=liomblog-21"
-   title="GEPA Muscovado bei Amazon"]Muskovado[/url]
+-  2 EL Muskovado
 -  1/4 Limette (Saft)
 
 .. raw:: html

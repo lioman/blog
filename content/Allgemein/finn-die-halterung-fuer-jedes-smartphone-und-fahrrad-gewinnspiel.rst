@@ -47,7 +47,7 @@ Jetzt nutze ich Finn eine Woche und bin immer noch äußerst zufrieden.
   bekommen. Wer hier kein Glück hat kann aber auch 12€ (inkl. Versand)
   investieren und sich Finn direkt auf
   `getfinn.com <http://getfinn.com/>`__ oder
-  `Amazon <http://www.amazon.de/gp/product/B00D8Z9KPU/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00D8Z9KPU&linkCode=as2&tag=liomblog-21>`__
+  `Amazon <https://smile.amazon.de/gp/product/B00D8Z9KPU>`__
   bestellen.
 | Und weil ich so überaus nett bin lege ich noch meinen Zugangscode zur
   App von Bikecityguide mit drauf. Diese gibt es für

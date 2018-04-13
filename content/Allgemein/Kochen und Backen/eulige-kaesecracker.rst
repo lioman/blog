@@ -24,10 +24,7 @@ Rezept wunderbar. Man sollte einen kräftigen Käse nehmen, damit sie auch
 neben einem Glas Rotwein bestehen können. Meine Eulen habe ich mit
 *"Old Amsterdam"* gemacht, aber ich kann sie mir auch gut mit einem
 Bergkäse oder Appenzeller vorstellen. Die Eulenausstechform gibt es
-unter anderem bei [url
-href="http://www.amazon.de/gp/product/B004X17604/ref=as\_li\_ss\_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B004X17604&linkCode=as2&tag=liomblog-21"
-title="Bei Amazon: "Städter Keksausstecher Eule""]Amazon
-(Ref-Link)
+unter anderem bei `Amazon <https://smile.amazon.de/St%C3%A4dter-Ausstechform-Eule-Edelstahl-Silber/dp/B004X17604>`_
 
 .. image:: {filename}/images/kaeseeulen.jpg
     :width: 200px
