@@ -17,9 +17,11 @@ Zuerst kann man sich dazu die fünf letzten Einträge anzeigen lassen: history |
 
 Die Ausgabe sieht ungefär so aus:
 
-    248  su root
-    249  SuperSecurePassword123
-    250  history | tail -n 5
+.. code-block:: bash
+
+   248  su root
+   249  SuperSecurePassword123
+   250  history | tail -n 5
 
 SuperSecurePassword123 soll am Besten verschwinden.
 Das kann man nun mit ``history -d 249`` erreichen.
