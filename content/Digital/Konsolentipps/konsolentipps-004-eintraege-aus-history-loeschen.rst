@@ -13,7 +13,7 @@ sondern nur ein paar Pfeiltasten entfernt. Noch angenehmer ist es, wenn man die 
 Leider landen auch mal Dinge in der Historie, die da gar nicht hingehören: kopierte Passwörter zum Beispiel.
 Man möchte dieses natürlich nicht gerade da lassen, sondern möglichst schnell entfernen.
 
-Zuerst kann man sich dazu die fünf letzten Einträge anzeigen lassen: history | ´´tail -n 5´´
+Zuerst kann man sich dazu die fünf letzten Einträge anzeigen lassen: ``history | tail -n 5``
 
 Die Ausgabe sieht ungefär so aus:
 
