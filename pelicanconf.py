@@ -108,6 +108,7 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ('Twitter', 'https://twitter.com/lioman'),
+    ('Mastodon', 'https://mastodon.social/@lioman'),
     ('Github', 'https://github.com/lioman'),
     ('Stackoverflow', 'http://stackoverflow.com/users/3114491/lioman', 'stack-overflow'),
 )
