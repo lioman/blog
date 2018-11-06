@@ -24,10 +24,10 @@
                 {% endif %}
                 {% if name_sanitized in ['flickr', 'slideshare', 'spotify', 'stack-overflow',
                 'weibo', 'line-chart', 'home', 'user', 'users', 'envelope', 'envelope-o',
-                'stack-exchange', 'hacker-news', 'meetup', 'vk'] %}
-                {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-lg"' %}
+                'stack-exchange', 'hacker-news', 'meetup', 'vk', 'mastodon'] %}
+                {% set iconattributes = '"fab fa-' ~ name_sanitized ~ ' fa-lg"' %}
                 {% else %}
-                {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-lg"' %}
+                {% set iconattributes = '"fab fa-' ~ name_sanitized ~ '-square fa-lg"' %}
                 {% endif %}
                 <li class="list-group-item"><a href="{{ s[1] }}"><i class={{ iconattributes }}></i>
                     {{ s[0] }}</a></li>
