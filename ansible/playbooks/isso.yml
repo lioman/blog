@@ -5,17 +5,20 @@
     apt:
       name: python3
       state: latest
+      # update_cache: yes
+      # cache_valid_time: 3600
   - name: 'Ensure that python3-pip is available'
     apt:
       name: python3-pip
       state: latest
   - name: Install isso in latest version
     pip:
-      name: isso
+      name: isso>0.11.0
       virtualenv: /home/{{ instance_user }}/issovenv
   - name: Install gunicorn in latest version
     pip:
       name: gunicorn
+      state: latest
   - name: copying isso.cfg with owner and permissions
     copy:
       src: ../files/isso.cfg

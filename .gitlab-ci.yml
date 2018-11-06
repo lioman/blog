@@ -1,6 +1,6 @@
 # This file is a template, and might need editing before it works on your project.
 # Full project: https://gitlab.com/pages/pelican
-image: python:3.6
+image: python:3.7
 
 before_script:
   # Install ssh-agent if not already installed, it is required by Docker.
@@ -20,12 +20,21 @@ before_script:
   - mkdir -p ~/.ssh
   - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
 
+check:
+  stage: test
+  script:
+  - pip install pipenv
+  - pipenv check
+  only:
+  - master
+  allow_failure: true
+
 build:
   stage: build
   environment: blog
   script:
   - pip install pipenv
-  - pipenv install
+  - pipenv install --ignore-pipfile
   - pipenv run make rsync_upload
   only:
   - master
