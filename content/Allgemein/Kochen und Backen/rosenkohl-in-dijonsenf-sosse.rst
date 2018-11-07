@@ -13,100 +13,26 @@ Rezept zu mir. Ich hab gleich gewusst, dass es sicher unfassbar lecker
 ist und so haben wir es am Wochenende ausprobiert. Was soll ich sagen:
 Es ist unfassbar lecker!
 
-Hier nun die Übersetzung:
-
-.. raw:: html
-
-   <div class="easyrecipe">
-
- Rosenkohl in Dijonsenf-Soße
-
-.. raw:: html
-
-   </p>
-
-.. raw:: html
-
-   <div class="ERClear">
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Author: Lioman
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Prep time: 15 mins
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Cook time: 30 mins
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Total time: 45 mins
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Serves: 4
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERSummary">
-
 Rosenkohl in feiner Dijonsenfsoße. Die Hälften werden langsam in
 Weißwein geschmort und mit Senf abgeschmeckt.
 
-.. raw:: html
+Hier nun die Übersetzung:
 
-   </div>
 
-.. raw:: html
+Rosenkohl in Dijonsenf-Soße
+===========================
 
-   <div class="ERIngredients">
 
-.. raw:: html
+Vorbereitungszeit: 15 min
 
-   <div class="ERIngredientsHeader">
+Kochzeit: 30 min
 
-Ingredients
+Portionen: 4
 
-.. raw:: html
 
-   </div>
+Zutaten
+-------
+
 
 -  500g Rosenkohl
 -  1EL Butter
@@ -120,27 +46,9 @@ Ingredients
 -  1EL feiner Dijonsenf
 -  zum garnieren: 2 EL feingehackte glatte Petersilie)
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERInstructions">
-
-.. raw:: html
-
-   <div class="ERInstructionsHeader">
 
 Instructions
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="instructions">
+------------
 
 #. Rosenkohl längs halbieren.
 #. Butter und Öl in einer großen schweren Pfanne bei mittlerer Hitze
@@ -151,73 +59,27 @@ Instructions
 #. Dann Schalotten, Wein und Brühe hinzugeben und zum köcheln bringen.
    Die Pfanne abdecken und das Ganze bei niedriger Hitze 15 - 20 Minuten
    gar köcheln lassen. (Der Rosenkohl ist gar, wenn man ihn mit einer
-   Messerspitze leicht zerteilen kann.[br][img
-   src="https://lh4.googleusercontent.com/-EjJ7her0W3w/Tu8HWcKffNI/AAAAAAAACGc/TsFDm7Cr3ns/s400/IMG\_8384.JPG"]
+   Messerspitze leicht zerteilen kann.
+   
+   .. image:: {filename}/images/rosenkohl_pfanne.jpg
+       :alt: Rosenkohlhälften die in Soße schmoren
+
 #. Rosenkohl abschöpfen und Crème fraîche in die Soße geben.
 #. -3 Minuten weiterköcheln lassen bis die Soße leicht andickt.
 #. Nun den Senf hinzugeben und mit Pfeffer und Salz abschmecken.
 #. Die Soße über den Roßenkohl geben(, mit Petersilie garnieren) und
-   sofort servieren.[br][img
-   src="https://lh6.googleusercontent.com/-JvL0mb1Dd20/Tu8HYdm5fTI/AAAAAAAACGo/OqZF\_xNfYOg/s640/IMG\_8391.JPG"]
+   sofort servieren.
+   
+   .. image:: {filename}/images/rosenkohl_polentaschnitten.jpg
+      :alt: Rosenkohl in Dijonsenfsoße mit Polentaschnitten angerichtet.
+    
 
-.. raw:: html
+Dazu passen z.B.: 
 
-   </div>
+`Gebratene Polentaschnitten <gebratene-polentaschnitten>`_
 
-.. raw:: html
 
-   </div>
 
-.. raw:: html
 
-   <div class="ERNutrition">
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div>
-
-.. raw:: html
-
-   <div class="ERNotesHeader">
-
-Notes
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERNotes">
-
-Dazu passen z.B.: [url
-href="http://www.lioman.de/2011/12/gebratene-polentaschnitten/
-"]Gebratene Polentaschnitten[/url]
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="endeasyrecipe" style="display: none;">
-
-3.2.1596
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
 
  
