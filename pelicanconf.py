@@ -48,6 +48,12 @@ DISPLAY_TAGS_INLINE = True
 SHARIFF = True
 SHARIFF_TWITTER_VIA = 'lioman'
 SHARIFF_ORIENTATION = 'vertical'
+SHARIFF_SERVICES = [
+    'twitter', 
+    'facebook', 
+    'linkedin', 
+    'xing',
+    ]
 
 SHOW_ARTICLE_CATEGORY = True
 
