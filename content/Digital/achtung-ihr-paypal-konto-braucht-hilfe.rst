@@ -44,67 +44,16 @@ Mail öffnet.
 
 Hier die Mail:
 
-.. raw:: html
-
-   </div>
-
-    .. raw:: html
-
-       <div>
-
-    ----------------------------------------------------------------------
-
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
-
     Ihr PayPal-Konto braucht Ihre Hilfe
 
-    .. raw:: html
 
-       </div>
-
-    .. raw:: html
-
-       <div>
-
-    ----------------------------------------------------------------------
-
-    .. raw:: html
-
-       </div>
-
-     
-
-    .. raw:: html
-
-       <div>
 
     Guten Tag,
-
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
 
     Aus Sicherheitsgründen achten wir stets auf verdächtige Aktivitäten.
     Kürzlich haben wir eine Unregelmäßigkeit bei Ihrem Konto
     festgestellt.
 
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
 
     Wir haben den Grund zur Annahme, dass ein Dritter auf Ihr Konto
     zugegriffen hat.  Da die Sicherheit Ihres Kontos unser Hauptanliegen
@@ -113,131 +62,36 @@ Hier die Mail:
     Unannehmlichkeit darstellt. Bitte beachten Sie jedoch, dass es sich
     um eine vorübergehende Beschränkung zu Ihrem Schutz handelt.
 
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
 
     Bearbeitungsnummer: PP-168-221-011-985
 
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
 
     Wir haben den Zugriff auf Ihr Konto kurzzeitig eingeschränkt. Die
     Einschränkung wird überprüft, wenn wir die angeforderten
     Informationen von Ihnen erhalten.
 
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
 
     Um auf die Einschränkung zu reagieren und sie zu beheben, klicken
     Sie hier.Falls Sie Informationen über die Einschränkung erhalten
     möchten, kontaktieren Sie uns unter "Hilfe-Center" und "Kontakt".
 
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
-
     Herzliche Grüße
-
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
 
     Bitte antworten Sie nicht auf diese E-Mail. Dieses Postfach wird
     nicht überwacht, deshalb werden Sie keine Antwort erhalten. Wenn Sie
     Hilfe benötigen, loggen Sie sich in Ihr PayPal-Konto ein, und
     klicken Sie oben rechts auf einer der PayPal-Seiten auf den Link
     "Hilfe".
+    
 
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
-
-     
-
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
-
-    ----------------------------------------------------------------
     Copyright © 1999-2011 PayPal. Alle Rechte vorbehalten.
-
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
-
-     
-
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
 
     PayPal (Europe) S.à r.l. & Cie, S.C.A.
     Société en Commandite par Actions
     Sitz: 22-24 Boulevard Royal, L-2449 Luxemburg
     RCS Luxemburg B 118 349
 
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
-
-     
-
-    .. raw:: html
-
-       </div>
-
-    .. raw:: html
-
-       <div>
-
     PPID PP522
-
-    .. raw:: html
-
-       </div>
 
 .. |Paypal_Pishing1| image:: {filename}/images/paypal_pishing1-300x208.png
    :class: alignright size-medium wp-image-5490
