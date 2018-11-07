@@ -19,8 +19,8 @@ Eine einfache vegetarische gebratene Beilage, die zu allen möglichen
 Gemüse passt. Gefunden bei `Anke Gröner <http://www.ankegroener.de/?p=14980>`__
 
 
-Ingredients
-~~~~~~~~~~~
+Zutaten
+~~~~~~~
 
 -  500 ml Milch oder Wasser (oder gemischt)
 -  1 fein gehackten Knoblauchzehe
@@ -31,8 +31,8 @@ Ingredients
 -  Salz+Pfeffer
 -  Olivenöl zum anbraten
 
-Instructions
-~~~~~~~~~~~~
+Vorgehensweise
+~~~~~~~~~~~~~~
 
 #. Flüssigkeit mit Knoblauch und Butter aufkochen.
 #. Polentagries mit dem Schneebesen unterrühren und 2-3 Minuten unter

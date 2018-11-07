@@ -16,7 +16,7 @@ Cook time: 15 mins
 
 Total time: 20 mins
 
-Serves: 1 Blech
+Menge: 1 Blech
 
 
 Möchte man schnell ein bisschen Salzgebäck dann eignet sich dieses
@@ -30,11 +30,11 @@ unter anderem bei `Amazon <https://smile.amazon.de/St%C3%A4dter-Ausstechform-Eul
     :width: 200px
     :align: right
     :height: 220px
-    :alt: alternate text
+    :alt: Käsekekse in Eulenform
 
 
-Ingredients
-~~~~~~~~~~~
+Zutaten
+~~~~~~~
 
 -  50g kräftiger Käse
 -  150g Mehl
@@ -47,8 +47,8 @@ Ingredients
 -  1 Ei
 
 
-Instructions
-~~~~~~~~~~~~
+Vorgehensweise
+~~~~~~~~~~~~~~
 
 #. Zuerst alle trockenen Zutaten mischen. Öl, Wasser und Ei hinzugeben
    und kräftig kneten.

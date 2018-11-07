@@ -3,7 +3,7 @@ Mousse au café/ chocolat
 :date: 2010-04-29 16:09
 :author: Lioman
 :category: Allgemein
-:tags: Kochen, Nachtisch, Rezept
+:tags: Kochen, Nachtisch, Rezept, Dessert, Französische Küche
 :slug: mousse-au-cafe-chocolat
 :status: published
 
@@ -13,146 +13,25 @@ Leidenschaften (-die Vertilgung derselben rangiert sogar noch darüber).
 Nun wurde ich nach meinem Mousse-au-chocolat-Rezept gefragt. Statt per
 Mail mache ich das ganze hier öffentlich.
 
- 
+Vorbereitungszeit: 20 min
 
-.. raw:: html
+Kochzeit: 130 min
 
-   <div class="easyrecipe">
-
- Mousse au café/ chocolat
-
-.. raw:: html
-
-   </p>
-
-.. raw:: html
-
-   <div class="ERClear">
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Recipe Type: Dessert
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Cuisine: Französisch
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Author: www.lioman.de
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Prep time: 20 mins
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Cook time: 130 mins
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Total time: 2 hours 30 mins
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERHead">
-
-Serves: 10
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERSummary">
+Menge: 10 Portionen
 
 Zarte Café-Mousse
 
-.. raw:: html
 
-   </div>
-
-.. raw:: html
-
-   <div class="ERIngredients">
-
-.. raw:: html
-
-   <div class="ERIngredientsHeader">
-
-Ingredients
-
-.. raw:: html
-
-   </div>
+Zutaten
+-------
 
 -  2 Tafeln Zartbitterschokolade mit ca. 60% Kakaoanteil
 -  5 sehr frische Eier
 -  200g Sahne
 -  (starker Espresso)
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERInstructions">
-
-.. raw:: html
-
-   <div class="ERInstructionsHeader">
-
-Instructions
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="instructions">
+Zubereitung
+-----------
 
 #. Schokolade kleinmachen und im Wasserbad langsam schmelzen lassen
    (sobald sie flüssig ist aus dem Bad nehmen). Eier trennen und Eigelb
@@ -169,37 +48,11 @@ Instructions
    wird. Nun den Eischnee vorsichtig mit einem Schneebesen unterheben
    (Nicht das Rührgerät nehmen sonst bleibt nur Pampe übrig!!!).
 #. Die Sahne ebenfalls vorsichtig unterheben und das ganze für 2 Stunden
-   in den Kühlschrank stellen. [br]Die Mousse ist dann steif aber
-   trotzdem herrlich fluffig.[br][br]Bon appétit
+   in den Kühlschrank stellen.
+   
+   Die Mousse ist dann steif aber
+   trotzdem herrlich fluffig.
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="ERNutrition">
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <div class="endeasyrecipe" style="display: none;">
-
-3.2.1596
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   </div>
+Bon appétit
 
 Noch Fragen oder Anregungen? - Einfach einen Kommentar hinterlassen

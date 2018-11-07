@@ -45,8 +45,8 @@ Zutaten
 -  5 Tropfen Bittermandelaroma/ 1 Schuss Amaretto
 -  Puderzucker zum bestäuben
 
-Instructions
-------------
+Vorgehensweise
+--------------
 
 #. Mandeln bei mittlerer Hitze braun rösten.
 #. Abkühlen lassen und fein mahlen

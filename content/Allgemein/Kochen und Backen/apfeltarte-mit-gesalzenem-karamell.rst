@@ -36,9 +36,9 @@ Zutaten
 -  1 Messerspitze Meersalz
 -  2 EL Crème double
 
---------------
-Vorgehensweise
---------------
+-----------
+Zubereitung
+-----------
 
 #. Butter schaumig schlagen
 #. Zucker, Vanillezucker, Zitronenschale, Mandelaroma und Eier
