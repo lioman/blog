@@ -61,17 +61,6 @@ Jetzt nutze ich Finn eine Woche und bin immer noch äußerst zufrieden.
   Netzwerken erhalten. Dazu einfach das Formular von Rafflecopter
   ausfüllen:
 
-.. raw:: html
-
-   <p>
-
-| `a Rafflecopter
-  giveaway <http://www.rafflecopter.com/rafl/display/atec6q34e/>`__
-
-.. raw:: html
-
-   <script src="//d12vno17mo87cx.cloudfront.net/embed/rafl/cptr.js"></script>
-   </p>
 
 **Ich wünsche viel Glück!**
 

@@ -16,31 +16,9 @@ Panoramicearth hochgeladen.
 
 .. raw:: html
 
-   <div id="panearthembed6459">
-
-.. raw:: html
-
-   <div id="panearthimg6459">
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <p>
-
-Panorama of
-`Stübenwasen <http://panoramicearth.com/6459/Naturpark_Sudschwarzwald/Stubenwasen>`__
-supplied by `Panoramic Earth <http://www.panoramicearth.com>`__
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <p>
-   <script type="text/javascript" src="http://www.panoramicearth.com/embed/u4X3Gu9I6TjCHZiu9W6kP3S5Azp5EAT9f8613cf1ba8a690ab0f1174c416e0fe9"></script>
-   <script type="text/javascript">var peTm6459=setTimeout("ldPEImg6459()",200);function ldPEImg6459(){clearTimeout(peTm6459);if(showPEImg6459)showPEImg6459();else peTm6459=setTimeout("ldPEImg6459()",200);}</script>
-   </p>
+    <div id="panearthembed6459">
+      <div id="panearthimg6459"></div>
+      Panorama of <a href="https://www.panoramicearth.com/6459/Naturpark_Sudschwarzwald/Stubenwasen/Winter" target="_blank">Stübenwasen/Winter</a> 
+      supplied by <a href="https://www.panoramicearth.com" target="_blank">Panoramic Earth</a>
+    </div>
+    <script type="text/javascript" src="https://www.panoramicearth.com/embed/u4X3Gu9I6TjCHZiu9W6kP3S5Azp5EAT9f8613cf1ba8a690ab0f1174c416e0fe9"></script><script type="text/javascript">var w6459=800, h6459=400; var peTm6459=setTimeout("ldPEImg6459()",200);function ldPEImg6459(){clearTimeout(peTm6459);if(showPEImg6459)showPEImg6459(w6459,h6459);else peTm6459=setTimeout("ldPEImg6459()",200);}</script>
