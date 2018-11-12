@@ -29,7 +29,7 @@
                 {% else %}
                 {% set iconattributes = '"fab fa-' ~ name_sanitized ~ '-square fa-lg"' %}
                 {% endif %}
-                <li class="list-group-item"><a href="{{ s[1] }}"><i class={{ iconattributes }}></i>
+                <li class="list-group-item"><a rel="me" href="{{ s[1] }}"><i class={{ iconattributes }}></i>
                     {{ s[0] }}</a></li>
                 {% endfor %}
             </ul>
