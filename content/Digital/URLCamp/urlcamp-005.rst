@@ -46,8 +46,8 @@ Und nach diesem schönen Text einfach mal was ganz anderes:
 Welches Tier hat hier geschissen. Ein kleines Quiz. Zeitvertreib,
 interessant, man lernt was und natürlich eine kleine Portion Ekel...
 
-.. |image0| image:: {filename}/images/wegweiser_klein.jpg
+.. |image0| image:: {static}/images/wegweiser_klein.jpg
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: {filename}/images/wegweiser_klein.jpg
+   :target: {static}/images/wegweiser_klein.jpg

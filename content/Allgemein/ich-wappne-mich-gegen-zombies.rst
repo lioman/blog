@@ -12,8 +12,8 @@ Spätestens das Grissini wird den Zombies den Rest geben...
 
 `via <http://www.stefan-graf.com/fight-the-zombies/2010/09/12/>`__
 
-.. |image0| image:: {filename}/images/zombie-waffe_5-300x212.jpg
+.. |image0| image:: {static}/images/zombie-waffe_5-300x212.jpg
    :class: aligncenter size-medium wp-image-1651
    :width: 300px
    :height: 212px
-   :target: {filename}/images/zombie-waffe_5.jpg
+   :target: {static}/images/zombie-waffe_5.jpg

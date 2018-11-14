@@ -21,35 +21,35 @@ erstmal auf die Jagd gehen.
 **Nachtrag**: Dies war die Puppe einer Messingeule, dass hat sich erst
 nach dem Schlüpfen gezeigt.
 
-Siehe `hier <{filename}/Allgemein/es-ist-eine-messingeule.rst>`__
+Siehe `hier <{static}/Allgemein/es-ist-eine-messingeule.rst>`__
 
-.. |Puppe01| image:: {filename}/images/Puppe01-150x150.jpg
+.. |Puppe01| image:: {static}/images/Puppe01-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1002
    :width: 150px
    :height: 150px
-   :target: {filename}/images/Puppe01.jpg
-.. |Puppe06| image:: {filename}/images/Puppe06-150x150.jpg
+   :target: {static}/images/Puppe01.jpg
+.. |Puppe06| image:: {static}/images/Puppe06-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1003
    :width: 150px
    :height: 150px
-   :target: {filename}/images/Puppe06.jpg
-.. |Puppe07| image:: {filename}/images/Puppe07-150x150.jpg
+   :target: {static}/images/Puppe06.jpg
+.. |Puppe07| image:: {static}/images/Puppe07-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1004
    :width: 150px
    :height: 150px
-   :target: {filename}/images/Puppe07.jpg
-.. |Puppe08| image:: {filename}/images/Puppe08-150x150.jpg
+   :target: {static}/images/Puppe07.jpg
+.. |Puppe08| image:: {static}/images/Puppe08-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1005
    :width: 150px
    :height: 150px
-   :target: {filename}/images/Puppe08.jpg
-.. |schlupfglas1| image:: {filename}/images/schlupfglas1-150x150.jpg
+   :target: {static}/images/Puppe08.jpg
+.. |schlupfglas1| image:: {static}/images/schlupfglas1-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1006
    :width: 150px
    :height: 150px
-   :target: {filename}/images/schlupfglas1.jpg
-.. |Schlupfglas2| image:: {filename}/images/Schlupfglas2-150x150.jpg
+   :target: {static}/images/schlupfglas1.jpg
+.. |Schlupfglas2| image:: {static}/images/Schlupfglas2-150x150.jpg
    :class: alignleft size-thumbnail wp-image-1007
    :width: 150px
    :height: 150px
-   :target: {filename}/images/Schlupfglas2.jpg
+   :target: {static}/images/Schlupfglas2.jpg

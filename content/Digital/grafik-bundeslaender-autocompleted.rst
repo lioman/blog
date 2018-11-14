@@ -29,8 +29,8 @@ Erde - aber in Bayern, Bremen und Schleswig-Holstein ist man darüber
 bestens informiert. Und Sachsen-Anhalt?  Da interessiert man sich vor
 allen Dingen für den eigenen Das-Land-Lebe-Hoch-Tag.
 
-.. |Bundeslaender_autocompleted| image:: {filename}/images/Bundeslaender_autocompleted.png
+.. |Bundeslaender_autocompleted| image:: {static}/images/Bundeslaender_autocompleted.png
    :class: aligncenter size-full wp-image-2536
    :width: 500px
    :height: 646px
-   :target: {filename}/images/Bundeslaender_autocompleted.png
+   :target: {static}/images/Bundeslaender_autocompleted.png

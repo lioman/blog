@@ -11,7 +11,7 @@ vitamintalent.com hat eine Infografik zur Geschichte von Webstandards
 veröffentlicht. Alles in allem sehr informativ. Die Grafik hier führt
 zum Orginalartikel mit dem kompletten Bild.\ |image0|
 
-.. |image0| image:: {filename}/images/web-standards-direction2b.jpg
+.. |image0| image:: {static}/images/web-standards-direction2b.jpg
    :class: aligncenter
    :width: 350px
    :height: 400px

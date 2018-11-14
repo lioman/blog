@@ -37,21 +37,21 @@ Currents-Suche
 
 Und hier zum Scannen noch die QR-Codes:
 
-.. figure:: {filename}/images/currents_android.png
+.. figure:: {static}/images/currents_android.png
    :align: left
    :alt: QR für Android
 
    Google Currents im Play Store
 
-.. figure:: {filename}/images/currents_ios.png
+.. figure:: {static}/images/currents_ios.png
    :align: left
    :alt: QR für iOs
 
    Google Currents für `iOS <http://itunes.apple.com/us/app/google-currents/id459182288>`__
 
-.. figure:: {filename}/images/currents_blog.png
+.. figure:: {static}/images/currents_blog.png
    :align: left
 
    Mein Blog bei Google Currents
 
-.. |image0| image:: {filename}/images/googlecurrents.png
+.. |image0| image:: {static}/images/googlecurrents.png

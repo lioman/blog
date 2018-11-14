@@ -16,8 +16,8 @@ vernum)* <https://secure.wikimedia.org/wikipedia/de/wiki/M%C3%A4rzenbecher>`__
 
 |image0|
 
-.. |image0| image:: {filename}/images/maerzenbecher-225x300.jpg
+.. |image0| image:: {static}/images/maerzenbecher-225x300.jpg
    :class: aligncenter size-medium wp-image-2907
    :width: 306px
    :height: 409px
-   :target: {filename}/images/maerzenbecher.jpg
+   :target: {static}/images/maerzenbecher.jpg

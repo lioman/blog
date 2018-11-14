@@ -166,8 +166,8 @@ Das Ergebnis war gleich spürbar. Das Blog ist deutlich schneller im
 Seitenaufbau und gut sieht es immer noch aus - Oder gibt es da andere
 Meinungen?
 
-.. |image0| image:: {filename}/images/ubuntufont.png
+.. |image0| image:: {static}/images/ubuntufont.png
    :class: alignleft size-full wp-image-3275
    :width: 208px
    :height: 798px
-   :target: {filename}/images/ubuntufont.png
+   :target: {static}/images/ubuntufont.png

@@ -17,6 +17,6 @@ weil ich irgendeine Veranstaltung rund um Linux/Ubuntu erwartet hatte.
 Doch ich frage mich nun, ob das schon dreister Logoklau ist oder ob
 diese Grafik etwas ganz Neues ist.
 
-.. |image| image:: {filename}/images/wpid-imag1192-1.jpg
+.. |image| image:: {static}/images/wpid-imag1192-1.jpg
    :class: alignright
-   :target: {filename}/images/wpid-imag1192-11.jpg
+   :target: {static}/images/wpid-imag1192-11.jpg

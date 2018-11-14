@@ -50,28 +50,28 @@ Ich hoffe ich habe nun alle Wünsche bezüglich nackter Tatsachen erfüllt.
 Weitere Artikel dieser Art werden vermutlich nicht folgen, denn dieser
 ganze Fruchtsaft ist so klebrig und macht eine ganz schöne Sauerei.
 
-.. |image0| image:: {filename}/images/schwarze-pflaume-300x235.jpg
+.. |image0| image:: {static}/images/schwarze-pflaume-300x235.jpg
    :class: alignright size-medium wp-image-1932
    :width: 300px
    :height: 235px
-   :target: {filename}/images/schwarze-pflaume.jpg
-.. |image1| image:: {filename}/images/nackte-pflaume001-300x169.jpg
+   :target: {static}/images/schwarze-pflaume.jpg
+.. |image1| image:: {static}/images/nackte-pflaume001-300x169.jpg
    :class: alignleft size-medium wp-image-5015
    :width: 300px
    :height: 169px
-   :target: {filename}/images/nackte-pflaume001.jpg
-.. |image2| image:: {filename}/images/nackte-pflaume002-300x169.jpg
+   :target: {static}/images/nackte-pflaume001.jpg
+.. |image2| image:: {static}/images/nackte-pflaume002-300x169.jpg
    :class: alignright size-medium wp-image-5016
    :width: 300px
    :height: 169px
-   :target: {filename}/images/nackte-pflaume002.jpg
-.. |image3| image:: {filename}/images/nackte-pflaume003.jpg
+   :target: {static}/images/nackte-pflaume002.jpg
+.. |image3| image:: {static}/images/nackte-pflaume003.jpg
    :class: alignleft size-full wp-image-5017
    :width: 267px
    :height: 239px
-   :target: {filename}/images/nackte-pflaume003.jpg
-.. |image4| image:: {filename}/images/nackte-pflaume004-300x193.jpg
+   :target: {static}/images/nackte-pflaume003.jpg
+.. |image4| image:: {static}/images/nackte-pflaume004-300x193.jpg
    :class: alignright size-medium wp-image-5018
    :width: 300px
    :height: 193px
-   :target: {filename}/images/nackte-pflaume004.jpg
+   :target: {static}/images/nackte-pflaume004.jpg

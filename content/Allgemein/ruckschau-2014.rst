@@ -32,13 +32,13 @@ Jahr bin.
 Besucherstatistiken
 -------------------
 
-.. figure:: {filename}/images/Geraete2014.png
+.. figure:: {static}/images/Geraete2014.png
    :alt: Geräte der Leser 2014
    :align: right
    :class: size-full wp-image-5692
    :width: 494px
    :height: 250px
-   :target: {filename}/images/Geraete2014.png
+   :target: {static}/images/Geraete2014.png
 
    Geräte der Leser im Jahr 2014
 
@@ -48,13 +48,13 @@ großen Bildschirm hier an. 72% sind es genauer gesagt. Doch auch mobil
 gab es einige Besucher und es sind sogar ein paar mehr geworden. Das hat
 mich nicht wirklich gewundert.
 
-.. figure:: {filename}/images/OS2014.png
+.. figure:: {static}/images/OS2014.png
    :alt: Betriebssysteme der Leser 2014
    :align: left
    :class: size-full wp-image-5694
    :width: 494px
    :height: 250px
-   :target: {filename}/images/OS2014.png
+   :target: {static}/images/OS2014.png
 
    Betriebssysteme der Leser im Jahre 2014
 

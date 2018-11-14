@@ -14,8 +14,8 @@ erste Version war.
 Einen Überblick über alle vergangenen Versionen gibt es
 `hier <http://ikhaya.ubuntuusers.de/2011/10/20/herzlichen-glueckwunsch-ubuntu-alles-gute-zum-siebenjaehrigen/>`__.
 
-.. |image0| image:: {filename}/images/ubuntulogo.png
+.. |image0| image:: {static}/images/ubuntulogo.png
    :class: alignright size-full
    :width: 190px
    :height: 194px
-   :target: {filename}/images/ubuntulogo.png
+   :target: {static}/images/ubuntulogo.png

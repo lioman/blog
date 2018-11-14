@@ -58,7 +58,7 @@ dann so aus:
 
 |image0| und kann bei Google+ oder sonstwo hochgeladen werden.
 
-.. |image0| image:: {filename}/images/landing.gif
+.. |image0| image:: {static}/images/landing.gif
    :class: aligncenter size-full wp-image-3532
    :width: 300px
    :height: 132px

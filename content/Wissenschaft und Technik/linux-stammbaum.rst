@@ -50,8 +50,8 @@ Ubuntu. Es ist einigermaßen intuitiv, unterstützt sehr viel Hardware und
 es gibt eine wirklich starke `Comunnity <http://www.ubuntuusers.de>`__,
 die einem schnell bei allerlei Problemen hilft.
 
-.. |linstammbaum| image:: {filename}/images/linstammbaum-150x150.png
+.. |linstammbaum| image:: {static}/images/linstammbaum-150x150.png
    :class: aligncenter size-thumbnail wp-image-1163
    :width: 150px
    :height: 150px
-   :target: {filename}/images/linstammbaum.png
+   :target: {static}/images/linstammbaum.png

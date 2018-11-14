@@ -56,7 +56,7 @@ die Hauptseite ist leider nur in Englisch verfügbar.
 ich mich dazu entschlossen dieses Thema noch einmal zu vertiefen. Es
 gibt also bald Neues.*
 
-.. |Buch auf Reisen| image:: {filename}/images/runningbook33.gif
+.. |Buch auf Reisen| image:: {static}/images/runningbook33.gif
    :class: size-full wp-image-439 aligncenter
    :width: 33px
    :height: 33px

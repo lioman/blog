@@ -64,7 +64,7 @@ Vorgehensweise
    Hand und gibt so lange lauwarmes Wasser dazu, bis ein geschmeidiger
    Teig entsteht, der nicht an den Händen kleben darf.
 
-   .. image:: {filename}/images/Oliven-Tomatenbaguettes001.jpg
+   .. image:: {static}/images/Oliven-Tomatenbaguettes001.jpg
       :alt: Aufgehender Teig mit Oliven und Tomatenstückchen
 
 #. Den Ofen heizt man nun auf 200°C hoch (wenn man Umluft hat ansonsten
@@ -76,7 +76,7 @@ Vorgehensweise
    ordentlich mit einem Olivenöl-Wassergemisch ein. Bevor die Brote in
    den Ofen kommen lässt man sie nochmals ca. 10 Minuten gehen.
 
-   .. image:: {filename}/images/Oliven-Tomatenbaguettes002.jpg
+   .. image:: {static}/images/Oliven-Tomatenbaguettes002.jpg
       :alt: Rohe Baguettes auf einem Blech
 
 #. Die Brote müssen 10 Minuten bei 200° Umluft backen. dann schaltet man
@@ -85,7 +85,7 @@ Vorgehensweise
 #. Die Baguettes sind nach 20-30 Minuten knusprig und fertig und können
    zum Abkühlen aus dem Ofen geholt werden.
    
-   .. image:: {filename}/images/oliven-tomatenbaguettes\_klein.jpg
+   .. image:: {static}/images/oliven-tomatenbaguettes\_klein.jpg
       :alt: Gebackene Baguettes mit Oliven
 
 -----

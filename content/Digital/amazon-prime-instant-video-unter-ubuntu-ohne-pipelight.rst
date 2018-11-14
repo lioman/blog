@@ -23,12 +23,12 @@ offiziell nicht für Linux. Die Lösungen mit
 `Pipelight <http://pipelight.net/cms/>`__ hatten bei mir nie
 zufriedenstellende Ergebnisse gebracht.
 
-.. figure:: {filename}/images/amazon_video_einstellungen-1024x207.png
+.. figure:: {static}/images/amazon_video_einstellungen-1024x207.png
    :alt: Amazon-Einstellungen
    :class: size-large wp-image-5637
    :width: 620px
    :height: 125px
-   :target: {filename}/images/amazon_video_einstellungen.png
+   :target: {static}/images/amazon_video_einstellungen.png
 
    Amazon Videoplayer-Einstellungen
 

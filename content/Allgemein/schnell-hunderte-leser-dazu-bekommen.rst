@@ -15,8 +15,8 @@ Wenn du zu wenig Leser hast, dann druck sie dir doch einfach aus.
 
 |image0|
 
-.. |image0| image:: {filename}/images/Leserdrucker.png
+.. |image0| image:: {static}/images/Leserdrucker.png
    :class: aligncenter
    :width: 800px
    :height: 572px
-   :target: {filename}/images/Leserdrucker.png
+   :target: {static}/images/Leserdrucker.png

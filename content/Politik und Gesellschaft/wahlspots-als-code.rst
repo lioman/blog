@@ -48,17 +48,17 @@ ebenfalls veröffentlichen.
 `Piraten <http://www.youtube.com/watch?v=orDCo_N-JNE>`__ und der
 `ÖDP <http://www.youtube.com/watch?v=ecPZV_tGN68>`__ hinzugefügt
 
-.. |colorbar_gruene| image:: {filename}/images/gruene-colorbar-150x150.jpg
-   :target: {filename}/images/gruene-colorbar.jpg
-.. |colorbar_spd| image:: {filename}/images/spd-colorbar-150x150.jpg
-   :target: {filename}/images/spd-colorbar.jpg
-.. |colorbar_cdu| image:: {filename}/images/cdu-colorbar-150x150.jpg
-   :target: {filename}/images/cdu-colorbar.jpg
-.. |colorbar_linke| image:: {filename}/images/linken-colorbar-150x150.jpg
-   :target: {filename}/images/linken-colorbar.jpg
-.. |colorbar_fdp| image:: {filename}/images/fdp-colorbar-150x150.jpg
-   :target: {filename}/images/fdp-colorbar.jpg
-.. |colorbar_piraten| image:: {filename}/images/piratenpartei-colorbar-150x150.jpg
-   :target: {filename}/images/piratenpartei-colorbar.jpg
-.. |colorbar_oedp| image:: {filename}/images/oedp-colorbar-150x150.jpg
-   :target: {filename}/images/oedp-colorbar.jpg
+.. |colorbar_gruene| image:: {static}/images/gruene-colorbar-150x150.jpg
+   :target: {static}/images/gruene-colorbar.jpg
+.. |colorbar_spd| image:: {static}/images/spd-colorbar-150x150.jpg
+   :target: {static}/images/spd-colorbar.jpg
+.. |colorbar_cdu| image:: {static}/images/cdu-colorbar-150x150.jpg
+   :target: {static}/images/cdu-colorbar.jpg
+.. |colorbar_linke| image:: {static}/images/linken-colorbar-150x150.jpg
+   :target: {static}/images/linken-colorbar.jpg
+.. |colorbar_fdp| image:: {static}/images/fdp-colorbar-150x150.jpg
+   :target: {static}/images/fdp-colorbar.jpg
+.. |colorbar_piraten| image:: {static}/images/piratenpartei-colorbar-150x150.jpg
+   :target: {static}/images/piratenpartei-colorbar.jpg
+.. |colorbar_oedp| image:: {static}/images/oedp-colorbar-150x150.jpg
+   :target: {static}/images/oedp-colorbar.jpg

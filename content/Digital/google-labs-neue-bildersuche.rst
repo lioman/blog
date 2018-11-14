@@ -28,13 +28,13 @@ einfach selber anschauen: Image-Swirl: Freiburg
 
    </p>
 
-.. |image-swirl1| image:: {filename}/images/image-swirl1-150x150.png
+.. |image-swirl1| image:: {static}/images/image-swirl1-150x150.png
    :class: aligncenter size-thumbnail wp-image-1122
    :width: 150px
    :height: 150px
-   :target: {filename}/images/image-swirl1.png
-.. |image-swirl| image:: {filename}/images/image-swirl-150x150.png
+   :target: {static}/images/image-swirl1.png
+.. |image-swirl| image:: {static}/images/image-swirl-150x150.png
    :class: aligncenter size-thumbnail wp-image-1123
    :width: 150px
    :height: 150px
-   :target: {filename}/images/image-swirl.png
+   :target: {static}/images/image-swirl.png

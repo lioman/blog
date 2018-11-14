@@ -11,7 +11,7 @@ Wow ich habe einen Tätschel-Award von
 `Fellmonster <http://fellmonster.wordpress.com>`__ bekommen, als *Kenner
 aller globaler Schweinebande*.  Tja, hier ist mein Award:
 
-.. figure:: {filename}/images/fellmonster_taetschel-300x287.jpg
+.. figure:: {static}/images/fellmonster_taetschel-300x287.jpg
    :alt: Tätschelaward von Fellmonster
    :class: size-medium wp-image-667
    :width: 300px

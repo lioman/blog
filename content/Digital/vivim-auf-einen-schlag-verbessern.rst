@@ -7,10 +7,10 @@ Vi/Vim auf einen Schlag verbessern
 :slug: vivim-auf-einen-schlag-verbessern
 :status: published
 
-.. figure:: {filename}/images/Icon-Vim.png
+.. figure:: {static}/images/Icon-Vim.png
    :alt: vim icon
    :align: right
-   :target: {filename}/images/Icon-Vim.png
+   :target: {static}/images/Icon-Vim.png
 
    `Icon-Vim <https://commons.wikimedia.org/wiki/File:Icon-Vim.svg#mediaviewer/File:Icon-Vim.svg>`__ \ 
    von `User:ZyMOS <//commons.wikimedia.org/wiki/User:ZyMOS>`__,\ for the 
@@ -45,10 +45,10 @@ aktivieren. Ist Vim einmal mit  sudo apt-get install vim installiert,
 kann man  das Programm perfekt auf die eigenen Bedürfnisse anpassen und
 der Editor bleibt trotzdem sehr schlank und performant.
 
-.. figure:: {filename}/images/vim_zenmode-300x159.png
+.. figure:: {static}/images/vim_zenmode-300x159.png
    :alt: mit ,z kommt man in den Zenmode
    :align: left
-   :target: {filename}/images/vim_zenmode.png
+   :target: {static}/images/vim_zenmode.png
 
    mit ",z" kommt man in den Zenmode
 

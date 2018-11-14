@@ -48,8 +48,8 @@ Folge 010 des URLcamps:
    keinen schriftlich niedergelegten Regeln folgt und exakt niemandem
    verantwortlich ist, steuert die größte Makroökonomie der Welt.[…]*
 
-.. |image0| image:: {filename}/images/wegweiser_klein.jpg
+.. |image0| image:: {static}/images/wegweiser_klein.jpg
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: {filename}/images/wegweiser_klein.jpg
+   :target: {static}/images/wegweiser_klein.jpg

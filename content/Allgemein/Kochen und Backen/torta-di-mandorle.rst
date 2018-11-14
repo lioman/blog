@@ -73,10 +73,10 @@ bei mir hier nicht ganz dicht - geht die Torta in der Mitte stärker hoch
 und bricht auf.
 
  
-.. |teig| image::  {filename}/images/torta_di_mandorle_teig.jpg
+.. |teig| image::  {static}/images/torta_di_mandorle_teig.jpg
 
-.. |aus_ofen| image::  {filename}/images/torta_di_mandorle_frisch_aus_dem_ofen.jpg
+.. |aus_ofen| image::  {static}/images/torta_di_mandorle_frisch_aus_dem_ofen.jpg
 
-.. |fertig| image::  {filename}/images/torta_di_mandorle.jpg
+.. |fertig| image::  {static}/images/torta_di_mandorle.jpg
 
-.. |form| image::  {filename}/images/torta_di_mandorle_form.jpg
+.. |form| image::  {static}/images/torta_di_mandorle_form.jpg

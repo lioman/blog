@@ -53,8 +53,8 @@ Minuten). Noch den Tracking-Code integrieren und fertig. das Tool
 übernimmt den Rest. Und wie Piwik aussieht, kann man in einer
 `Online-Demo <http://piwik.org/demo/>`__ sehen.
 
-.. |piwik1| image:: {filename}/images/piwik1.jpg
+.. |piwik1| image:: {static}/images/piwik1.jpg
    :class: alignright size-full wp-image-1060
    :width: 182px
    :height: 80px
-   :target: {filename}/images/piwik1.jpg
+   :target: {static}/images/piwik1.jpg

@@ -21,12 +21,12 @@ bin ich auf Finn gestoßen. Die Universalhalterung besteht aus einem
 Stück Silikon, welches das Smartphone wirklich sicher am Fahrrad
 festhält.
 
-.. figure:: {filename}/images/finn.png
+.. figure:: {static}/images/finn.png
    :alt: Finn
    :class: size-full wp-image-5412
    :width: 890px
    :height: 201px
-   :target: {filename}/images/finn.png
+   :target: {static}/images/finn.png
 
    Die Halterung für jedes Smartphone und Fahrrad
 

@@ -7,7 +7,7 @@ SPAMBlüten - Das schmeckt sicher nicht
 :slug: spamblueten-das-schmeckt-sicher-nicht
 :status: published
 
-.. figure:: {filename}/images/spam-300x157.jpg
+.. figure:: {static}/images/spam-300x157.jpg
    :align: right
    :alt: Spam-Konservendose
    :class: size-medium wp-image-5482

@@ -20,8 +20,8 @@ die Flutwelle überlebt haben.
 .. youtube:: yp9iJ3pPuL8
    :class: youtube-16x9
 
-.. |image0| image:: {filename}/images/artikel_nuklear.png
+.. |image0| image:: {static}/images/artikel_nuklear.png
    :class: alignleft size-full wp-image-2926
    :width: 117px
    :height: 117px
-   :target: {filename}/images/artikel_nuklear.png
+   :target: {static}/images/artikel_nuklear.png

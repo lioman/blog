@@ -9,5 +9,5 @@ Die großen Weltenlenker
 
 |image|
 
-.. |image| image:: {filename}/images/wpid-2012-09-07_08-33-09-1.jpg
-   :target: {filename}/images/wpid-2012-09-07_08-33-09-11.jpg
+.. |image| image:: {static}/images/wpid-2012-09-07_08-33-09-1.jpg
+   :target: {static}/images/wpid-2012-09-07_08-33-09-11.jpg

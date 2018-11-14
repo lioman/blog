@@ -24,10 +24,10 @@ Hier noch ein paar Bilder
 |messingeule2|
 
 
-.. |messingeule1| image:: {filename}/images/messingeule0001-150x150.jpg
+.. |messingeule1| image:: {static}/images/messingeule0001-150x150.jpg
    :class: alignleft size-full wp-image-3275
-   :target: {filename}/images/messingeule0001.jpg
+   :target: {static}/images/messingeule0001.jpg
 
-.. |messingeule2| image:: {filename}/images/messingeule0002-150x150.jpg
+.. |messingeule2| image:: {static}/images/messingeule0002-150x150.jpg
    :class: alignleft size-full wp-image-3275
-   :target: {filename}/images/messingeule0002.jpg
+   :target: {static}/images/messingeule0002.jpg

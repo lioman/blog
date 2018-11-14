@@ -7,7 +7,7 @@ Die Bücherbox besucht...
 :status: published
 
 Vor einiger Zeit habe ich ein `kleines Blogprojekt
-vorgestell <{filename}/Allgemein/blog-buch-box.rst>`__\ t. Eine
+vorgestell <{static}/Allgemein/blog-buch-box.rst>`__\ t. Eine
 Kiste voll Bücher reist von Blog zu Blog und jeder darf sich daraus
 etwas nehmen. Hier jetzt die Teilnehmerliste. *(Bei mindestens 5
 Teilnehmern schicke ich die Box auf die Reise)* Wenn es einen Artikel
@@ -60,8 +60,8 @@ Kommentar/einen Pingback ab oder schickt mir eine Mail.
 |                          | de/>`__                  |                          |
 +--------------------------+--------------------------+--------------------------+
 
-.. |image0| image:: {filename}/images/book_box-150x150.png
+.. |image0| image:: {static}/images/book_box-150x150.png
    :class: aligncenter size-thumbnail wp-image-4343
    :width: 40px
    :height: 40px
-   :target: {filename}/images/book_box.png
+   :target: {static}/images/book_box.png

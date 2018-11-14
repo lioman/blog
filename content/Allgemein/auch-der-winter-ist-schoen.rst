@@ -13,8 +13,8 @@ der Winter ist auch schön, man muss nur hinschauen:
 
 |image0|
 
-.. |image0| image:: {filename}/images/Blatt_im_Schnee.jpg
+.. |image0| image:: {static}/images/Blatt_im_Schnee.jpg
    :class: aligncenter size-full wp-image-2564
    :width: 469px
    :height: 626px
-   :target: {filename}/images/Blatt_im_Schnee.jpg
+   :target: {static}/images/Blatt_im_Schnee.jpg

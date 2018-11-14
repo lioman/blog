@@ -260,12 +260,12 @@ habe.
 -  `Mein erster Androide und wie soll ich ihn
    befüllen <http://www.lioman.de/2012/07/mein-erster-androide-und-wie-soll-ich-ihn-befuellen-2/>`__:
    **24** comments
--  `Blog Buch Box <{filename}/Allgemein/blog-buch-box.rst>`__:
+-  `Blog Buch Box <{static}/Allgemein/blog-buch-box.rst>`__:
    **22** comments
 -  `Logoklau? <http://www.lioman.de/2012/11/logoklau/>`__: **18**
    comments
 -  `Die Bücherbox
-   besucht... <{filename}/Allgemein/die-buecherbox-besucht.rst>`__:
+   besucht... <{static}/Allgemein/die-buecherbox-besucht.rst>`__:
    **17** comments
 -  `Befreie deinen
    Router <http://www.lioman.de/2012/05/befreie-deinen-router/>`__:
@@ -291,7 +291,7 @@ Topa <http://tomasz.topa.pl/>`__ bearbeitet, da *Word Stats* nicht mehr
 so richtig will. Näheres dazu gibt es aber
 `hier <http://www.lioman.de/plugins-scripte/2012-summary/>`__.
 
-.. figure:: {filename}/images/stats2012_laender.png
+.. figure:: {static}/images/stats2012_laender.png
    :alt: Blogbesucher 2012 nach Ländern
    :align: left
 
@@ -304,7 +304,7 @@ meisten Besucher eben aus dem deutschsprachigen Raum. Unter *"Andere"*
 verbergen sich übrigens wirklich aller Herren Länder. Soweit so
 uninteressant. Kommen wir zu etwas Anderen.
 
-.. figure:: {filename}/images/stats2012_browser-e1357638742260.png
+.. figure:: {static}/images/stats2012_browser-e1357638742260.png
    :align: left
    :alt: Browserbesuche
 
@@ -319,7 +319,7 @@ hier. Immer mehr nutzen jetzt Tablets und Smartphones um im Internet zu
 surfen. So haben 2011 noch 3% dieses Blog mit tastaturlosen Geräten
 besucht nun sind es **10%** .
 
-.. figure:: {filename}/images/stats2012_mobil_vs_desktop.png
+.. figure:: {static}/images/stats2012_mobil_vs_desktop.png
    :align: right
    :alt: Mobil vs Desktop
 
@@ -331,7 +331,7 @@ gibt. Gerade Lowcost-Androiden eignen sich perfekt als kleine
 Surfmaschinen, da dafür weder extrem gute Prozessoren/viel
 Arbeitsspeicher usw. benötigt werden.
 
-.. figure:: {filename}/images/stats2012_os-e1357640059635.png
+.. figure:: {static}/images/stats2012_os-e1357640059635.png
    :align: left
    :alt: Besucher nach OS
 

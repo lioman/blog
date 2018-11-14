@@ -6,12 +6,12 @@
 :slug: 52-buecher-woche-6-magisches
 :status: published
 
-.. figure:: {filename}/images/nilsholgersson-219x300.jpg
+.. figure:: {static}/images/nilsholgersson-219x300.jpg
    :alt: Buchdeckel Nils Holgersson
    :align: right
    :width: 219px
    :height: 300px
-   :target: {filename}/images/nilsholgersson.jpg
+   :target: {static}/images/nilsholgersson.jpg
 
    Buchdeckel Nils Holgersson
 

@@ -16,7 +16,7 @@ Urheberrechtsverletzungen im Netz mit Entzug bestrafen will selbst
 darüber
 `stolpert. <https://netzpolitik.org/2011/doppelmoral-siegfried-kauder-und-das-urheberrecht/>`__
 
-.. |image0| image:: {filename}/images/kaudern.jpg
+.. |image0| image:: {static}/images/kaudern.jpg
    :class: size-full wp-image-3749 alignright
    :width: 494px
    :height: 173px

@@ -24,6 +24,6 @@ verkleinert diese um Bandbreite zu sparen.
 Das funktioniert auch ganz gut und so kann man auch gut von unterwegs
 bloggen.
 
-.. |image0| image:: {filename}/images/bild156.jpg
+.. |image0| image:: {static}/images/bild156.jpg
    :class: alignnone size-full wp-image-6
-   :target: {filename}/images/bild156.jpg
+   :target: {static}/images/bild156.jpg

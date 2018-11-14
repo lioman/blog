@@ -13,7 +13,7 @@ saftige Sauerkirschen werden.
 
 |image0|
 
-.. |image0| image:: {filename}/images/kirschbluete.jpg
+.. |image0| image:: {static}/images/kirschbluete.jpg
    :class: aligncenter
    :width: 640px
    :height: 480px

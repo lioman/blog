@@ -44,11 +44,11 @@ Zwei Probleme gibt es dabei.
   konfiguriert auch das Gerät darüber.  Da dies selbsterklärend ist,
   verliere ich keine weiteren Worte dazu.
 
-.. figure:: {filename}/images/prey_uebersicht.png
+.. figure:: {static}/images/prey_uebersicht.png
    :alt: Übersichtsdialog in Prey
    :width: 216px
    :height: 384px
-   :target: {filename}/images/prey_uebersicht.png
+   :target: {static}/images/prey_uebersicht.png
 
    Übersichtsdialog in Prey
 
@@ -104,13 +104,13 @@ ein Erklärvideo:
 
 http://vimeo.com/18728980
 
-.. |image0| image:: {filename}/images/prey_logo.png
+.. |image0| image:: {static}/images/prey_logo.png
    :class: alignright size-full wp-image-4870
    :width: 600px
    :height: 188px
 
-.. |image2| image:: {filename}/images/prey_test-168x300.png
+.. |image2| image:: {static}/images/prey_test-168x300.png
    :class: alignright size-medium wp-image-4877
    :width: 168px
    :height: 300px
-   :target: {filename}/images/prey_test.png
+   :target: {static}/images/prey_test.png

@@ -22,8 +22,8 @@ die Japaner haben gezögert.
 | Ich weiß, dass das nur eine sehr, sehr grobe Näherung ohne
   Berücksichtigung von Geographie und Meteorologie ist.
 
-.. |image0| image:: {filename}/images/biblis_gau_karte.png
+.. |image0| image:: {static}/images/biblis_gau_karte.png
    :class: aligncenter size-full wp-image-2976
    :width: 748px
    :height: 393px
-   :target: {filename}/images/biblis_gau_karte.png
+   :target: {static}/images/biblis_gau_karte.png

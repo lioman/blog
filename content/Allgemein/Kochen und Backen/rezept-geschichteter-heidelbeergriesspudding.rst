@@ -7,7 +7,7 @@ Rezept: Geschichteter Heidelbeergrießpudding
 :slug: rezept-geschichteter-heidelbeergriesspudding
 :status: published
 
-.. image:: {filename}/images/heidelbeer-griesspudding.jpg
+.. image:: {static}/images/heidelbeer-griesspudding.jpg
     :align: right
     :height: 420px
     :width: 513px

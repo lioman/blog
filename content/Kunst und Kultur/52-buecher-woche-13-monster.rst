@@ -34,4 +34,4 @@
 
 | Es ist ein spannender Politthriller mitten im Kalten Krieg.
 | Wer das Buch lesen möchte sollte sich mal meine
-  `Blogaktion <{filename}/Allgemein/blog-buch-box.rst>`__ anschauen
+  `Blogaktion <{static}/Allgemein/blog-buch-box.rst>`__ anschauen

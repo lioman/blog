@@ -7,7 +7,7 @@ Schau mir in die Augen...
 :slug: schau-mir-in-die-augen
 :status: published
 
-.. figure:: {filename}/images/froschlaich.jpg
+.. figure:: {static}/images/froschlaich.jpg
    :alt: Froschlaich
    :width: 500px
    :height: 375px

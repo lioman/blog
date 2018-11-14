@@ -7,7 +7,7 @@
 :slug: 1-des-himmels-in-einem-9-gigapixelbild
 :status: published
 
-.. figure:: {filename}/images/milchstrasse_9gigapixel.jpg
+.. figure:: {static}/images/milchstrasse_9gigapixel.jpg
    :alt: Ausschnitt aus dem 9 Gigapixelbild des ESO
    :align: right
 

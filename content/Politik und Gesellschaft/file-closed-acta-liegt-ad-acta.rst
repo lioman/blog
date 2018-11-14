@@ -6,12 +6,12 @@ File Closed - #ACTA liegt ad acta
 :slug: file-closed-acta-liegt-ad-acta
 :status: published
 
-.. figure:: {filename}/images/acta.jpg
+.. figure:: {static}/images/acta.jpg
    :alt: Akten mit Acta
    :class: size-full wp-image-4858
    :width: 1279px
    :height: 961px
-   :target: {filename}/images/acta.jpg
+   :target: {static}/images/acta.jpg
 
    Orginalbild von `Living in
    Monrovia <https://secure.flickr.com/photos/livinginmonrovia/>`__

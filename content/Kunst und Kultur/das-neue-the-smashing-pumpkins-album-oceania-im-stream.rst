@@ -14,11 +14,11 @@ immer wieder Musik über
 `Album <http://www.tonspion.de/musik/smashing-pumpkins/musik/639532>`__
 zum Download ins Netz stellen.
 
-.. figure:: {filename}/images/spoceania.png
+.. figure:: {static}/images/spoceania.png
    :alt: Screenshot spoceania stream
    :width: 400px
    :height: 253px
-   :target: {filename}/images/spoceania.png
+   :target: {static}/images/spoceania.png
 
    Screenshot von SPOCEANIA.com Auch das neuste Album Oceania das, laut Wikipedia,
    mam 19. Juni bei EMI erscheinen soll, ist wieder im Netz anhörbar.

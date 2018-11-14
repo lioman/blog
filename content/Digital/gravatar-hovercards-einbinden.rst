@@ -1115,10 +1115,10 @@ Skript herunterladen und bearbeiten. Ohne Tracker sieht es dann so aus
     wp_enqueue_script( 'gprofiles', '/wp-includes/js/Hovercard.js', array( 'jquery' ), 'e', TRUE );
     ?>
 
-.. |image0| image:: {filename}/images/hovercard.jpg
+.. |image0| image:: {static}/images/hovercard.jpg
    :class: alignleft size-full wp-image-2160
    :width: 521px
    :height: 240px
-   :target: {filename}/images/hovercard.jpg
+   :target: {static}/images/hovercard.jpg
 .. |\\.\\| image:: \http://s.gravatar.com/images/throbber.gif\
 

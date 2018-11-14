@@ -7,7 +7,7 @@ Kleines Projekt: Mapstats - Statistiken auf einer D3.js Karte
 :slug: kleines-projekt-mapstats-statistiken-auf-einer-d3-js-karte
 :status: published
 
-.. figure:: {filename}/images/mapstats_karte.png
+.. figure:: {static}/images/mapstats_karte.png
    :class: wp-image-5814
    :width: 400px
    :height: 401px

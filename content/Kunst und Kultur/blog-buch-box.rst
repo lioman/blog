@@ -43,7 +43,7 @@ Projektteilnehmer noch eine ähnlich grandiose Auswahl haben.
 Da ich keine zentrale Liste von Adressen veröffentlichen will müssen wir
 uns da etwas anderes überlegen. Derzeit schwebt mir vor einfach eine
 `Liste der teilnehmenden Blogs hier
-reinzustellen <{filename}/Allgemein/die-buecherbox-besucht.rst>`__\ und
+reinzustellen <{static}/Allgemein/die-buecherbox-besucht.rst>`__\ und
 jeder kann dann seinen Nachfolger direkt über dessen Blog kontaktieren.
 Sollte das nicht funktionieren, weil nicht jeder ein Kontakformular o.ä.
 hat könnte ich auch jeweils die entsprechende Mailadresse schicken. Was
@@ -94,8 +94,8 @@ Fragen zum Projekt:
 
 *Bild: `nicubunu <http://openclipart.org/user-detail/nicubunu>`__*
 
-.. |image0| image:: {filename}/images/book_box.png
+.. |image0| image:: {static}/images/book_box.png
    :class: alignright size-full wp-image-4343
    :width: 200px
    :height: 200px
-   :target: {filename}/images/book_box.png
+   :target: {static}/images/book_box.png

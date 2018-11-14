@@ -26,7 +26,7 @@ neben einem Glas Rotwein bestehen können. Meine Eulen habe ich mit
 Bergkäse oder Appenzeller vorstellen. Die Eulenausstechform gibt es
 unter anderem bei `Amazon <https://smile.amazon.de/St%C3%A4dter-Ausstechform-Eule-Edelstahl-Silber/dp/B004X17604>`_
 
-.. image:: {filename}/images/kaeseeulen.jpg
+.. image:: {static}/images/kaeseeulen.jpg
     :width: 200px
     :align: right
     :height: 220px

@@ -7,7 +7,7 @@ Heute ist EarthHour und Youtube nimmt auch Teil
 :slug: heute-ist-earthhour-und-youtube-nimmt-auch-teil
 :status: published
 
-.. figure:: {filename}/images/yt_earthhour.png
+.. figure:: {static}/images/yt_earthhour.png
    :alt: Schalter zur Earthhour
    :align: left
 

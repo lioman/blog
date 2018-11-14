@@ -52,8 +52,8 @@ Wie immer gilt: Wer nicht weiß was er beim aufspielen alternativer
 Firmwares tut und was das für Folgen haben kann, sollte es lieber
 lassen. Ich übernehme keine Garantien für eventuell zerstörte Geräte.
 
-.. |dd-wrt_logo| image:: {filename}/images/dd-wrt_logo.png
+.. |dd-wrt_logo| image:: {static}/images/dd-wrt_logo.png
    :class: alignright size-full wp-image-4561
    :width: 208px
    :height: 40px
-   :target: {filename}/images/dd-wrt_logo.png
+   :target: {static}/images/dd-wrt_logo.png

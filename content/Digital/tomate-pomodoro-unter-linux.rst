@@ -22,13 +22,13 @@ usw. Nach vier *Pomodoros* macht man eine längere Pause von 20-30
 Minuten und lässt auch hier alle Arbeit ruhen.
 
 
-.. figure:: {filename}/images/tomate-300x300.png
+.. figure:: {static}/images/tomate-300x300.png
    :alt: Logo des Programms Tomate
    :align: right
    :class: wp-image-5700 size-medium
    :width: 300px
    :height: 300px
-   :target: {filename}/images/tomate.png
+   :target: {static}/images/tomate.png
 
    Logo des Programms Tomate
 

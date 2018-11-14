@@ -15,8 +15,8 @@ Dieses Foto habe ich diesen Sommer gemacht, es zeigt den Kelch einer
 `Akelei <https://secure.wikimedia.org/wikipedia/de/wiki/Akelei>`__ von
 unten.
 
-.. |image0| image:: {filename}/images/akelei.jpg
+.. |image0| image:: {static}/images/akelei.jpg
    :class: aligncenter size-full wp-image-2671
    :width: 950px
    :height: 713px
-   :target: {filename}/images/akelei.jpg
+   :target: {static}/images/akelei.jpg

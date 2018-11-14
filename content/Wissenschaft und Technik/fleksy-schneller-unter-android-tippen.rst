@@ -10,13 +10,13 @@ Fleksy - schneller unter Android tippen
 Tastaturen unter Android
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: {filename}/images/wpid-wp-1424349595807-176x300.png
+.. figure:: {static}/images/wpid-wp-1424349595807-176x300.png
    :alt: Fleksy mit Zahlenreihe
    :align: left
    :class: wp-image-5719 size-medium
    :width: 176px
    :height: 300px
-   :target: {filename}/images/wpid-wp-1424349595807.png
+   :target: {static}/images/wpid-wp-1424349595807.png
 
    Die Tastatur Fleksy im Markdowneditor mit Zahlenreihe
 
@@ -51,13 +51,13 @@ Worten wie *hskko* wird das erwünschte Hallo. Außerdem muss man für das
 Umschalten zwischen den Vorschlägen nicht den Schreibbereich verlassen,
 sondern erreicht das erwünschte Ergebnis durch wischen und Gesten.
 
-.. figure:: {filename}/images/wpid-wp-1424349527553-176x300.png
+.. figure:: {static}/images/wpid-wp-1424349527553-176x300.png
    :alt: Fleksy
    :align: left
    :class: alignleft size-medium wp-image-5720
    :width: 176px
    :height: 300px
-   :target: {filename}/images/wpid-wp-1424349527553.png
+   :target: {static}/images/wpid-wp-1424349527553.png
 
 
 Möchte man noch Sonderfunktionen oder
@@ -70,13 +70,13 @@ unsichtbaren Tastatur bekommt man sogar Badges.
 Training ist alles
 ~~~~~~~~~~~~~~~~~~
 
-.. figure:: {filename}/images/wpid-wp-1424349371333-176x300.png
+.. figure:: {static}/images/wpid-wp-1424349371333-176x300.png
    :alt: Fleksy Badges
    :align: right
    :class: wp-image-5721 size-medium
    :width: 176px
    :height: 300px
-   :target: {filename}/images/wpid-wp-1424349371333.png
+   :target: {static}/images/wpid-wp-1424349371333.png
             
    Allerlei Badges und Statistiken
 

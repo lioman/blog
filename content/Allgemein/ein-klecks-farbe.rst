@@ -18,8 +18,8 @@ Blog und auf die Bildschirme.
 Wen es interessiert: das ist eine
 `Zinie <https://secure.wikimedia.org/wikipedia/de/wiki/Zinnie>`__
 
-.. |ZinniaViolacea| image:: {filename}/images/zinie.jpg
+.. |ZinniaViolacea| image:: {static}/images/zinie.jpg
    :class: aligncenter size-full wp-image-2650
    :width: 900px
    :height: 675px
-   :target: {filename}/images/zinie.jpg
+   :target: {static}/images/zinie.jpg

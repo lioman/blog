@@ -31,8 +31,8 @@ liebe Fahrradfahrer:
 **ÖLT VERDAMMT NOCHMAL EURE KETTE!**
 
 
-.. |Fahrrad| image:: {filename}/images/fahrrad.jpg
+.. |Fahrrad| image:: {static}/images/fahrrad.jpg
    :class: alignright size-full wp-image-5357
    :width: 250px
    :height: 364px
-   :target: {filename}/images/fahrrad.jpg
+   :target: {static}/images/fahrrad.jpg

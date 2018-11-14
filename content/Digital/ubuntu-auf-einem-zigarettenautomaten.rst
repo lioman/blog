@@ -18,7 +18,7 @@ Ubuntu auf einem Zigarettenautomaten
   auch das Handy griffbereit. Das Bild hat er mir freundlicherweise zur
   Verfügung gestellt.
 
-.. figure:: {filename}/images/ubuntu_zigarettenautomat.jpg
+.. figure:: {static}/images/ubuntu_zigarettenautomat.jpg
    :alt: ubuntu auf Zigarettemautomat
    :align: center
 

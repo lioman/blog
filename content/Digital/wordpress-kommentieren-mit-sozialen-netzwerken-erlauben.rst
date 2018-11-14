@@ -15,10 +15,10 @@ anderen Seiten und Diensten in eingebaut, kann man sich recht einfach
 mit dem großen Netzwerk anmelden oder registrieren. Das ist praktisch
 und senkt die Hürde sich anzumelden ungemein.
 
-.. figure:: {filename}/images/wordpress_com-commentform-300x144.png
+.. figure:: {static}/images/wordpress_com-commentform-300x144.png
    :align: right
    :alt: Wordpress.com Kommentarformular
-   :target: {filename}/images/wordpress_com-commentform.png
+   :target: {static}/images/wordpress_com-commentform.png
 
    Wordpress.com Kommentarformular
 
@@ -47,10 +47,10 @@ das Dashboard. Nun muss man noch die Daten der unterschiedlichen
 Netzwerke eingeben. Auf der Einstellungsseite des Plugins ist eigentlich
 alles hinreichend für jedes einzelne Netzwerk erklärt.
 
-.. figure:: {filename}/images/wps_facebook-einstellungen-300x195.png
+.. figure:: {static}/images/wps_facebook-einstellungen-300x195.png
    :alt: Einstellungen des Wordpress Social Login Plugins
    :align: right
-   :target: {filename}/images/wps_facebook-einstellungen.png
+   :target: {static}/images/wps_facebook-einstellungen.png
 
    Einstellungen des *"Wordpress Social Login"* Plugins
 
@@ -70,12 +70,12 @@ PHP-Konfiguration die Variable *REGISTER\_GLOBALS* auf *"Off"* stellen
 kommt es zu anderen Problemen hilft der Diagnosemodus des Plugins unter
 "Help & Support" weiter.
 
-.. figure:: {filename}/images/wordpress_social_logins_kommentarfeld-300x254.png
+.. figure:: {static}/images/wordpress_social_logins_kommentarfeld-300x254.png
    :alt: Kommentarfeld
    :align: left
    :width: 300px
    :height: 254px
-   :target: {filename}/images/wordpress_social_logins_kommentarfeld.png
+   :target: {static}/images/wordpress_social_logins_kommentarfeld.png
 
    Kommentarfeld mit Social Logins
 
