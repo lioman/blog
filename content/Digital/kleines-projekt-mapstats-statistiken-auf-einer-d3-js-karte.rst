@@ -16,7 +16,7 @@ Kleines Projekt: Mapstats - Statistiken auf einer D3.js Karte
    Mit dem Flugzeug beförderte Passagiere in Europa
 
 Ich bastel gerade an einem kleinen Projekt und versuche mich an
-der\ `Visualisierung diverser
+der `Visualisierung diverser
 Daten <https://lioman.github.io/mapstats/>`__. Dazu verwende ich die
 wirklich geniale Bibliothek `D3.js <http://d3js.org>`__ und habe mal mit
 einer Karte und europäischen Statistiken von
