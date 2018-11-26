@@ -16,7 +16,7 @@ Die BuchBlogBox ist unterwegs
   nettes, das sich zu lesen und zu beschreiben lohnt.
 | Ich habe ja immer noch die Hoffnung, dass noch ein paar lesewütige
   Blogger dazustoßen und sich für die Box `hier
-  anmelden <{static}/Allgemein/blog-buch-box.rst>`__.
+  anmelden <{static}/Kunst\ und\ Kultur/blog-buch-box.rst>`__.
 
 Hier die Kurzzusammenfassung der Aktion:
 
@@ -31,7 +31,7 @@ auf sein  Blog stellen. Zeit spielt dabei keine wirkliche Rolle - die
 Box muss nicht sofort weitergeschickt werden und auch die Artikel haben
 Zeit. Man soll ja auch in Ruhe lesen können. Alles weitere zur Aktion
 steht im
-`Anfangsartikel <{static}/Allgemein/blog-buch-box.rst>`__. Wo
+`Anfangsartikel <{static}/Kunst\ und\ Kultur/blog-buch-box.rst>`__. Wo
 sich die Box gerade befindet kann man im Artikel "`Die Bücherbox
 besucht... <{static}/Allgemein/die-buecherbox-besucht.rst>`__"
 nachlesen.

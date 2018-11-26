@@ -27,6 +27,7 @@ hier kurz vorstellen möchte.
    :width: 205px
    :height: 60px
    :target: https://en.wikipedia.org/wiki/File:LibrePlan_Logo.png
+   :alt: LibrePlan Logo
 
    Das Bild von `Regocasasnovas <https://commons.wikimedia.org/w/index.php?title=User:Regocasasnovas&action=edit&redlink=1>`__
    steht unter `CC-BY-SA <https://creativecommons.org/licenses/by-sa/3.0/deed.en>`__

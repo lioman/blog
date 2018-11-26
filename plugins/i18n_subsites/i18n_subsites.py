@@ -22,6 +22,10 @@ import locale
 from pelican import signals
 from pelican.generators import ArticlesGenerator, PagesGenerator
 from pelican.settings import configure_settings
+try:
+    from pelican.contents import Draft
+except ImportError:
+    from pelican.contents import Article as Draft
 
 
 # Global vars
@@ -151,7 +155,9 @@ def save_generator(generator):
 
 def article2draft(article):
     '''Transform an Article to Draft'''
-    article.status = 'draft'
+    draft = Draft(article._content, article.metadata, article.settings,
+                  article.source_path, article._context)
+    draft.status = 'draft'
     return draft
 
 
