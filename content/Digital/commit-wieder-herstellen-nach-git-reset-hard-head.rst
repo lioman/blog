@@ -12,7 +12,7 @@ macht!
 
 Folgende Situation:
 
-.. figure:: {filename}/images/Git-logo.png
+.. figure:: {static}/images/Git-logo.png
    :align: right
    :alt: Git logo
    :width: 512px

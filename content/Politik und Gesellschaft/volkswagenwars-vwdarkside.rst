@@ -23,7 +23,7 @@ Schippe und fordert alle dazu auf sich der Rebellion anzuschließen.
 | 
 | **Update:** `Episode II <http://www.youtube.com/v/KjmW3-FY1Ac>`__
 
-.. |image0| image:: {filename}/images/join-the-rebellion.jpg
+.. |image0| image:: {static}/images/join-the-rebellion.jpg
    :class: alignleft size-full wp-image-3329
    :width: 232px
    :height: 29px

@@ -31,8 +31,8 @@ Jetzt überlege ich, ob ich den +1 Button auch hinter einem Skript
 verstecken soll, welches den Knopf erst nach einem Klick lädt. Sicherer
 wäre es, allerdings geht dabei etwas Komfort flöten.
 
-.. |image0| image:: {filename}/images/artikelbild_wordpress.png
+.. |image0| image:: {static}/images/artikelbild_wordpress.png
    :class: alignleft size-full wp-image-3306
    :width: 160px
    :height: 160px
-   :target: {filename}/images/artikelbild_wordpress.png
+   :target: {static}/images/artikelbild_wordpress.png

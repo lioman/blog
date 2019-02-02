@@ -35,7 +35,12 @@ GOOGLE_VERIFICATION = 'BqcGhsYr8KQ8E04PLoinE-PdzUdlvvgxGBxA1M_HRyo'
 BOOTSTRAP_THEME = 'readable'
 BOOTSTRAP_FLUID = False
 PYGMENTS_STYLE = 'solarizedlight'
-DIRECT_TEMPLATES = ('index', 'categories', 'search')
+DIRECT_TEMPLATES = [
+    'index', 
+    'categories', 
+    'search', 
+    'archives',
+    ]
 
 DISPLAY_PAGES_ON_MENU = True
 # DISPLAY_SEARCH_FORM = False
@@ -70,6 +75,10 @@ CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 TAG_URL = 'tag/{slug}'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
+YEAR_ARCHIVE_URL = '{date:%Y}/'
+YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
+MONTH_ARCHIVE_URL= '{date:%Y}/{date:%m}/'
+MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
 PLUGIN_PATHS = [
     'plugins'

@@ -12,7 +12,7 @@ Thunderbird erinnert an Anhänge
 
 Hoffentlich hilfts! Habe schon so oft Mails ohne Anhang verschickt.
 
-.. |image0| image:: {filename}/images/thunderbird_anhang-1024x407.png
+.. |image0| image:: {static}/images/thunderbird_anhang-1024x407.png
    :class: aligncenter size-large wp-image-3526
    :width: 640px
    :height: 254px

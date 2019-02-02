@@ -16,9 +16,9 @@ Schnecke mit Wein und Schnecke nackt.
 Nachtrag: Bilder nochmals hinzugefügt. Die Wordpress-App hat wohl ein
 paar Probleme.
 
-.. |image0| image:: {filename}/images/wpid-imag0714.jpg
+.. |image0| image:: {static}/images/wpid-imag0714.jpg
    :class: aligncenter
-   :target: {filename}/images/wpid-imag07141.jpg
-.. |image1| image:: {filename}/images/wpid-imag0715.jpg
+   :target: {static}/images/wpid-imag07141.jpg
+.. |image1| image:: {static}/images/wpid-imag0715.jpg
    :class: aligncenter
-   :target: {filename}/images/wpid-imag07151.jpg
+   :target: {static}/images/wpid-imag07151.jpg

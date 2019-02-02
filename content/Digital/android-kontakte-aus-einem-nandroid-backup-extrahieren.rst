@@ -7,12 +7,12 @@ Android: Kontakte aus einem Nandroid-Backup extrahieren
 :slug: android-kontakte-aus-einem-nandroid-backup-extrahieren
 :status: published
 
-.. figure:: {filename}/images/Android_robot-252x300.png
+.. figure:: {static}/images/Android_robot-252x300.png
    :alt: Android-Logo
    :class: size-medium wp-image-5563
    :width: 252px
    :height: 300px
-   :target: {filename}/images/Android_robot.png
+   :target: {static}/images/Android_robot.png
 
    Bild von `Google <http://www.android.com/branding.html>`__ steht unter
    `CC-BY-SA <http://creativecommons.org/licenses/by-sa/3.0/deed.de>`__

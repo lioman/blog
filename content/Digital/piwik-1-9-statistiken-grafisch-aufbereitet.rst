@@ -52,7 +52,7 @@ Mit diesen Daten kann man dann weiter arbeiten und seine Seite
 optimieren, um die Verweildauer zu erhöhen. Oder man kann es einfach
 interessant finden und sich an den schicken Grafiken erfreuen.
 
-.. figure:: {filename}/images/transitions.png
+.. figure:: {static}/images/transitions.png
    :align: center
    :alt: Transitions in Piwik
 
@@ -65,4 +65,4 @@ kleinere Bugfixes sondern mal ein echtes neues Feature. Allen Bloggern,
 die Piwik nutzen wollen empfehle ich übrigens das Plugin
 `WP-Piwik <http://wordpress.org/extend/plugins/wp-piwik/>`__
 
-.. |image0| image:: {filename}/images/transitions_icon.png
+.. |image0| image:: {static}/images/transitions_icon.png

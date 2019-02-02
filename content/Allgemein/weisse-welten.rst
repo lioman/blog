@@ -18,8 +18,8 @@ Königreich <http://de.wikipedia.org/wiki/Vereinigtes_Königreich>`__ weiß
 |image0|\ *Quelle: `Nasa Satellite
 Terra <http://rapidfire.sci.gsfc.nasa.gov/gallery/?2010007-0107/GreatBritain.A2010007.1150.1km.jpg>`__*
 
-.. |image0| image:: {filename}/images/GreatBritain.A2010007.1150.1km-231x300.jpg
+.. |image0| image:: {static}/images/GreatBritain.A2010007.1150.1km-231x300.jpg
    :class: aligncenter size-medium wp-image-1222
    :width: 231px
    :height: 300px
-   :target: {filename}/images/GreatBritain.A2010007.1150.1km.jpg
+   :target: {static}/images/GreatBritain.A2010007.1150.1km.jpg

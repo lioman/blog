@@ -28,8 +28,3 @@ TAG_FEED_RSS = 'tag/%s/feed/index.html'
 RSS_FEED_SUMMARY_ONLY = False
 
 DELETE_OUTPUT_DIRECTORY = True
-
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""

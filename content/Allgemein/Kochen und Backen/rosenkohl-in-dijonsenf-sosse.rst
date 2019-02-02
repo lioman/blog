@@ -61,7 +61,7 @@ Instructions
    gar köcheln lassen. (Der Rosenkohl ist gar, wenn man ihn mit einer
    Messerspitze leicht zerteilen kann.
    
-   .. image:: {filename}/images/rosenkohl_pfanne.jpg
+   .. image:: {static}/images/rosenkohl_pfanne.jpg
        :alt: Rosenkohlhälften die in Soße schmoren
 
 #. Rosenkohl abschöpfen und Crème fraîche in die Soße geben.
@@ -70,7 +70,7 @@ Instructions
 #. Die Soße über den Roßenkohl geben(, mit Petersilie garnieren) und
    sofort servieren.
    
-   .. image:: {filename}/images/rosenkohl_polentaschnitten.jpg
+   .. image:: {static}/images/rosenkohl_polentaschnitten.jpg
       :alt: Rosenkohl in Dijonsenfsoße mit Polentaschnitten angerichtet.
     
 

@@ -7,7 +7,7 @@
 :slug: 21-spammer
 :status: published
 
-.. figure:: {filename}/images/spam-300x157.jpg
+.. figure:: {static}/images/spam-300x157.jpg
    :alt: Spam-Konservendose
    :class: size-medium wp-image-5482
    :width: 300px

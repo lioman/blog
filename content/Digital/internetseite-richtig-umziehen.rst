@@ -57,8 +57,8 @@ Copy + Paste Fehler und so sieht es bei diversen Suchmaschinen so aus:
 |blog_google_umleitungsfehler|\ Genau das wollte ich ja verhindern.
 Eine Unerreichbarkeit meiner alten Adresse
 
-.. |blog_google_umleitungsfehler| image:: {filename}/images/blog_google_umleitungsfehler.png
+.. |blog_google_umleitungsfehler| image:: {static}/images/blog_google_umleitungsfehler.png
    :class: aligncenter size-full wp-image-1128
    :width: 552px
    :height: 75px
-   :target: {filename}/images/blog_google_umleitungsfehler.png
+   :target: {static}/images/blog_google_umleitungsfehler.png

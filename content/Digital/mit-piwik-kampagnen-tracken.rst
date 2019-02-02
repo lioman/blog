@@ -36,8 +36,8 @@ Die Ausgabe präsentiert dann allerlei Daten und Grafiken:
 
 |image0|
 
-.. |image0| image:: {filename}/images/PiwikKampagne.png
+.. |image0| image:: {static}/images/PiwikKampagne.png
    :class: aligncenter size-full wp-image-2786
    :width: 686px
    :height: 366px
-   :target: {filename}/images/PiwikKampagne.png
+   :target: {static}/images/PiwikKampagne.png

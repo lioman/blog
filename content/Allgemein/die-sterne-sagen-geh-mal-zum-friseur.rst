@@ -29,12 +29,12 @@ Die Sterne hatten Recht, die Frisuren sind wirklich zum Teil besser -
 gerade die klassische Zopffrisur hat gehalten, was sie optisch
 versprochen hat.
 
-.. |image0| image:: {filename}/images/waagenhaarschnitthoroskop.jpg
+.. |image0| image:: {static}/images/waagenhaarschnitthoroskop.jpg
    :class: aligncenter size-full wp-image-3707
    :width: 850px
    :height: 647px
    :target: http://www.lioman.de/2011/09/die-sterne-sagen-geh-mal-zum-friseur/waagenhaarschnitthoroskop/
-.. |WaageGlatze| image:: {filename}/images/waage_glatze-300x225.jpg
+.. |WaageGlatze| image:: {static}/images/waage_glatze-300x225.jpg
    :class: alignright size-medium wp-image-3705
    :width: 300px
    :height: 225px

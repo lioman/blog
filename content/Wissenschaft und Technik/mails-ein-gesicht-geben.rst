@@ -35,8 +35,8 @@ per E-Mail kann man leicht den Überblick verlieren. Ein Bild ist ein
 einfacher Anhaltspunkt und es ist doch auch schön, wenn einem die
 Liebste über ihrer Mail anlächelt.
 
-.. |image0| image:: {filename}/images/DisplayPhoto.png
+.. |image0| image:: {static}/images/DisplayPhoto.png
    :class: aligncenter size-full wp-image-2477
    :width: 600px
    :height: 518px
-   :target: {filename}/images/DisplayPhoto.png
+   :target: {static}/images/DisplayPhoto.png

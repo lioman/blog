@@ -6,11 +6,11 @@ Kinderfreie Zone
 :slug: kinderfreie-zone
 :status: published
 
-.. figure:: {filename}/images/ende_spielstrasse.png
+.. figure:: {static}/images/ende_spielstrasse.png
    :class: size-full wp-image-5608
    :width: 216px
    :height: 145px
-   :target: {filename}/images/ende_spielstrasse.png
+   :target: {static}/images/ende_spielstrasse.png
 
    `Zeichen 325.2 <https://commons.wikimedia.org/wiki/File:Zeichen_325.2.svg>`__
    von `Andreas06 <//commons.wikimedia.org/w/index.php?title=User:Andreas06&action=edit&redlink=1>`__

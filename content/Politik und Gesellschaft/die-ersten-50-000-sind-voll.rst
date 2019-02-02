@@ -19,7 +19,7 @@ Ich danke allen, die jetzt schon unterzeichnet haben und entschuldige
 mich ganz förmlich für all die nervigen Erinnerungsposts auf FB, Twitter
 und G+. Aber es scheint ja auch ein bisschen geholfen zu haben :-)
 
-.. |image0| image:: {filename}/images/wirspeicherndas_standort_klein-300x215.jpg
+.. |image0| image:: {static}/images/wirspeicherndas_standort_klein-300x215.jpg
    :class: alignleft size-medium wp-image-3680
    :width: 300px
    :height: 215px

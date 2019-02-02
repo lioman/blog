@@ -30,15 +30,15 @@ das auf Wikipedia zu sehen ist:
 
 |messingeule0002|
 
-.. |MessingeuleSchlupfglas| image:: {filename}/images/messingeule0001-150x150.jpg
+.. |MessingeuleSchlupfglas| image:: {static}/images/messingeule0001-150x150.jpg
    :alt: Messingeule in Schlupfglas
    :class: size-thumbnail wp-image-998
    :width: 150px
    :height: 150px
-   :target: {filename}/images/messingeule0001.jpg
+   :target: {static}/images/messingeule0001.jpg
 
-.. |messingeule0002| image:: {filename}/images/messingeule0002-150x150.jpg
+.. |messingeule0002| image:: {static}/images/messingeule0002-150x150.jpg
    :class: alignleft size-thumbnail wp-image-999
    :width: 150px
    :height: 150px
-   :target: {filename}/images/messingeule0002.jpg
+   :target: {static}/images/messingeule0002.jpg

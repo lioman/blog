@@ -43,11 +43,11 @@ TLDs ein und neben Endungen wie .\ *berlin,* dass sich die Stadt Berlin
 sicherte können auch Unternehmen mit entsprechender Größe und dem
 nötigen Kleingeld neue TLDs beantragen.
 
-.. figure:: {filename}/images/gtld_x2-300x208.png
+.. figure:: {static}/images/gtld_x2-300x208.png
    :alt: Google domains
    :width: 300px
    :height: 208px
-   :target: {filename}/images/gtld_x2.png
+   :target: {static}/images/gtld_x2.png
 
    `Goggle <http://google.com>`__ hat 101 neue Domains
    `beantragt <http://googleblog.blogspot.de/2012/05/expanding-internet-domain-space.html>`__.

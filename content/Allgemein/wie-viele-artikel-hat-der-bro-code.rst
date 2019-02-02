@@ -28,8 +28,8 @@ Spannend finde ich, dass die Serie\ `How I Met Your
 Mother <http://www.cbs.com/shows/how_i_met_your_mother/>`__ so populär
 ist, dass nach Barney Stinsons Bro Code so oft gesucht wird.
 
-.. |image0| image:: {filename}/images/wie_viele_artikel.png
+.. |image0| image:: {static}/images/wie_viele_artikel.png
    :class: aligncenter
    :width: 640px
    :height: 147px
-   :target: {filename}/images/wie_viele_artikel.png
+   :target: {static}/images/wie_viele_artikel.png

@@ -15,16 +15,16 @@ Man glaubt gar nicht, was man aus so einem Stück Land rausholen kann. So
 manches Fundstück hat schon seinen Weg zum Recyclinghof gefunden.Dieses
 hier fand ich aber Kurios genug:
 
-.. figure:: {filename}/images/Garantie_vorne-199x300.png
+.. figure:: {static}/images/Garantie_vorne-199x300.png
    :alt: alte Garantiekarte vorne
    :class: size-thumbnail wp-image-1435
-   :target: {filename}/images/Garantie_vorne.png
+   :target: {static}/images/Garantie_vorne.png
 
    Vorne
 
-.. figure:: {filename}/images/Garantiehinten-203x300.png
+.. figure:: {static}/images/Garantiehinten-203x300.png
    :alt: alte Garantiekarte hinten
-   :target: {filename}/images/Garantiehinten.png
+   :target: {static}/images/Garantiehinten.png
 
    Hinten
 
@@ -33,7 +33,7 @@ Jetzt muss ich noch fieberhaft das dazu passende Gerät suchen,
 wahrscheinlich kann ich es morgen gebrauchen, denn es kommt mal wieder
 was auf uns zu:
 
-.. figure:: {filename}/images/schneefront.png
+.. figure:: {static}/images/schneefront.png
    :alt: Satellitenbild
 
    Quelle: Deutscher Wetterdienst

@@ -88,8 +88,8 @@ Laut Wikipedia findet man die LSOs in folgenden Ordnern:
 
 Table: Standard Speicherorte
 
-.. |image0| image:: {filename}/images/LSO-300x139.png
+.. |image0| image:: {static}/images/LSO-300x139.png
    :class: aligncenter size-medium wp-image-2405
    :width: 300px
    :height: 139px
-   :target: {filename}/images/LSO.png
+   :target: {static}/images/LSO.png

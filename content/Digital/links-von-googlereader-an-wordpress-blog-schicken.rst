@@ -37,8 +37,8 @@ Unter jedem Artikel im Reader kann man über *"Senden an"* nun den Link
 an Wordpress weiterschicken. Dabei öffnet sich ein neues Browserfenster
 indem man noch fehlende Daten eintragen kann, wenn man möchte.
 
-.. |image0| image:: {filename}/images/greader_benutzerdefinierter-link.png
+.. |image0| image:: {static}/images/greader_benutzerdefinierter-link.png
    :class: wp-image-4068 aligncenter
    :width: 480px
    :height: 289px
-   :target: {filename}/images/greader_benutzerdefinierter-link.png
+   :target: {static}/images/greader_benutzerdefinierter-link.png

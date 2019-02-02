@@ -135,26 +135,26 @@ Rutsch ins neue Jahr und alles Gute. Vorsätze fürs nächste Blogjahr
 werde ich mir nicht nehmen - ich schau einfach was sich ergibt und
 schreibe, dann darüber.
 
-.. |image0| image:: {filename}/images/Jahresrueckblich2011_Besucherlaender.png
+.. |image0| image:: {static}/images/Jahresrueckblich2011_Besucherlaender.png
    :class: alignright
    :width: 400px
    :height: 202px
-.. |image1| image:: {filename}/images/Blogrueckblick2011_Betriebsysteme.png
+.. |image1| image:: {static}/images/Blogrueckblick2011_Betriebsysteme.png
    :class: alignleft
    :width: 400px
    :height: 202px
-   :target: {filename}/images/Blogrueckblick2011_Betriebsysteme.png
-.. |image2| image:: {filename}/images/Jahresrueckblick2011_Browser.png
+   :target: {static}/images/Blogrueckblick2011_Betriebsysteme.png
+.. |image2| image:: {static}/images/Jahresrueckblick2011_Browser.png
    :class: alignright
    :width: 320px
    :height: 282px
-.. |image3| image:: {filename}/images/Blogrueckblick2011_Suchmaschinen.png
+.. |image3| image:: {static}/images/Blogrueckblick2011_Suchmaschinen.png
    :class: alignleft
    :width: 400px
    :height: 202px
-   :target: {filename}/images/Blogrueckblick2011_Suchmaschinen.png
-.. |image4| image:: {filename}/images/Geschrieben2011.png
+   :target: {static}/images/Blogrueckblick2011_Suchmaschinen.png
+.. |image4| image:: {static}/images/Geschrieben2011.png
    :class: aligncenter
    :width: 800px
    :height: 538px
-   :target: {filename}/images/Geschrieben2011.png
+   :target: {static}/images/Geschrieben2011.png

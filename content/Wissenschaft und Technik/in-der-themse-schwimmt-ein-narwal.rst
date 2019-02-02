@@ -22,8 +22,8 @@ kommenden Ubuntuversion aus der Themse auf.
 
 |image0|
 
-.. |image0| image:: {filename}/images/googleearthnarwhal.png
+.. |image0| image:: {static}/images/googleearthnarwhal.png
    :class: aligncenter size-full wp-image-3073
    :width: 681px
    :height: 469px
-   :target: {filename}/images/googleearthnarwhal.png
+   :target: {static}/images/googleearthnarwhal.png

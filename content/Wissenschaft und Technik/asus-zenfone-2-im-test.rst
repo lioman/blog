@@ -169,6 +169,6 @@ Updates ausgemerzt.  Auch die Kamera ist wirklich sehr gut und Auf die
 Frage von Asus, w\ **ürdet** **ihr es gerne behalten?**, kann ich nur
 mit **Ja** antworten.
 
-.. |AsusZenFone2| image:: {filename}/images/AsusZenFone2.jpg
+.. |AsusZenFone2| image:: {static}/images/AsusZenFone2.jpg
 
-.. |image| image:: {filename}/images/wpid-wp-1447776661746.png
+.. |image| image:: {static}/images/wpid-wp-1447776661746.png

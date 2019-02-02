@@ -22,7 +22,7 @@ auf Normalmaß zurück?
 Vielleicht hat ja irgendjemand antworten. Hier gibt es dank Akismet aber
 kein SPAM
 
-.. |spammonatmai| image:: {filename}/images/spammonatmai.png
+.. |spammonatmai| image:: {static}/images/spammonatmai.png
    :class: alignright size-full wp-image-715
    :width: 283px
    :height: 208px

@@ -19,8 +19,8 @@ in diesem Internet! Alles verbieten, filtern, überwachen."*
 Nachdem die Seite dann gar nicht mehr erreichbar  war - heißt es nun
 (20:46h), dass die Seite überarbeitet wird.
 
-.. |image0| image:: {filename}/images/Uhl-hacked.jpg
+.. |image0| image:: {static}/images/Uhl-hacked.jpg
    :class: alignright
    :width: 400px
    :height: 320px
-   :target: {filename}/images/Uhl-hacked.jpg
+   :target: {static}/images/Uhl-hacked.jpg

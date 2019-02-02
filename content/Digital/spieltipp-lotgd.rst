@@ -64,5 +64,5 @@ einzusteigen kann sich ja mal beim Zwerg Ergol melden:
 
 |signature|
 
-.. |signature| image:: {filename}/images/91775.png
+.. |signature| image:: {static}/images/91775.png
    :target: http://www.lotgd.de/referral.php?r=Ergol

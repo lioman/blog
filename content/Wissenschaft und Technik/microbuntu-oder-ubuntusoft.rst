@@ -32,8 +32,8 @@ System.
 
 Was will man mehr
 
-.. |Microbuntu| image:: {filename}/images/Microbuntu-127x300.png
+.. |Microbuntu| image:: {static}/images/Microbuntu-127x300.png
    :class: alignright size-medium wp-image-880
    :width: 127px
    :height: 300px
-   :target: {filename}/images/Microbuntu.png
+   :target: {static}/images/Microbuntu.png

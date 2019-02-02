@@ -21,8 +21,8 @@ selbst enthält und zum Thema passt. Die Kommentator-URL führt aber dann
 zu irgendeiner Finanzoptimier-/Versicherungsseite und denn Müll muss man
 ja nicht unbedingt weiterverbreiten.
 
-.. |image0| image:: {filename}/images/superspam-199x300.png
+.. |image0| image:: {static}/images/superspam-199x300.png
    :class: alignright size-medium wp-image-5224
    :width: 199px
    :height: 300px
-   :target: {filename}/images/superspam.png
+   :target: {static}/images/superspam.png

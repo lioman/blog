@@ -37,8 +37,8 @@ ganz anderen Licht:
    :width: 640px
    :height: 461px
    :target: http://farm5.static.flickr.com/4112/5213761637_e9f4ecf500_b.jpg
-.. |image2| image:: {filename}/images/Muensterschiff_Winter.jpg
+.. |image2| image:: {static}/images/Muensterschiff_Winter.jpg
    :class: aligncenter size-full wp-image-2446
    :width: 900px
    :height: 625px
-   :target: {filename}/images/Muensterschiff_Winter.jpg
+   :target: {static}/images/Muensterschiff_Winter.jpg

@@ -22,8 +22,8 @@ kann sich entwickeln. Spannend wird es dann, wenn man die Kommentare auf
 G+ in Wordpress importieren kann und Diskussionen so besser in Gang
 kommen.
 
-.. |image0| image:: {filename}/images/gpluslogo.png
+.. |image0| image:: {static}/images/gpluslogo.png
    :class: alignright size-full wp-image-3408
    :width: 119px
    :height: 37px
-   :target: {filename}/images/gpluslogo.png
+   :target: {static}/images/gpluslogo.png

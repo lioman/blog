@@ -7,11 +7,11 @@ Kleine Verbesserungen am Blog
 :slug: kleine-verbesserungen-am-blog
 :status: published
 
-.. figure:: {filename}/images/Tacho.jpg
+.. figure:: {static}/images/Tacho.jpg
    :alt: Tacho
    :width: 240px
    :height: 240px
-   :target: {filename}/images/Tacho.jpg
+   :target: {static}/images/Tacho.jpg
 
    Das Bild von`kusabi <https://www.flickr.com/photos/kusabi/>`__ steht unter
    `CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0/>`__

@@ -26,8 +26,8 @@ musste (bzw. dessen Opengraphfunktion).
 
  
 
-.. |image0| image:: {filename}/images/titeldoppeltgplus.jpg
+.. |image0| image:: {static}/images/titeldoppeltgplus.jpg
    :class: aligncenter size-full wp-image-3964
    :width: 300px
    :height: 147px
-   :target: {filename}/images/titeldoppeltgplus.jpg
+   :target: {static}/images/titeldoppeltgplus.jpg

@@ -14,9 +14,9 @@ Bücherzeug
   komme.
 | Auch ein anderes Bücherprojekt kommt einfach nicht in die Pötte: Mein
   Eigenes!
-| Die `Buch Blog Box <{filename}/Allgemein/blog-buch-box.rst>`__
+| Die `Buch Blog Box <{static}/Kunst\ und\ Kultur/blog-buch-box.rst>`__
   sollte eigentlich ab `fünf
-  Teilnehmern <{filename}/Allgemein/die-buecherbox-besucht.rst>`__
+  Teilnehmern <{static}/Allgemein/die-buecherbox-besucht.rst>`__
   starten, aber ich werde sie jetzt vorzeitig starten und einfach
   hoffen, dass währenddessen noch ein paar Lese- und Blogbegeisterte
   dazu stoßen.
@@ -25,8 +25,8 @@ Ich werde jetzt `Mella <http://buchkritik.org/>`__ als erste auf der
 Liste anschreiben und dann die Box in der nächsten Woche packen und
 losschicken.
 
-.. |image0| image:: {filename}/images/52Buecher-Aufholen.png
+.. |image0| image:: {static}/images/52Buecher-Aufholen.png
    :class: aligncenter
    :width: 356px
    :height: 400px
-   :target: {filename}/images/52Buecher-Aufholen.png
+   :target: {static}/images/52Buecher-Aufholen.png

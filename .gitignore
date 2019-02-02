@@ -2,6 +2,7 @@
 
 # Pelican
 /output/
+/public/
 
 # IDE files
 /.idea/

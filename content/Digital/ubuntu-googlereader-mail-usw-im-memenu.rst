@@ -48,8 +48,8 @@ machen oder man gibt folgende Befehlkette im Terminal ein:
 CloudSN findet man dann unter Anwendungen → Internet und nun kann man
 einfach seine verschiedenen Konten eintragen.
 
-.. |image0| image:: {filename}/images/cloudsn_menue.png
+.. |image0| image:: {static}/images/cloudsn_menue.png
    :class: alignright size-full wp-image-2604
    :width: 338px
    :height: 216px
-   :target: {filename}/images/cloudsn_menue.png
+   :target: {static}/images/cloudsn_menue.png

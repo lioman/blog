@@ -43,4 +43,4 @@ großen Prise bitterer politischer Realität geschrieben. Das Buch ist
 also nicht einfach nur spannend sondern auch informativ.
 
 Dieses Buch landet übrigens in der `Blog Buch
-Box <{filename}/Allgemein/blog-buch-box.rst>`__!
+Box <{static}/Kunst\ und\ Kultur/blog-buch-box.rst>`__!

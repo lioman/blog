@@ -60,16 +60,16 @@ Zubereitung
    auf den Teig legen. Wobei die runde Seite immer nach außen zeigen
    soll.
 
-   .. figure:: {filename}/images/apfelkuchen\_mit\_karamell\_belegen.jpg
+   .. figure:: {static}/images/apfelkuchen\_mit\_karamell\_belegen.jpg
       :alt: Belegen mit Äpfeln
-      :target: {filename}/images/apfelkuchen\_mit\_karamell\_belegen.jpg
+      :target: {static}/images/apfelkuchen\_mit\_karamell\_belegen.jpg
    
 #. Ein paar Butterflöckchen darauf verteilen und in den Ofen
    schieben.
 
-   .. figure:: {filename}/images/apfelkuchen\_mit\_karamell\_butterflocken.jpg
+   .. figure:: {static}/images/apfelkuchen\_mit\_karamell\_butterflocken.jpg
       :alt: Butterflöckchen
-      :target: {filename}/images/apfelkuchen\_mit\_karamell\_butterflocken.jpg
+      :target: {static}/images/apfelkuchen\_mit\_karamell\_butterflocken.jpg
 
 #. Der Kuchen muss 30 Minuten backen.
 #. Nach 20 Minuten das Karamell vorbereiten.
@@ -90,7 +90,7 @@ Zubereitung
 #. Den Kuchen weitere 5 bis 10 Minuten in den Offen schieben. Wenn die
    Karamellglasur anfängt zu blubbern ist der Kuchen fertig.
    
-   .. figure:: {filename}/images/apfelkuchen\_mit\_karamell\_fertig.jpg
+   .. figure:: {static}/images/apfelkuchen\_mit\_karamell\_fertig.jpg
       :alt: Fertige Karamelltarte
    
 #. Komplett auskühlen lassen, in Stücke teilen und servieren.

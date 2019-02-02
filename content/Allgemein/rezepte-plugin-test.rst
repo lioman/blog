@@ -50,7 +50,7 @@ Recipe 1.2.4 <http://www.orgasmicchef.com/easyrecipe/>`__
 
 
 
-.. |image0| image:: {filename}/images/rezepttest.jpg
+.. |image0| image:: {static}/images/rezepttest.jpg
    :class: alignright size-full wp-image-3552
    :width: 257px
    :height: 257px

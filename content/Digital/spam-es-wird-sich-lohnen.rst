@@ -7,7 +7,7 @@
 :slug: spam-es-wird-sich-lohnen
 :status: published
 
-.. figure:: {filename}/images/spam_es_wird_sich_lohnen-1024x98.png
+.. figure:: {static}/images/spam_es_wird_sich_lohnen-1024x98.png
    :alt: Spamnachricht
    :width: 620px
    :height: 59px

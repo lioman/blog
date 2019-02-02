@@ -11,7 +11,7 @@ Als ich heute morgen eine kleine Googlesuche gemacht habe, sprang mir
 gleich etwas ins Auge. Die Ergebnissliste hat sich verändert. Hinter
 jedem Treffer waren 2 Buttons und drunter noch ne Sprechblase.
 
-.. figure:: {filename}/images/searchwiki.png
+.. figure:: {static}/images/searchwiki.png
    :alt: SearchWiki
    :align: center
 

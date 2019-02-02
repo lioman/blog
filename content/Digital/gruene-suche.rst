@@ -45,7 +45,7 @@ die Zusammenarbeit eingestellt.
 nichts, wenn auch nun keine Angaben mehr über die geretteten
 Quadratmeter pro Suche gemacht werden.
 
-.. |forestle| image:: {filename}/images/forestle.gif
+.. |forestle| image:: {static}/images/forestle.gif
    :class: alignright size-full wp-image-862
    :width: 370px
    :height: 110px

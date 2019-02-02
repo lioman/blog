@@ -34,8 +34,8 @@ müssen einfach schauen, wie wir den öffentlichen Raum möglichst sinnvoll
 gemeinsam nutzen so, dass alle, egal welches Gefährt sie in diesem
 Moment nutzen, gut und sicher an ihr Ziel kommen.
 
-.. |autofahrer_radfahrer_arschloecher| image:: {filename}/images/autofahrer_radfahrer_arschloecher.png
+.. |autofahrer_radfahrer_arschloecher| image:: {static}/images/autofahrer_radfahrer_arschloecher.png
    :class: size-full wp-image-5342 alignright
    :width: 500px
    :height: 450px
-   :target: {filename}/images/autofahrer_radfahrer_arschloecher.png
+   :target: {static}/images/autofahrer_radfahrer_arschloecher.png

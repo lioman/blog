@@ -67,8 +67,8 @@ sie alle für Unterstützungswert halte.
     :seamless: yes
 
 
-.. |image0| image:: {filename}/images/push_europe_cent-300x249.jpg
+.. |image0| image:: {static}/images/push_europe_cent-300x249.jpg
    :class: alignright size-full wp-image-3577
    :width: 300px
    :height: 249px
-   :target: {filename}/images/push_europe_cent-300x249.jpg
+   :target: {static}/images/push_europe_cent-300x249.jpg

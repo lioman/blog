@@ -36,8 +36,8 @@ eventuell andere Lösungen beschreibt  `Bug
 Update: Nautilus muss erstmal neu gestartet werden. Ein einfaches
  ``pkill nautilus``  genügt da
 
-.. |image0| image:: {filename}/images/ubuntulogo.png
+.. |image0| image:: {static}/images/ubuntulogo.png
    :class: alignright size-full wp-image-3180
    :width: 190px
    :height: 194px
-   :target: {filename}/images/ubuntulogo.png
+   :target: {static}/images/ubuntulogo.png

@@ -62,8 +62,8 @@ schlicht für fahrlässig.
 
  
 
-.. |image0| image:: {filename}/images/gnupg-logo.png
+.. |image0| image:: {static}/images/gnupg-logo.png
    :class: alignright size-full wp-image-4146
    :width: 150px
    :height: 52px
-   :target: {filename}/images/gnupg-logo.png
+   :target: {static}/images/gnupg-logo.png

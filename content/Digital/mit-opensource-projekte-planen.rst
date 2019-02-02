@@ -21,12 +21,13 @@ können. Es gibt gerade für große Planungen sicher auch alle möglichen
 Bei meiner Recherche bin ich auf zwei interessante Möglichkeiten, die
 hier kurz vorstellen möchte.
 
-.. figure:: {filename}/images/libreplan_logo.png
+.. figure:: {static}/images/libreplan_logo.png
    :align: right
    :class: size-full wp-image-5500
    :width: 205px
    :height: 60px
    :target: https://en.wikipedia.org/wiki/File:LibrePlan_Logo.png
+   :alt: LibrePlan Logo
 
    Das Bild von `Regocasasnovas <https://commons.wikimedia.org/w/index.php?title=User:Regocasasnovas&action=edit&redlink=1>`__
    steht unter `CC-BY-SA <https://creativecommons.org/licenses/by-sa/3.0/deed.en>`__
@@ -56,12 +57,12 @@ und erste Tests waren wirklich vielversprechend. Man kann gut
 Abhängigkeiten von Phasen, etc abbilden, Milestones setzen und recht
 einfach per
 
-.. figure:: {filename}/images/zeitplanung-300x195.png
+.. figure:: {static}/images/zeitplanung-300x195.png
    :align: left
    :alt: Gantt-Chart
    :width: 300px
    :height: 195px
-   :target: {filename}/images/zeitplanung.png
+   :target: {static}/images/zeitplanung.png
 
    Gantt-Chart in LibrePlan
 
@@ -150,7 +151,7 @@ Shared Hoster geeignet. Wären die Abzüge in der B-Note nicht, wäre es
 eine perfekte Software. Aber schon jetzt ist OpenProject für kleinere
 und mittlere Unternehmungen geeignet.
 
-.. |Logo OpenProject| image:: {filename}/images/logo_openproject_foundation.png
+.. |Logo OpenProject| image:: {static}/images/logo_openproject_foundation.png
    :class: alignright size-full wp-image-5518
    :width: 314px
    :height: 96px

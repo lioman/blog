@@ -33,13 +33,13 @@ If you have any questions ask me by commenting here.
 
  
 
-.. |image0| image:: {filename}/images/getlinkmetabox.png
+.. |image0| image:: {static}/images/getlinkmetabox.png
    :class: aligncenter size-full wp-image-4259
    :width: 283px
    :height: 99px
-   :target: {filename}/images/getlinkmetabox.png
-.. |image1| image:: {filename}/images/getlinkmeta_description.png
+   :target: {static}/images/getlinkmetabox.png
+.. |image1| image:: {static}/images/getlinkmeta_description.png
    :class: aligncenter wp-image-4260
    :width: 299px
    :height: 298px
-   :target: {filename}/images/getlinkmeta_description.png
+   :target: {static}/images/getlinkmeta_description.png

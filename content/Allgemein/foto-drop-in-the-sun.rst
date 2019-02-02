@@ -15,8 +15,8 @@ erstaunliche Welten entdecken.
 
 |image0|
 
-.. |image0| image:: {filename}/images/drop_in_the_sun.jpg
+.. |image0| image:: {static}/images/drop_in_the_sun.jpg
    :class: aligncenter
    :width: 400px
    :height: 300px
-   :target: {filename}/images/drop_in_the_sun.jpg
+   :target: {static}/images/drop_in_the_sun.jpg

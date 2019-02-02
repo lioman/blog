@@ -19,6 +19,6 @@ Johannes ist nicht gleich Johannes
   Evangelist, der wirklich das Evangelium auf der griechischen Insel
   geschrieben haben soll.
 
-.. |image0| image:: {filename}/images/28042012021.jpg
+.. |image0| image:: {static}/images/28042012021.jpg
    :class: right size-full wp-image-6
-   :target: {filename}/images/28042012021.jpg
+   :target: {static}/images/28042012021.jpg

@@ -6,12 +6,12 @@ Mittelerde in Zahlen
 :slug: mittelerde-in-zahlen
 :status: published
 
-.. figure:: {filename}/images/lotr_geschlechterverteilung.png
+.. figure:: {static}/images/lotr_geschlechterverteilung.png
    :alt: Verteilung nach Geschlecht
    :class: size-full wp-image-5174
    :width: 293px
    :height: 293px
-   :target: {filename}/images/lotr_geschlechterverteilung.png
+   :target: {static}/images/lotr_geschlechterverteilung.png
             
    `Verteilung der Charaktere in Mittelerde nach Geschlecht. <http://lotrproject.com/statistics/#raceandsex>`__
 

@@ -51,8 +51,8 @@ nicht mehr harmlos nennen.*
 
 **Update**: Artikel leicht modifiziert
 
-.. |image0| image:: {filename}/images/piwik1.jpg
+.. |image0| image:: {static}/images/piwik1.jpg
    :class: alignright size-full wp-image-1921
    :width: 182px
    :height: 80px
-   :target: {filename}/images/piwik1.jpg
+   :target: {static}/images/piwik1.jpg

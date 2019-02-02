@@ -54,8 +54,8 @@ Möglichkeit, neue Flattr zu verdienen - die ich dann wieder verteile.
 Ein Test gibt es auch bei
 `Netzwertig <http://netzwertig.com/2010/04/26/thank-you-economy-ein-erster-blick-auf-flattr/>`__
 
-.. |Clickratio Flattr| image:: {filename}/images/Flattr.png
+.. |Clickratio Flattr| image:: {static}/images/Flattr.png
    :class: alignright size-full wp-image-1529
    :width: 363px
    :height: 188px
-   :target: {filename}/images/Flattr.png
+   :target: {static}/images/Flattr.png

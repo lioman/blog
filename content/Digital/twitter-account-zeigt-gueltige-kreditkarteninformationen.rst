@@ -39,8 +39,8 @@ hoffentlich nicht so schnell wieder.
 via
 `Fakeblog <http://www.fakeblog.de/2012/07/03/twitter-account-twittert-fotos-von-kreditkarten/comment-page-1/>`__
 
-.. |image0| image:: {filename}/images/kreditkarte.jpg
+.. |image0| image:: {static}/images/kreditkarte.jpg
    :class: alignright size-full wp-image-4854
    :width: 374px
    :height: 500px
-   :target: {filename}/images/kreditkarte.jpg
+   :target: {static}/images/kreditkarte.jpg

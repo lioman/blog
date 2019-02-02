@@ -8,9 +8,9 @@ Impressum
 `www.lioman.de <http://www.lioman.de>`__ Ist ein publizististisches Angebot von
 
 |    **Elias Kirchgässner**\
-|    Alter Postweg 15A, 76149 Karlsruhe\
+|    Sinnerstraße 13, 76185 Karlsruhe\
 |    E-Mail: `blog [at] lioman.de <mailto:blog@lioman.de>`__\
-|    GPG-Schlüssel: `8371B35E <{filename}/images/8371b35e.asc>`__\
+|    GPG-Schlüssel: `8371B35E <{static}/images/8371b35e.asc>`__\
 |    Tel.: 015156933605\
 
 #. Inhalt des Onlineangebotes
@@ -45,8 +45,8 @@ Impressum
 
 #. Urheber- und Kennzeichenrecht
     Der Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Grafiken,
-    Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Grafiken, T
-    ondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente,
+    Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Grafiken,
+    Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente,
     Videosequenzen und Texte zurückzugreifen. Alle innerhalb des Internetangebotes genannten und
     ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt
     den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der
@@ -66,4 +66,4 @@ Impressum
     Angaben veröffentlichten Kontaktdaten wie Postanschriften, Telefon- und Faxnummern sowie
     Emailadressen durch Dritte zur Übersendung von nicht ausdrücklich angeforderten Informationen
     ist nicht gestattet. Rechtliche Schritte gegen die Versender von sogenannten Spam-Mails bei
-    Verstössen gegen dieses Verbot sind ausdrücklich vorbehalten.
+    Verstößen gegen dieses Verbot sind ausdrücklich vorbehalten.

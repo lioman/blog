@@ -39,8 +39,8 @@ PayPal an ***paypal@ooodev.org*** oder per Überweisung\ ***:***
 
 ` <http://donate.libreoffice.org/>`__
 
-.. |image0| image:: {filename}/images/LibreOffice_logo.png
+.. |image0| image:: {static}/images/LibreOffice_logo.png
    :class: alignleft size-full wp-image-2815
    :width: 218px
    :height: 45px
-   :target: {filename}/images/LibreOffice_logo.png
+   :target: {static}/images/LibreOffice_logo.png

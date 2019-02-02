@@ -18,8 +18,8 @@ zusammenzufassen.
 .. youtube:: 5ocq6_3-nEw
    :class: youtube-16x9
 
-.. |image0| image:: {filename}/images/tux2.png
+.. |image0| image:: {static}/images/tux2.png
    :class: alignleft size-full wp-image-3079
    :width: 82px
    :height: 98px
-   :target: {filename}/images/tux2.png
+   :target: {static}/images/tux2.png

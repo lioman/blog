@@ -25,8 +25,8 @@ Folge haben können.
 
 Also morgen: Wählen gehen!
 
-.. |image0| image:: {filename}/images/800px-stefanmappus-300x273.jpg
+.. |image0| image:: {static}/images/800px-stefanmappus-300x273.jpg
    :class: alignright size-medium wp-image-3063
    :width: 300px
    :height: 273px
-   :target: {filename}/images/800px-stefanmappus.jpg
+   :target: {static}/images/800px-stefanmappus.jpg
