@@ -4,7 +4,7 @@ URLcamp #011
 :author: Lioman
 :category: Digital
 :series: URLcamp
-:tags: Griechenland, Karten, Links, Politik, Python
+:tags: Politik, Transgender, AI, Starcraft, Games, Amerika
 :slug: urlcamp-011
 :status: published
 
