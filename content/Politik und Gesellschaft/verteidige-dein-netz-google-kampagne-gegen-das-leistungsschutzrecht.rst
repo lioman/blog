@@ -12,6 +12,7 @@ Verteidige Dein Netz! - Google-Kampagne gegen das Leistungsschutzrecht
    :width: 207px
    :height: 97px
    :target: {static}/images/deinnetz_logo.png
+   :alt: Logo von dein Netz
 
    Verteidige Dein Netz! Google Kampagne gegen das Leistungsschutzrecht
 

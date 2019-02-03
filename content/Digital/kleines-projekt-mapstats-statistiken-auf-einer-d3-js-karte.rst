@@ -8,10 +8,10 @@ Kleines Projekt: Mapstats - Statistiken auf einer D3.js Karte
 :status: published
 
 .. figure:: {static}/images/mapstats_karte.png
-   :class: wp-image-5814
    :width: 400px
    :height: 401px
    :target: https://lioman.github.io/mapstats/
+   :alt: Screenshot Karte mit Statistiken
 
    Mit dem Flugzeug beförderte Passagiere in Europa
 

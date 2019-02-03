@@ -51,6 +51,7 @@ Und hier zum Scannen noch die QR-Codes:
 
 .. figure:: {static}/images/currents_blog.png
    :align: left
+   :alt: Google Currents
 
    Mein Blog bei Google Currents
 

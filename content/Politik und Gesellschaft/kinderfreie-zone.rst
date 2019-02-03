@@ -7,10 +7,11 @@ Kinderfreie Zone
 :status: published
 
 .. figure:: {static}/images/ende_spielstrasse.png
-   :class: size-full wp-image-5608
+   :class: size-full
    :width: 216px
    :height: 145px
    :target: {static}/images/ende_spielstrasse.png
+   :alt: Straßenschild Ende der Spielstraße
 
    `Zeichen 325.2 <https://commons.wikimedia.org/wiki/File:Zeichen_325.2.svg>`__
    von `Andreas06 <//commons.wikimedia.org/w/index.php?title=User:Andreas06&action=edit&redlink=1>`__
