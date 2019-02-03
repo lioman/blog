@@ -18,12 +18,12 @@ OUTPUT_PATH = 'public'
 FEED_DOMAIN = SITEURL
 
 FEED_ALL_ATOM = 'feed/atom/index.html'
-CATEGORY_FEED_ATOM = 'category/%s/feed/atom/index.html'
-TAG_FEED_ATOM = 'tag/%s/feed/atom/index.html'
+CATEGORY_FEED_ATOM_URL = 'category/{slug}/feed/atom/index.html'
+TAG_FEED_ATOM_URL = 'tag/{slug}/feed/atom/index.html'
 
 FEED_ALL_RSS = 'feed/index.html'
-CATEGORY_FEED_RSS = 'category/%s/feed/index.html'
-TAG_FEED_RSS = 'tag/%s/feed/index.html'
+CATEGORY_FEED_RSS_URL = 'category/{slug}/feed/index.html'
+TAG_FEED_RSS_URL = 'tag/{slug}/feed/index.html'
 
 RSS_FEED_SUMMARY_ONLY = False
 
