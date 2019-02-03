@@ -70,6 +70,7 @@ zufällig grad' jemand eine dabei?
 Nur dass ich die Wurststulle durch ein großes Schnitzel ersetzen würde.
 
 .. |alles_kaese| image:: {static}/images/alles_kaese-238x300.png
-   :class: alignleft size-medium wp-image-455
+   :class: alignright
    :width: 238px
    :height: 300px
+   :target: {static}/images/alles_kaese.png

@@ -97,9 +97,9 @@ endif
 
 devserver:
 ifdef PORT
-	$(BASEDIR)/develop_server.sh restart $(PORT)
+	$(PELICAN) -r $(INPUTDIR) --listen -p $(PORT)
 else
-	$(BASEDIR)/develop_server.sh restart
+	$(PELICAN) -r $(INPUTDIR) --listen
 endif
 
 stopserver:

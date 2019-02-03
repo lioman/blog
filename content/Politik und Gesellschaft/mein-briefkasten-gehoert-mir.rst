@@ -43,9 +43,6 @@ Ihren Widerspruch eingereicht
 
 http://vimeo.com/41071633
 
- 
-
- 
 
 .. |image0| image:: {static}/images/alle-gegen-bild_logo_500x200.png
    :class: alignright size-full wp-image-4706
