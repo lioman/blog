@@ -86,8 +86,8 @@ PLUGIN_PATHS = [
 
 PLUGINS = [
     'extended_sitemap',
-    'i18n_subsites',
-    'pelican_youtube',
+   'i18n_subsites',
+     'pelican_youtube',
     'series',
     'tipue_search',
     'tag_cloud',
