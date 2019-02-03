@@ -23,7 +23,7 @@ als Einzelbilder exportiert und später mit
 Faszinierend!
 
 .. |Sonneneruption| image:: {static}/images/sonneneruption.png
-   :class: alignright size-full wp-image-3296
+   :class: alignright size-full
    :width: 130px
    :height: 130px
    :target: {static}/images/sonneneruption.png

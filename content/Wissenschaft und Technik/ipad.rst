@@ -3,7 +3,7 @@ IPad
 :date: 2010-01-28 17:37
 :author: Lioman
 :category: Wissenschaft &amp; Technik
-:tags: apple, e reader, hype, ipad, notebook
+:tags: apple, e-reader, hype, ipad, notebook
 :slug: ipad
 :status: published
 
@@ -18,7 +18,7 @@ sie innovativ sein, schlussendlich sind es jedoch Cashcows, die so
 abgeschlossen sind, dass die Software aus dem Hause Microsoft dagegen
 fast schon Open-Source ist.
 
-Wenn das IPad wiklich ein Notebook/Netbook ersetzen soll, dann muss ich
+Wenn das IPad wirklich ein Notebook/Netbook ersetzen soll, dann muss ich
 als Benutzer bestimmen können, welche Programme ich darauf ausführen
 will. Aber Apple nimmt den Nutzer an die Kette und so ist man auf die
 Anwendungen aus dem App-Store angewiesen. Will ich irgendeine schicke,

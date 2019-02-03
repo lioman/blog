@@ -20,7 +20,7 @@ Temperatur, Ladestand der Batterien und Leistung der Solarzellen
 angezeigt sondern auch die aktuelle Position.
 
 .. |image0| image:: {static}/images/solarimpulse_flightdata.png
-   :class: alignright size-full wp-image-4698
+   :class: alignright size-full
    :width: 303px
    :height: 216px
    :target: {static}/images/solarimpulse_flightdata.png

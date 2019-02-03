@@ -13,7 +13,7 @@ Tastaturen unter Android
 .. figure:: {static}/images/wpid-wp-1424349595807-176x300.png
    :alt: Fleksy mit Zahlenreihe
    :align: left
-   :class: wp-image-5719 size-medium
+   :class: size-medium
    :width: 176px
    :height: 300px
    :target: {static}/images/wpid-wp-1424349595807.png
@@ -54,7 +54,7 @@ sondern erreicht das erwünschte Ergebnis durch wischen und Gesten.
 .. figure:: {static}/images/wpid-wp-1424349527553-176x300.png
    :alt: Fleksy
    :align: left
-   :class: alignleft size-medium wp-image-5720
+   :class: alignleft size-medium
    :width: 176px
    :height: 300px
    :target: {static}/images/wpid-wp-1424349527553.png
