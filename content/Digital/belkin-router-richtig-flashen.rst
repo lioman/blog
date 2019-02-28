@@ -9,14 +9,14 @@ Belkin-Router richtig Flashen
 
 Vielleicht sollte der Titel anders lauten: "*Wie startet man beim
 F7D4301 (und manch anderen Belkin Routern) den MiniCFE-Server um
-`dd-wrt <http://dd-wrt.com>`__ richtig aufzuspielen",* denn bei diesem
+`dd-wrt <https://dd-wrt.com>`_ richtig aufzuspielen",* denn bei diesem
 Router habe ich es getestet. Allerdings sollte die Vorgehensweise auch
 bei anderen Routern dieser Firma funktionieren und so ist der Titel eher
 Allgemein gehalten. Wer einen anderen Router hat, kann es gerne
 ausprobieren und
 
-|dd-wrt_logo|\ In meinem Artikel `*Befreie deinen
-Router* <http://www.lioman.de/2012/05/befreie-deinen-router/>`__\ hatte
+|dd-wrt_logo| In meinem Artikel `*Befreie deinen
+Router* <https://www.lioman.de/2012/05/befreie-deinen-router/>`_ hatte
 ich beschrieben, wie man den Router aus dem Hause Belkin mit deutlich
 mehr Funktionen und/oder Performanz ausstatten kann. Die freie
 Router-Software werkelt seitdem  auf meinem Router vor mich hin und wenn
