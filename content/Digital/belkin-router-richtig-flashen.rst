@@ -8,8 +8,8 @@ Belkin-Router richtig Flashen
 :status: published
 
 Vielleicht sollte der Titel anders lauten: "*Wie startet man beim
-F7D4301 (und manch anderen Belkin Routern) den MiniCFE-Server um
-`dd-wrt <https://dd-wrt.com>`_ richtig aufzuspielen",* denn bei diesem
+F7D4301 (und manch anderen Belkin Routern) den MiniCFE-Server um*
+`*dd-wrt* <https://dd-wrt.com>`_ *richtig aufzuspielen",* denn bei diesem
 Router habe ich es getestet. Allerdings sollte die Vorgehensweise auch
 bei anderen Routern dieser Firma funktionieren und so ist der Titel eher
 Allgemein gehalten. Wer einen anderen Router hat, kann es gerne
