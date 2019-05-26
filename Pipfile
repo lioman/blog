@@ -12,6 +12,7 @@ pelican-extended-sitemap = "*"
 pillow = "*"
 bs4 = "*"
 ansible = "*"
+markdown = "*"
 
 [dev-packages]
 pylint = "*"
