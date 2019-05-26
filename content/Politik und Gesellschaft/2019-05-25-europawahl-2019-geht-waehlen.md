@@ -13,4 +13,4 @@ Stimmen viele Menschen in Europa ab und äußern ihren demokratischen Willen, ka
 Wenn wir auch noch die richtigen Parteien wählen, haben wir eventuell auch ein Parlament, welches sich nicht über die jüngeren Generationen hinwegsetzt und für offene Digitalgesetzte einsteht. In denen weder großen Konzernen die komplette Kontrolle über das Internet und seine Inhalte überlassen wird, noch eine weitere Kontrolle und Einschränkung der Freiheit unter dem Deckmantel der Kriminalitätsbekämpfung vollzogen wird.
 Vielleicht haben wir dann ein Parlament, das endlich begreift, dass es nicht mehr reicht nur ein paar Absichtserklärungen abzugeben. Es muss was getan werden und auch radikale Lösungen sind nötig.
 
-Also bis 18:00 UHr sind die Wahllokale offen. Geht wählen!
+Also bis 18:00 Uhr sind die Wahllokale offen. Geht wählen!
