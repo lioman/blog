@@ -1,6 +1,6 @@
 Title: Europawahl 2019 - Geht wählen!
-Date: 2019-05-26 11:55
-Modified: 2019-05-26 11:55
+Date: 2019-05-26 09:00
+Modified: 2019-05-26 09:05
 Tags: Europa, Wahl, Politik, EU
 Slug: europawahl-2019-geht-waehlen
 Authors: Lioman
