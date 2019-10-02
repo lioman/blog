@@ -55,7 +55,7 @@ geht oft nicht lang, dann kann ich den ungenutzten Windows-platz dem
 freien OS einverleiben.
 
 Ich hoffe ich kann mit dieser Erfahrung ein bisschen was zum Planeten
-beitragen und freue mich auf viele neue Leser.
+beitragen und freue mich auf viele neue Leser*innen.
 
 .. |image0| image:: {static}/images/tux2.png
    :class: alignright size-full wp-image-3079

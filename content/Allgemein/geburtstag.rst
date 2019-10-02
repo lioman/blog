@@ -11,6 +11,6 @@ startete ich mit dem sensationellen Artikel `Aufbau </aufbau>`__. Tja
 ich bin zwar schon am Bloggen, aber für dieses Blog bin ich die ganze
 Zei am experimentieren. Neue Versionen einspielen, das Theme anpassen,
 Plugins installieren und unnützes runterzuschmeißen. Es macht Spaß und
-ich habe das Gefühl, dass es auch ein paar Leser gibt.
+ich habe das Gefühl, dass es auch ein paar Leser*innen gibt.
 
 Ach ja, Geschenke sind willkommen :D

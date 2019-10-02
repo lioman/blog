@@ -7,7 +7,7 @@ Das Jahr hat begonnen
 :slug: das-jahr-hat-begonnen
 :status: published
 
-Verehrte Leser, Verehrte Blogger!
+Verehrte Leser*in, Verehrte Blogger!
 
 Ich wünsche euch ein gutes NEUES Jahr.
 
