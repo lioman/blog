@@ -7,8 +7,6 @@ check:
   script:
   - pip install pipenv
   - pipenv check
-  only:
-  - master
   allow_failure: true
 
 pages:
