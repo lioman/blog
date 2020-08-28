@@ -9,7 +9,7 @@ Alles gute zum StarWars-Tag
 Es gibt nur eines dazu zu sagen:  ***May the 4th be with
 you***\ 
 
-.. figure:: {filename}/images/3323128756_3e4e69a351.jpg
+.. figure:: {static}/images/3323128756_3e4e69a351.jpg
    :alt: The Dark Lord
    :align: right
    :width: 320px

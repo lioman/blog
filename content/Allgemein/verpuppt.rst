@@ -20,4 +20,4 @@ Das Hoffe ich zumindestens.
 **Nachtrag**: Dies war die Puppe einer Messingeule, dass hat sich erst
 nach dem Schlüpfen gezeigt.
 
-Siehe `hier <{static}/Allgemein/es-ist-eine-messingeule.rst>`__
+Siehe `hier <{filename}./es-ist-eine-messingeule.rst>`__
