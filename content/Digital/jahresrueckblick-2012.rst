@@ -260,12 +260,12 @@ habe.
 -  `Mein erster Androide und wie soll ich ihn
    befüllen <http://www.lioman.de/2012/07/mein-erster-androide-und-wie-soll-ich-ihn-befuellen-2/>`__:
    **24** comments
--  `Blog Buch Box <{static}/Kunst\ und\ Kultur/blog-buch-box.rst>`__:
+-  `Blog Buch Box <{filename}/Kunst\ und\ Kultur/blog-buch-box.rst>`__:
    **22** comments
 -  `Logoklau? <http://www.lioman.de/2012/11/logoklau/>`__: **18**
    comments
 -  `Die Bücherbox
-   besucht... <{static}/Allgemein/die-buecherbox-besucht.rst>`__:
+   besucht... <{filename}/Allgemein/die-buecherbox-besucht.rst>`__:
    **17** comments
 -  `Befreie deinen
    Router <http://www.lioman.de/2012/05/befreie-deinen-router/>`__:

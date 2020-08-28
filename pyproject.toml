@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "blog"
+version = "0.1.0"
+description = "lioman.de blog"
+authors = ["Elias Kirchgässner <blog@lioman.de>"]
+license = "CC-BY-SA-4.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pelican = "^4.5.0"
+typogrify = "^2.0.7"
+pelican-youtube = "^0.2.0"
+pelican-vimeo = "^0.1.1"
+pillow = "^7.1.1"
+pelican-extended-sitemap = "^1.2.3"
+bs4 = "^0.0.1"
+markdown = "^3.2.1"
+invoke = "^1.4.1"
+pelican-series = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+black = {version = "^20.08b0", allow-prereleases = true}
+
+[tool.poetry.scripts]
+build = "pelican -s publishconf.py"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
