@@ -9,7 +9,7 @@ SITESUBTITLE = "42 ist die Antwort – aber wie lautet die Frage?"
 SITEURL = ""
 LOCALE = "de_DE"
 TIMEZONE = "Europe/Berlin"
-SITELOGO = "images/Artikelbild.png"
+SITELOGO = "/images/Artikelbild.png"
 
 PATH = "content"
 
@@ -43,7 +43,7 @@ JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 
 GOOGLE_VERIFICATION = "BqcGhsYr8KQ8E04PLoinE-PdzUdlvvgxGBxA1M_HRyo"
 
-PYGMENTS_STYLE = "solarizedlight"
+PYGMENTS_STYLE = "solarized"
 DIRECT_TEMPLATES = [
     "index",
     "categories",
