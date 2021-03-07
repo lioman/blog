@@ -26,7 +26,6 @@ STATIC_PATHS = [
     "images",
     "static/robots.txt",
     "static/favicon.ico",
-    
 ]
 
 EXTRA_PATH_METADATA = {
@@ -44,7 +43,9 @@ JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 
 GOOGLE_VERIFICATION = "BqcGhsYr8KQ8E04PLoinE-PdzUdlvvgxGBxA1M_HRyo"
 
-PYGMENTS_STYLE = "solarized"
+PYGMENTS_STYLE = "solarized-light"
+PYGMENTS_STYLE_DARK = "solarized-dark"
+
 DIRECT_TEMPLATES = [
     "index",
     "categories",
@@ -105,11 +106,6 @@ PLUGINS = [
 
 USE_GOOGLE_FONTS = False
 
-# Tags
-TAG_CLOUD_SORTING = "random"
-TAG_CLOUD_STEPS = 5
-TAG_CLOUD_MAX_ITEMS = 40
-
 EXTENDED_SITEMAP_PLUGIN = {
     "priorities": {"index": 1.0, "articles": 0.8, "pages": 0.5, "others": 0.4},
     "changefrequencies": {
@@ -156,4 +152,3 @@ AUTHOR_FEED_RSS = None
 
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
-
