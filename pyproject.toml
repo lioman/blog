@@ -11,12 +11,13 @@ pelican = "^4.5.0"
 typogrify = "^2.0.7"
 pelican-youtube = "^0.2.0"
 pelican-vimeo = "^0.1.1"
-pillow = "^7.1.1"
+pillow = "^8.1.1"
 pelican-extended-sitemap = "^1.2.3"
 bs4 = "^0.0.1"
 markdown = "^3.2.1"
 invoke = "^1.4.1"
 pelican-series = "^1.0.0"
+pelican-neighbors = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^20.08b0", allow-prereleases = true}
