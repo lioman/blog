@@ -26,6 +26,7 @@ STATIC_PATHS = [
     "images",
     "static/robots.txt",
     "static/favicon.ico",
+    
 ]
 
 EXTRA_PATH_METADATA = {
@@ -75,6 +76,7 @@ COPYRIGHT_YEAR = datetime.now().year
 
 TIMEZONE = "Europe/Berlin"
 
+OG_LOCALE = "de_De"
 DEFAULT_LANG = "de"
 DEFAULT_CATEGORY = "Allgemein"
 
@@ -155,4 +157,3 @@ AUTHOR_FEED_RSS = None
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
-OG_LOCALE = "de_De"
