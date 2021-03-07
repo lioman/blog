@@ -1,145 +1,143 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import datetime
 
-AUTHOR = 'Lioman'
-SITENAME = 'Liomans Blog'
-SITESUBTITLE = '42 ist die Antwort – aber wie lautet die Frage?'
-SITEURL = ''
-LOCALE = 'de_DE'
+AUTHOR = "Lioman"
+SITENAME = "Liomans Blog"
+SITESUBTITLE = "42 ist die Antwort – aber wie lautet die Frage?"
+SITEURL = ""
+LOCALE = "de_DE"
 TIMEZONE = "Europe/Berlin"
+SITELOGO = "images/Artikelbild.png"
 
-PATH = 'content'
+PATH = "content"
 
 MARKDOWN = {
-    'extension_configs': {
+    "extension_configs": {
         # 'markdown.extensions.codehilite': {'css_class': 'highlight'},
-        'markdown.extensions.extra': {},
-        'markdown.extensions.meta': {},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
     },
-    'output_format': 'html5',
+    "output_format": "html5",
 }
 
 STATIC_PATHS = [
-    'images',
-    'static/robots.txt',
-    'static/favicon.ico',
-    'static/.htaccess',
+    "images",
+    "static/robots.txt",
+    "static/favicon.ico",
 ]
 
 EXTRA_PATH_METADATA = {
-    'static/robots.txt': {'path': 'robots.txt'},
-    'static/favicon.ico': {'path': 'favicon.ico'},
-    'static/.htaccess': {'path': '.htaccess'},
+    "static/robots.txt": {"path": "robots.txt"},
+    "static/favicon.ico": {"path": "favicon.ico"},
 }
 
-IGNORE_FILES = ['__pycache__']
+IGNORE_FILES = ["__pycache__"]
 
-THEME = 'themes/pelican-bootstrap3'
+THEME = "themes/flex"
 
-JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+HOME_HIDE_TAGS = False
 
-GOOGLE_VERIFICATION = 'BqcGhsYr8KQ8E04PLoinE-PdzUdlvvgxGBxA1M_HRyo'
+JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 
-BOOTSTRAP_THEME = 'readable'
-BOOTSTRAP_FLUID = False
-PYGMENTS_STYLE = 'solarizedlight'
+GOOGLE_VERIFICATION = "BqcGhsYr8KQ8E04PLoinE-PdzUdlvvgxGBxA1M_HRyo"
+
+PYGMENTS_STYLE = "solarizedlight"
 DIRECT_TEMPLATES = [
-    'index', 
-    'categories', 
-    'search', 
-    'archives',
-    ]
+    "index",
+    "categories",
+    "search",
+    "archives",
+]
 
-DISPLAY_PAGES_ON_MENU = True
-# DISPLAY_SEARCH_FORM = False
-DISPLAY_CATEGORIES_ON_MENU = True
-DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
-DISPLAY_CATEGORIES_ON_SIDEBAR = False
-DISPLAY_TAGS_ON_SIDEBAR = True
-DISPLAY_TAGS_INLINE = True
+DISPLAY_PAGES_ON_MENU = False
+MAIN_MENU = True
+MENUITEMS = (
+    ("Allgemein", "/category/allgemein"),
+    ("Digital", "/category/digital"),
+    ("Kunst und Kultur", "/category/kunst-und-kultur"),
+    ("Politik und Gesellschaft", "/category/politik-und-gesellschaft"),
+    ("Wissenschaft und Technik", "/category/wissenschaft-und-technik"),
+)
 
-SHARIFF = True
-SHARIFF_TWITTER_VIA = 'lioman'
-SHARIFF_ORIENTATION = 'vertical'
-SHARIFF_SERVICES = [
-    'twitter', 
-    'facebook', 
-    'linkedin', 
-    'xing',
-    ]
 
 SHOW_ARTICLE_CATEGORY = True
 
-CC_LICENSE = 'CC-BY-SA'
+CC_LICENSE = {
+    "name": "Creative Commons Attribution-ShareAlike",
+    "version": "4.0",
+    "slug": "by-sa",
+    "icon": True,
+    "language": "de_De",
+}
+COPYRIGHT_YEAR = datetime.now().year
 
-TIMEZONE = 'Europe/Berlin'
+TIMEZONE = "Europe/Berlin"
 
-DEFAULT_LANG = 'de'
-DEFAULT_CATEGORY = 'Allgemein'
+DEFAULT_LANG = "de"
+DEFAULT_CATEGORY = "Allgemein"
 
-ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
-CATEGORY_URL = 'category/{slug}/'
-CATEGORY_SAVE_AS = 'category/{slug}/index.html'
-TAG_URL = 'tag/{slug}'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
-YEAR_ARCHIVE_URL = '{date:%Y}/'
-YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
-MONTH_ARCHIVE_URL= '{date:%Y}/{date:%m}/'
-MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
+ARTICLE_URL = "{date:%Y}/{date:%m}/{slug}/"
+ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{slug}/index.html"
+CATEGORY_URL = "category/{slug}/"
+CATEGORY_SAVE_AS = "category/{slug}/index.html"
+TAG_URL = "tag/{slug}"
+TAG_SAVE_AS = "tag/{slug}/index.html"
+YEAR_ARCHIVE_URL = "{date:%Y}/"
+YEAR_ARCHIVE_SAVE_AS = "{date:%Y}/index.html"
+MONTH_ARCHIVE_URL = "{date:%Y}/{date:%m}/"
+MONTH_ARCHIVE_SAVE_AS = "{date:%Y}/{date:%m}/index.html"
+REL_CANONICAL = True
 
-PLUGIN_PATHS = [
-    'plugins'
-]
+PLUGIN_PATHS = ["plugins"]
 
 PLUGINS = [
-    'extended_sitemap',
-   'i18n_subsites',
-     'pelican_youtube',
-    'series',
-    'tipue_search',
-    'tag_cloud',
+    "extended_sitemap",
+    "i18n_subsites",
+    "pelican_youtube",
+    "series",
+    "tipue_search",
+    "neighbors",
 ]
 
+USE_GOOGLE_FONTS = False
+
 # Tags
-TAG_CLOUD_SORTING = 'random'
+TAG_CLOUD_SORTING = "random"
 TAG_CLOUD_STEPS = 5
 TAG_CLOUD_MAX_ITEMS = 40
 
 EXTENDED_SITEMAP_PLUGIN = {
-    'priorities': {
-        'index': 1.0,
-        'articles': 0.8,
-        'pages': 0.5,
-        'others': 0.4
+    "priorities": {"index": 1.0, "articles": 0.8, "pages": 0.5, "others": 0.4},
+    "changefrequencies": {
+        "index": "daily",
+        "articles": "weekly",
+        "pages": "monthly",
+        "others": "monthly",
     },
-    'changefrequencies': {
-        'index': 'daily',
-        'articles': 'weekly',
-        'pages': 'monthly',
-        'others': 'monthly',
-    }
 }
 
 # Blogroll
-LINKS = (
-        ('Pelican', 'http://getpelican.com/'),
-        ('Python.org', 'http://python.org/'),
-        ('OSBN', 'https://osbn.de'),
-         )
+# LINKS = (
+#     # ("Impressum", "/pages/impressum"),
+#     ("Pelican", "http://getpelican.com/"),
+#     ("Python.org", "http://python.org/"),
+#     ("OSBN", "https://osbn.de"),
+# )
 
 # Social widget
 SOCIAL = (
-    ('Twitter', 'https://twitter.com/lioman'),
-    ('Mastodon', 'https://mastodon.social/@lioman'),
-    ('Github', 'https://github.com/lioman'),
-    ('Stackoverflow', 'http://stackoverflow.com/users/3114491/lioman', 'stack-overflow'),
+    ("twitter", "https://twitter.com/lioman"),
+    ("mastodon", "https://mastodon.social/@lioman"),
+    ("github", "https://github.com/lioman"),
+    ("gitlab", "https://gitlab.com/lioman"),
+    ("stack-overflow", "http://stackoverflow.com/users/3114491/lioman"),
 )
 
-TWITTER_USERNAME = 'lioman'
+TWITTER_USERNAME = "lioman"
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 10
 USE_PAGER = True
 
 TYPOGRIFY = True
@@ -152,3 +150,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+OG_LOCALE = "de_De"
