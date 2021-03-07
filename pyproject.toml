@@ -21,6 +21,7 @@ pelican-neighbors = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^20.08b0", allow-prereleases = true}
+livereload = "^2.6.3"
 
 [tool.poetry.scripts]
 build = "pelican -s publishconf.py"
