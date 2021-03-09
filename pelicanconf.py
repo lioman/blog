@@ -53,6 +53,7 @@ DIRECT_TEMPLATES = [
     "archives",
 ]
 
+DISABLE_URL_HASH = True
 DISPLAY_PAGES_ON_MENU = False
 MAIN_MENU = True
 MENUITEMS = (
