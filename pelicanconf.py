@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+
 from datetime import datetime
+
+import pelican_precompress
 
 AUTHOR = "Lioman"
 SITENAME = "Liomans Blog"
@@ -103,7 +106,15 @@ PLUGINS = [
     "series",
     "tipue_search",
     "neighbors",
+    pelican_precompress,
 ]
+
+# PRECOMPRESS_GZIP = True
+# PRECOMPRESS_ZOPFLI = True
+# PRECOMPRESS_BROTLI = True
+# # PRECOMPRESS_OVERWRITE = False
+# # PRECOMPRESS_MIN_SIZE = 20
+
 
 USE_GOOGLE_FONTS = False
 
