@@ -18,5 +18,6 @@ A StarWars Sing-Along: Party with my friends
 
 .. youtube:: eSUH8GnAJdg
    :class: youtube-16x9
+   :nocookie: yes
 
 `via <http://www.seitvertreib.de/2012/04/25/lip-sync-musikvideo-star-wars/>`__

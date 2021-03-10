@@ -25,6 +25,7 @@ Also ganz wichtig Zeichne mit!
 
 .. youtube:: qKySz7eFi3E
    :class: youtube-16x9
+   :nocookie: yes
 
 ..
 

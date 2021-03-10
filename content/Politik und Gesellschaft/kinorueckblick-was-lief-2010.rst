@@ -15,3 +15,4 @@ alles verpasst hat und welche DVDs man nächstes Jahr erstehen kann.
 
 .. youtube:: I4dEWOB6THE
    :class: youtube-16x9
+   :nocookie: yes

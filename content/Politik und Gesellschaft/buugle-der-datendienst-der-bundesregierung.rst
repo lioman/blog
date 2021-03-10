@@ -14,4 +14,5 @@ nimmt. Der Neue Dienst der Bundesregierung Boogle StreetView:
 
 .. youtube:: CKbNE5ql0A
    :class: youtube-16x9
+   :nocookie: yes
 

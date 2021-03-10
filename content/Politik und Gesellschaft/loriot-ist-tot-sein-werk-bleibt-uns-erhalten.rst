@@ -17,6 +17,7 @@ Sein Werk mit all den komischen Momenten bleibt uns Erhalten.
 
 .. youtube:: nJhNUE2tbS8
    :class: youtube-16x9
+   :nocookie: yes
 
 Sketche wie "Die Nudel" gehören zu den absoluten deutschen
 Fernsehklassikern und ich kann mir wohl keine einzige Vorweihnachtszeit

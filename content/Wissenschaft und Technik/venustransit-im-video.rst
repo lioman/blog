@@ -14,6 +14,7 @@ nicht erleben werden bleibt leider nur ein Video der NASA:
 
 .. youtube:: QX6BbP1wAIs
    :class: youtube-16x9
+   :nocookie: yes
 
 Das ist aber umso eindrucksvoller und schöner.
 

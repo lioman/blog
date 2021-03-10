@@ -9,5 +9,5 @@ Samstagskatzencontent: DJ Kittens
 
 .. youtube:: bTLgeqCaYMY
    :class: youtube-16x9
-
+   :nocookie: yes
  

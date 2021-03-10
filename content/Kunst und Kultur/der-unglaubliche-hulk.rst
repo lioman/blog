@@ -41,3 +41,4 @@ Und hier nochmal der Trailer, für alle die ihn noch nicht gesehen haben:
 
 .. youtube:: NWWzve8Z90s
    :class: youtube-16x9
+   :nocookie: yes

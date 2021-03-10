@@ -12,3 +12,4 @@ ich es auch noch hier:
 
 .. youtube:: BjQj05Mr8oU
    :class: youtube-16x9
+   :nocookie: yes

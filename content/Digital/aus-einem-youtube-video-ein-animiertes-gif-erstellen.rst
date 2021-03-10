@@ -26,6 +26,7 @@ für den Firefox oder mit dem kleinen Python-Skript
 
 .. youtube:: HLDG5sNMX2M
    :class: youtube-16x9
+   :nocookie: yes
 
 Das lange Video kann man mit dem Videoschnittprogramm ( Ich habe
 `avidemux <http://avidemux.org/>`__ benutzt)seiner Wahl beschneiden,

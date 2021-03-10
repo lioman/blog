@@ -12,6 +12,7 @@ und auch ich möchte ihn mit ein paar Nebenbemerkungen hier posten.**
 
 .. youtube:: IzF3UGOlVDc
    :class: youtube-16x9
+   :nocookie: yes
 
 Zudem möchte ich noch auf ein paar  andere Seiten verweisen:
 

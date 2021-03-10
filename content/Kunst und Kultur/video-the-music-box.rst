@@ -17,6 +17,7 @@ tolle Tanznummer in die Bude. Ansehen!
 
 .. youtube:: 5ekUyxxpBt0
    :class: youtube-16x9
+   :nocookie: yes
 
 via
 `onecoolthingaday <http://www.onecoolthingaday.com/today/2011/3/30/the-music-box-a-one-man-musical-an-absolute-joy.html>`__

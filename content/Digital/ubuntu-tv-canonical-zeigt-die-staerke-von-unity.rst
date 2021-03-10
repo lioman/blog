@@ -31,6 +31,7 @@ UbuntuTV vor und schalteten ein Video auf Youtube:
 
 .. youtube:: jq_WaOLjdyQ
    :class: youtube-16x9
+   :nocookie: yes
 
 Geht das Konzept auf und schafft man es wirklich das System erfolgreich
 auf TV-Geräte zu portieren, dann könnten natürlich einige TV-Nutzer

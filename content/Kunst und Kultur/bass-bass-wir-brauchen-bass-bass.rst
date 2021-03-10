@@ -13,3 +13,4 @@ Fremschämen Deluxe*
 
 .. youtube:: Fremschämen Deluxe
    :class: youtube-16x9
+   :nocookie: yes

@@ -8,3 +8,4 @@ Eine Band - eine Gitarre - große Musik
 
 .. youtube:: d9NF2edxy-M
    :class: youtube-16x9
+   :nocookie: yes

@@ -23,3 +23,4 @@ Vierfache hochdrehen, was meines Erachtens nicht reicht.
 
 .. youtube:: U1QYMFGEv5M
    :class: youtube-16x9
+   :nocookie: yes

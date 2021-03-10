@@ -18,6 +18,7 @@ Internet weiter voll machen.
 
 .. youtube:: nF8WK9aSFmc
    :class: youtube-16x9
+   :nocookie: yes
 
  
 

@@ -26,6 +26,7 @@ und so wird es auch dieses Mal sein.
 
 .. youtube:: laUJzGMUEI4
    :class: youtube-16x9
+   :nocookie: yes
 
 Man kann sich jetzt darüber streiten, ob es von Qualität zeugt einen
 Journalisten ins europäische Ausland zu schicken, der nicht mal die
@@ -40,6 +41,7 @@ herablassend.
 
 .. youtube:: lLYGPWQ0VjY
    :class: youtube-16x9
+   :nocookie: yes
 
 | Doch sich in seiner (zukünftigen) Position auch die Frage noch
   übersetzen zu lassen, löst bei mir einen sofortigen

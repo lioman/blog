@@ -18,6 +18,7 @@ Beweglichkeit in einer solchen Rüstung ziemlich überrascht bin.
 
 .. youtube:: zvCvOC2VwDc
    :class: youtube-16x9
+   :nocookie: yes
 
 Dazu gibt es ein `Interview <http://www.youtube.com/v/cVLIZWR8k50>`__
 auf Französisch.

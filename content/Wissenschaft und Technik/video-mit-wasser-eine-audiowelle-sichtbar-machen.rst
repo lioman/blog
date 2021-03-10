@@ -15,6 +15,7 @@ Wie das aussieht zeigt das Video von
 
 .. youtube:: uENITui5_jU
    :class: youtube-16x9
+   :nocookie: yes
 
 via `One Cool Thing a
 Day <http://www.onecoolthingaday.com/today/2013/3/13/see-an-actual-sound-wave.html>`__

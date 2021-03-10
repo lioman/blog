@@ -31,3 +31,4 @@ Gibt es andere Einschätzungen zu +1 ?
 
 .. youtube:: OAyUNI3_V2c
    :class: youtube-16x9
+   :nocookie: yes

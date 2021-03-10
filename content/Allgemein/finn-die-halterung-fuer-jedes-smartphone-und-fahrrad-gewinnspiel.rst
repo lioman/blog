@@ -40,6 +40,7 @@ festhält.
 
 .. youtube:: xlKm6EmkEEE
    :class: youtube-16x9
+   :nocookie: yes
 
 Jetzt nutze ich Finn eine Woche und bin immer noch äußerst zufrieden.
 

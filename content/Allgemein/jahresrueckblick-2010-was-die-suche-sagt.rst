@@ -27,3 +27,4 @@ Zusammenfassung als (werbe)Filmchen:
 
 .. youtube:: F0QXB5pw2qE
    :class: youtube-16x9
+   :nocookie: yes

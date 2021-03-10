@@ -8,5 +8,6 @@ Der typische Tatort in 123 Sekunden
 
 .. youtube :: 9QENcN-srE0
    :class: youtube-16x9
+   :nocookie: yes
 
 via \ http://www.walulissiehtfern.de/

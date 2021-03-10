@@ -18,6 +18,7 @@ Buches veröffentliche Films:
 
 .. youtube:: zeIXfdogJbA
    :class: youtube-16x9
+   :nocookie: yes
 
 via
 `YuccaTree <http://yuccatree.de/2010/03/appetizer-erste-verfilmung-von-alice-im-wunderland-aus-dem-jahr-1903-ist-online/>`__

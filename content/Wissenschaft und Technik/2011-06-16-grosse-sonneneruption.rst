@@ -19,6 +19,7 @@ als Einzelbilder exportiert und später mit
 
 .. youtube:: j2B56nDX64E
    :class: youtube-16x9
+   :nocookie: yes
 
 Faszinierend!
 

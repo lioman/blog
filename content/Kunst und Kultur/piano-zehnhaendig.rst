@@ -17,6 +17,7 @@ einem Flügel.
 
 .. youtube:: 0VqTwnAuHws
    :class: youtube-16x9
+   :nocookie: yes
 
 via
 `OneCoolThingADay <http://www.onecoolthingaday.com/today/2012/7/19/5-guys-1-piano.html>`__

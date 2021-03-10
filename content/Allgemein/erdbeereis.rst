@@ -28,3 +28,4 @@ hauptsächlich um die Schnittsoftware
 
 .. youtube:: y4WkcaM-wWk
    :class: youtube-16x9
+   :nocookie: yes

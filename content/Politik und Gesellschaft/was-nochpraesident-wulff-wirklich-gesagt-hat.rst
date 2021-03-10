@@ -13,5 +13,6 @@ sagen [STRIKEOUT:musste] wollte.
 
 .. youtube:: dL2T30O2NQs
    :class: youtube-16x9
+   :nocookie: yes
 
 `via <http://www.wiesaussieht.de/2012/01/04/wulff-mochte-mussen/>`__

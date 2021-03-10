@@ -15,3 +15,4 @@ Clapton und J.J. Cale *Call Me The Breeze*
 
 .. youtube:: l8uk7vlk0sE
    :class: youtube-16x9
+   :nocookie: yes

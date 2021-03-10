@@ -11,7 +11,8 @@ Die Blenderfoundation hat gestern Abend einen neuen 15minütigen Film
 veröffentlicht.
 
 .. youtube:: eRsGyueVLvQ
-    :class: youtube-16x9
+   :class: youtube-16x9
+   :nocookie: yes
 
 Man kann den Film auch in verschiedenen Qualitätsstufen von der Hompage
 `sintel.org <http://www.sintel.org/>`__ herunterladen.

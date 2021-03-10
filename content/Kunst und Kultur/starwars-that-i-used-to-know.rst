@@ -21,6 +21,7 @@ To Know*\ ” von Gotye) zu diesem Thema .
 
 .. youtube:: qJlbPXZEpRE
    :class: youtube-16x9
+   :nocookie: yes
 
 via
 `Gilly <http://blog.gilly.ws/2012/06/27/gotye-parodie-the-star-wars-that-i-used-to-know>`__

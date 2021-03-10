@@ -13,5 +13,5 @@ Button für so manche Situation gewünscht.
 
 .. youtube:: 316AzLYfAzw
    :class: youtube-16x9
-
+   :nocookie: yes
  

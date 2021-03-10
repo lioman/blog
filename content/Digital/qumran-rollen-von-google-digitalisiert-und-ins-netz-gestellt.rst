@@ -30,7 +30,7 @@ betrachten.
 
 .. youtube:: 5rYj_0foJYA
    :class: youtube-16x9
-
+   :nocookie: yes
  
 
 .. |image0| image:: http://upload.wikimedia.org/wikipedia/commons/6/67/Psalms_Scroll.jpg

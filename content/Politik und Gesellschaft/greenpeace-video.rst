@@ -11,4 +11,5 @@ gemacht halte. Außerdem finde ich Greenpeace generell unterstützenswert.
 
 .. youtube:: zVu9eawb1QY
    :class: youtube-16x9
+   :nocookie: yes
 

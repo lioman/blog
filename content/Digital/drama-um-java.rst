@@ -20,3 +20,4 @@ wird da in einem wirklich lustigen Trailer verpackt.***
 
 .. youtube:: gLDFQ_IhnDc
    :class: youtube-16x9
+   :nocookie: yes

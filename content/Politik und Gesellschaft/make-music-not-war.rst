@@ -11,6 +11,7 @@ einfach eine große Party und jeder wäre gerne dabei.
 
 .. youtube :: Pf2zm9j5iig
    :class: youtube-16x9
+   :nocookie: yes
 
 `via <http://www.seitvertreib.de/2011/08/16/das-beste-was-man-mit-einem-panzer-machen-kann/>`__
 

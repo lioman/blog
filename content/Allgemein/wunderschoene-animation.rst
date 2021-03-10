@@ -12,5 +12,6 @@ die Animation ist einfach schön und wirklich gut gemacht:
 
 .. youtube:: LdkcsDueSMM
    :class: youtube-16x9
+   :nocookie: yes
 
 `via <http://www.onecoolthingaday.com/today/2011/10/13/wanna-see-some-beautiful-animation-like-youve-never-seen-bef.html>`__

@@ -17,5 +17,6 @@ Faxe Energiesparlampe
 
 .. youtube:: inC_zWsmuus
    :class: youtube-16x9
+   :nocookie: yes
 
 `via <http://www.fakeblog.de/2011/10/28/hip-hop-aus-osterreich-fuck-se-energiesparlampe/>`__

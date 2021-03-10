@@ -11,6 +11,7 @@ Trag nen Helm  - Jetzt und immer
 
 .. youtube:: nu4QzAIayTU
    :class: youtube-16x9
+   :nocookie: yes
 
 `James
 Cracknell <http://web.archive.org/web/20140512234516/http://www.jamescracknell.com:80/blog/2011/07/20/a_video_appeal_from_james_use_your_head_use_your_helmet-220>`__

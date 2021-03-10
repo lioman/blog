@@ -17,3 +17,4 @@ es auch so meinen Schirm erreicht.
 
 .. youtube:: soAk3F0wX9s
    :class: youtube-16x9
+   :nocookie: yes

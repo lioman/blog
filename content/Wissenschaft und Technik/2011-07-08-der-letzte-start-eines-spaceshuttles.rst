@@ -16,5 +16,6 @@ Video (Screencast Ustream):
 
 .. youtube:: DLHDLuuvxCw
    :class: youtube-16x9
+   :nocookie: yes
 
 Leider ist der Ton abhandengekommen.

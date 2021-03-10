@@ -11,6 +11,7 @@ Falls man noch nicht ganz im neuen Jahr ist und noch ein bisschen
 Sylvester braucht empfehle ich dieses Video:
 
 .. youtube:: q1yLRK2M8YQ
+   :nocookie: yes
 
 Volle 11 Minuten geht dieses wunderschöne Feuerwerk.
 

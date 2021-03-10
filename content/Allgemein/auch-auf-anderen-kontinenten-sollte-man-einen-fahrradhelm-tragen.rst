@@ -9,3 +9,4 @@ Auch auf anderen Kontinenten sollte man einen Fahrradhelm tragen
 
 .. youtube:: S2oymHHyV1M
    :class: youtube-16x9
+   :nocookie: yes

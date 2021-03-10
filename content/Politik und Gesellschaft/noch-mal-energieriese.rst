@@ -17,5 +17,6 @@ freundlich-knuffigen gelulle des RWE-Riesen.
 
 .. youtube:: xZFGYG7acz4
    :class: youtube-16x9
+   :nocookie: yes
 
  

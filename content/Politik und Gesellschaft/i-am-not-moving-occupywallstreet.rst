@@ -8,3 +8,4 @@ I AM NOT MOVING - #occupywallstreet
 
 .. youtube:: RGRXCgMdz9A
    :class: youtube-16x9
+   :nocookie: yes

@@ -16,5 +16,6 @@ auf dem Heimweg immer bergauf muss. Ich fürchte ich muss auf die
 menschliche Rohrpost warten.
 
 .. youtube:: uMe-rpz9cR0
+   :nocookie: yes
 
 via `fudder <http://www.fudder.de>`__

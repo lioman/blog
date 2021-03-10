@@ -13,3 +13,4 @@ John Oliver kommentiert es auf seine Weise in seiner Sendung *"Last Week Tonight
 
 .. youtube:: OjPYmEZxACM
    :class: youtube-16x9
+   :nocookie: yes

@@ -17,6 +17,7 @@ Schippe und fordert alle dazu auf sich der Rebellion anzuschließen.
 
 .. youtube:: nXndQuvOacU
    :class: youtube-16x9
+   :nocookie: yes
 
 | |image0|
 | 

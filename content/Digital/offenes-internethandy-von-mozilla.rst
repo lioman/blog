@@ -18,6 +18,7 @@ fast schon PC-Ersatz werden könnte. Mit projezierter Tastatur und
 
 .. youtube:: oG3tLxEQEdg
    :class: youtube-16x9
+   :nocookie: yes
 
 .. |image0| image:: {static}/images/seabird_2-300x224.jpg
    :class: alignright size-medium wp-image-2062

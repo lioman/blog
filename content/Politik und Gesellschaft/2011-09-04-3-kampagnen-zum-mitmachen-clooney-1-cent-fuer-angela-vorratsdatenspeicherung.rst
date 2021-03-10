@@ -65,6 +65,7 @@ sie alle für Unterstützungswert halte.
     :class: youtube-16x9
     :allowfullscreen: yes
     :seamless: yes
+   :nocookie: yes
 
 
 .. |image0| image:: {static}/images/push_europe_cent-300x249.jpg

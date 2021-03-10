@@ -42,6 +42,7 @@ den Film noch nicht kennt sollte ihn aber ganz sehen.
 
 .. youtube:: DkL6azMwJ-U
    :class: youtube-16x9
+   :nocookie: yes
 
 Auch deutsche Zeitgenossen zogen trotz Repressalien die Nazis durch den
 Kakao.

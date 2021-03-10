@@ -13,6 +13,7 @@ beiden:
 
 .. youtube:: dX_1B0w7Hzc
    :class: youtube-16x9
+   :nocookie: yes
 
 Den Kanal `ERB <https://www.youtube.com/user/ERB?feature=watch>`__ kann
 ich übrigens nur empfehlen.

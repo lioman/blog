@@ -40,6 +40,7 @@ Bilder interessant.
 
 .. youtube:: SBNtEWYX8rQ
    :class: youtube-16x9
+   :nocookie: yes
 
 Ich hatte mir kurz überlegt, auch einen Dowload über Rapidshare
 anzubieten, aber das wäre doch etwas zu viel des Guten, denn wer die

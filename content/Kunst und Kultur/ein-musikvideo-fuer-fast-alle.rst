@@ -18,4 +18,5 @@ verschiedenen Instrumente wie Gitarre , Beat usw. die Musik zu
 verdeutlichen.
 
 .. youtube:: BGRFrUFPdRk
-  :class: youtube-16x9
+   :class: youtube-16x9
+   :nocookie: yes

@@ -18,6 +18,7 @@ eine Eingabe für die *Palme d'or* in Cannes.
 
 .. youtube:: R6MlUcmOul8
    :class: youtube-16x9
+   :nocookie: yes
 
 Der Film ist lizenziert unter (CC) Blender Foundation
 \| \ `mango.blender.org <http://mango.blender.org/>`__

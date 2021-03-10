@@ -12,3 +12,4 @@ aufwändig gemacht.
 
 .. youtube::  m86ae_e_ptU
     :class: youtube-16x9
+   :nocookie: yes

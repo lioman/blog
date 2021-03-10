@@ -12,7 +12,7 @@ Schreib mal wieder etwas Richtiges!)
 
 .. youtube:: qnydFmqHuVo
    :class: youtube-16x9
-
+   :nocookie: yes
  
 
 `via <http://www.stefan-graf.com/how-animals-eat-their-food/2013/04/11/>`__

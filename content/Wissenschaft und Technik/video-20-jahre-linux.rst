@@ -17,6 +17,7 @@ zusammenzufassen.
 
 .. youtube:: 5ocq6_3-nEw
    :class: youtube-16x9
+   :nocookie: yes
 
 .. |image0| image:: {static}/images/tux2.png
    :class: alignleft size-full wp-image-3079

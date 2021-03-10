@@ -12,3 +12,4 @@ Floppys wieder auspacken.
 
 .. youtube:: 9-nezImUP0w
    :class: youtube-16x9
+   :nocookie: yes

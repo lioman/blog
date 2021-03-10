@@ -16,3 +16,4 @@ knapp erklärt, was man damit machen kann und wieso dies ein
 
 .. youtube:: DXIBOjMg6l0
    :class: youtube-16x9
+   :nocookie: yes

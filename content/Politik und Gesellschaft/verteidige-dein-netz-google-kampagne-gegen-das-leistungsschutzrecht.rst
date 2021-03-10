@@ -36,3 +36,4 @@ zusammengefasst. Möchte man genauere Informationen, sollte man bei
 
 .. youtube:: OvhrC2eWIxw
    :class: youtube-16x9
+   :nocookie: yes

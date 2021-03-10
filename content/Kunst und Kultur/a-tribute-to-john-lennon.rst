@@ -12,6 +12,7 @@ Ex-Beatles geschrieben und auf YouTube veröffentlicht.
 
 .. youtube :: t6nVnlxPoGA
    :class: youtube-16x9
+   :nocookie: yes
 
 via
 `seitvertreib <http://www.seitvertreib.de/2010/11/07/john-lennononandonandon/>`__

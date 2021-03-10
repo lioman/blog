@@ -14,6 +14,7 @@ dieses Jahr verpasst habe einfach gepostet werden:
 
 .. youtube:: FdcJVuylmsM
    :class: youtube-16x9
+   :nocookie: yes
 
 Und auch `DarthVader <http://www.youtube.com/v/2ljFfL-mL70>`__ hat das
 Tonstudio besucht.

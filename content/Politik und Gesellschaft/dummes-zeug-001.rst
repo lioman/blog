@@ -8,6 +8,7 @@ Dummes Zeug #001
 
 .. youtube:: knshF6wmu_A
    :class: youtube-16x9
+   :nocookie: yes
 
 Irgendwelche Innenminister werden immer irgendwie deine Rechte und Daten
 in Gefahr bringen können- aber em die Zuverlässigkeit und Sicherheit

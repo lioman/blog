@@ -10,5 +10,6 @@ Rap News 7: #Revolution
 Es gibt wieder neue Rap News! Dieses Mal zum Thema Revolution in Nahost
 
 .. youtube:: DdAVl1LvQL0
+   :nocookie: yes
 
 via  `netzpolitik <http://www.netzpolitik.org/2011/rap-news-7-revolution/>`__

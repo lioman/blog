@@ -14,3 +14,4 @@ Möwencontent: Seevogel filmt sich selbst
 
 .. youtube:: rIu5B3Fsstg
    :class: youtube-16x9
+   :nocookie: yes

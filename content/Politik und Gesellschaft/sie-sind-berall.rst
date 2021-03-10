@@ -53,3 +53,4 @@ Original:
 
 .. youtube:: wnyIopW3290
    :class: youtube-16x9
+   :nocookie: yes

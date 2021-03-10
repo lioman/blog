@@ -15,3 +15,4 @@ Ich freue mich schon auf den Film
 
 .. youtube:: cPRJYwFz1t4
    :class: youtube-16x9
+   :nocookie: yes

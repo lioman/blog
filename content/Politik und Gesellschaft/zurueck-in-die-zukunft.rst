@@ -18,12 +18,15 @@ setzen?
 
 .. youtube:: kaGnBNhE2xI
    :class: youtube-16x9
+   :nocookie: yes
 
 .. youtube:: WiOaN5RbCBk
    :class: youtube-16x9
+   :nocookie: yes
 
 .. youtube:: StxNtLIhf4k
    :class: youtube-16x9
+   :nocookie: yes
 
 via
 `YuccaTree <http://yuccatree.de/2010/11/retrofuture-das-jahr-2000-aus-sicht-von-1972/>`__

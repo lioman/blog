@@ -15,6 +15,7 @@ Korn.
 
 .. youtube:: xZFGYG7acz4
    :class: youtube-16x9
+   :nocookie: yes
 
 Zu diesem Thema möchte ich vor dem Video noch einen Linktipp abgeben.
 

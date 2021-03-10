@@ -23,3 +23,4 @@ Orgel und ich finde  es hört sich gar nicht schlecht an:
 
 .. youtube:: UQDhH8-z14Q
     :class: youtube-16x9
+   :nocookie: yes
