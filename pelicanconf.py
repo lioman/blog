@@ -10,7 +10,6 @@ AUTHOR = "Lioman"
 SITENAME = "Liomans Blog"
 SITESUBTITLE = "42 ist die Antwort – aber wie lautet die Frage?"
 SITEURL = ""
-LOCALE = "de_DE"
 TIMEZONE = "Europe/Berlin"
 SITELOGO = "/images/Artikelbild.png"
 
@@ -83,6 +82,11 @@ TIMEZONE = "Europe/Berlin"
 
 OG_LOCALE = "de_De"
 DEFAULT_LANG = "de"
+LOCALE = "de_DE"
+
+# Default theme language.
+I18N_TEMPLATES_LANG = "en"
+
 DEFAULT_CATEGORY = "Allgemein"
 
 ARTICLE_URL = "{date:%Y}/{date:%m}/{slug}/"
