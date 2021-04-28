@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lioman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lioman.de
+  * I am lioman (https://keybase.io/lioman) on keybase.
+  * I have a public key ASB4etysuTlGGJJ8w91ElZUhyBgIrG82wDiWR2qaBsYy7go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209280dab2e94dcdd86f552e1f2999a8cb8a001b73ebfda8ddbbff4ecfe3e589c40a",
+      "host": "keybase.io",
+      "kid": "0120787adcacb9394618927cc3dd44959521c81808ac6f36c03896476a9a06c632ee0a",
+      "uid": "09b5b38a156e687583bd92174a5b6419",
+      "username": "lioman"
+    },
+    "merkle_root": {
+      "ctime": 1619595591,
+      "hash": "c74a0b02c408161297095a703778429f0b14ff9784fb9000806fdc352390065a5cdf437dc83616a439dee9bb6074b16c7441ebcb8d951178e103f4f5608ca4f3",
+      "hash_meta": "cd839fe9c0c4d521bc09a75f2e214618206279158be9ab2744c5a12042ff80ae",
+      "seqno": 19766803
+    },
+    "service": {
+      "entropy": "XuN7122qIkfs20+hzT1ur6Aj",
+      "hostname": "lioman.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1619595653,
+  "expire_in": 504576000,
+  "prev": "8c309df1d8ca0ef0ebf54699e4b25564e5c9b62355b3b4f4c807fd53a6b1caec",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeHrcrLk5RhiSfMPdRJWVIcgYCKxvNsA4lkdqmgbGMu4Kp3BheWxvYWTESpcCKcQgjDCd8djKDvDr9UaZ5LJVZOXJtiNVs7T0yAf9U6axyuzEIAgUpGYfpFQ8KOmXAfPQ8GAhCK+ggsDCehofsvKTlGmoAgHCo3NpZ8RAX9tueKiymKmChknEHI1yZJLeqL9mElTVgeXE10rOFEnpeypI5QTzuu19fYZzQdCGkGpw0dFimG4e2rtY73gMBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAl5AebF5uX69tiyZPU973hyFzvI+WtMpmnMOZw0yP77o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lioman
+
+==================================================================

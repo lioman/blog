@@ -28,11 +28,13 @@ STATIC_PATHS = [
     "images",
     "static/robots.txt",
     "static/favicon.ico",
+    "static/keybase.txt",
 ]
 
 EXTRA_PATH_METADATA = {
     "static/robots.txt": {"path": "robots.txt"},
     "static/favicon.ico": {"path": "favicon.ico"},
+    "static/keybase.txt": {"path": "keybase.txt"},
 }
 
 IGNORE_FILES = ["__pycache__"]
