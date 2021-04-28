@@ -1,8 +1,6 @@
 # This file is a template, and might need editing before it works on your project.
 # Full project: https://gitlab.com/pages/pelican
 image: python:3.8
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
 
 before_script:
   ##
@@ -46,6 +44,8 @@ test-build:
     - master
 
 pages:
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
   script:
     - poetry run invoke publish
   artifacts:
