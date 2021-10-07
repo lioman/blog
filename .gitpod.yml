@@ -2,6 +2,8 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
+  - name: "set env"
+    env: export PIP_USER=false
   - name: "install dependencies"
     init: poetry install
   - name: start liveserver  
