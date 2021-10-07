@@ -21,7 +21,7 @@ RUN curl -fsSL https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-ins
         mypy autopep8 pep8 pylama pydocstyle bandit notebook \
         twine \
     && sudo rm -rf /tmp/*
-ENV PIP_USER=no
+ENV PIP_USER=false
 ENV PIPENV_VENV_IN_PROJECT=true
 ENV PYTHONUSERBASE=/workspace/.pip-modules
 ENV PATH=$PYTHONUSERBASE/bin:$PATH
