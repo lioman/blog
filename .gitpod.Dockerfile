@@ -22,7 +22,7 @@ RUN curl -fsSL https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-ins
         twine \
     && sudo rm -rf /tmp/*
 ENV PIP_USER=false
-ENV PIPENV_VENV_IN_PROJECT=true
+ENV POETRY_VIRTUALENVS_PATH=/workspace/virtualenvs
 ENV PYTHONUSERBASE=/workspace/.pip-modules
 ENV PATH=$PYTHONUSERBASE/bin:$PATH
 
