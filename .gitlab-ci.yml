@@ -2,6 +2,9 @@
 # Full project: https://gitlab.com/pages/pelican
 image: python:3.8
 
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
 before_script:
   - pip install poetry
   - poetry install
@@ -13,8 +16,6 @@ test-build:
     - master
 
 pages:
-  variables:
-    GIT_SUBMODULE_STRATEGY: recursive
   script:
     - poetry run invoke publish
   artifacts:
