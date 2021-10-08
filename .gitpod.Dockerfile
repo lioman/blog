@@ -25,3 +25,6 @@ ENV PIP_USER=false
 ENV PIPENV_VENV_IN_PROJECT=true
 ENV PYTHONUSERBASE=/workspace/.pip-modules
 ENV PATH=$PYTHONUSERBASE/bin:$PATH
+
+RUN sudo locale-gen de_DE.UTF-8
+RUN sudo update-locale LANG=de_DE.UTF-8
