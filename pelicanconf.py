@@ -6,6 +6,7 @@ from datetime import datetime
 
 import pelican_precompress
 
+
 AUTHOR = "Lioman"
 SITENAME = "Liomans Blog"
 SITESUBTITLE = "42 ist die Antwort – aber wie lautet die Frage?"
@@ -29,6 +30,8 @@ STATIC_PATHS = [
     "static/robots.txt",
     "static/favicon.ico",
     "static/keybase.txt",
+    "static/stork.js",
+    "static/stork.wasm",
 ]
 
 EXTRA_PATH_METADATA = {
@@ -110,9 +113,10 @@ PLUGINS = [
     "i18n_subsites",
     "pelican_youtube",
     "series",
-    "tipue_search",
+    # "tipue_search",
     "neighbors",
     pelican_precompress,
+    "search",
 ]
 
 # PRECOMPRESS_GZIP = True
@@ -170,3 +174,5 @@ AUTHOR_FEED_RSS = None
 
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+# STORK_VERSION = "1.4.0"

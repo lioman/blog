@@ -80,3 +80,8 @@ env/
 
 # ansible
 *.retry
+
+
+# Added by cargo
+
+/target

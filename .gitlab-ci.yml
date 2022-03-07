@@ -8,6 +8,8 @@ variables:
 before_script:
   - pip install poetry
   - poetry install
+  - curl -o /usr/local/bin/stork https://files.stork-search.net/releases/v1.4.0/stork-ubuntu-20-04
+  - chmod +x /usr/local/bin/stork
 
 test-build:
   script:
