@@ -176,3 +176,8 @@ THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 # STORK_VERSION = "1.4.0"
+
+SEARCH_INPUT_OPTIONS = f"""stemming = "German"
+                url_prefix = "{SITEURL}"
+"""
+# """
