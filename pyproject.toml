@@ -21,7 +21,7 @@ pelican-neighbors = "^1.1.0"
 pelican-precompress = "^1.1.2"
 zopfli = "^0.1.7"
 Brotli = "^1.0.9"
-pelican-search = "^1.0.0"
+pelican-search = {git = "https://github.com/lioman/search", rev = "main"}
 
 [tool.poetry.dev-dependencies]
 black = {version = "^20.08b0", allow-prereleases = true}
