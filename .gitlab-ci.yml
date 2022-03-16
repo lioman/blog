@@ -16,6 +16,7 @@ test-build:
     - poetry run invoke build
   except:
     - master
+    - main
 
 pages:
   script:
@@ -25,3 +26,4 @@ pages:
       - public/
   only:
     - master
+    - main
