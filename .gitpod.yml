@@ -7,12 +7,12 @@ tasks:
       PIP_USER: false
       POETRY_VIRTUALENVS_PATH: /workspace/virtualenvs
     before: eval $(gp env -e)
-    init:  |
-    poetry install 
-    mkdir -p /workspace/bin
-    export PATH=$PATH:/workspace/bin
-    curl -o /workspace/bin/stork https://files.stork-search.net/releases/v1.4.0/stork-ubuntu-20-04
-    chmod +x /workspace/bin/stork
+    init: |
+      poetry install 
+      mkdir -p /workspace/bin
+      export PATH=$PATH:/workspace/bin
+      curl -o /workspace/bin/stork https://files.stork-search.net/releases/v1.4.0/stork-ubuntu-20-04
+      chmod +x /workspace/bin/stork
     command: poetry run invoke livereload
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 ports:
