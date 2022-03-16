@@ -37,7 +37,7 @@ def clean(c):
 @task
 def build(c):
     """Build local version of site"""
-    c.run("pelican -s pelicanconf.py")
+    c.run("pelican -s pelicanconf.py", pty=True)
 
 
 @task
