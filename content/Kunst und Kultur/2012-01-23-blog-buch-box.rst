@@ -43,7 +43,7 @@ Projektteilnehmer noch eine ähnlich grandiose Auswahl haben.
 Da ich keine zentrale Liste von Adressen veröffentlichen will müssen wir
 uns da etwas anderes überlegen. Derzeit schwebt mir vor einfach eine
 `Liste der teilnehmenden Blogs hier
-reinzustellen <{filename}/Allgemein/die-buecherbox-besucht.rst>`__\ und
+reinzustellen <{filename}/Allgemein/2012-02-02-die-buecherbox-besucht.rst>`__\ und
 jeder kann dann seinen Nachfolger direkt über dessen Blog kontaktieren.
 Sollte das nicht funktionieren, weil nicht jeder ein Kontakformular o.ä.
 hat könnte ich auch jeweils die entsprechende Mailadresse schicken. Was

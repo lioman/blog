@@ -50,7 +50,7 @@ Tipps
 ~~~~~
 
 Dazu passt zum Beispiel: `Rosenkohl
-in Dijonsenfsoße <{filename}./rosenkohl-in-dijonsenf-sosse.rst>`__
+in Dijonsenfsoße <{filename}./2011-12-19-rosenkohl-in-dijonsenf-sosse.rst>`__
 
 .. |anbraten| image:: {static}/images/Polentaschnitten_braten.jpg
    :target: {static}/images/Polentaschnitten_braten.jpg

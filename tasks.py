@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 
 import os
+from pathlib import Path
 import shutil
 import sys
 import datetime
+from types import new_class
 
 from invoke import task
 from invoke.util import cd
@@ -109,3 +111,25 @@ def livereload(c):
         server.watch(static_file, lambda: build(c))
     # Serve output path on configured host and port
     server.serve(host=CONFIG["host"], port=CONFIG["port"], root=CONFIG["deploy_path"])
+
+
+@task
+def movefile(c, old, new):
+    try:
+        old = Path(old)
+        new = Path(new)
+        print(f"Copy file {old} to {new}")
+        new.write_text(old.read_text())
+        print(f"Delete {old}")
+        old.unlink()
+        print("replace all links")
+        all_articles = filter(
+            lambda p: p.suffix in [".rst", ".md"], Path("./content").glob("**/*")
+        )
+        for f in all_articles:
+            text = f.read_text()
+            if old.name in text:
+                f.write_text(text.replace(old.name, new.name))
+
+    except Exception as e:
+        print(f"Ups: {e}")

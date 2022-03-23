@@ -21,4 +21,4 @@ griechischen Buchstabens GAMMA.
 **Nachtrag**: Dies war die Puppe einer Messingeule, dass hat sich erst
 nach dem Schlüpen gezeigt.
 
-Siehe `hier <{filename}./es-ist-eine-messingeule.rst>`__
+Siehe `hier <{filename}./2008-08-03-es-ist-eine-messingeule.rst>`__

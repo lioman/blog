@@ -14,9 +14,9 @@ Bücherzeug
   komme.
 | Auch ein anderes Bücherprojekt kommt einfach nicht in die Pötte: Mein
   Eigenes!
-| Die `Buch Blog Box <{filename}/Kunst\ und\ Kultur/blog-buch-box.rst>`__
+| Die `Buch Blog Box <{filename}/Kunst\ und\ Kultur/2012-01-23-blog-buch-box.rst>`__
   sollte eigentlich ab `fünf
-  Teilnehmern <{filename}./die-buecherbox-besucht.rst>`__
+  Teilnehmern <{filename}./2012-02-02-die-buecherbox-besucht.rst>`__
   starten, aber ich werde sie jetzt vorzeitig starten und einfach
   hoffen, dass währenddessen noch ein paar Lese- und Blogbegeisterte
   dazu stoßen.
