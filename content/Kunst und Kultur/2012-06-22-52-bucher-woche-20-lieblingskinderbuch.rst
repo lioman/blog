@@ -15,7 +15,7 @@ das ist ein weit dehnbarer Begriff und ein ganzer Packen an
 Literaturerfahrung. Ich kann hier also gleich ein paar Bücher
 vorstellen.  Zuerst möchte ich die Erwähnen, die ich im Projekt schon
 vorgestellt habe: `Die Wunderbare Reise des Nils Holgerssons mit den
-Wildgänsen <{filename}./52-buecher-woche-6-magisches.rst>`__
+Wildgänsen <{filename}./2011-12-18-52-buecher-woche-6-magisches.rst>`__
 und\  `Jim Knopf und Lukas der
 Lokomotivführer <http://www.lioman.de/2012/01/52-buecher-woche-11/>`__.
 Das sind definitiv zwei meiner absoluten Lieblingsbücher und ich habe

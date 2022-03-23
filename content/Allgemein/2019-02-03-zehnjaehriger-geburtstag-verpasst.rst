@@ -5,9 +5,9 @@ Zehnjähriger Geburtstag verpasst
 :slug: zehnjaehriger-geburtstag-verpasst
 :status: published
 
-Am 20. Juni 2008 um 11:15 Uhr habe ich hier meinen `ersten Artikel <{filename}./aufbau.rst>`__ veröffentlicht.
+Am 20. Juni 2008 um 11:15 Uhr habe ich hier meinen `ersten Artikel <{filename}./2008-06-20-aufbau.rst>`__ veröffentlicht.
 Damals habe ich noch ein einfaches kostenloses Blog bei `Wordpress.com <https://wordpress.com>`__ eingerichtet.
-Die Domain war noch eine andere und erst ein `gutes Jahr später <{filename}./liomans-blog-unter-neuer-adresse.rst>`__ lief dieses Blog unter *lioman.de*.
+Die Domain war noch eine andere und erst ein `gutes Jahr später <{filename}./2009-07-14-liomans-blog-unter-neuer-adresse.rst>`__ lief dieses Blog unter *lioman.de*.
 (Ich habe also doch noch mal die Gelegenheit Zehnjähriges zu feiern).
 
 Ziemlich schnell merkte ich,
@@ -23,7 +23,7 @@ Auch wenn es jetzt hier schon einige Zeit hier sehr ruhig geworden ist
 und ich kaum neue Artikel schreibe,
 will ich das Blog auch nach zehn Jahren einfach nicht aufgeben.
 Den Verwaltungsaufwand habe ich dadurch reduziert, dass ich seit 
-`Mitte 2017 <{filename}./farewell-wordpress-hello-pelican.rst>`__ 
+`Mitte 2017 <{filename}./2017-04-11-farewell-wordpress-hello-pelican.rst>`__ 
 den statischen Generator `Pelican <https://blog.getpelican.com/>`__ einsetze.
 Wären die Kommentare nicht könnte ich das Ganze noch weiter vereinfachen und 
 z. B. Gitlab Pages zum hosten verwenden.

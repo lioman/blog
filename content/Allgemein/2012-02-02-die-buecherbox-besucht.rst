@@ -7,7 +7,7 @@ Die Bücherbox besucht...
 :status: published
 
 Vor einiger Zeit habe ich ein `kleines Blogprojekt
-vorgestell <{filename}/Kunst\ und\ Kultur/blog-buch-box.rst>`__\ t. Eine
+vorgestell <{filename}/Kunst\ und\ Kultur/2012-01-23-blog-buch-box.rst>`__\ t. Eine
 Kiste voll Bücher reist von Blog zu Blog und jeder darf sich daraus
 etwas nehmen. Hier jetzt die Teilnehmerliste. *(Bei mindestens 5
 Teilnehmern schicke ich die Box auf die Reise)* Wenn es einen Artikel

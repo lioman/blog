@@ -7,7 +7,7 @@ Geburtstag!!!
 :status: published
 
 Wow, dieses Blog hat heute Geburtstag :torte: :hurra: . Am 20.06.2008
-startete ich mit dem sensationellen Artikel `Aufbau </aufbau>`__. Tja
+startete ich mit dem sensationellen Artikel `Aufbau <{filename}./2008-06-20-aufbau.rst>`__. Tja
 ich bin zwar schon am Bloggen, aber für dieses Blog bin ich die ganze
 Zei am experimentieren. Neue Versionen einspielen, das Theme anpassen,
 Plugins installieren und unnützes runterzuschmeißen. Es macht Spaß und
