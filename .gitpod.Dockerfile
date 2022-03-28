@@ -13,8 +13,8 @@ RUN curl -fsSL https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-ins
         echo 'eval "$(pyenv init -)"'; \
         echo 'eval "$(pyenv virtualenv-init -)"'; } >> /home/gitpod/.bashrc.d/60-python \
     && pyenv update \
-    && pyenv install 3.9.7 \
-    && pyenv global 3.9.7 \
+    && pyenv install 3.10.3 \
+    && pyenv global 3.10.3 \
     && python3 -m pip install --no-cache-dir --upgrade pip \
     && python3 -m pip install --no-cache-dir --upgrade \
         setuptools wheel virtualenv poetry pylint rope flake8 \
