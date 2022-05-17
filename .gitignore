@@ -3,6 +3,7 @@
 # Pelican
 /output/
 /public/
+/cache/
 
 # IDE files
 /.idea/
@@ -70,7 +71,6 @@ coverage.xml
 # dotenv
 .env
 
-
 # virtualenv
 venv/
 ENV/
@@ -80,7 +80,6 @@ env/
 
 # ansible
 *.retry
-
 
 # Added by cargo
 

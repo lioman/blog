@@ -8,7 +8,7 @@ import pelican_precompress
 
 from pelican.plugins import i18n_templates, series, neighbors
 
-
+CACHE_CONTENT = True
 AUTHOR = "Lioman"
 SITENAME = "Liomans Blog"
 SITESUBTITLE = "42 ist die Antwort – aber wie lautet die Frage?"
