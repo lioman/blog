@@ -6,6 +6,8 @@ from datetime import datetime
 
 import pelican_precompress
 
+from pelican.plugins import i18n_template, series, neighbors
+
 
 AUTHOR = "Lioman"
 SITENAME = "Liomans Blog"
@@ -45,8 +47,8 @@ IGNORE_FILES = ["__pycache__"]
 THEME = "themes/flex"
 
 HOME_HIDE_TAGS = False
-
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+
 
 GOOGLE_VERIFICATION = "BqcGhsYr8KQ8E04PLoinE-PdzUdlvvgxGBxA1M_HRyo"
 
@@ -56,7 +58,6 @@ PYGMENTS_STYLE_DARK = "solarized-dark"
 DIRECT_TEMPLATES = [
     "index",
     "categories",
-    "search",
     "archives",
 ]
 
@@ -87,7 +88,8 @@ TIMEZONE = "Europe/Berlin"
 
 OG_LOCALE = "de_De"
 DEFAULT_LANG = "de"
-LOCALE = "de_DE"
+ARTICLE_TRANSLATION_ID = "slug"
+LOCALE = ("de_DE", "de_DE.utf8")
 
 # Default theme language.
 I18N_TEMPLATES_LANG = "en"
@@ -105,18 +107,19 @@ YEAR_ARCHIVE_SAVE_AS = "{date:%Y}/index.html"
 MONTH_ARCHIVE_URL = "{date:%Y}/{date:%m}/"
 MONTH_ARCHIVE_SAVE_AS = "{date:%Y}/{date:%m}/index.html"
 REL_CANONICAL = True
+DRAFT_URL = "drafts/{slug}/"
+DRAFT_SAVE_AS = "drafts/{slug}/index.html"
 
 PLUGIN_PATHS = ["plugins"]
 
 PLUGINS = [
     "extended_sitemap",
-    "i18n_subsites",
     "pelican_youtube",
-    "series",
-    # "tipue_search",
-    "neighbors",
+    series,
+    neighbors,
     pelican_precompress,
     "search",
+    "i18n_templates",
 ]
 
 # PRECOMPRESS_GZIP = True
@@ -148,10 +151,10 @@ EXTENDED_SITEMAP_PLUGIN = {
 
 # Social widget
 SOCIAL = (
-    ("twitter", "https://twitter.com/lioman"),
     ("mastodon", "https://mastodon.social/@lioman"),
-    ("github", "https://github.com/lioman"),
+    ("twitter", "https://twitter.com/lioman"),
     ("gitlab", "https://gitlab.com/lioman"),
+    ("github", "https://github.com/lioman"),
     ("stack-overflow", "http://stackoverflow.com/users/3114491/lioman"),
 )
 

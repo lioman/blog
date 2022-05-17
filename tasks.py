@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 
+from datetime import datetime
 import os
 from pathlib import Path
+from jinja2 import Template
 import shutil
 import sys
-import datetime
-from types import new_class
-
+import click
+from slugify import slugify
 from invoke import task
-from invoke.util import cd
+
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 
@@ -26,6 +27,13 @@ CONFIG = {
     "host": "localhost",
     "port": 8001,
 }
+CATEGORIES = (
+    "Allgemein",
+    "Digital",
+    "Kunst und Kultur",
+    "Politik und Gesellschaft",
+    "Wissenschaft und Technik",
+)
 
 
 @task
@@ -115,6 +123,7 @@ def livereload(c):
 
 @task
 def movefile(c, old, new):
+    """Move an file and update all references"""
     try:
         old = Path(old)
         new = Path(new)
@@ -133,3 +142,35 @@ def movefile(c, old, new):
 
     except Exception as e:
         print(f"Ups: {e}")
+
+
+@task
+def new(c, title=None, category=None, tags=None):
+    """Create new article"""
+    if title is None:
+        title = click.prompt("Titel", type=str)
+    if category is None:
+        category = click.prompt("Kategorie", type=click.Choice(CATEGORIES))
+    if tags is None:
+        tags = click.prompt("Tags", type=str)
+    tags = tags.split(",")
+    root_folder = Path(__file__).resolve().parent
+    template_file = root_folder / "new.md.j2"
+    template = Template(source=template_file.read_text())
+    slug = slugify(
+        title,
+        replacements=[
+            ["Ü", "UE"],
+            ["ü", "ue"],
+            ["ä", "ae"],
+            ["Ä", "AE"],
+            ["ö", "oe"],
+            ["Ö", "OE"],
+            ["ß", "ss"],
+        ],
+    )
+    now = datetime.now()
+    t = template.render(title=title, category=category, today=now, tags=tags, slug=slug)
+    out_file = root_folder / f"content/{category}/{now.strftime('%Y-%m-%d')}-{slug}.md"
+    out_file.write_text(t)
+    c.run(f"code {out_file}")
