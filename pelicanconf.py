@@ -6,7 +6,7 @@ from datetime import datetime
 
 import pelican_precompress
 
-from pelican.plugins import i18n_template, series, neighbors
+from pelican.plugins import i18n_templates, series, neighbors
 
 
 AUTHOR = "Lioman"
@@ -119,7 +119,7 @@ PLUGINS = [
     neighbors,
     pelican_precompress,
     "search",
-    "i18n_templates",
+    i18n_templates,
 ]
 
 # PRECOMPRESS_GZIP = True

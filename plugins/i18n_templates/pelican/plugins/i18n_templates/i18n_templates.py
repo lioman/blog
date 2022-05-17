@@ -1,4 +1,4 @@
-"""i18n_subsites plugin creates i18n-ized subsites of the default site
+"""i18n_templates plugin provides access to gettext without a complex i18n subsite
 
 This plugin is designed for Pelican 3.4 and later
 """
@@ -86,7 +86,7 @@ def register():
         if not hasattr(signals, sig_name):
             _LOGGER.error(
                 (
-                    "The i18n_subsites plugin requires the {} "
+                    "The i18n_templates plugin requires the {} "
                     "signal available for sure in Pelican 3.4.0 and later, "
                     "plugin will not be used."
                 ).format(sig_name)

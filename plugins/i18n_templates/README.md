@@ -1,9 +1,9 @@
 i18n Template: A Plugin for Pelican
 ====================================================
 
-[![Build Status](https://img.shields.io/github/workflow/status/pelican-plugins/i18n-template/build)](https://github.com/pelican-plugins/i18n-template/actions)
-[![PyPI Version](https://img.shields.io/pypi/v/pelican-i18n-template)](https://pypi.org/project/pelican-i18n-template/)
-![License](https://img.shields.io/pypi/l/pelican-i18n-template?color=blue)
+[![Build Status](https://img.shields.io/github/workflow/status/pelican-plugins/i18n-templates/build)](https://github.com/pelican-plugins/i18n-templates/actions)
+[![PyPI Version](https://img.shields.io/pypi/v/pelican-i18n-templates)](https://pypi.org/project/pelican-i18n-templates/)
+![License](https://img.shields.io/pypi/l/pelican-i18n-templates?color=blue)
 
 simple template translation
 
@@ -12,7 +12,7 @@ Installation
 
 This plugin can be installed via:
 
-    python -m pip install pelican-i18n-template
+    python -m pip install pelican-i18n-templates
 
 Usage
 -----
@@ -26,7 +26,7 @@ Contributions are welcome and much appreciated. Every little bit helps. You can 
 
 To start contributing to this plugin, review the [Contributing to Pelican][] documentation, beginning with the **Contributing Code** section.
 
-[existing issues]: https://github.com/pelican-plugins/i18n-template/issues
+[existing issues]: https://github.com/pelican-plugins/i18n-templates/issues
 [Contributing to Pelican]: https://docs.getpelican.com/en/latest/contribute.html
 
 License

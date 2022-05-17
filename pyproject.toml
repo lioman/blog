@@ -22,7 +22,7 @@ pelican-precompress = "^1.1.2"
 zopfli = "^0.1.7"
 Brotli = "^1.0.9"
 pelican-search = {git = "https://github.com/lioman/search", rev = "main"}
-pelican-i18n-template = {path = "plugins/i18n-template"}
+pelican-i18n-templates = {path = "plugins/i18n_templates"}
 
 [tool.poetry.dev-dependencies]
 black = "^22.3.0"
