@@ -2,7 +2,6 @@ Osmanischer Segelflieger animiert
 #################################
 :date: 2011-01-18 18:33
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: Animation, Segelflieger, Video
 :slug: osmanischer-segelflieger-animiert
 :status: published

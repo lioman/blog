@@ -2,7 +2,6 @@ Video: Mit Wasser eine Audiowelle sichtbar machen
 #################################################
 :date: 2013-03-13 11:07
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: Ton, Video, Welle, wissenschaft
 :slug: video-mit-wasser-eine-audiowelle-sichtbar-machen
 :status: published

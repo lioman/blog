@@ -2,7 +2,6 @@ Was ist ein Schwarzes Loch
 ##########################
 :date: 2010-10-29 15:51
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: Astronomie, Physik, Schwarzes Loch, Video
 :slug: was-ist-ein-schwarzes-loch
 :status: published

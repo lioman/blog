@@ -2,7 +2,6 @@ Mails ein Gesicht geben
 #######################
 :date: 2010-12-03 13:24
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: Bilder, Erweiterung, Gravatar, Mail, thunderbird
 :slug: mails-ein-gesicht-geben
 :status: published

@@ -2,7 +2,6 @@ Ubuntu 11.04 ist draußen
 ########################
 :date: 2011-04-28 14:34
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: 11.04, Download, Linux, natty, Ubuntu, update
 :slug: ubuntu-11-04-ist-drausen
 :status: published

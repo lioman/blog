@@ -2,7 +2,6 @@ Venustransit im Video
 #####################
 :date: 2012-06-11 11:14
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: Astronomie, Sonne, Venus
 :slug: venustransit-im-video
 :status: published

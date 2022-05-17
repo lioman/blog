@@ -2,7 +2,6 @@ Mit Siebenmeilenstiefeln gegen einen Koala
 ##########################################
 :date: 2009-11-18 17:54
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: boot, koala, Linux, Test, Ubuntu, Video, windows
 :slug: mit-siebenmeilenstiefeln-gegen-einen-koala
 :status: published

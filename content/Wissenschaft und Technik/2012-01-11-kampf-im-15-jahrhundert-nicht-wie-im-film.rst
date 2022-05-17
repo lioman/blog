@@ -2,7 +2,6 @@ Kampf im 15. Jahrhundert - nicht wie im Film
 ############################################
 :date: 2012-01-11 14:39
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: Geschichte, Kampf, Mittelalter, Ritter, Video
 :slug: kampf-im-15-jahrhundert-nicht-wie-im-film
 :status: published

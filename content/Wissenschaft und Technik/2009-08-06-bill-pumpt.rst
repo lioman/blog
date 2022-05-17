@@ -2,7 +2,6 @@ Bill pumpt
 ##########
 :date: 2009-08-06 08:39
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: Bill Gates, Hurrikan, Idee, Patent, Schnapsidee, Umwelt
 :slug: bill-pumpt
 :status: published

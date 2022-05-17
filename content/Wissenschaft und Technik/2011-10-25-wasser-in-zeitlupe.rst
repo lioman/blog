@@ -2,7 +2,6 @@ Wasser in Zeitlupe
 ##################
 :date: 2011-10-25 14:47
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: 1000FPS, Video, Wasser, Zeitlupe
 :slug: wasser-in-zeitlupe
 :status: published

@@ -2,7 +2,6 @@ Minus Green Panther - Es gibt kein Pink
 #######################################
 :date: 2011-10-26 13:41
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: farbe, Fundstück, Physik, Pink, Video
 :slug: minus-green-panther-es-gibt-kein-pink
 :status: published

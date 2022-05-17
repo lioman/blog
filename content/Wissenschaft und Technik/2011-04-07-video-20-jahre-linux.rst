@@ -2,7 +2,6 @@ Video: 20 Jahre Linux
 #####################
 :date: 2011-04-07 20:54
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: 20 Jahre, Linux, Video
 :slug: video-20-jahre-linux
 :status: published

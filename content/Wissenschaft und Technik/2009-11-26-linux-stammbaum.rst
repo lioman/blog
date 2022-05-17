@@ -2,7 +2,6 @@ Linux Stammbaum
 ###############
 :date: 2009-11-26 16:59
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: creative commons, Grafik, Linux, Stammbaum
 :slug: linux-stammbaum
 :status: published

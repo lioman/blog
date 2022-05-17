@@ -2,7 +2,6 @@ Solarflugzeug: Solar Impulse fliegt nach Marokko
 ################################################
 :date: 2012-05-24 10:53
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: Flugzeug, Interkontinental, Live, Solar, Solar Impulse
 :slug: solarflugzeug-solar-impulse-fliegt-nach-marokko
 :status: published

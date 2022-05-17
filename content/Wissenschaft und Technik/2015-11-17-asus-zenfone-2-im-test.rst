@@ -2,7 +2,6 @@ Asus ZenFone 2 im Test
 ######################
 :date: 2015-11-17 20:56
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: android, Asus, Smartphone, Test, ZenFone
 :slug: asus-zenfone-2-im-test
 :status: published

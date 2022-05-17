@@ -2,7 +2,6 @@ Fleksy - schneller unter Android tippen
 #######################################
 :date: 2015-02-19 13:17
 :author: Lioman
-:category: Wissenschaft &amp; Technik
 :tags: android, Fleksy, mobil, SwiftKey, Tastatur
 :slug: fleksy-schneller-unter-android-tippen
 :status: published
