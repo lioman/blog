@@ -7,7 +7,7 @@ Tags: pelican, python, blog, invoke
 Slug: pelican-artikel-verschieben
 Authors: Lioman
 Status: Published
-Summary: Um Artikel in pelican zu verschieben, habe ich einen einfachen Task erstellt
+Summary: Dieses Blog wird nun seit einiger Zeit mit pelican gerendert. Initial hatte ich auf *.rst-Dateien gesetzt, inzwischen bin ich dazu übergegangen doch Markdown zu verwenden. Die meisten Dateien werden vermutlich nie konvertiert werden, doch hier und da halte ich es für sinnvoll die Datei umzubenennen. Um Artikel in pelican zu verschieben, habe ich einen einfachen Task erstellt...
 ---
 
 Dieses Blog wird nun seit einiger Zeit mit [pelican](https://getpelican.com) gerendert.
