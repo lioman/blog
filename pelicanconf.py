@@ -18,14 +18,6 @@ SITELOGO = "/images/Artikelbild.png"
 
 PATH = "content"
 
-MARKDOWN = {
-    "extension_configs": {
-        # 'markdown.extensions.codehilite': {'css_class': 'highlight'},
-        "markdown.extensions.extra": {},
-        "markdown.extensions.meta": {},
-    },
-    "output_format": "html5",
-}
 
 STATIC_PATHS = [
     "images",
