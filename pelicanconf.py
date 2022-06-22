@@ -6,7 +6,7 @@ from datetime import datetime
 
 import pelican_precompress
 
-from pelican.plugins import i18n_templates, series, neighbors
+from pelican.plugins import i18n_templates, series, neighbors, liquid_tags
 
 CACHE_CONTENT = True
 AUTHOR = "Lioman"
@@ -18,6 +18,9 @@ SITELOGO = "/images/Artikelbild.png"
 
 PATH = "content"
 
+YOUTUBE_THUMB_ONLY = True
+YOUTUBE_THUMB_SIZE = "sd"
+LIQUID_TAGS = ["video", "youtube", "vimeo", "include_code"]
 
 STATIC_PATHS = [
     "images",
@@ -26,6 +29,7 @@ STATIC_PATHS = [
     "static/keybase.txt",
     "static/stork.js",
     "static/stork.wasm",
+    "static/custom.css",
 ]
 
 EXTRA_PATH_METADATA = {
@@ -37,6 +41,7 @@ EXTRA_PATH_METADATA = {
 IGNORE_FILES = ["__pycache__"]
 
 THEME = "themes/flex"
+CUSTOM_CSS = "static/custom.css"
 
 HOME_HIDE_TAGS = False
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
@@ -115,6 +120,7 @@ PLUGINS = [
     pelican_precompress,
     "search",
     i18n_templates,
+    liquid_tags,
 ]
 
 LOAD_CONTENT_CACHE = True
