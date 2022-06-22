@@ -143,7 +143,7 @@ EXTENDED_SITEMAP_PLUGIN = {
 
 # Social widget
 SOCIAL = (
-    ("mastodon", "https://mastodon.social/@lioman"),
+    ("mastodon", "https://chaos.social/@lioman"),
     ("twitter", "https://twitter.com/lioman"),
     ("gitlab", "https://gitlab.com/lioman"),
     ("github", "https://github.com/lioman"),
