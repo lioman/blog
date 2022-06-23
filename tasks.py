@@ -153,7 +153,7 @@ def new(c, title=None, category=None, tags=None):
         category = click.prompt("Kategorie", type=click.Choice(CATEGORIES))
     if tags is None:
         tags = click.prompt("Tags", type=str)
-    tags = tags.split(",")
+    tags = [tag.strip() for tag in tags.split(",")]
     root_folder = Path(__file__).resolve().parent
     template_file = root_folder / "new.md.j2"
     template = Template(source=template_file.read_text())
