@@ -62,6 +62,7 @@ MENUITEMS = (
     ("Kunst und Kultur", "/category/kunst-und-kultur"),
     ("Politik und Gesellschaft", "/category/politik-und-gesellschaft"),
     ("Wissenschaft und Technik", "/category/wissenschaft-und-technik"),
+    ("Impressum", "/impressum"),
 )
 
 
@@ -135,7 +136,6 @@ EXTENDED_SITEMAP_PLUGIN = {
 
 # Blogroll
 # LINKS = (
-#     # ("Impressum", "/pages/impressum"),
 #     ("Pelican", "http://getpelican.com/"),
 #     ("Python.org", "http://python.org/"),
 #     ("OSBN", "https://osbn.de"),

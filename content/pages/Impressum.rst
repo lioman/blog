@@ -5,7 +5,7 @@ Impressum
 :slug: impressum
 :status: published
 
-`www.lioman.de <http://www.lioman.de>`__ Ist ein publizististisches Angebot von
+`www.lioman.de <https://www.lioman.de>`__ Ist ein publizististisches Angebot von
 
 |    **Elias Kirchgässner**\
 |    Sinnerstraße 13, 76185 Karlsruhe\
