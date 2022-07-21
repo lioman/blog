@@ -7,7 +7,7 @@
 :slug: iranelection-pfeifen-demokratie
 :status: published
 
-Nachdem die Iranische Regierung durch Zensur  und Gewalt das eigene
+Nachdem die Iranische Regierung durch Zensur und Gewalt das eigene
 Volk um die Demokratie betrügen wollen.
 Rufen die Iraner nicht nur "Tod dem Diktator" von den Dächern - sie pfeifen auch.
 Eine gesicherte Berichterstattung war durch Journalisten nicht mehr

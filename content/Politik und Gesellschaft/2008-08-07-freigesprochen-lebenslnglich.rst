@@ -10,9 +10,9 @@ Ich schlage heute morgen die **Zeitung** auf und lese einen Bericht, bei
 dem es mir die **Schuhe** auszieht!!!
 
 Es ging um den ersten **Guantanamo-Prozess**. Der Fahrer Bin Ladens ist
-schuldig gesprochen worden -  soweit so gut - aber wenn er nicht
+schuldig gesprochen worden - soweit so gut - aber wenn er nicht
 verurteilt worden wäre und gar einen Freispruch erwirkt hätte, dann wäre
-er für  immer auf Guantanamo **geblieben** (und nicht um da ein bisschen
+er für immer auf Guantanamo **geblieben** (und nicht um da ein bisschen
 Ferien zu machen)
 
 Darüber berichtet auch die `Süddeutsche
@@ -38,7 +38,7 @@ Man stelle sich vor ein mutmaßlicher **Mörder** stände vor Gericht,
 dessen Unschuld könnte festgestellt werden und er bekäme dann das
 Urteil:
 
-*Im namen des Volkes ergeht folgendes Urteil: Der Angeklagte ist in
+*Im Namen des Volkes ergeht folgendes Urteil: Der Angeklagte ist in
 allen Punkten freizusprechen....mit anschließender
 Sicherheitsverwahrung.*
 
@@ -50,5 +50,5 @@ trampelt aber wie wild auf den Menschenrechten rum
 Das ganze ist wohl doch eher ein **Kaperltheater** als das souveräne
 Handeln eines **Rechtsstaates**.
 
-Hoffentlich ändert ein neuer **President** ein ganz klein wenig etwas
+Hoffentlich ändert ein neuer **Präsident** ein ganz klein wenig etwas
 zum **Guten**.

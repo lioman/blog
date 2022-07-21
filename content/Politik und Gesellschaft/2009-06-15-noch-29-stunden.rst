@@ -11,7 +11,7 @@ Noch 29 Stunden...
 Zensurgesetz.
 
 Obwohl die benötigten Stimmen schon lange erreicht sind ist es dennoch
-wichtig weiterhin zu unterzeichnen.  Das Ziel ist die Rekordpetition:
+wichtig weiterhin zu unterzeichnen. Das Ziel ist die Rekordpetition:
 *Mineralölsteuer: Halbierung der Besteuerung von Diesel und Benzin* die
 128.193 Stimmen erhielt zu schlagen und damit ein deutliches Zeichen
 gegen `Zensur <http://de.wikipedia.org/wiki/Zensur>`__ und für
