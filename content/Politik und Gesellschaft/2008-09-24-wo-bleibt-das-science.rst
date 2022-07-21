@@ -22,7 +22,7 @@ Zusammenhänge vollkommen außer Acht gelassen werden, dann geht selbst
 mir als wirklicher Sci-Fi und Action-Fan der Hut.
 
 Ich habe letztens AEon Flux gesehen. Ich weiß die Kritiken sind alle
-schlecht- aber manchmal muss man sich selbst davon überzeugen ...  und
+schlecht- aber manchmal muss man sich selbst davon überzeugen ... und
 ... die Kritiker hatten recht - der Film war schlecht.
 
 Aber zurück zum Thema. In eben diesem Film werden alle Menschen wieder

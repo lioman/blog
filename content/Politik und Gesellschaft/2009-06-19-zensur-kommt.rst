@@ -13,7 +13,7 @@ effektiv wird aber eine Zensurinstanz geschaffen die einer
 Polizeibehörde unterstellt ist.
 
 Das Gesetz wurde von CDU (von der man nichts anderes erwartet) und der
-(enttäuschenden) SPD  mit 389 zu 128 Stimmen durchgewinkt.
+(enttäuschenden) SPD mit 389 zu 128 Stimmen durchgewinkt.
 
 Das genaue Abstimmungsverhalten kann man auf
 `Abgeordnetenwatch <http://www.abgeordnetenwatch.de/internet_sperren-636-180.html>`__
@@ -25,7 +25,7 @@ kommt wurde schon von Dr.Max Stadler (FDP) in seiner Rede angekündigt:
 
     Dass hier Verfassungsbeschwerden eingelegt werden, liegt auf der
     Hand. Dann wird Ihr Verfahren in Karlsruhe überprüft werden. Das
-    sage ich Ihnen jetzt schon vorau\ *s.*
+    sage ich Ihnen jetzt schon voraus.
 
 Auch könnte der Bundespräsident die Unterschrift verweigern. Hoffentlich
 tut er es!
