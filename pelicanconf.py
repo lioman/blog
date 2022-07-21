@@ -62,7 +62,7 @@ MENUITEMS = (
     ("Kunst und Kultur", "/category/kunst-und-kultur"),
     ("Politik und Gesellschaft", "/category/politik-und-gesellschaft"),
     ("Wissenschaft und Technik", "/category/wissenschaft-und-technik"),
-    ("Impressum", "/impressum"),
+    ("Impressum & Datenschutz", "/impressum"),
 )
 
 
@@ -117,9 +117,12 @@ PLUGINS = [
     i18n_templates,
 ]
 
-# PRECOMPRESS_GZIP = True
-# PRECOMPRESS_ZOPFLI = True
-# PRECOMPRESS_BROTLI = True
+LOAD_CONTENT_CACHE = True
+
+
+PRECOMPRESS_GZIP = False
+PRECOMPRESS_ZOPFLI = False
+PRECOMPRESS_BROTLI = False
 # # PRECOMPRESS_OVERWRITE = False
 # # PRECOMPRESS_MIN_SIZE = 20
 
