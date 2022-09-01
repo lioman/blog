@@ -6,13 +6,13 @@ Ubuntu Unity Tastenkombinationen
 :slug: ubuntu-unity-tastenkombinationen
 :status: published
 
-*`UMGUbuntu <http://www.omgubuntu.co.uk/2011/04/become-a-natty-power-user-in-no-time-using-this-unit-keyboard-shortcuts-wallpaper>`__
-Via
+Via `OMGUbuntu <http://www.omgubuntu.co.uk/2011/04/become-a-natty-power-user-in-no-time-using-this-unit-keyboard-shortcuts-wallpaper>`__
+via
 `AskUbuntu <http://askubuntu.com/questions/28086/unity-keyboard-mouse-shortcuts/36648#36648>`__
-Via
+via
 `iLoveUbuntu <http://iloveubuntu.net/learn-unity-3ds-keyboard-shortcuts-and-mouse-tricks-2-awesome-wallpapers>`__
-via `The How-to
-Geek <http://www.howtogeek.com/93565/unity-3d-keyboard-shortcut-and-mouse-trick-quick-reference-wallpapers/>`__*
+via
+`The How-to Geek <http://www.howtogeek.com/93565/unity-3d-keyboard-shortcut-and-mouse-trick-quick-reference-wallpapers/>`__
 habe ich ein Hintergrundbild für Ubuntu 11.04 entdeckt. Auf diesem sind
 die wichtigsten Shortcuts und Maustricks zusammengefasst. So ein
 Hintergrund kann bei der Eingewöhnung in Unity helfen. Da die Datei
@@ -23,7 +23,7 @@ Bitteschön:
 
 |image0|
 
-Hier die `SVG-Datei </wp-content/uploads/unitytricks.svg>`__
+Hier die `SVG-Datei <{static}/images/unitytricks.svg>`__
 
 .. |image0| image:: {static}/images/unitytricks_de-300x187.png
    :class: size-medium wp-image-3158 aligncenter
