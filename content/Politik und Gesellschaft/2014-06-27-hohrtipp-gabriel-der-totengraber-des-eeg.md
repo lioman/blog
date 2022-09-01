@@ -1,6 +1,6 @@
 Title: Höhrtipp: Gabriel der Totengräber des EEG
 Date: 2014-06-27 19:32
-Updated: 2022-08-30 10:50
+Modified: 2022-08-30 10:50
 Author: Lioman
 Tags: Audio, EEG, erneuerbare Energien, Große Koalition, Höhrtipp, Kommentar
 Slug: hohrtipp-gabriel-der-totengraber-des-eeg

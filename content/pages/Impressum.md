@@ -1,6 +1,6 @@
 Title: Impressum und Datenschutz
 Date: 2010-10-25 12:28
-Updated: 2022-07-20 21:12
+Modified: 2022-07-20 21:12
 Author: Lioman
 Slug: impressum
 Status: published
