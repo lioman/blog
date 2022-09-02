@@ -79,6 +79,7 @@ CC_LICENSE = {
     "slug": "by-sa",
     "icon": True,
     "language": "de_De",
+    "local_icons": True,
 }
 COPYRIGHT_YEAR = datetime.now().year
 
