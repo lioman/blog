@@ -1,14 +1,14 @@
 .youtube_video {
-    font-family: "Font Awesome 6 Free";
     margin: 0 auto;
     text-align: center;
     position: relative;
     display: inline-block;
 }
 
-.youtube_video::after {
+.youtube_video::before {
+    font-family: "Font Awesome 6 Free";
     content: "\f144";
-    font-size: 80px;
+    font-size: 5em;
     padding: .05em .2em;
     position: absolute;
     left: 50%;
@@ -16,6 +16,27 @@
     transform: translate(-50%, -50%);
     z-index: 99;
 }
+
+.youtube_video:hover::before {
+    filter: invert();
+}
+
+.youtube_video::after {
+    content: "Das Video auf YouTube abspielen.";
+    font-size: 0.9em;
+    padding: .05em .2em;
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    z-index: 99;
+}
+
 .youtube_video:hover::after {
     filter: invert();
+    text-decoration: underline;
+}
+
+.youtube_video>img {
+    object-fit: cover;
 }
