@@ -38,5 +38,21 @@ PRECOMPRESS_GZIP = True
 PRECOMPRESS_ZOPFLI = True
 PRECOMPRESS_BROTLI = True
 
+PRECOMPRESS_TEXT_EXTENSIONS = {
+    ".atom",
+    ".css",
+    ".htm",
+    ".html",
+    ".ini",
+    ".js",
+    ".json",
+    ".py",
+    ".rss",
+    ".txt",
+    ".xml",
+    ".xsl",
+    ".st",
+}
+
 LOAD_CONTENT_CACHE = False
 CACHE_CONTENT = False
