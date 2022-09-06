@@ -675,14 +675,6 @@ pelican = ">=4.5,<5.0"
 markdown = ["markdown (>=3.2.2,<4.0.0)"]
 
 [[package]]
-name = "pelican-vimeo"
-version = "0.1.2"
-description = "Easily embed Vimeo videos in your posts"
-category = "main"
-optional = false
-python-versions = "*"
-
-[[package]]
 name = "pelican-youtube"
 version = "0.2.1"
 description = "Easily embed YouTube videos in your posts"
@@ -1022,7 +1014,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "e7afb64dc3102f833556124ad0dbd8be1e8b9eb99fd327316b2fa517ca10cc06"
+content-hash = "c343670e145288946e5f42e66eb2e9032972f5a4d338003c949a18c2922b6223"
 
 [metadata.files]
 appnope = [
@@ -1473,10 +1465,6 @@ pelican-series = [
 pelican-sitemap = [
     {file = "pelican-sitemap-1.0.2.tar.gz", hash = "sha256:464052dbbf3daa7183c531c486e3db872f8f74b5fcc7aa25743b7c9aefbb359a"},
     {file = "pelican_sitemap-1.0.2-py3-none-any.whl", hash = "sha256:ec930ee8182d4b905a4e5732d0b87ad84ee62ee1830b42d1b1f82bcac8e12f2b"},
-]
-pelican-vimeo = [
-    {file = "pelican_vimeo-0.1.2-py2.py3-none-any.whl", hash = "sha256:0d8b39ae3eee5780eae50f64158e82db1bfde12db4f7c90cc4e9583b6dfbbebf"},
-    {file = "pelican_vimeo-0.1.2.tar.gz", hash = "sha256:08e20630e1946acdcb7433a14e7e339b8dba80a038345c57fbf8d968096b62c9"},
 ]
 pelican-youtube = [
     {file = "pelican_youtube-0.2.1-py2.py3-none-any.whl", hash = "sha256:72145f827f0631f1a28734b257f436bb22e7d0f92ff9436572eabaee8c544136"},
