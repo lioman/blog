@@ -6,7 +6,7 @@ from datetime import datetime
 
 import pelican_precompress
 
-from pelican.plugins import i18n_templates, series, neighbors, liquid_tags
+from pelican.plugins import i18n_templates, series, neighbors, liquid_tags, sitemap
 
 CACHE_CONTENT = True
 AUTHOR = "Lioman"
@@ -114,7 +114,7 @@ DRAFT_SAVE_AS = "drafts/{slug}/index.html"
 PLUGIN_PATHS = ["plugins"]
 
 PLUGINS = [
-    "extended_sitemap",
+    sitemap,
     "pelican_youtube",
     series,
     neighbors,
@@ -138,14 +138,14 @@ PRECOMPRESS_BROTLI = False
 
 USE_GOOGLE_FONTS = False
 
-EXTENDED_SITEMAP_PLUGIN = {
+SITEMAP = {
+    "format": "xml",
     "priorities": {"index": 1.0, "articles": 0.8, "pages": 0.5, "others": 0.4},
-    "changefrequencies": {
-        "index": "daily",
-        "articles": "weekly",
-        "pages": "monthly",
-        "others": "monthly",
-    },
+     "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
 }
 
 # Blogroll

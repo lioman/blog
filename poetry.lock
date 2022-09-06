@@ -569,14 +569,6 @@ unidecode = ">=1.1"
 markdown = ["markdown (>=3.1)"]
 
 [[package]]
-name = "pelican-extended-sitemap"
-version = "1.2.3"
-description = "sitemap generator plugin for pelican"
-category = "main"
-optional = false
-python-versions = "*"
-
-[[package]]
 name = "pelican-i18n-templates"
 version = "0.0.0.a1"
 description = "simple template translation"
@@ -669,12 +661,18 @@ pelican = ">=4.5"
 markdown = ["markdown (>=3.2)"]
 
 [[package]]
-name = "pelican-vimeo"
-version = "0.1.2"
-description = "Easily embed Vimeo videos in your posts"
+name = "pelican-sitemap"
+version = "1.0.2"
+description = "Pelican plugin to generate sitemap in plain-text or XML format"
 category = "main"
 optional = false
-python-versions = "*"
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+pelican = ">=4.5,<5.0"
+
+[package.extras]
+markdown = ["markdown (>=3.2.2,<4.0.0)"]
 
 [[package]]
 name = "pelican-youtube"
@@ -1016,7 +1014,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "e2d2f031797dcd1c7754429c61c7ad5646bc4ee8865e4ea7a705c516b9a77db1"
+content-hash = "c343670e145288946e5f42e66eb2e9032972f5a4d338003c949a18c2922b6223"
 
 [metadata.files]
 appnope = [
@@ -1446,9 +1444,6 @@ pelican = [
     {file = "pelican-4.8.0-py3-none-any.whl", hash = "sha256:c80a81930f57f9b1a11c9ab5894ce1465dcda2028c9e4e3993cf9cbf2061a57d"},
     {file = "pelican-4.8.0.tar.gz", hash = "sha256:6445c00cff2142a30592a2de046e5647b84a36c5a0cfafc0eba75abbabb2b4b1"},
 ]
-pelican-extended-sitemap = [
-    {file = "pelican-extended-sitemap-1.2.3.tar.gz", hash = "sha256:70a82e990334b555176654e140d45726be4333bc98ad4c0692d5ae07f2f5f29a"},
-]
 pelican-i18n-templates = []
 pelican-liquid-tags = [
     {file = "pelican-liquid-tags-1.0.3.tar.gz", hash = "sha256:bb3d1b8473643328469cf70f57501f31c266fa5e1ca3966b259d069528159a36"},
@@ -1467,9 +1462,9 @@ pelican-series = [
     {file = "pelican-series-2.1.0.tar.gz", hash = "sha256:07227206f457d82ab66ec817e0af03c95cee893b1ed585abc974761f6f947e46"},
     {file = "pelican_series-2.1.0-py3-none-any.whl", hash = "sha256:ad959e590556f4af5b3f87a3ab375e7844b63cd415025315910158f4c38f8ff8"},
 ]
-pelican-vimeo = [
-    {file = "pelican_vimeo-0.1.2-py2.py3-none-any.whl", hash = "sha256:0d8b39ae3eee5780eae50f64158e82db1bfde12db4f7c90cc4e9583b6dfbbebf"},
-    {file = "pelican_vimeo-0.1.2.tar.gz", hash = "sha256:08e20630e1946acdcb7433a14e7e339b8dba80a038345c57fbf8d968096b62c9"},
+pelican-sitemap = [
+    {file = "pelican-sitemap-1.0.2.tar.gz", hash = "sha256:464052dbbf3daa7183c531c486e3db872f8f74b5fcc7aa25743b7c9aefbb359a"},
+    {file = "pelican_sitemap-1.0.2-py3-none-any.whl", hash = "sha256:ec930ee8182d4b905a4e5732d0b87ad84ee62ee1830b42d1b1f82bcac8e12f2b"},
 ]
 pelican-youtube = [
     {file = "pelican_youtube-0.2.1-py2.py3-none-any.whl", hash = "sha256:72145f827f0631f1a28734b257f436bb22e7d0f92ff9436572eabaee8c544136"},
