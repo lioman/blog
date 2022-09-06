@@ -17,7 +17,7 @@ Wordpress-Installationen stark **eingeschränkt**. So kann man z. B.
 keine Plugins installieren und ist auch in der Designauswahl auf die,
 auf dem Server installierten, angewiesen.
 
-Es ist jedoch nicht sinvoll, deswegen ein teures Webhostingpaket zu
+Es ist jedoch nicht sinnvoll, deswegen ein teures Webhostingpaket zu
 kaufen und für sein kleines privates Blog viele Euro pro Monat
 auszugeben.
 

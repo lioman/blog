@@ -52,6 +52,7 @@ PRECOMPRESS_TEXT_EXTENSIONS = {
     ".xml",
     ".xsl",
     ".st",
+    ".wasm",
 }
 
 LOAD_CONTENT_CACHE = False
