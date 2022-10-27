@@ -1,9 +1,11 @@
+---
 Title: Venustransit im Video
 Date: 2012-06-11 11:14
 Author: Lioman
 Tags: Astronomie, Sonne, Venus
 Slug: venustransit-im-video
 Status: published
+---
 
 Eine historisches astronomisches Ereignis fand statt und man konnte es
 hier leider nicht sehen. Das Wetter war hier unten im Süden schlicht zu

@@ -11,18 +11,23 @@ Summary: Dieses Blog wird nun seit einiger Zeit mit pelican gerendert. Initial h
 ---
 
 Dieses Blog wird nun seit einiger Zeit mit [pelican](https://getpelican.com) gerendert.
-Initial hatte ich auf `*.rst`-Dateien gesetzt, inzwischen bin ich dazu übergegangen doch Markdown zu verwenden.
-Die meisten Dateien werden vermutlich nie konvertiert werden, doch hier und da halte ich es für sinnvoll die Datei umzubenennen.
+Initial hatte ich auf `*.rst`-Dateien gesetzt,
+inzwischen bin ich dazu übergegangen doch Markdown zu verwenden.
+Die meisten Dateien werden vermutlich nie konvertiert werden,
+doch hier und da halte ich es für sinnvoll die Datei umzubenennen.
 Dazu kommt, dass ich nun in allen Dateinamen das Erscheinungsdatum am Anfang haben möchte.
-Bringt man dann noch der IDE/der Shell/dem Filemanager das absteigende Sortieren bei, hat man immer die aktuellsten Artikel ganz oben.
+Bringt man dann noch der IDE/der Shell/dem Filemanager das absteigende Sortieren bei,
+hat man immer die aktuellsten Artikel ganz oben.
 Das macht, das Auffinden schlicht einfacher.
 
 Wie man das Datum extrahiert, werde ich eventuell in einem anderen Artikel beschreiben.
 Hier soll es um die Lösung eines anderen Problems gehen.
-Interne Links referenzieren bei pelican die Datei und die ist nach dem Umbenennen einfach nicht mehr richtig.
+Interne Links referenzieren bei pelican die Datei
+und die ist nach dem Umbenennen einfach nicht mehr richtig.
 Man, müsste also durch alle Artikel-Dateien gehen, den alten Dateinamen suchen und durch den Neuen ersetzen.
 Das ist selbst bei einigen wenigen Dateien sehr aufwendig und lässt sich wunderbar automatisieren.
-Da ich schon [invoke](https://www.pyinvoke.org/) als Taskrunner im Stack habe, habe ich hierfür einen Task geschrieben:
+Da ich schon [invoke](https://www.pyinvoke.org/) als Taskrunner im Stack habe,
+habe ich hierfür einen Task geschrieben:
 
     :::python
     @task
@@ -47,6 +52,9 @@ Da ich schon [invoke](https://www.pyinvoke.org/) als Taskrunner im Stack habe, h
         except Exception as e:
             print(f"Ups: {e}")
 
-Nun kann ich mit `invoke movefile  /pfad/zum/Artikel.md /pfad/zum/Neuen-Artikel.md` die Datei umbenennen
+Nun kann ich mit `invoke movefile  /pfad/zum/Artikel.md /pfad/zum/Neuen-Artikel.md`
+die Datei umbenennen
 und in allen anderen Posts, wird der Link ersetzt.
-Eine kleine Warnung: Ich habe den Task nur bei mir getestet und er funktioniert soweit. Aber es ist doch eher eine schnelle Lösung und man sollte sich das Ergebnis genau anschauen, bevor man es benutzt.
+Eine kleine Warnung: Ich habe den Task nur bei mir getestet und er funktioniert soweit.
+Aber es ist doch eher eine schnelle Lösung
+und man sollte sich das Ergebnis genau anschauen, bevor man es benutzt.

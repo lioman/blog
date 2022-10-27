@@ -1,9 +1,11 @@
+---
 Title: Kampf im 15. Jahrhundert - nicht wie im Film
 Date: 2012-01-11 14:39
 Author: Lioman
 Tags: Geschichte, Kampf, Mittelalter, Ritter, Video
 Slug: kampf-im-15-jahrhundert-nicht-wie-im-film
 Status: published
+---
 
 Für eine Ausstellung hat Daniel Jaquet von der Universität Genf versucht
 den Kampf in einer Rüstung nachzustellen.

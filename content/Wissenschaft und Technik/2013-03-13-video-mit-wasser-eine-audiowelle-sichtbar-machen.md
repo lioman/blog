@@ -1,9 +1,11 @@
+---
 Title: Video: Mit Wasser eine Audiowelle sichtbar machen
 Date: 2013-03-13 11:07
 Author: Lioman
 Tags: Ton, Video, Welle, wissenschaft
 Slug: video-mit-wasser-eine-audiowelle-sichtbar-machen
 Status: published
+---
 
 Lautsprecher , Tongenerator und Wasser - mehr braucht es nicht um eine
 Sinuswelle sichtbar zu machen.

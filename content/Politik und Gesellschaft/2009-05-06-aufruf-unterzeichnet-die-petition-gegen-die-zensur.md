@@ -1,17 +1,19 @@
+---
 Title: Aufruf: Unterzeichnet die Petition gegen die Zensur
 Date: 2009-05-06 14:41
 Authors: Lioman
 Tags: Gesetz, Internet, Kinderpornographie, Petition, Politik, Zensur
 Slug: aufruf-unterzeichnet-die-petition-gegen-die-zensur
 Status: published
+---
 
 Über einen Artikel auf
 [Ubuntuusers.de](http://ikhaya.ubuntuusers.de/2009/05/05/petition-gegen-internet-zensur/)
 bin ich auf die Petition gestoßen, die sich gegen den Gesetzentwurf zur
 Zensierung des Internets unter dem Deckmantel der
 Kinderpornographiebekämpfung richtet. Dazu muss man sich auf der
-[Epetitionen-Seite des Bundestages](https://epetitionen.bundestag.de/) anmelden. Und kann
-dann die Petition: Internet - Keine Indizierung und Sperrung von
+[Epetitionen-Seite des Bundestages](https://epetitionen.bundestag.de/) anmelden.
+Und kann dann die Petition: Internet - Keine Indizierung und Sperrung von
 Internetseiten mitzeichnen.
 
 **Tut das alle,** da es hier effektiv um die Einführung einer
@@ -20,7 +22,7 @@ unkontrollierten Zensurinstanz geht.
 Die vorgeschlagenen Techniken sind zudem völlig ungeeignet, um Kinder
 vor diesem bestialischen Missbrauch zu schützen.
 
-Einen sehr guten Blogartikel zu diesem Thema gibt es bei 
+Einen sehr guten Blogartikel zu diesem Thema gibt es bei
 [Jens Scholz](http://www.jensscholz.com/2009/04/warum-es-um-zensur-geht.htm),
 deswegen führe ich hier das Thema nicht weiter aus. Und über die
 Nutzlosigkeit dieser Idee und Beispiele aus anderen Ländern kann man auf
@@ -32,7 +34,7 @@ Meiste geschieht per Post. Deswegen darf man aber trotzdem kein
 Zensurpostamt einrichten, wie es eines zu Zeiten der DDR gab.
 
 Leider muss man das immer dazusagen: Ich bin **gegen**
-Kinderpornographie. Es ist abschäulich, menschenunwürdig, bestialisch,
+Kinderpornographie. Es ist abscheulich, menschenunwürdig, bestialisch,
 grausam und in keinem Fall zu tolerieren. Herstellung und Verbreitung
 müssen aufs entschiedenste Bekämpft werden. Aber nicht mit allen Mitteln
 sondern "nur" mit den richtigen. Die entsprechenden Server müssen
@@ -43,5 +45,5 @@ gut wie alle in Ländern in denen Kinderpornographie verboten ist. Man
 müsste nur mehr Geld für Beamte (Polizisten, Anwälte) ausgeben, die sich
 darum Kümmern. Das das geht zeig der Versuch von CareChild.
 
-Also nocheinmal Unterschreibt die Petition, damit die benötigten 50.000
+Also noch einmal Unterschreibt die Petition, damit die benötigten 50.000
 Stimmen zusammenkommen

@@ -1,0 +1,11 @@
+default: true
+
+MD041:
+  # Heading level
+  level: 1
+  # RegExp for matching title in front matter
+  front_matter_title: "^\\s*Title\\s*[:=]"
+MD013:
+  # Number of characters
+  line_length: 100
+  heading_line_length: 120

@@ -1,9 +1,11 @@
+---
 Title: Impressum und Datenschutz
 Date: 2010-10-25 12:28
 Modified: 2022-07-20 21:12
 Author: Lioman
 Slug: impressum
 Status: published
+---
 
 ## Angaben gemäß § 5 TMG
 
@@ -40,14 +42,15 @@ diesem Text aufgeführten Datenschutzerklärung.
 ##### Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.
-Dessen Kontaktdaten können Sie dem Abschnitt &bdquo;Hinweis zur Verantwortlichen Stelle&ldquo; 
+Dessen Kontaktdaten können Sie dem Abschnitt &bdquo;Hinweis zur Verantwortlichen Stelle&ldquo;
 in dieser Datenschutzerklärung entnehmen.
 
 ###### Wie erfassen wir Ihre Daten?
 
 Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen.
 Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
-Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst.
+Andere Daten werden automatisch
+oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst.
 Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs).
 Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
 
@@ -98,9 +101,9 @@ GitLab Inc, 268 Bush Street #350, San Francisco, CA 94104-3503, United States of
 #### Datenschutz
 
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst.
-Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen 
+Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen
 Datenschutzvorschriften sowie dieser Datenschutzerklärung.
-Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. 
+Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben.
 Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.
 Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen.
 Sie erläutert auch, wie und zu welchem Zweck das geschieht.
@@ -119,7 +122,8 @@ E-Mail: [blog {at} lioman.de](mailto:blog@lioman.de)
 Telefon: 015156933605
 
 Verantwortliche Stelle ist die natürliche oder juristische Person,
-die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
+die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung
+von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
 #### Speicherdauer
 
@@ -224,6 +228,7 @@ Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sic
 Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
 Hierzu können Sie sich jederzeit an uns wenden.
 Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
+
 - Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten,
   benötigen wir in der Regel Zeit, um dies zu überprüfen.
   Für die Dauer der Prüfung haben Sie das Recht,
@@ -243,7 +248,8 @@ Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben,
 dürfen diese Daten - von ihrer Speicherung abgesehen - nur mit Ihrer Einwilligung oder zur Geltendmachung,
 Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte
 einer anderen natürlichen oder juristischen Person oder aus Gründen
-eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
+eines wichtigen öffentlichen Interesses der Europäischen Union
+oder eines Mitgliedstaats verarbeitet werden.
 
 #### SSL- bzw. TLS-Verschlüsselung
 
@@ -339,7 +345,8 @@ Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen
 #### YouTube mit erweitertem Datenschutz
 
 Diese Website bindet Videos der YouTube ein.
-Betreiber der Seiten ist die Google Ireland Limited (&bdquo;Google&ldquo;), Gordon House,
+Betreiber der Seiten ist die Google Ireland Limited (&bdquo;Google&ldquo;),
+Gordon House,
 Barrow Street, Dublin 4, Irland.
 Wir nutzen YouTube im erweiterten Datenschutzmodus.
 Dieser Modus bewirkt laut YouTube,
@@ -383,7 +390,8 @@ Dabei wird dem Vimeo-Server mitgeteilt, welche unserer Seiten Sie besucht haben.
 Zudem erlangt Vimeo Ihre IP-Adresse.
 Wir haben Vimeo jedoch so eingestellt, dass Vimeo Ihre Nutzeraktivitäten nicht nachverfolgen
 und keine Cookies setzen wird.Die Nutzung von Vimeo erfolgt im Interesse einer ansprechenden
-Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne des
+Darstellung unserer Online-Angebote.
+Dies stellt ein berechtigtes Interesse im Sinne des
 Art. 6 Abs. 1 lit. f DSGVO dar.
 Sofern eine entsprechende Einwilligung abgefragt wurde,
 erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO;
