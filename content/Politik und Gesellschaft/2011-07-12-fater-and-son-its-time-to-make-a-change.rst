@@ -8,7 +8,7 @@ Father and Son: Its time to make a change...
 :status: published
 
 30 Jahre lang flogen die Spaceshuttle ins All und vor `wenigen
-Tagen <{filename}/Wissenschaft\ und\ Technik/2011-07-08-der-letzte-start-eines-spaceshuttles.rst>`_
+Tagen <{filename}/Wissenschaft\ und\ Technik/2011-07-08-der-letzte-start-eines-spaceshuttles.md>`_
 startete die Atlantis das letzte Mal und Russland hat nun das
 `Monopol <http://www.zeit.de/wissen/2011-07/space-shuttle-nachfolge>`__
 auf Transporte ins All.
