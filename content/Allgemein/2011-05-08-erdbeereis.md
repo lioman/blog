@@ -1,11 +1,12 @@
-Erdbeereis
-##########
-:date: 2011-05-08 10:26
-:author: Lioman
-:category: Allgemein
-:tags: Eis, Erdbeeren, Kochen, Rezept, Sommer
-:slug: erdbeereis
-:status: published
+---
+Title: Erdbeereis
+Date: 2011-05-08 10:26
+Author: Lioman
+Category: Allgemein
+Tags: Eis, Erdbeeren, Kochen, Rezept, Sommer
+Slug: erdbeereis
+Status: published
+---
 
 Wir haben für unsere Küchenmaschine für diesen Sommer uns endlich den
 Aufsatz zum Eisbereiten gekauft.
@@ -24,8 +25,6 @@ Einfach lecker!
 
 Und weil es das erste Mal war habe ich ein kleines Video gedreht,
 hauptsächlich um die Schnittsoftware
-`Openshot <http://www.openshot.org>`__ auszuprobieren:
+[Openshot](http://www.openshot.org) auszuprobieren:
 
-.. youtube:: y4WkcaM-wWk
-   :class: youtube-16x9
-   :nocookie: yes
+{% youtube y4WkcaM-wWk %}
