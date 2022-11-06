@@ -1,10 +1,11 @@
-3 Kampagnen zum Mitmachen: Clooney - 1 Cent für Angela - Vorratsdatenspeicherung
-################################################################################
-:date: 2011-09-04 20:40
-:author: Lioman
-:tags: Fairer Kaffee, George Clooney, Kampagne, Klimapolitik, Petition, Vorratsdatenspeicherung
-:slug: 3-kampagnen-zum-mitmachen-clooney-1-cent-fuer-angela-vorratsdatenspeicherung
-:status: published
+---
+Title: 3 Kampagnen zum Mitmachen: Clooney - 1 Cent für Angela - Vorratsdatenspeicherung
+Date: 2011-09-04 20:40
+Author: Lioman
+Tags: Fairer Kaffee, George Clooney, Kampagne, Klimapolitik, Petition, Vorratsdatenspeicherung
+Slug: 3-kampagnen-zum-mitmachen-clooney-1-cent-fuer-angela-vorratsdatenspeicherung
+Status: published
+---
 
 Im Internet gibt es immer wieder einige Kampagnen  - Aktionen, die es
 ermöglichen Politiker und Firmen ein wenig unter Druck zu setzen, damit
@@ -21,15 +22,18 @@ Sozialpolitikeinfach weggelassen oder nicht konsequent durchgeführt.
 Drei Kampagnen, die derzeit laufen, möchte ich kurz vorstellen, da ich
 sie alle für Unterstützungswert halte.
 
-#. Petition: Strafprozessordnung - Verbot der Vorratsdatenspeicherung.
+1. Petition: Strafprozessordnung - Verbot der Vorratsdatenspeicherung.
    Etwas anders als die oben genannten Szenarien, dennoch wichtig aber
    so selbsterklärend, das der Link dazu reicht. **Update:** existiert leider nicht mehr
 
-#.  `Überweise einen Cent an Angela Merkel <http://web.archive.org/web/20120328033054/http://pusheurope.eu:80/1-cent/deutschland/>`__
+2.  [Überweise einen Cent an Angela Merkel](http://web.archive.org/web/20120328033054/http://pusheurope.eu:80/1-cent/deutschland/)
      Die Teilnahme erfolgt hier nicht über einen Klick im Netz, sondern
      kostet etwas Geld. Genauer gesagt einen Cent den man so
      überweist:
-     Verwendungszweck: **“EU Klimapolitik A. Merkel; EU -40% CO2 bis 2020; www.pusheurope.eu”** |image0|
+
+     ![Pusheurope]({static}/images/push_europe_cent-300x249.jpg)
+
+     Verwendungszweck: **“EU Klimapolitik A. Merkel; EU -40% CO2 bis 2020; www.pusheurope.eu”**
      Kontonummer: **860 010 30 (Empfänger:Bundeskasse Halle)**
      Bankleitzahl: **860 000 00 (Deutsche Bundesbank)**
      Das ist natürlich kein Persönliches Konto von Angela Merkel,
@@ -38,7 +42,7 @@ sie alle für Unterstützungswert halte.
      Verwaltungsakt wird ausgelöst und die Protestcents erscheinen in
      den Büchern.
      Damit auch klar ist wozu das ganze sein soll schickt man am besten
-     noch eine Mail an Angela Merkel (`Mustertext hier <http://web.archive.org/web/20120104014247/http://pusheurope.eu:80/1-cent/deutschland/mail/>`__).
+     noch eine Mail an Angela Merkel ([Mustertext hier](http://web.archive.org/web/20120104014247/http://pusheurope.eu:80/1-cent/deutschland/mail/)).
 
      Ziel der europaweiten Aktion ist es Europäischen Staatschefs zu
      verklickern, das man jetzt in eine Nachhaltige Klimapolitik
@@ -47,10 +51,8 @@ sie alle für Unterstützungswert halte.
      deutlich mehr verschlingen als alle Investitionen die man jetzt
      etablieren müsste.
 
-#. `Schreib George Clooney eine Mail - damit Nespresso nur fairen Kaffee
-   einsetzt. <http://www.solidar.ch/de/>`__
-   Clooney setzt sich als UNO-Botschafter für viele `humanitäre
-   Projekte <https://secure.wikimedia.org/wikipedia/en/wiki/George_Clooney#Humanitarian_work>`__
+3. [Schreib George Clooney eine Mail - damit Nespresso nur fairen Kaffee einsetzt.](http://www.solidar.ch/de/)
+   Clooney setzt sich als UNO-Botschafter für viele [humanitäre Projekte](https://secure.wikimedia.org/wikipedia/en/wiki/George_Clooney#Humanitarian_work)
    ein. Das ist beeindruckend wie viel Energie und Engagement er dafür
    aufbringt und man kann nur den Hut ziehen. Allerdings wirbt er auch
    für Nestlé - genauer gesagt für Nespresso. Nestlé setzt aber keinen
@@ -60,16 +62,4 @@ sie alle für Unterstützungswert halte.
    herzugeben, falls diese nicht auf faire Produktionsbedingungen
    umstellen.
 
-
-.. youtube:: 2G8QljHVn_A
-    :class: youtube-16x9
-    :allowfullscreen: yes
-    :seamless: yes
-   :nocookie: yes
-
-
-.. |image0| image:: {static}/images/push_europe_cent-300x249.jpg
-   :class: alignright size-full wp-image-3577
-   :width: 300px
-   :height: 249px
-   :target: {static}/images/push_europe_cent-300x249.jpg
+{% youtube 2G8QljHVn_A %}
