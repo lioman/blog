@@ -1,13 +1,13 @@
-Der unglaubliche Hulk
-#####################
-:date: 2008-07-24 12:59
-:author: Lioman
-:tags: Comic, Film, Kino
-:slug: der-unglaubliche-hulk
-:status: published
+---
+Title: Der unglaubliche Hulk
+Date: 2008-07-24 12:59
+Author: lioman
+Tags: comic, film, kino
+Slug: der-unglaubliche-hulk
+Status: published
+---
 
-Da ich ein Faible für Comicverfilmungen habe, war gleich mal im neuen
-Hulk.
+Da ich ein Faible für Comicverfilmungen habe, war gleich mal im neuen Hulk.
 
 Vorab: Es ist **keine** Fortsetzung der Hulkverfilmung von 2003. Viele
 Fans und auch Marvel selbst waren mit diesem Film nicht zufrieden und so
@@ -39,6 +39,4 @@ Man** konkurrieren zu können.
 
 Und hier nochmal der Trailer, für alle die ihn noch nicht gesehen haben:
 
-.. youtube:: NWWzve8Z90s
-   :class: youtube-16x9
-   :nocookie: yes
+{% youtube NWWzve8Z90s %}

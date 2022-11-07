@@ -3,6 +3,7 @@
 from datetime import datetime
 import os
 from pathlib import Path
+import re
 from jinja2 import Template
 import shutil
 import sys
@@ -142,6 +143,38 @@ def movefile(c, old, new):
 
     except Exception as e:
         print(f"Ups: {e}")
+
+
+@task
+def convert2md(c, file):
+    new = file.replace(".rst", ".md")
+    movefile(c, file, new)
+
+    md = Path(new)
+    text = ""
+    with md.open() as f:
+        headers_parsed = False
+        print("Migrate Frontmatter")
+        for idx, line in enumerate(f.readlines()):
+            if not headers_parsed:
+                if idx == 0:
+                    line = f"---\nTitle: {line}"
+                if re.match("^#+$", line):
+                    print("delete line")
+                    continue
+                if line.startswith(":"):
+                    print("Replace Meta")
+                    line = line[1:].capitalize()
+                if line == "\n":
+                    print("header finished")
+                    line = f"---\n\n"
+                    headers_parsed = True
+            line = re.sub(r"`(.*?) <(.*?)>`__", r"[\1](\2)", line)
+            line = re.sub(r"\.\. youtube:: (.*?)\n", r"{% youtube \1 %}\n", line)
+            if not re.match("   :(.+): (.+)\n", line):
+                text = f"{text}{line}"
+    md.write_text(text)
+    c.run(f"code '{md}'")
 
 
 @task
