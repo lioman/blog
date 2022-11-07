@@ -1,23 +1,21 @@
-Greenpeace gegen Nestlé
-#######################
-:date: 2010-03-22 16:04
-:author: Lioman
-:tags: Greenpeace, kitkat, Nestlé, Orang-Utan, Regenwald, Umweltschutz, Video
-:slug: greenpeace-gegen-nestle
-:status: published
+---
+Title: Greenpeace gegen Nestlé
+Date: 2010-03-22 16:04
+Author: lioman
+Tags: greenpeace, kitkat, nestlé, orang-utan, regenwald, umweltschutz, video
+Slug: greenpeace-gegen-nestle
+Status: published
+---
 
 **Schon auf vielen Kanälen, Plattformen und Blogs ist der
 Greenpeace-Spot gegen Palmölbenutzung bei Kitkat (Nestlé) aufgetaucht
 und auch ich möchte ihn mit ein paar Nebenbemerkungen hier posten.**
 
-.. youtube:: IzF3UGOlVDc
-   :class: youtube-16x9
-   :nocookie: yes
+{% youtube IzF3UGOlVDc %}
 
 Zudem möchte ich noch auf ein paar  andere Seiten verweisen:
 
-*Mirko Lange* beschäftigt sich mit dem Spot
-`selbst <http://talkabout.posterous.com/greenpeace-vs-nestle-gerechter-kampf-um-die-s>`__.
+*Mirko Lange* beschäftigt sich mit dem Spot [selbst](http://talkabout.posterous.com/greenpeace-vs-nestle-gerechter-kampf-um-die-s).
 Er hinterfragt kritisch, ob eine Organisation wie Greenpeace so handeln
 darf, wie sie es in diesem Fall tut und meint die Ökoaktivisten seien
 dieses Mal über das Ziel hinaus geschossen. Ich bin der Meinung, das die
@@ -32,12 +30,9 @@ verarbeitet laut eigener Aussage nur einen geringen Teil der Weltweiten
 Produktion (und widerspricht sich mit den genauen Zahlen
 selbst).
 
-.. figure:: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Orang2.jpg/512px-Orang2.jpg
-   :alt: Orang-Utan-Baby im Münchner Zoo
-   :width: 512
-   :target: https://commons.wikimedia.org/wiki/File%3AOrang2.jpg
+![Orang-Utan](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Orang2.jpg/512px-Orang2.jpg)
 
-   `GFDL`_, `CC-BY-SA-3.0`_ or `CC BY-SA 2.5`_, by Oliver Spalt (Own work), from Wikimedia Commons
+_[GFDL](http://www.gnu.org/copyleft/fdl.html), [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/) or [CC BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5/), by Oliver Spalt (Own work), from Wikimedia Commons_
 
 Es stimmt, das nicht nur in Kitkat Palmöl verarbeitet
 wird (was die Sache nicht besser macht). Besonderst Kosmetika und
@@ -50,10 +45,5 @@ wurde.
 
 Will man sich sicher sein, kann man auf entsprechende Ökosiegel bauen
 und/ oder sich
-diese `Weiße-Liste-Palmöl <http://www.borneoorangutanhilfe.de/weisse-liste-palmoel.html>`__
+diese [Weiße-Liste-Palmöl](http://www.borneoorangutanhilfe.de/weisse-liste-palmoel.html)
 zu Gemüte führen.
-
-
-.. _GFDL: http://www.gnu.org/copyleft/fdl.html
-.. _CC-BY-SA-3.0: http://creativecommons.org/licenses/by-sa/3.0/
-.. _CC BY-SA 2.5: http://creativecommons.org/licenses/by-sa/2.5
