@@ -115,7 +115,7 @@ PLUGIN_PATHS = ["plugins"]
 
 PLUGINS = [
     sitemap,
-    "pelican_youtube",
+    # "pelican_youtube",
     series,
     neighbors,
     pelican_precompress,
@@ -141,11 +141,7 @@ USE_GOOGLE_FONTS = False
 SITEMAP = {
     "format": "xml",
     "priorities": {"index": 1.0, "articles": 0.8, "pages": 0.5, "others": 0.4},
-     "changefreqs": {
-        "articles": "monthly",
-        "indexes": "daily",
-        "pages": "monthly"
-    }
+    "changefreqs": {"articles": "monthly", "indexes": "daily", "pages": "monthly"},
 }
 
 # Blogroll
