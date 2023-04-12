@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 from datetime import datetime
+import warnings
 
 import pelican_precompress
 
@@ -181,6 +182,5 @@ AUTHOR_FEED_RSS = None
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
-SEARCH_INPUT_OPTIONS = f"""stemming = "German"
-                url_prefix = "http://localhost:8001/"
-"""
+
+STORK_INPUT_OPTIONS = {"stemming": "German", "url_prefix": "http://localhost:8001/"}

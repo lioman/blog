@@ -30,9 +30,8 @@ RSS_FEED_SUMMARY_ONLY = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-SEARCH_INPUT_OPTIONS = f"""stemming = "German"
-                url_prefix = "{SITEURL}/"
-"""
+
+STORK_INPUT_OPTIONS["url_prefix"] = SITEURL
 
 PRECOMPRESS_GZIP = True
 PRECOMPRESS_ZOPFLI = True
