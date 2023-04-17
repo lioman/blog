@@ -14,6 +14,8 @@ from invoke import task
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 
+from publishconf import OUTPUT_PATH
+
 SETTINGS_FILE_BASE = "pelicanconf.py"
 SETTINGS = {}
 SETTINGS.update(DEFAULT_CONFIG)
@@ -74,7 +76,7 @@ def serve(c):
         CONFIG["deploy_path"], ("", CONFIG["port"]), ComplexHTTPRequestHandler
     )
 
-    sys.stderr.write("Serving on port {port} ...\n".format(**CONFIG))
+    sys.stderr.write("Serving on http://localhost:{port} ...\n".format(**CONFIG))
     server.serve_forever()
 
 
@@ -95,6 +97,9 @@ def preview(c):
 def publish(c):
     """Publish to production via rsync"""
     c.run("pelican -s publishconf.py")
+    # c.run(
+    # f"rsync -e 'ssh -p 22' -P -rvzc --delete {OUTPUT_PATH}/ lioman@lioman.net:/home/lioman/blog --cvs-exclude"
+    # )
 
 
 @task
