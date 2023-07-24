@@ -158,7 +158,7 @@ SITEMAP = {
 # Social widget
 SOCIAL = (
     ("mastodon", "https://chaos.social/@lioman"),
-    ("twitter", "https://twitter.com/lioman"),
+    # ("twitter", "https://twitter.com/lioman"),
     ("gitlab", "https://gitlab.com/lioman"),
     ("github", "https://github.com/lioman"),
     ("stack-overflow", "http://stackoverflow.com/users/3114491/lioman"),
