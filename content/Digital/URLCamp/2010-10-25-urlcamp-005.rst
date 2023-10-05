@@ -8,18 +8,11 @@ URLcamp #005
 :slug: urlcamp-005
 :status: published
 
-| |image0|
+Folge 005 des URLcamps:\ |image0|
+---------------------------------
 
-.. raw:: html
+Ein wunderbarer Artikel über die unselige Leitkulturdebatte:
 
-   <h2>
-
-| Folge 005 des URLcamps:
-| Ein wunderbarer Artikel über die unselige Leitkulturdebatte:
-
-.. raw:: html
-
-   </p>
 
 `Nerv' mich doch <http://www.berlinonline.de/berliner-zeitung/archiv/.bin/dump.fcgi/2010/1023/magazin/0001/index.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
