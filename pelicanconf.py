@@ -144,7 +144,7 @@ USE_GOOGLE_FONTS = False
 
 SITEMAP = {
     "format": "xml",
-    "priorities": {"index": 1.0, "articles": 0.8, "pages": 0.5, "others": 0.4},
+    "priorities": {"indexes": 1.0, "articles": 0.8, "pages": 0.5},
     "changefreqs": {"articles": "monthly", "indexes": "daily", "pages": "monthly"},
 }
 

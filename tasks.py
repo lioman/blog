@@ -96,10 +96,7 @@ def preview(c):
 @task
 def publish(c):
     """Publish to production via rsync"""
-    c.run("pelican -s publishconf.py")
-    # c.run(
-    # f"rsync -e 'ssh -p 22' -P -rvzc --delete {OUTPUT_PATH}/ lioman@lioman.net:/home/lioman/blog --cvs-exclude"
-    # )
+    c.run("pelican -s publishconf.py", pty=True)
 
 
 @task

@@ -26,6 +26,6 @@ YOUTUBE_INVIDIOUS_INSTANCE = "https://invidious.tiekoetter.com"
 
 Und der Link führt nicht mehr direkt auf youtube, sondern wird eben, wie konfiguriert ersetzt:
 
-{% youtube Ppz07UQxlEc %}
+{% youtube DjiE1rC99dk %}
 
 Eine Liste öffentlicher Instanzen gibt es [hier](https://docs.invidious.io/instances/)
