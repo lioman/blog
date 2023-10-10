@@ -11,7 +11,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = "https://www.lioman.de"
+SITEURL = os.environ.get("BLOG_DEPLOY_URL", "https://lioman.de")
 RELATIVE_URLS = False
 
 OUTPUT_PATH = "public"

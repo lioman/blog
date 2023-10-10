@@ -31,47 +31,47 @@ Mit etwas CSS bekommt man auch noch einen schicken Knopf, der direkt zum Video f
 
 ```css
 .youtube_video {
-    margin: 0 auto;
-    text-align: center;
-    position: relative;
-    display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  display: inline-block;
 }
 
 .youtube_video::before {
-    font-family: "Font Awesome 6 Free";
-    content: "\f144";
-    font-size: 5em;
-    padding: .05em .2em;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 99;
+  font-family: "Font Awesome 6 Free";
+  content: "\f144";
+  font-size: 5em;
+  padding: 0.05em 0.2em;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
 }
 
 .youtube_video:hover::before {
-    filter: invert();
+  filter: invert();
 }
 
 .youtube_video::after {
-    content: "Das Video auf YouTube abspielen.";
-    font-size: 0.9em;
-    padding: .05em .2em;
-    position: absolute;
-    left: 50%;
-    top: 70%;
-    transform: translate(-50%, -50%);
-    z-index: 99;
+  content: "Das Video auf YouTube abspielen.";
+  font-size: 0.9em;
+  padding: 0.05em 0.2em;
+  position: absolute;
+  left: 50%;
+  top: 70%;
+  transform: translate(-50%, -50%);
+  z-index: 99;
 }
 
 .youtube_video:hover::after {
-    filter: invert();
-    text-decoration: underline;
+  filter: invert();
+  text-decoration: underline;
 }
 
-.youtube_video>img {
-    object-fit: cover;
+.youtube_video > img {
+  object-fit: cover;
 }
 ```
 
-{% youtube Ppz07UQxlEc %}
+{% youtube DjiE1rC99dk %}
