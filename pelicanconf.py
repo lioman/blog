@@ -21,7 +21,7 @@ PATH = "content"
 
 YOUTUBE_THUMB_ONLY = True
 YOUTUBE_THUMB_SIZE = "sd"
-YOUTUBE_INVIDIOUS_INSTANCE = "https://invidious.tiekoetter.com"
+YOUTUBE_INVIDIOUS_INSTANCE = "https://invidious.fdn.fr"
 LIQUID_TAGS = ["video", "youtube", "vimeo", "include_code"]
 
 STATIC_PATHS = [
