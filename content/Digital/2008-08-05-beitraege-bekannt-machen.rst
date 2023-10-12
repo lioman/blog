@@ -7,12 +7,9 @@ Beiträge bekannt machen!
 :slug: beitraege-bekannt-machen
 :status: published
 
-<
+**Stell dir vor du bloggst ......**
 
-p style="text-align: left;">\ ***Stell dir vor du bloggst ......***\ ***
-***
-
- ***..... und keiner schaut hin.***
+**..... und keiner schaut hin.**
 
 Wenn man neu das **Bloggen** für sich entdeckt und das jungfräuliche
 Bloggsystem erstmal fleißig mit Beiträgen füttert, kann man eigentlich
@@ -26,20 +23,12 @@ Man kann dies selbst aber ein wenig beschleunigen in dem man
 #. Etwas interessantes schreibt und
 #. Das geschriebene bekannt macht.
 
-Dazu muss man die Domain erstmal in die diversen **Suchmaschinen**
-eintragen. Wie das geht überlasse ich den unzähligen **SEO's.**
+Dazu muss man die Domain ersteinmal in die diversen **Suchmaschinen** eintragen.
+Wie das geht überlasse ich den unzähligen **SEO's.**
 
 Außerdem kann man immer, wenn man einen Beitrag geschrieben hat,
 **Pingdinste** anpingen - ihnen also die frohe Kunde über neuste
 geistige Ergüsse zukommen lassen.
-
-.. raw:: html
-
-   <div style="page-break-after: always;">
-
-.. raw:: html
-
-   </div>
 
 Die meisten Blogsysteme (wie z.B. Wordpress) haben ein eingebautes
 **Ping-Modul.** Man trägt alle URLs ein und die Software erledigt den
@@ -52,11 +41,9 @@ Um nicht endlos Pingdienste zu besuchen und trotzdem alle wichtigen
 anzupingen kann man einen besuchen, der dann die wichtigsten bedient.
 
 Am praktikabelsten hat sich für
-mich\ `Blogpingr.de <http://blogpingr.de>`__\  erwiesen.
+mich `Blogpingr.de <http://blogpingr.de>`__  erwiesen.
 
-Der Dienst verteilt laut\ `Webmaster
-Watchblog <http://web.archive.org/web/20080912225149/http://www.webmasterwatchblog.de:80/hinweise/blogpingr-und-noch-ein-pingdienst/>`__\ 
-an
+Der Dienst verteilt laut `Webmaster Watchblog <http://web.archive.org/web/20080912225149/http://www.webmasterwatchblog.de:80/hinweise/blogpingr-und-noch-ein-pingdienst/>`__ an.
 
 -  Google
 -  Yahoo
@@ -71,7 +58,7 @@ an
 Meines Erachtens sind das erst mal die **wichtigsten.**
 
 Wenn man ein kleines Bild mit
-entsprechendem\ `Code <http://blogpingr.de/buttons/>`__\  auf seinem
+entsprechendem `Code <http://blogpingr.de/buttons/>`__  auf seinem
 Blog einbindet, wird man zudem in den Blogticker aufgenommen und man
 kann im Blogmonitor die wichtigsten Statistiken über alle Blogs
 einsehen.
@@ -81,11 +68,7 @@ meine Seite gekommen und das anpingen anderer Dienste funktioniert
 **perfekt**. Kaum habe ich angepingt tauchen die Crawler der Anderen
 auf.
 
-<
-
-p style="text-align: center;">
-
-Das Einzige, das ich wirklich noch vermisse ist eine sinvolle
+Das Einzige, das ich wirklich noch vermisse ist eine sinnvolle
 **Suchfunktion.** Man sieht leider immer nur die aktuellsten Blogs und
 nicht alle eingegangenen.
 

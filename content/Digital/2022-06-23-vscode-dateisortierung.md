@@ -20,7 +20,7 @@ In der Konsole und dem Dateimanager des Systems geht das natürlich sehr gut,
 in VSCode leider nicht.
 Es gibt zwar die Option nach letzter Modifizierung zu sortieren,
 das führt aber eher zu einer chaotischen Liste.
-![VSCode-Fileexplorer sortiert nach 'modifiziert']({static}/images/screenshot_file_explorer_vscode.png)
+![VSCode-Fileexplorer sortiert nach 'modifiziert']({static}/images/screenshot_file_explorer_vscode.png){: height="218px" width="300px"}
 
 Nach Dateinamen in umgekehrter Reihenfolge zu sortieren,
 ist bedauerlicherweise nicht möglich.
