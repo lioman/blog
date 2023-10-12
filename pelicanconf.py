@@ -12,6 +12,7 @@ from pelican.plugins import i18n_templates, series, neighbors, liquid_tags, site
 CACHE_CONTENT = True
 AUTHOR = "Lioman"
 SITENAME = "Liomans Blog"
+# SITETITLE = "Liomans Blog"
 SITESUBTITLE = "42 ist die Antwort – aber wie lautet die Frage?"
 SITEURL = ""
 TIMEZONE = "Europe/Berlin"
@@ -47,6 +48,16 @@ CUSTOM_CSS = "static/custom.css"
 
 HOME_HIDE_TAGS = False
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.codehilite": {"css_class": "highlight"},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
+        "pymdownx.tilde": {"delete": True, "smart_delete": True, "subscript": True},
+    },
+    "output_format": "html5",
+}
 
 
 GOOGLE_VERIFICATION = "BqcGhsYr8KQ8E04PLoinE-PdzUdlvvgxGBxA1M_HRyo"

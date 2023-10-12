@@ -22,6 +22,7 @@ pelican-search = "^1.1.0"
 pelican-i18n-templates = { path = "plugins/i18n_templates" }
 pelican-liquid-tags = "^1.0.4"
 pelican-sitemap = "^1.0.2"
+pymdown-extensions = "^10.3"
 
 [tool.poetry.dev-dependencies]
 black = "^22.12.0"
