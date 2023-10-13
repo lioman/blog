@@ -16,7 +16,7 @@ SITENAME = "Liomans Blog"
 SITESUBTITLE = "42 ist die Antwort – aber wie lautet die Frage?"
 SITEURL = ""
 TIMEZONE = "Europe/Berlin"
-SITELOGO = "/images/Artikelbild.png"
+SITELOGO = "/images/Logo.webp"
 
 PATH = "content"
 
@@ -55,6 +55,7 @@ MARKDOWN = {
         "markdown.extensions.extra": {},
         "markdown.extensions.meta": {},
         "pymdownx.tilde": {"delete": True, "smart_delete": True, "subscript": True},
+        "pymdownx.smartsymbols": {"arrows": True},
     },
     "output_format": "html5",
 }

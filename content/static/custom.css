@@ -40,3 +40,8 @@
 .youtube_video>img {
     object-fit: cover;
 }
+
+body>aside:img[src$="Logo.webp"]{
+    width: 140px; 
+    height: 140px;
+}
