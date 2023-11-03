@@ -4,20 +4,20 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 before_script:
-  - pip install poetry
-  - poetry install
+  - pip install pdm
+  - pdm sync --prod
   - curl -o /usr/local/bin/stork https://files.stork-search.net/releases/v1.6.0/stork-ubuntu-20-04
   - chmod +x /usr/local/bin/stork
 
 build-test:
   script:
-    - poetry run invoke build
+    - pdm run invoke build
   except:
     - main
 
 build-publish:
   script:
-    - poetry run invoke publish
+    - pdm run invoke publish
   artifacts:
     paths:
       - public/
