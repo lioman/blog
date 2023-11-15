@@ -41,4 +41,5 @@ dev = ["black>=23.0.0", "livereload<3.0.0,>=2.6.3"]
 [tool.pdm.scripts]
 generate = "pelican -s publishconf.py"
 livereload = "invoke livereload"
+serve = "invoke livereload"
 publish = "invoke publish"
