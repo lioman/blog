@@ -92,7 +92,7 @@ Fragen zum Projekt:
    Blog,Webseite,tumblr,posterous,twitter, Google+, zur Not sogar
    Facebook usw.*
 
-*Bild: `nicubunu <http://openclipart.org/user-detail/nicubunu>`__*
+Bild: `nicubunu <http://openclipart.org/user-detail/nicubunu>`__
 
 .. |image0| image:: {static}/images/book_box.png
    :class: alignright size-full wp-image-4343

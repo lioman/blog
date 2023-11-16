@@ -7,16 +7,16 @@ Wolverine - eine kleine Kritik
 :slug: wolverine-eine-kleine-kritik
 :status: published
 
-29. April 2009 17:45 Ortszeit - Ort: Kinosaal 4. Erste Vorstellung. Fil
-Wolverine und ich sitz drin. Der Saal ist so gut wie leer und wir können
-uns die Besten Plätze aussuchen. Das sind schon mal gute Vorzeichen. 
+29. April 2009 17:45 Ortszeit - Ort: Kinosaal 4. Erste Vorstellung. Film:
+Wolverine - und ich sitz drin. Der Saal ist so gut wie leer und wir können
+uns die Besten Plätze aussuchen. Das sind schon mal gute Vorzeichen.
 Nach dem man sich durch die Werbung gequält hat (obwohl ich Kinowerbung
 eigentlich mag, aber diese stümperhafte Lokalwerbung :-P ) und durch
 neue Trailer zu weiterem Filmkonsum angehalten wird. Beginnt endlich der
 Film. ... Jetzt ist es kurz danach und da ich noch Mails checken musste
 kann ich auch gleich ne Kritik schreiben.
 
-Das Wichtigste vorab:  Man sollte bis nach dem Abspann sitzen bleiben.
+Das Wichtigste vorab: Man sollte bis nach dem Abspann sitzen bleiben.
 Wer früher geht ist selber Schuld, aber das ist eigentlich eine
 Kino-Grundregel.
 
@@ -28,7 +28,7 @@ Spezialeffekte sind super umgesetzt und man merkt nicht was animiert ist
 und was nicht (aber das kann man bei einem Film mit so einem Budget
 erwarten).
 
-Manche Dinge sind aber einfach albern.  Der Kampf auf dem Kühlturm ist
+Manche Dinge sind aber einfach albern. Der Kampf auf dem Kühlturm ist
 roll gemacht aber, dass ein abgetrennter Kopf weiter Cyclops-Strahlen
 abschießt und genau eine Spirale aus dem Turm schnippelt ist selbst für
 eine Comicverfilmung zu viel. Außerdem hätte man die "schwierige"

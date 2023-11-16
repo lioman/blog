@@ -7,7 +7,7 @@ Skript: DVD/Video in XVID umwandeln
 :slug: skript-dvdvideo-in-xvid-umwandeln
 :status: published
 
-Vor einiger Zeit habe ich `hier </script-videos-in-xvid-encodieren>`__
+Vor einiger Zeit habe ich `hier <{filename}/Wissenschaft\ und\ Technik/2009-11-09-script-videos-in-xvid-encodieren.rst>`__
 beschrieben, wie man einfach ein oder mehrere Videos in XVID umwandeln
 kann, damit sie auch ein DVD-Player abspielen kann.
 
@@ -38,7 +38,7 @@ oder
 starten.
 
 Hier das Skript (Download:
-`Video2xvid\_update.tar.gz <images/Video2xvid_update.tar.gz>`__):
+`Video2xvid\_update.tar.gz <{static}/images/Video2xvid_update.tar.gz>`__):
 
 ::
 

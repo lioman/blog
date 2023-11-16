@@ -36,7 +36,12 @@ sync = ["--no-self"]
 
 
 [tool.pdm.dev-dependencies]
-dev = ["black>=23.0.0", "livereload<3.0.0,>=2.6.3"]
+dev = [
+    "black>=23.0.0",
+    "livereload<3.0.0,>=2.6.3",
+    "lxml>=4.9.3",
+    "ruff>=0.1.5",
+]
 
 [tool.pdm.scripts]
 generate = "pelican -s publishconf.py"

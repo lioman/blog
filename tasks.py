@@ -3,7 +3,10 @@
 from datetime import datetime
 import os
 from pathlib import Path
+import random
 import re
+import webbrowser
+from bs4 import BeautifulSoup
 from jinja2 import Template
 import shutil
 import sys
@@ -14,7 +17,6 @@ from invoke import task
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
 
-from publishconf import OUTPUT_PATH
 
 SETTINGS_FILE_BASE = "pelicanconf.py"
 SETTINGS = {}
@@ -209,3 +211,18 @@ def new(c, title=None, category=None, tags=None):
     out_file = root_folder / f"content/{category}/{now.strftime('%Y-%m-%d')}-{slug}.md"
     out_file.write_text(t)
     c.run(f"code {out_file}")
+
+
+@task
+def openrandom(c):
+    sitemap = Path(CONFIG["deploy_path"]) / "sitemap.xml"
+    with open(sitemap) as f:
+        xml = BeautifulSoup(f.read(), "lxml-xml")
+        pages = [
+            url.loc.string
+            for url in xml.find_all("url")
+            if re.match("^/\d\d\d\d/\d\d/.*/$", url.loc.string)
+        ]
+        webbrowser.open(
+            f"http://{CONFIG['host']}:{CONFIG['port']}{pages[random.randint(0, len(pages))]}"
+        )
