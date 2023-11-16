@@ -6,22 +6,22 @@ authors = [{ name = "Elias Kirchgässner", email = "blog@lioman.de" }]
 license = { text = "CC-BY-SA-4.0" }
 requires-python = ">=3.11,<4.0"
 dependencies = [
-    "pelican<5.0.0,>=4.8.0",
-    "typogrify<3.0.0,>=2.0.7",
-    "pillow<9.0.0,>=8.4.0",
-    "bs4<1.0.0,>=0.0.1",
-    "markdown<4.0.0,>=3.4.3",
-    "invoke<3.0.0,>=2.0.0",
-    "pelican-series<3.0.0,>=2.1.0",
-    "pelican-neighbors<2.0.0,>=1.2.0",
-    "pelican-precompress<2.0.0,>=1.1.2",
-    "zopfli<1.0.0,>=0.1.9",
-    "Brotli<2.0.0,>=1.0.9",
-    "pelican-search<2.0.0,>=1.1.0",
+    "pelican>=4.8.0",
+    "typogrify>=2.0.7",
+    "pillow>=8.4.0",
+    "bs4>=0.0.1",
+    "markdown>=3.4.3",
+    "invoke>=2.0.0",
+    "pelican-series>=2.1.0",
+    "pelican-neighbors>=1.2.0",
+    "pelican-precompress>=1.1.2",
+    "zopfli>=0.1.9",
+    "Brotli>=1.0.9",
+    "pelican-search>=1.1.0",
     "pelican-i18n-templates @ file:///${PROJECT_ROOT}/plugins/i18n_templates",
-    "pelican-liquid-tags<2.0.0,>=1.0.4",
-    "pelican-sitemap<2.0.0,>=1.0.2",
-    "pymdown-extensions<11.0,>=10.3",
+    "pelican-liquid-tags>=1.0.4",
+    "pelican-sitemap>=1.0.2",
+    "pymdown-extensions>=10.3",
     "click>=8.1.7",
     "python-slugify>=6.1.2",
 ]
@@ -33,6 +33,7 @@ dependencies = [
 add = ["--no-self"]
 install = ["--no-self"]
 sync = ["--no-self"]
+update = ["--no-self"]
 
 
 [tool.pdm.dev-dependencies]
