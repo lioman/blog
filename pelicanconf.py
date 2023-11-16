@@ -4,9 +4,16 @@ from __future__ import unicode_literals
 
 from datetime import datetime
 
-import pelican_precompress
+# import pelican_precompress
 
-from pelican.plugins import i18n_templates, series, neighbors, liquid_tags, sitemap
+from pelican.plugins import (
+    i18n_templates,
+    series,
+    neighbors,
+    liquid_tags,
+    sitemap,
+    precompress,
+)
 
 CACHE_CONTENT = True
 AUTHOR = "Lioman"
@@ -133,7 +140,7 @@ PLUGINS = [
     # "pelican_youtube",
     series,
     neighbors,
-    pelican_precompress,
+    precompress,
     "search",
     i18n_templates,
     liquid_tags,

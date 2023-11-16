@@ -1,12 +1,10 @@
 ---
-Title: ---
 Title: Verlosung bei Linux und Ich
 Date: 2011-12-09 17:50
 Author: lioman
 Tags: gewinnspiel
 Slug: verlosung-bei-linux-und-ich
 Status: published
----
 ---
 
 [Linux und Ich](http://linuxundich.de/de/allgemein/die-grose-linux-und-ich-weihnachtsverlosung-2011/) verlost
