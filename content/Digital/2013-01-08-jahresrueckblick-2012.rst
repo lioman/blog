@@ -260,7 +260,7 @@ habe.
 -  `Mein erster Androide und wie soll ich ihn
    befüllen <http://www.lioman.de/2012/07/mein-erster-androide-und-wie-soll-ich-ihn-befuellen-2/>`__:
    **24** comments
--  `Blog Buch Box <{filename}/Kunst\ und\ Kultur/2012-01-23-blog-buch-box.rst>`__:
+-  `Blog Buch Box <{filename}/Kunst\ und\ Kultur/2012-01-23-blog-buch-box.md>`__:
    **22** comments
 -  `Logoklau? <http://www.lioman.de/2012/11/logoklau/>`__: **18**
    comments
