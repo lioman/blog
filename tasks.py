@@ -108,20 +108,24 @@ def livereload(c):
 
     build(c)
     server = Server()
-    # Watch the base settings file
-    server.watch(CONFIG["settings_base"], lambda: build(c))
+    watch_paths = [CONFIG["settings_base"]]
+
     # Watch content source files
     content_file_extensions = [".md", ".rst"]
     for extension in content_file_extensions:
-        content_blob = "{0}/**/*{1}".format(SETTINGS["PATH"], extension)
-        server.watch(content_blob, lambda: build(c))
+        content_files = f"{SETTINGS['PATH']}/**/*{extension}"
+        watch_paths.append(content_files)
     # Watch the theme's templates and static assets
     theme_path = SETTINGS["THEME"]
-    server.watch("{}/templates/*.html".format(theme_path), lambda: build(c))
+    watch_paths.append(f"{theme_path}/templates/*.html")
     static_file_extensions = [".css", ".js"]
     for extension in static_file_extensions:
-        static_file = "{0}/static/**/*{1}".format(theme_path, extension)
-        server.watch(static_file, lambda: build(c))
+        theme_static_file = f"{theme_path}/static/**/*{extension}"
+        custom_static_files = f"{SETTINGS['PATH']}/static/*{extension}"
+        watch_paths.append(theme_static_file)
+        watch_paths.append(custom_static_files)
+    for path in watch_paths:
+        server.watch(path, lambda: build(c))
     # Serve output path on configured host and port
     server.serve(host=CONFIG["host"], port=CONFIG["port"], root=CONFIG["deploy_path"])
 

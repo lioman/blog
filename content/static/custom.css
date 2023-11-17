@@ -45,3 +45,13 @@ body>aside:img[src$="Logo.webp"]{
     width: 140px; 
     height: 140px;
 }
+
+.alignright{
+    float: right;
+    margin: 0 0 0 1em;
+}
+
+.alignleft {
+    float: left;
+    margin: 0 1em 0 0;
+}
