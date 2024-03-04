@@ -154,13 +154,16 @@ def movefile(c, old, new):
 
 
 @task
-def convert2md(c, file):
-    new = file.replace(".rst", ".md")
-    movefile(c, file, new)
+def convert2md(c, file: str):
+    rst_file = Path(file)
+    md_file = rst_file.with_suffix(".md")
+    if not rst_file.exists():
+        print(f"File: {file} does not exist")
+        sys.exit(1)
+    movefile(c, rst_file, md_file)
 
-    md = Path(new)
     text = ""
-    with md.open() as f:
+    with md_file.open() as f:
         headers_parsed = False
         print("Migrate Frontmatter")
         for idx, line in enumerate(f.readlines()):
@@ -181,8 +184,8 @@ def convert2md(c, file):
             line = re.sub(r"\.\. youtube:: (.*?)\n", r"{% youtube \1 %}\n", line)
             if not re.match("   :(.+): (.+)\n", line):
                 text = f"{text}{line}"
-    md.write_text(text)
-    c.run(f"code '{md}'")
+    md_file.write_text(text)
+    c.run(f"code '{md_file}'")
 
 
 @task

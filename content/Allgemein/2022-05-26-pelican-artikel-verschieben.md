@@ -7,7 +7,7 @@ Tags: pelican, python, blog, invoke
 Slug: pelican-artikel-verschieben
 Authors: Lioman
 Status: Published
-Summary: Dieses Blog wird nun seit einiger Zeit mit pelican gerendert. Initial hatte ich auf *.rst-Dateien gesetzt, inzwischen bin ich dazu übergegangen doch Markdown zu verwenden. Die meisten Dateien werden vermutlich nie konvertiert werden, doch hier und da halte ich es für sinnvoll die Datei umzubenennen. Um Artikel in pelican zu verschieben, habe ich einen einfachen Task erstellt...
+Summary: Dieses Blog wird nun seit einiger Zeit mit pelican gerendert. Initial hatte ich auf *.rst-Dateien gesetzt, inzwischen bin ich dazu übergegangen doch Markdown zu verwenden. Die meisten Dateien werden vermutlich nie konvertiert werden, doch hier und da halte ich es für sinnvoll die Datei umzubenennen. Um Artikel in pelican zu verschieben, habe ich einen einfachen Task erstellt …
 ---
 
 Dieses Blog wird nun seit einiger Zeit mit [pelican](https://getpelican.com) gerendert.
@@ -15,7 +15,7 @@ Initial hatte ich auf `*.rst`-Dateien gesetzt,
 inzwischen bin ich dazu übergegangen doch Markdown zu verwenden.
 Die meisten Dateien werden vermutlich nie konvertiert werden,
 doch hier und da halte ich es für sinnvoll die Datei umzubenennen.
-Dazu kommt, dass ich nun in allen Dateinamen das Erscheinungsdatum am Anfang haben möchte.
+Dazu kommt, dass ich jetzt in allen Dateinamen das Erscheinungsdatum am Anfang haben möchte.
 Bringt man dann noch der IDE/der Shell/dem Filemanager das absteigende Sortieren bei,
 hat man immer die aktuellsten Artikel ganz oben.
 Das macht, das Auffinden schlicht einfacher.
@@ -55,6 +55,6 @@ habe ich hierfür einen Task geschrieben:
 Nun kann ich mit `invoke movefile  /pfad/zum/Artikel.md /pfad/zum/Neuen-Artikel.md`
 die Datei umbenennen
 und in allen anderen Posts, wird der Link ersetzt.
-Eine kleine Warnung: Ich habe den Task nur bei mir getestet und er funktioniert soweit.
+Eine kleine Warnung: Ich habe den Task nur bei mir getestet und er funktioniert so weit.
 Aber es ist doch eher eine schnelle Lösung
 und man sollte sich das Ergebnis genau anschauen, bevor man es benutzt.
