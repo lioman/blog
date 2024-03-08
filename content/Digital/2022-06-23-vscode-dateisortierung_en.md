@@ -27,9 +27,9 @@ but this results in a rather chaotic list.
 
 Changing this to reversed order is not possible
 and this is why I created an [issue](https://github.com/microsoft/vscode/issues/149951)
-on GitHub and implemented the functionallity as well and raised a [PR](https://github.com/microsoft/vscode/pull/149952).
+on GitHub and implemented the functionality as well and raised a [PR](https://github.com/microsoft/vscode/pull/149952).
 Since there are more than 500 issues open,
-mine will be closed if there are not more then 20 upvotes.
+mine will be closed if there are not more than 20 upvotes.
 In the time of writing this article, the issue has 10 up votes,
 so I hope that some of you are interested in this feature as well.
 Please react with 'thumbs up' on the issue,

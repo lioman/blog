@@ -14,8 +14,8 @@ eingebunden.
 Mit diesem Plugin gab es zwar immerhin den no-cookie Modus, bei dem keine Cookies gesetzt werden.
 Allerdings gibt es immer noch zwei Probleme:
 
-- Es wird der Javascript-Player geladen
-- Dieser bindet GoogleFonts ein
+- es wird der Javascript-Player geladen
+- dieser bindet GoogleFonts ein
 
 Deswegen habe ich hier nun die Implementierung geändert und setze jetzt auf [liquid-tags](https://github.com/pelican-plugins/liquid-tags).
 Dieses Plugin bietet neben mehr Flexibilität im Allgemeinen auch einen Modus für YouTube,

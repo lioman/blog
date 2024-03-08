@@ -11,7 +11,7 @@ Status: Published
 
 In meinem letzten [Artikel]({filename}/Allgemein/2022-11-07-youtube-videos-datenschutzsicher-eingebunden.md),
 habe ich erst darüber geschrieben, dass ich YouTube-Videos hier besser eingebunden habe.
-Schon da merkte ich an, dass man das noch verbessern könnte indem man nicht direkt Youtube verlinkt,
+Schon da merkte ich an, dass man das noch verbessern könnte, indem man nicht direkt Youtube verlinkt,
 sondern eine [Invidious-Instanz](https://invidious.io).
 [liquid-tags](https://pypi.org/project/pelican-liquid-tags/) erlaubte das aber (bisher) nicht,
 deshalb habe ich das Plugin erweitert.
