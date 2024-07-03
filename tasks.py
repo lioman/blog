@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 from datetime import datetime
-import os
 from pathlib import Path
 import random
 import re
@@ -44,9 +43,10 @@ CATEGORIES = (
 @task
 def clean(c):
     """Remove generated files"""
-    if os.path.isdir(CONFIG["deploy_path"]):
+    deploy_path = Path(CONFIG["deploy_path"])
+    if deploy_path.is_dir():
         shutil.rmtree(CONFIG["deploy_path"])
-        os.makedirs(CONFIG["deploy_path"])
+        deploy_path.mkdir()
 
 
 @task
