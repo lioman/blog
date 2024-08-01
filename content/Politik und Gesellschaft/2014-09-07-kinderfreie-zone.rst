@@ -28,7 +28,7 @@ sollte. Heute kann ich es sehr gut nachvollziehen. Denn obwohl ich
 wirklich sehr gerne Vater bin schätze ich die Zeit in der ich, ohne
 dabei endlose Traktorenvideos anschauen zu müssen, an meinem Rechner
 sitzen kann um zum Beispiel diesen Artikel zu schreiben. Ausgelöst durch
-den Kontrollverlust über  die eigene Zeit tritt dieses Gefühl aber
+den Kontrollverlust über die eigene Zeit tritt dieses Gefühl aber
 eigentlich nur auf, wenn man immer (eigene) Kinder um sich hat.
 Kinderlose Menschen dürften dieses Problem eigentlich nicht kennen.
 
@@ -55,7 +55,7 @@ Muss man sich darum überhaupt einen Kopf machen? - Es geht doch nur um
 ein besonderes Geschäftsmodell, um im hart umkämpften Markt eine
 spezielle Nische zu besetzen. Es kann sein, dass man darauf gar keinen
 Gedanken verschwenden sollte, trotzdem finde ich es irgendwie nicht
-richtig. Oder wäre  folgender Werbetext in Ordnung:
+richtig. Oder wäre folgender Werbetext in Ordnung:
 
 *Wollen Sie am Pool liegen ohne, dass sie sich alte Schwabbelbäuche
 ansehen müssen. Da wir ein altenfreies Hotel sind ist der verwelkteste
