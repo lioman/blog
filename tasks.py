@@ -11,7 +11,7 @@ import shutil
 import sys
 import click
 from slugify import slugify
-from invoke import task
+from invoke.tasks import task
 
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
@@ -131,23 +131,23 @@ def livereload(c):
 
 
 @task
-def movefile(c, old, new):
+def movefile(c, old: str, new: str):
     """Move an file and update all references"""
     try:
-        old = Path(old)
-        new = Path(new)
-        print(f"Copy file {old} to {new}")
-        new.write_text(old.read_text())
-        print(f"Delete {old}")
-        old.unlink()
+        old_file = Path(old)
+        new_file = Path(new)
+        print(f"Copy file {old_file} to {new_file}")
+        new_file.write_text(old_file.read_text())
+        print(f"Delete {old_file}")
+        old_file.unlink()
         print("replace all links")
         all_articles = filter(
             lambda p: p.suffix in [".rst", ".md"], Path("./content").glob("**/*")
         )
         for f in all_articles:
             text = f.read_text()
-            if old.name in text:
-                f.write_text(text.replace(old.name, new.name))
+            if old_file.name in text:
+                f.write_text(text.replace(old_file.name, new_file.name))
 
     except Exception as e:
         print(f"Ups: {e}")

@@ -7,7 +7,7 @@ Slug: europawahl-2019-geht-waehlen
 Authors: Lioman
 ---
 
-Heute ist es soweit: Das europäische Parlament wird gewählt.
+Heute ist es so weit: Das Europäische Parlament wird gewählt.
 Wie immer ist die Wahl wichtig.
 Es ist wichtig und gut seine eigene Vertretung in Brüssel bestimmen zu können.
 Man darf die Demokratie einfach nicht den undemokratischen Mächten überlassen.
@@ -15,7 +15,7 @@ Dazu zähle ich übrigens nicht nur die Rechtspopulisten,
 Nazis und Extremisten aller Couleur, sondern eben auch die Lobbyisten und Wirtschaftsvertreter.
 All jene, die ein vereinigtes Europa trennen wollen.
 
-Nun gibt es sicher alles mögliche,
+Nun gibt es sicher alles Mögliche,
 was man an der Europäischen Union und an ihrer Struktur kritisieren kann.
 Sie ist in vielen Fällen schlicht zu groß und zu undurchsichtig.
 Zu viel wird eben einfach außerhalb des Parlamentes geregelt.

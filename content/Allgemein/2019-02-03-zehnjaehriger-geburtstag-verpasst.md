@@ -10,7 +10,7 @@ Am 20. Juni 2008 um 11:15 Uhr habe ich hier meinen [ersten Artikel]({filename}./
 veröffentlicht.
 Damals habe ich noch ein einfaches kostenloses Blog bei [Wordpress.com](https://wordpress.com) eingerichtet.
 Die Domain war noch eine andere und erst ein [gutes Jahr später]({filename}./2009-07-14-liomans-blog-unter-neuer-adresse.rst)
-lief dieses Blog unter *lioman.de*.
+lief dieses Blog unter _lioman.de_.
 (Ich habe also doch noch mal die Gelegenheit Zehnjähriges zu feiern).
 
 Ziemlich schnell merkte ich,
@@ -26,15 +26,15 @@ Ich noch keine Kinder hatte und als Student auch über mehr Zeit verfügte.
 Auch wenn es jetzt hier schon einige Zeit hier sehr ruhig geworden ist
 und ich kaum neue Artikel schreibe,
 will ich das Blog auch nach zehn Jahren einfach nicht aufgeben.
-Den Verwaltungsaufwand habe ich dadurch reduziert, dass ich seit 
-[Mitte 2017]({filename}./2017-04-11-farewell-wordpress-hello-pelican.rst) 
+Den Verwaltungsaufwand habe ich dadurch reduziert, dass ich seit
+[Mitte 2017]({filename}./2017-04-11-farewell-wordpress-hello-pelican.rst)
 den statischen Generator [Pelican](https://blog.getpelican.com/) einsetze.
-Wären die Kommentare nicht könnte ich das Ganze noch weiter vereinfachen und 
+Wären die Kommentare nicht könnte ich das Ganze noch weiter vereinfachen und
 z. B. Gitlab Pages zum hosten verwenden.
 Allerdings möchte ich nicht auf einen externen Dienst wie Disqus angewiesen sein und
 so bleibt es erst mal so wie es ist.
 
-Abschließend kann ich dem Blog alles Gute zum Zehnjährigen Bestehen wünschen.
+Abschließend kann ich dem Blog alles Gute zum zehnjährigen Bestehen wünschen.
 Und vielleicht kommt hier bald noch mehr, aber sicher kann ich das nicht sagen.
 Obwohl es mir wirklich Spaß macht,
 Dinge zu schreiben und auch zu veröffentlichen, schaffe ich es doch irgendwie nicht.
