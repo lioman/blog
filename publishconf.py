@@ -23,13 +23,12 @@ CATEGORY_FEED_ATOM_URL = "category/{slug}/feed/atom/index.html"
 TAG_FEED_ATOM_URL = "tag/{slug}/feed/atom/index.html"
 
 FEED_ALL_RSS = "feed/index.html"
-CATEGORY_FEED_RSS_URL = "category/{slug}/feed/index.html"
-TAG_FEED_RSS_URL = "tag/{slug}/feed/index.html"
+CATEGORY_FEED_RSS = "category/{slug}/feed/index.html"
+TAG_FEED_RSS = "tag/{slug}/feed/index.html"
 
 RSS_FEED_SUMMARY_ONLY = False
 
 DELETE_OUTPUT_DIRECTORY = True
-
 
 STORK_INPUT_OPTIONS["url_prefix"] = SITEURL
 
