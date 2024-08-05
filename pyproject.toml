@@ -43,7 +43,7 @@ dev = ["livereload<3.0.0,>=2.6.3", "lxml>=4.9.3", "ruff>=0.1.5"]
 generate = "pelican -s publishconf.py"
 livereload = "invoke livereload"
 serve = "invoke livereload"
-publish = "invoke publish"
+build-prod = "invoke publish"
 2md = "invoke convert2md"
 clean = "invoke clean"
 new = "invoke new"
