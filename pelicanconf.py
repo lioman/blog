@@ -119,6 +119,8 @@ DEFAULT_CATEGORY = "Allgemein"
 
 ARTICLE_URL = "{date:%Y}/{date:%m}/{slug}/"
 ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{slug}/index.html"
+ARTICLE_LANG_URL = "{lang}/{date:%Y}/{date:%m}/{slug}/"
+ARTICLE_LANG_SAVE_AS = "{lang}/{date:%Y}/{date:%m}/{slug}/index.html"
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
 CATEGORY_URL = "category/{slug}/"
