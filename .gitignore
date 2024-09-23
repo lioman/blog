@@ -73,6 +73,7 @@ coverage.xml
 
 # virtualenv
 venv/
+.venv/
 ENV/
 env/
 /srv.pid
