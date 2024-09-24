@@ -16,6 +16,7 @@ from pelican.plugins import (
 )
 
 CACHE_CONTENT = True
+LOAD_CONTENT_CACHE = True
 AUTHOR = "Lioman"
 SITENAME = "Liomans Blog"
 # SITETITLE = "Liomans Blog"
