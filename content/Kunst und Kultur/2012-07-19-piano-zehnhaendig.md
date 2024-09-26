@@ -1,6 +1,7 @@
 ---
 Title: Piano zehnhändig
 Date: 2012-07-19 11:05
+Update: 2024-09-25 17:50
 Author: Lioman
 Category: Kunst und Kultur
 Tags: Flügel, Musik, Piano
@@ -16,5 +17,6 @@ einem Flügel.
 
 {% youtube 0VqTwnAuHws %}
 
-via
-[OneCoolThingADay](http://www.onecoolthingaday.com/today/2012/7/19/5-guys-1-piano.html)
+via ~~OneCoolThingADay~~
+
+<!-- (http://www.onecoolthingaday.com/today/2012/7/19/5-guys-1-piano.html) -->

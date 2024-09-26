@@ -7,6 +7,8 @@ Slug: die-welt-in-der-wir-leben
 Status: published
 ---
 
-{% youtube yI_nUisW7Z0 %}
+Update: das Video ist nicht mehr erreichbar.
 
-Mehr dazu auf [panda.org/50]{http://panda.org/50}
+<!-- {% youtube yI_nUisW7Z0 %} -->
+
+Mehr dazu auf ~~panda.org/50~~
