@@ -9,7 +9,7 @@ Status: published
 
 Weil das einfach superlustig ist kommt es hier gleich ins Blog:
 
-*Ein Klassiker des deutschen HipHop, kindgerecht interpretiert von
-Fremschämen Deluxe*
+_Ein Klassiker des deutschen HipHop, kindgerecht interpretiert von
+Fremschämen Deluxe_
 
-{% youtube:: Z_ruys5dj0w %}
+{% youtube Z_ruys5dj0w %}
