@@ -8,8 +8,10 @@ URLcamp #004
 :slug: urlcamp-004
 :status: published
 
-Folge 004 des URLcamps:\ |image0|
----------------------------------
+|Wegweiser|
+
+Folge 004 des URLcamps:
+-----------------------
 
 **Welche Module kommen in Gnome 3.0 rein:**
 
@@ -66,8 +68,9 @@ Mein Präsident
 Ein kleines Internettool, dass aus allen Tweets mit dem Hashtag #mygauck
 ein Pixelportrait des Kanidaten zaubert.
 
-.. |image0| image:: {static}/images/wegweiser_klein.jpg
+.. |Wegweiser| image:: {static}/images/wegweiser_klein.webp
+   :alt: Ein Wegweiser in Falschfarben, der in verschiedene Richtungen zeigt
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: {static}/images/wegweiser_klein.jpg
+   :target: {static}/images/wegweiser_klein.webp

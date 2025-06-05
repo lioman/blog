@@ -9,10 +9,10 @@ URLcamp #001
 :status: published
 
 
-|image0|
+|Wegweiser|
 
-***Folge 001 des URLcamps***:
------------------------------
+**Folge 001 des URLcamps**:
+---------------------------
 
 Fangen wir doch gleich mal mit einem anderen Camp an:
 
@@ -73,8 +73,9 @@ Zurück in die PC-Vergangenheit:
 
 Eine Internetseite ganz im Stile des alten OS
 
-.. |image0| image:: {static}/images/wegweiser_klein.jpg
+.. |Wegweiser| image:: {static}/images/wegweiser_klein.webp
+   :alt: Ein Wegweiser in Falschfarben, der in verschiedene Richtungen zeigt
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: {static}/images/wegweiser_klein.jpg
+   :target: {static}/images/wegweiser_klein.webp

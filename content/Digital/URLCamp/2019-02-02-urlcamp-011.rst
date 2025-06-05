@@ -8,7 +8,7 @@ URLcamp #011
 :slug: urlcamp-011
 :status: published
 
-|image0|
+|Wegweiser|
 
 Folge 011 des URLcamps:
 -----------------------
@@ -57,8 +57,9 @@ Folge 011 des URLcamps:
    dass sie teils sehr hohe Summen ausgegeben hatten. 
    In einem konkreten Fall sei es um rund 6.500 US-Dollar gegangen.*
 
-.. |image0| image:: {static}/images/wegweiser_klein.jpg
+.. |Wegweiser| image:: {static}/images/wegweiser_klein.webp
+   :alt: Ein Wegweiser in Falschfarben, der in verschiedene Richtungen zeigt
    :class: alignright
    :width: 250px
    :height: 375px
-   :target: {static}/images/wegweiser_klein.jpg
+   :target: {static}/images/wegweiser_klein.webp
