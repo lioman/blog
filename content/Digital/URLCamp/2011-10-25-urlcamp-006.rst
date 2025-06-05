@@ -8,10 +8,11 @@ URLcamp #006
 :slug: urlcamp-006
 :status: published
 
-|image0|\ Folge 006 des URLcamps:
----------------------------------
+|Wegweiser|
 
- 
+Folge 006 des URLcamps:
+-----------------------
+
 
 Viel zu lange vernachlässigt: Mein
 `URLcamp <http://www.lioman.de/category/allgemein/internet/urlcamp/>`__.
@@ -49,8 +50,9 @@ Und zum Thema Artenschutz:
 In Vietnam wurde das letzte Java-Nashorn getötet und die Art kann als
 ausgerottet gelten.
 
-.. |image0| image:: {static}/images/wegweiser_klein.jpg
+.. |Wegweiser| image:: {static}/images/wegweiser_klein.webp
+   :alt: Ein Wegweiser in Falschfarben, der in verschiedene Richtungen zeigt
    :class: alignright size-full wp-image-5066
    :width: 250px
    :height: 375px
-   :target: {static}/images/wegweiser_klein.jpg
+   :target: {static}/images/wegweiser_klein.webp
