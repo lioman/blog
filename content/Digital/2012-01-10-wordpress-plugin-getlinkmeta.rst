@@ -33,12 +33,12 @@ If you have any questions ask me by commenting here.
 
 
 .. |image0| image:: {static}/images/getlinkmetabox.png
-   :class: aligncenter size-full wp-image-4259
+   :class: aligncenter size-full 
    :width: 283px
    :height: 99px
    :target: {static}/images/getlinkmetabox.png
 .. |image1| image:: {static}/images/getlinkmeta_description.png
-   :class: aligncenter wp-image-4260
+   :class: aligncenter 
    :width: 299px
    :height: 298px
    :target: {static}/images/getlinkmeta_description.png

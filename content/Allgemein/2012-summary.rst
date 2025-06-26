@@ -22,7 +22,7 @@ ToDo:
 Add option to choose year
 
 .. |Summary 2012| image:: {static}/images/screenshot-1-289x300.png
-   :class: alignright size-medium wp-image-5239
+   :class: alignright size-medium 
    :width: 289px
    :height: 300px
    :target: {static}/images/screenshot-1.png

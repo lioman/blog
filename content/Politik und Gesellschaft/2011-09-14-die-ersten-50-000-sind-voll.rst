@@ -19,7 +19,7 @@ mich ganz förmlich für all die nervigen Erinnerungsposts auf FB, Twitter
 und G+. Aber es scheint ja auch ein bisschen geholfen zu haben :-)
 
 .. |image0| image:: {static}/images/wirspeicherndas_standort_klein-300x215.jpg
-   :class: alignleft size-medium wp-image-3680
+   :class: alignleft size-medium 
    :width: 300px
    :height: 215px
    :target: {static}/images/wirspeicherndas_standort_klein.jpg

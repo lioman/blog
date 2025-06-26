@@ -16,7 +16,7 @@ sonnt sich in der ersten Frühlingssonne. Offiziell heißt die Blume
 |image0|
 
 .. |image0| image:: {static}/images/maerzenbecher-225x300.jpg
-   :class: aligncenter size-medium wp-image-2907
+   :class: aligncenter size-medium 
    :width: 306px
    :height: 409px
    :target: {static}/images/maerzenbecher.jpg

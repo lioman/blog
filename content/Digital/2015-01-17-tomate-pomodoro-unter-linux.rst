@@ -25,7 +25,6 @@ Nach vier *Pomodoros* macht man eine längere Pause von 20-30 Minuten und lässt
 .. figure:: {static}/images/tomate-300x300.png
    :alt: Logo des Programms Tomate
    :align: right
-   :class:
    :width: 300px
    :height: 300px
    :target: {static}/images/tomate.png

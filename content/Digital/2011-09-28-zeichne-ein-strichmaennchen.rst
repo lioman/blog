@@ -16,7 +16,7 @@ Welt.
 
 
 .. |image0| image:: {static}/images/drawastickman.jpg
-   :class: alignright size-full wp-image-3729
+   :class: alignright size-full 
    :width: 400px
    :height: 279px
    :target: {static}/images/drawastickman.jpg

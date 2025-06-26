@@ -44,7 +44,7 @@ benutzen: `simfy\_1\_6\_0\_64bit.deb <{attach}/downloads/simfy_1_6_0_64bit.deb>`
 **Update**: Version auf 1.6.0 aktualisiert
 
 .. |image0| image:: {static}/images/ubuntulogo.png
-   :class: alignright size-full wp-image-3180
+   :class: alignright size-full 
    :width: 190px
    :height: 194px
    :target: {static}/images/ubuntulogo.png
