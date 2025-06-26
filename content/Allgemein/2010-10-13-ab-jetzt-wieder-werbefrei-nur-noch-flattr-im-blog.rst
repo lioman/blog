@@ -23,7 +23,7 @@ an andere Blogs, Zeitungen und diverse Projekte gehen, die ich gerne
 unterstütze.
 
 .. |image0| image:: {static}/images/kein_adsense.jpg
-   :class: alignleft size-full wp-image-2186
+   :class: alignleft size-full
    :width: 347px
    :height: 225px
    :target: {static}/images/kein_adsense.jpg

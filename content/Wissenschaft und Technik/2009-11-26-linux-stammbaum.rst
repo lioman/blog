@@ -50,7 +50,7 @@ es gibt eine wirklich starke `Comunnity <http://www.ubuntuusers.de>`__,
 die einem schnell bei allerlei Problemen hilft.
 
 .. |linstammbaum| image:: {static}/images/linstammbaum-150x150.png
-   :class: aligncenter size-thumbnail wp-image-1163
+   :class: aligncenter size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/linstammbaum.png

@@ -50,7 +50,7 @@ Borschberg, die mit  "Solar Impulse" das erste
 Langstrecken-Solarflugzeug entwickelt haben.
 
 .. |image0| image:: {static}/images/VideoArtikel.png
-   :class: alignleft size-full wp-image-2719
+   :class: alignleft size-full
    :width: 91px
    :height: 146px
    :target: {static}/images/VideoArtikel.png

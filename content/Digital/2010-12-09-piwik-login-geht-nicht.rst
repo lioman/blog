@@ -31,7 +31,7 @@ verhinderte das natürlich. Erstellt man für die Piwikinstanz eine Regel,
 die den Referrer sendet, funktioniert alles wieder normal.
 
 .. |image0| image:: {static}/images/piwik1-150x80.jpg
-   :class: alignright size-thumbnail wp-image-1921
+   :class: alignright size-thumbnail
    :width: 150px
    :height: 80px
    :target: {static}/images/piwik1.jpg

@@ -51,7 +51,7 @@ eine andere Tastenkombination umstellen, da sich sonst nur das
 Einstellungsfenster der Erweiterung öffnet.
 
 .. |image0| image:: {static}/images/firefox.png
-   :class: alignleft size-full wp-image-3038
+   :class: alignleft size-full
    :width: 128px
    :height: 128px
    :target: {static}/images/firefox.png

@@ -167,7 +167,7 @@ Seitenaufbau und gut sieht es immer noch aus - Oder gibt es da andere
 Meinungen?
 
 .. |image0| image:: {static}/images/ubuntufont.png
-   :class: alignleft size-full wp-image-3275
+   :class: alignleft size-full
    :width: 208px
    :height: 798px
    :target: {static}/images/ubuntufont.png

@@ -35,7 +35,7 @@ einfacher Anhaltspunkt und es ist doch auch schön, wenn einem die
 Liebste über ihrer Mail anlächelt.
 
 .. |image0| image:: {static}/images/DisplayPhoto.png
-   :class: aligncenter size-full wp-image-2477
+   :class: aligncenter size-full
    :width: 600px
    :height: 518px
    :target: {static}/images/DisplayPhoto.png

@@ -37,7 +37,7 @@ Blog <http://chrome.blogspot.com/2010/12/browse-for-good-cause.html>`__
 -  *200 tabs = 1 person's clean water for a year*
 
 .. |image0| image:: {static}/images/Chrome_for_a_cause_Icon.png
-   :class: alignright size-full wp-image-2639
+   :class: alignright size-full
    :width: 256px
    :height: 66px
    :alt: Screenshot der Erweiterung in der Iconleiste

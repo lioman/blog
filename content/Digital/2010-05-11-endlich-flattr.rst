@@ -55,7 +55,7 @@ Ein Test gibt es auch bei
 `Netzwertig <http://netzwertig.com/2010/04/26/thank-you-economy-ein-erster-blick-auf-flattr/>`__
 
 .. |Clickratio Flattr| image:: {static}/images/Flattr.png
-   :class: alignright size-full wp-image-1529
+   :class: alignright size-full
    :width: 363px
    :height: 188px
    :target: {static}/images/Flattr.png

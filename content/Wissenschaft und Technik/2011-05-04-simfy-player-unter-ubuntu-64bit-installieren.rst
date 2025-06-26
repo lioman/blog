@@ -52,7 +52,7 @@ sind weitere (andere) Schritte nötig. `Siehe
 hier. <http://www.lioman.de/2011/10/simfy-64bit-unter-ubuntu-11-10-installieren/>`__
 
 .. |image0| image:: {static}/images/ubuntulogo.png
-   :class: size-full wp-image-3180 alignright
+   :class: size-full alignright
    :width: 133px
    :height: 137px
    :target: {static}/images/ubuntulogo.png

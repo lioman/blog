@@ -20,7 +20,7 @@ undefiniert und endete im Nichts.
 |undefined Google Ad|
 
 .. |undefined Google Ad| image:: {static}/images/undefined_ad.png
-   :class: aligncenter size-full wp-image-3287
+   :class: aligncenter size-full
    :width: 675px
    :height: 493px
    :target: {static}/images/undefined_ad.png

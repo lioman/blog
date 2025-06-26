@@ -10,7 +10,7 @@ Der Dicke Mäusekäfer #002: Frohe Weihnachten
 |image0|
 
 .. |image0| image:: {static}/images/WeihnachtsDicker_Mausekaefer.png
-   :class: aligncenter size-full wp-image-2693
+   :class: aligncenter size-full
    :width: 900px
    :height: 1400px
    :target: {static}/images/WeihnachtsDicker_Mausekaefer.png

@@ -59,17 +59,17 @@ gemessen? Oder ist Google in dem Fall schlicht zu nett?
 Update: Mit diesem `Link <https://www1.dastelefonbuch.de/?cmd=detailorten&mrX=190958&mrY=171528&mrSdid=www1&mrIdEnc=*%26%15*%b1%5b%5dZ%d2Uw%9d%94%8d%08%fa&mrVersion=2938707&mrRecuid=EILCYLRWM5NQIXKOO5C7HYE2W4JJPSFWTGFBQAI&mrPr=LCC_GERMANY_BESSEL&mrOrt=Berlin&mrPlz=10625&mrHn=63&mrSt=Goethestr.&mrName=Klages Christlieb Rechtsanwalt&mrBaseUrl=http://www1.dastelefonbuch.de/?la=de&amp;bi=1&amp;kw=Klages+Christlieb+Rechtsanwalt&amp;district=Charlottenburg&amp;ci=Berlin%2FCharlottenburg&amp;ciid=3336&amp;taoid=00001010000012210112418113700001012201&amp;ort_ok=1&amp;vert_ok=1&amp;buab=300000&amp;cifav=0&amp;searchid=13511_1522_20101124181137420_36975510710716_0122&amp;mdest=sec1.www1&mrInsUrl=&amp;cmd=detail&amp;recSelected=0&amp;sp=38&amp;aktion=38&mrListUrl=&amp;recSelected=&amp;cmd=search&amp;sp=38&amp;aktion=49&other=a41000&verl=1126&bi=1&kw=Klages Christlieb Rechtsanwalt&ci=Berlin/Charlottenburg&buab=300000&sp=50&aktion=52&la=de>`__, kommt man direkt zum
 Haus im Telefonbuch - einfach noch auf Vogelperspektive klicken.
 
-.. |image0| image:: {static}/images/Problem_melden.jpg
+.. |image0| image:: {static}/imelden.jpg
    :class: alignright size-full wp-image-2335
    :width: 117px
    :height: 37px
    :target: {static}/images/Problem_melden.jpg
-.. |Verpixelte Goethestrasse63 auf StreatView| image:: {static}/images/Goethestrasse63_SV-300x197.jpg
+.. |Verpixelte Goethestrasse63 aufmage:: {static}/images/Goethestrasse63_SV-300x197.jpg
    :class: aligncenter size-medium wp-image-2336
    :width: 300px
    :height: 197px
    :target: {static}/images/Goethestrasse63_SV.jpg
-.. |image2| image:: {static}/images/Goethestrasse63_TelBuch-300x173.jpg
+.. |image2| image:: {static}/imagee63_TelBuch-300x173.jpg
    :class: aligncenter size-medium wp-image-2337
    :width: 300px
    :height: 173px

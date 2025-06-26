@@ -71,7 +71,7 @@ großen Verlage.
    :height: 180px
    :target: http://leistungsschutzrecht.info/home
 .. |image1| image:: {static}/images/Engelsuche-300x261.png
-   :class: aligncenter size-medium wp-image-2598
+   :class: aligncenter size-medium
    :width: 300px
    :height: 261px
    :target: {static}/images/Engelsuche.png

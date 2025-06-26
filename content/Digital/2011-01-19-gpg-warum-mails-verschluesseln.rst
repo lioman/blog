@@ -108,12 +108,12 @@ Passwort sinnvoll- und nicht wie hier "test"- gewählt ist).
   GPG </tag/gpg>`__ zeigen.
 
 .. |image0| image:: {static}/images/mail_ohne_verschluesselung.png
-   :class: aligncenter size-full wp-image-2723
+   :class: aligncenter size-full
    :width: 671px
    :height: 258px
    :target: {static}/images/mail_ohne_verschluesselung.png
 .. |image1| image:: {static}/images/mail_mit_verschluesselung.png
-   :class: aligncenter size-full wp-image-2730
+   :class: aligncenter size-full
    :width: 671px
    :height: 238px
    :target: {static}/images/mail_mit_verschluesselung.png

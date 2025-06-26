@@ -72,7 +72,7 @@ Training ist alles
 .. figure:: {static}/images/wpid-wp-1424349371333-176x300.png
    :alt: Fleksy Badges
    :align: right
-   :class: wp-image-5721 size-medium
+   :class: size-medium
    :width: 176px
    :height: 300px
    :target: {static}/images/wpid-wp-1424349371333.png

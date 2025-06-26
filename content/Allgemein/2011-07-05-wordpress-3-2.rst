@@ -35,7 +35,7 @@ nicht Versionen eine führende Null mitgibt, dies würde solche
 Irritationen vermeiden.
 
 .. |image0| image:: {static}/images/artikelbild_wordpress.png
-   :class: alignleft size-full wp-image-3306
+   :class: alignleft size-full
    :width: 160px
    :height: 160px
    :target: {static}/images/artikelbild_wordpress.png

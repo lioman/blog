@@ -19,7 +19,7 @@ einem breiten Grinsen erspare:
 |image0|
 
 .. |image0| image:: {static}/images/Lotharevangelium.jpg
-   :class: aligncenter size-full wp-image-3143
+   :class: aligncenter size-full
    :width: 948px
    :height: 238px
    :target: {static}/images/Lotharevangelium.jpg

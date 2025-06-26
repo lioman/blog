@@ -40,7 +40,7 @@ Falsch finde ich das nicht, denn so wird das freie
 Entwicklung nur begünstigen kann.
 
 .. |image0| image:: {static}/images/ubuntulogo.png
-   :class: alignright size-full wp-image-3180
+   :class: alignright size-full
    :width: 190px
    :height: 194px
    :target: {static}/images/ubuntulogo.png

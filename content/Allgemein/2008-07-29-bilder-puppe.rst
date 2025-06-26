@@ -24,32 +24,32 @@ nach dem Schlüpfen gezeigt.
 Siehe `hier <{filename}./2008-08-03-es-ist-eine-messingeule.rst>`__
 
 .. |Puppe01| image:: {static}/images/Puppe01-150x150.jpg
-   :class: alignleft size-thumbnail wp-image-1002
+   :class: alignleft size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/Puppe01.jpg
 .. |Puppe06| image:: {static}/images/Puppe06-150x150.jpg
-   :class: alignleft size-thumbnail wp-image-1003
+   :class: alignleft size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/Puppe06.jpg
 .. |Puppe07| image:: {static}/images/Puppe07-150x150.jpg
-   :class: alignleft size-thumbnail wp-image-1004
+   :class: alignleft size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/Puppe07.jpg
 .. |Puppe08| image:: {static}/images/Puppe08-150x150.jpg
-   :class: alignleft size-thumbnail wp-image-1005
+   :class: alignleft size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/Puppe08.jpg
 .. |schlupfglas1| image:: {static}/images/schlupfglas1-150x150.jpg
-   :class: alignleft size-thumbnail wp-image-1006
+   :class: alignleft size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/schlupfglas1.jpg
 .. |Schlupfglas2| image:: {static}/images/Schlupfglas2-150x150.jpg
-   :class: alignleft size-thumbnail wp-image-1007
+   :class: alignleft size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/Schlupfglas2.jpg

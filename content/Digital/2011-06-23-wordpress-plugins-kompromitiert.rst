@@ -21,7 +21,7 @@ Hat man dieses Passwort bei vielen anderen Diensten auch benutzt, lohnt
 es sich diese auch noch zu ändern.
 
 .. |image0| image:: {static}/images/artikelbild_wordpress.png
-   :class: alignright size-full wp-image-3306
+   :class: alignright size-full
    :width: 160px
    :height: 160px
    :target: {static}/images/artikelbild_wordpress.png

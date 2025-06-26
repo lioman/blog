@@ -15,7 +15,7 @@ Dazu gibt es noch einen Bericht bei
 `Fudder.de <http://fudder.de/index.php?id=163&tx_ttnews%5Btt_news%5D=17948>`__
 
 .. |image0| image:: {static}/images/logo-sc_freiburg.png
-   :class: alignright size-full wp-image-3741
+   :class: alignright size-full
    :width: 150px
    :height: 209px
    :target: {static}/images/logo-sc_freiburg.png

@@ -22,7 +22,7 @@ zu irgendeiner Finanzoptimier-/Versicherungsseite und denn Müll muss man
 ja nicht unbedingt weiterverbreiten.
 
 .. |image0| image:: {static}/images/superspam-199x300.png
-   :class: alignright size-medium wp-image-5224
+   :class: alignright size-medium
    :width: 199px
    :height: 300px
    :target: {static}/images/superspam.png

@@ -14,7 +14,7 @@ Und das wird bei ebay Kleinanzeigen auch noch angekündigt.
 Kann man dann zur Tauchparty kommen?
 
 .. |image0| image:: {static}/images/tauche-audi.jpg
-   :class: size-full wp-image-3746 alignright
+   :class: size-full alignright
    :width: 600px
    :height: 273px
    :target: {static}/images/tauche-audi.jpg

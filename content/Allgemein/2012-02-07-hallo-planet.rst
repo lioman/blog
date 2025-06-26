@@ -58,12 +58,12 @@ Ich hoffe ich kann mit dieser Erfahrung ein bisschen was zum Planeten
 beitragen und freue mich auf viele neue Leser*innen.
 
 .. |image0| image:: {static}/images/tux2.png
-   :class: alignright size-full wp-image-3079
+   :class: alignright size-full
    :width: 252px
    :height: 300px
    :target: {static}/images/tux2.png
 .. |image1| image:: {static}/images/ubuntulogo.png
-   :class: size-full wp-image-3180 alignleft
+   :class: size-full alignleft
    :width: 190px
    :height: 194px
    :target: {static}/images/ubuntulogo.png

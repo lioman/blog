@@ -30,7 +30,7 @@ Das bietet keine absolute Sicherheit, macht aber dieses private
 Kleinblog noch ein wenig uninteressanter für einen Angreifer.
 
 .. |image0| image:: {static}/images/artikelbild_wordpress.png
-   :class: alignleft size-full wp-image-3306
+   :class: alignleft size-full
    :width: 160px
    :height: 160px
    :target: {static}/images/artikelbild_wordpress.png

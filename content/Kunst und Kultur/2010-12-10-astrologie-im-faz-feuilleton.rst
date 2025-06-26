@@ -52,12 +52,12 @@ Schwarze:*** [...]
 Das Wortspiel passt nicht mehr - aber es ist korrekt!
 
 .. |image0| image:: {static}/images/Schuetzegeborene.png
-   :class: alignright size-full wp-image-2571
+   :class: alignright size-full
    :width: 284px
    :height: 249px
    :target: {static}/images/Schuetzegeborene.png
 .. |image1| image:: {static}/images/stellarium_06121920-300x187.png
-   :class: aligncenter size-medium wp-image-2573
+   :class: aligncenter size-medium
    :width: 385px
    :height: 240px
    :target: {static}/images/stellarium_06121920.png

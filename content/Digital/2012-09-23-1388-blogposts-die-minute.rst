@@ -51,7 +51,7 @@ Aber lest erstmal meinen Leserbrief:
     Mit freundlichen Grüßen Elias Kirchgässner
 
 .. |image0| image:: {static}/images/suedkurier_15-09-2012_infografikausriss.png
-   :class: wp-image-4986 alignright
+   :class: alignright
    :width: 306px
    :height: 300px
    :target: {static}/images/suedkurier_15-09-2012_infografikausriss.png

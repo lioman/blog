@@ -42,7 +42,7 @@ Kunde eines großen Nationalen ISP sein und darf natürlich nicht für
 einen der getesteten Anbieter arbeiten.
 
 .. |image0| image:: {static}/images/europa.png
-   :class: alignright size-full wp-image-3952
+   :class: alignright size-full
    :width: 200px
    :height: 133px
    :target: {static}/images/europa.png

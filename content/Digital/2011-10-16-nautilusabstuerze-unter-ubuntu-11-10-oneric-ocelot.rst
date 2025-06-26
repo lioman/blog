@@ -37,7 +37,7 @@ Update: Nautilus muss erstmal neu gestartet werden. Ein einfaches
  ``pkill nautilus``  genügt da
 
 .. |image0| image:: {static}/images/ubuntulogo.png
-   :class: alignright size-full wp-image-3180
+   :class: alignright size-full
    :width: 190px
    :height: 194px
    :target: {static}/images/ubuntulogo.png

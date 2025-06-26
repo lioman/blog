@@ -8,7 +8,7 @@ File Closed - #ACTA liegt ad acta
 
 .. figure:: {static}/images/acta.jpg
    :alt: Akten mit Acta
-   :class: size-full wp-image-4858
+   :class: size-full
    :width: 1279px
    :height: 961px
    :target: {static}/images/acta.jpg

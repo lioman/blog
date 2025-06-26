@@ -54,7 +54,7 @@ Server:
 -  `ubuntu-11.04-server-i386.iso.torrent <http://releases.ubuntu.com/11.04/ubuntu-11.04-server-i386.iso.torrent>`__
 
 .. |image0| image:: {static}/images/tux2.png
-   :class: alignleft size-full wp-image-3079
+   :class: alignleft size-full
    :width: 101px
    :height: 121px
    :target: {static}/images/tux2.png

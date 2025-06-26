@@ -79,27 +79,27 @@ Everything is done and your readers can flattr your Posterousblog
    :height: 158px
    :target: {static}/images/posterousnewsettings.jpg
 .. |image2| image:: {static}/images/posterous2flattr02-300x207.png
-   :class: aligncenter size-medium wp-image-3198
+   :class: aligncenter size-medium
    :width: 300px
    :height: 207px
    :target: {static}/images/posterous2flattr02.png
 .. |image3| image:: {static}/images/posterous2flattr03-300x207.png
-   :class: aligncenter size-medium wp-image-3199
+   :class: aligncenter size-medium
    :width: 300px
    :height: 207px
    :target: {static}/images/posterous2flattr03.png
 .. |image4| image:: {static}/images/posterous2flattr04-300x207.png
-   :class: aligncenter size-medium wp-image-3201
+   :class: aligncenter size-medium
    :width: 300px
    :height: 207px
    :target: {static}/images/posterous2flattr04.png
 .. |image5| image:: {static}/images/posterous2flattr05-300x207.png
-   :class: aligncenter size-medium wp-image-3202
+   :class: aligncenter size-medium
    :width: 300px
    :height: 207px
    :target: {static}/images/posterous2flattr05.png
 .. |image6| image:: {static}/images/posterous2flattr06-300x207.png
-   :class: aligncenter size-medium wp-image-3203
+   :class: aligncenter size-medium
    :width: 300px
    :height: 207px
    :target: {static}/images/posterous2flattr06.png

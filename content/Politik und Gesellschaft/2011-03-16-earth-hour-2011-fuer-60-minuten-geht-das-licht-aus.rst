@@ -23,7 +23,7 @@ Earth Hour 2011 - für 60 Minuten geht das Licht aus
 | 
 
 .. |image0| image:: {static}/images/earth_hour2011.jpg
-   :class: size-full wp-image-3010 alignleft
+   :class: size-full alignleft
    :width: 186px
    :height: 240px
    :target: {static}/images/earth_hour2011.jpg

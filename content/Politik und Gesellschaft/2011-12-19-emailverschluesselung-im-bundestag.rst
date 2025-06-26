@@ -63,7 +63,7 @@ schlicht für fahrlässig.
  
 
 .. |image0| image:: {static}/images/gnupg-logo.png
-   :class: alignright size-full wp-image-4146
+   :class: alignright size-full
    :width: 150px
    :height: 52px
    :target: {static}/images/gnupg-logo.png

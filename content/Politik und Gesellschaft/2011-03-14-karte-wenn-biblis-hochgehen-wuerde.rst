@@ -23,7 +23,7 @@ die Japaner haben gezögert.
   Berücksichtigung von Geographie und Meteorologie ist.
 
 .. |image0| image:: {static}/images/biblis_gau_karte.png
-   :class: aligncenter size-full wp-image-2976
+   :class: aligncenter size-full
    :width: 748px
    :height: 393px
    :target: {static}/images/biblis_gau_karte.png

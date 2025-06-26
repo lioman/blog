@@ -33,7 +33,7 @@ HTTPS Everywhere in neuer Version und für Chromium
   nicht 100%ig stabil funktionieren.
 
 .. |image0| image:: {static}/images/httpseverywhere_icon.jpg
-   :class: alignright size-full wp-image-4495
+   :class: alignright size-full
    :width: 71px
    :height: 60px
    :target: {static}/images/httpseverywhere_icon.jpg

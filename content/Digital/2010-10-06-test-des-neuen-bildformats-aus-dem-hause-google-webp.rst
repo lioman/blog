@@ -130,7 +130,7 @@ Format noch in möglichst viele Browser integriert werden.
 Google Chrome macht da vermutlich den Anfang.
 
 .. |image0| image:: {static}/images/webp_vergleich.png
-   :class: aligncenter size-full wp-image-2127
+   :class: aligncenter size-full
    :target: {static}/images/webp_vergleich.png
 .. |image1| image:: /wp-content/uploads/webp_vergleich.png
    :class: alignnone

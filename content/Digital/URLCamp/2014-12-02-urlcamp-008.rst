@@ -50,7 +50,7 @@ Eigentlich sollte das ja eine regelmäßige Veranstaltung hier sein:
 
 .. |Wegweiser| image:: {static}/images/wegweiser_klein.webp
    :alt: Ein Wegweiser in Falschfarben, der in verschiedene Richtungen zeigt
-   :class: alignright size-full wp-image-5066
+   :class: alignright size-full
    :width: 250px
    :height: 375px
    :target: {static}/images/wegweiser_klein.webp

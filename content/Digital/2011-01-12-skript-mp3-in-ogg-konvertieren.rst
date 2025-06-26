@@ -67,7 +67,7 @@ Dieses Skript behält nichts. Alle alten Daten werden gelöscht. Möchte
 man das nicht muss man *rm -fv $i* entfernen.
 
 .. |image0| image:: {static}/images/mp3tovorbis.png
-   :class: alignleft size-full wp-image-2705
+   :class: alignleft size-full
    :width: 236px
    :height: 76px
    :target: {static}/images/mp3tovorbis.png

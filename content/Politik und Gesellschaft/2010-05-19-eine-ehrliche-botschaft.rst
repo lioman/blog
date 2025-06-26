@@ -17,7 +17,7 @@ Hier ein Screenshot von 19.05.2010 14:20 Uhr:
 `bro/twitter <http://twitter.com/broti/status/14289545941>`__
 
 .. |image0| image:: {static}/images/Griechische_Botschaft-300x167.png
-   :class: aligncenter size-medium wp-image-1546
+   :class: aligncenter size-medium
    :width: 300px
    :height: 167px
    :target: {static}/images/Griechische_Botschaft.png

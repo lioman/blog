@@ -57,7 +57,7 @@ Blogseite sollte ich erlauben.
    :height: 325px
    :target: http://www.youtube.com/watch?v=4Qdl1ILBOqM
 .. |image1| image:: {static}/images/Privacyscan.png
-   :class: aligncenter size-full wp-image-1542
+   :class: aligncenter size-full
    :width: 750px
    :height: 279px
    :target: {static}/images/Privacyscan.png
