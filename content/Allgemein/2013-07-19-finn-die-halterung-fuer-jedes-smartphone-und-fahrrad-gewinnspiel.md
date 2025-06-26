@@ -32,7 +32,7 @@ möglich und je nach Position der Kamera muss man ein bisschen
 rumbasteln bis nichts mehr vor der Linse ist).
 Aber seht selbst:
 
-{% youtube xlKm6EmkEEE %}
+{% video {static}/images/Finn_Stabilitaetstest.mp4 408 720 {static}/images/finn-die-halterung-fuer-jedes-smartphone-und-fahrrad-gewinnspiel.jpg %}
 
 Jetzt nutze ich Finn eine Woche und bin immer noch äußerst zufrieden.
 

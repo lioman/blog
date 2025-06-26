@@ -42,8 +42,8 @@ clos sur le net
 Orginalbild: `Newspaper <https://www.flickr.com/photos/peagreenchick/384744367/>`__   `CC BY
 2.0 <http://creativecommons.org/licenses/by/2.0/>`__
 
-.. |image0| image:: {static}/images/news_twitter_facebook-201x300.jpg
-   :class: alignleft size-medium wp-image-1407
+.. |image0| image:: {static}/images/news_twitter_facebook-201x300.webp
+   :class: alignleft size-medium
    :width: 201px
    :height: 300px
-   :target: {static}/images/news_twitter_facebook.jpg
+   :target: {static}/images/news_twitter_facebook.webp

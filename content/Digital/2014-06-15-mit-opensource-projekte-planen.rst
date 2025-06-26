@@ -23,7 +23,7 @@ hier kurz vorstellen möchte.
 
 .. figure:: {static}/images/libreplan_logo.png
    :align: right
-   :class: size-full wp-image-5500
+   :class: size-full
    :width: 205px
    :height: 60px
    :target: https://en.wikipedia.org/wiki/File:LibrePlan_Logo.png

@@ -12,15 +12,15 @@ Nach dem ich mit dem letzte
 ein paar nützliche Tipps zu diversen Androidanwendungen ergattert habe,
 möchte ich nun selbst einen kleinen Tipp abgeben.
 
-Es gibt diverse "Diebstahlsicherungen" im Market. Wobei die  Bezeichnung
+Es gibt diverse "Diebstahlsicherungen" im Market. Wobei die Bezeichnung
 an sich etwas irreführend ist, denn ein bisschen Software kann keinen
-Dieb davon abhalten, ein mobiles Gerät zu entwenden.  Möchte man dies
+Dieb davon abhalten, ein mobiles Gerät zu entwenden. Möchte man dies
 tun sollte man das Gerät immer in einem Safe an das eigene Handgelenk
 schmieden. Trotzdem können solche Systeme sinnvoll sein, wenn man ein
 entwendetes oder verlorenen Gerät wieder zurückbekommen möchte.
 Grundsätzlich funktionieren alle Programme ungefähr gleich. Fehlt das
 Gerät, senden man über irgendeinen Kanal einen Aktivierungsbefehl und
-das Gerät sendet Daten zum eigenen Ort über das Netz zurück an den
+das Gerät sendet Daten zum eigenen Ort über das Netz zurück an den
 Besitzer.
 
 Zwei Probleme gibt es dabei.
@@ -53,7 +53,7 @@ Zwei Probleme gibt es dabei.
    Übersichtsdialog in Prey
 
 Aber einen Tipp habe ich noch. Standardmäßig wartet das Programm auf
-eine SMS mit dem Inhalt "GO PREY", der Satz ist frei konfigurierbar und
+eine SMS mit dem Inhalt "GO PREY", der Satz ist frei konfigurierbar und
 ich empfehle etwas unverfängliches zu nahmen, was dem Dieb/Finder nicht
 gleich verrät, dass das Gerät ab jetzt überwacht wird. Dies kann man
 auch mit dem Deaktivierungssatz in der Übersicht tun. Auch dies ist
@@ -85,7 +85,7 @@ Hinweise zum Ort geben.
 
 Das geht leider bei Android- und iOS-Geräten (noch) nicht, dafür ist die
 Aktivierung über SMS (Nur bei Android verfügbar!!) recht einfach und man
-bekommt den genauen Aufenthaltsort angezeigt. Zudem gibt es ein
+bekommt den genauen Aufenthaltsort angezeigt. Zudem gibt es ein
 SIM-Karten-Wechselalarm. Möchte der Dieb mit einem SIM-Kartenwechsel die
 PIN-Sperre umgehen, wird dessen Nummer an das System übertragen und kann
 somit auch an Strafverfolgungsbehörden weitergeleitet werden. Außerdem
@@ -105,12 +105,12 @@ ein Erklärvideo:
 http://vimeo.com/18728980
 
 .. |image0| image:: {static}/images/prey_logo.png
-   :class: alignright size-full wp-image-4870
+   :class: alignright size-full
    :width: 600px
    :height: 188px
 
 .. |image2| image:: {static}/images/prey_test-168x300.png
-   :class: alignright size-medium wp-image-4877
+   :class: alignright size-medium
    :width: 168px
    :height: 300px
    :target: {static}/images/prey_test.png

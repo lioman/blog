@@ -29,12 +29,12 @@ man an folgendem Screenshot sehen kann:
 |image1|
 
 .. |image0| image:: {static}/images/google_images_upload.png
-   :class: alignright size-full wp-image-3694
+   :class: alignright size-full
    :width: 104px
    :height: 72px
-   :target: http://www.lioman.de/2011/09/bildersuche/google_images_upload/
+   :target: {static}/images/google_images_upload.png
 .. |image1| image:: {static}/images/googleimagesearch.jpg
    :class: alignright size-full wp-image-3693
    :width: 900px
    :height: 750px
-   :target: http://www.lioman.de/2011/09/bildersuche/googleimagesearch/
+   :target: {static}/images/googleimagesearch.jpg

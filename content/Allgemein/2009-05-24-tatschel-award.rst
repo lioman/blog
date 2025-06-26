@@ -9,13 +9,13 @@ Tätschel-Award
 
 Wow ich habe einen Tätschel-Award von
 `Fellmonster <http://fellmonster.wordpress.com>`__ bekommen, als *Kenner
-aller globaler Schweinebande*.  Tja, hier ist mein Award:
+aller globaler Schweinebande*. Tja, hier ist mein Award:
 
-.. figure:: {static}/images/fellmonster_taetschel-300x287.jpg
+.. figure:: {static}/images/fellmonster_taetschel.jpg
    :alt: Tätschelaward von Fellmonster
-   :class: size-medium wp-image-667
-   :width: 300px
-   :height: 287px
+   :class: size-medium
+   :width: 398px
+   :height: 381px
 
    Tätschel-Award von Fellmonster"
 
@@ -30,5 +30,5 @@ Fellmonsterartikeln stehen:
 Im übrigen ist der wahnwitzige Blog von Fellmonster durchaus
 interessant. Und ich verbeuge mich tief vor der Menge der Artikel. Ich
 bin da irgendwie langsamer :schildkroete: , wenn es um die "Befüllung"
-meines  Blogs geht.
+meines Blogs geht.
 

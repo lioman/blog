@@ -7,6 +7,7 @@ Cassis - Buttermilcheis
 :slug: cassis-buttermilcheis
 :status: published
 
+|Johannisbeereis|
 
 Vorbereitungszeit: 20 min
 
@@ -63,4 +64,5 @@ Falls jemand das Eis nachmacht, würde ich mich über schöne(re) Bilder
 freuen, meine sind schnell mit dem Handy kurz vor dem Verzehr entstanden
 und natürlicherweise nicht so gut.
 
- 
+
+.. |Johannisbeereis|    image:: {static}/images/johannisbeereis.jpg

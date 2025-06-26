@@ -17,12 +17,12 @@ die Erweiterung
 installieren.
 
 Und hier ist nun das Style (für
-copy+paste): \ `PureReader <images/purereader.css>`__
-(Angepasst an neue UI) 
-`(alt:Pure\_reader <images/Pure_reader.css>`__)
+copy+paste): `PureReader <{attach}/downloads/purereader.css>`__
+(Angepasst an neue UI)
+`(alt:Pure\_reader <{attach}/downloads/Pure_reader.css>`__)
 
 Einfache Installation+Update: `Pure Reader - a clean beautiful
-GoogleReader style <http://userstyles.org/styles/40858>`__
+GoogleReader style <https://userstyles.org/styles/40858>`__
 
 Hat man es installiert präsentiert sich der RSS-Reader in einem viel
 klareren Design ohne störende Beigaben (zum Vergrößern klicken):
@@ -32,11 +32,11 @@ klareren Design ohne störende Beigaben (zum Vergrößern klicken):
 Artikel eingeblendet und auch die Quelle/Autor wird im Stream angezeigt.
 
 Licensed under a `Creative Commons Attribution-Noncommercial-Share Alike
-3.0 License <http://creativecommons.org/licenses/by-nc-sa/3.0/>`__\ .
+3.0 License <https://creativecommons.org/licenses/by-nc-sa/3.0/>`__\ .
 
 **UPDATE:** Habe das Style aus userstyles.org veröffentlicht: `Pure
 Reader - a clean beautiful GoogleReader
-style <http://userstyles.org/styles/40858>`__
+style <https://userstyles.org/styles/40858>`__
 
 **Update 2:** Englische Versions des Artikels hinzugefügt
 
@@ -51,30 +51,26 @@ it , you have to install the Add-on
 `Stylish. <https://addons.mozilla.org/en-US/firefox/addon/2108/>`__
 
 Here is the
-style:\ `PureReader <images/purereader.css>`__
+style:\ `PureReader <{attach}/downloads/purereader.css>`__
 (improved for new UI)      (old
 `Pure\_reader <images/Pure_reader.css>`__)
 
 Easy installation+update: `Pure Reader - a clean beautiful GoogleReader
-style <http://userstyles.org/styles/40858>`__
+style <https://userstyles.org/styles/40858>`__
 
 After installation the GReader look like this (click to enlarge):
 
-|image1|
+|image0|
 
 I 've made a few changements to the original code to provide a better
 usability. Buttons for "Previous/Next Item" and the source of the
 articles are included for example.
 
 Licensed under a `Creative Commons Attribution-Noncommercial-Share Alike
-3.0 License <http://creativecommons.org/licenses/by-nc-sa/3.0/>`__\ .
+3.0 License <https://creativecommons.org/licenses/by-nc-sa/3.0/>`__\ .
 
 .. |image0| image:: {static}/images/PureReader-300x133.png
    :class: aligncenter size-medium wp-image-2523
    :width: 300px
    :height: 133px
-   :target: {static}/images/PureReader.png
-.. |image1| image:: {static}/images/PureReader-300x133.png
-   :width: 300px
-   :height: 133px
-   :target: {static}/images/PureReader.png
+   :target: {attach}/images/PureReader.png

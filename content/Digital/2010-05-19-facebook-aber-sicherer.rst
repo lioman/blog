@@ -52,7 +52,7 @@ entsprechende Verbesserungen.
 Das rote Insecure ignoriere ich in meinem Fall. Das Weitersagen meiner
 Blogseite sollte ich erlauben.
 
-.. |image0| image:: http://i.ytimg.com/vi/4Qdl1ILBOqM/hqdefault.jpg
+.. |image0| image:: {static}/images/hqdefault.jpg
    :width: 522px
    :height: 325px
    :target: http://www.youtube.com/watch?v=4Qdl1ILBOqM

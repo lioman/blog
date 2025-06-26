@@ -69,7 +69,7 @@ Folgende Medien nutzen schon Twingly:
 
 
 .. |netzwertig_twingly_channel| image:: {static}/images/netzwertig_twingly_channel-150x150.png
-   :class: aligncenter size-thumbnail wp-image-990
+   :class: aligncenter size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/netzwertig_twingly_channel.png

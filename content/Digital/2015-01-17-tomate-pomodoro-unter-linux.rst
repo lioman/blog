@@ -8,24 +8,24 @@ Tomate - Pomodoro unter Linux
 :status: published
 
 Ich habe die `Pomodoro-Technik <http://pomodorotechnique.com>`__ für
-mich entdeckt. Diese wird immer mal wieder als die neuste Idee der
-Zeiteinteilung angepriesen, aber an sich ist der Trick uralt. Aber
-zuerst zur Technik an sich. Man stellt sich einen Kurzzeitwecker auf 25
-Minuten (oder eine andere sinnvolle nicht zu lange Zeiteinheit). In
-dieser Zeit tut man nichts anderes, als die gestellte Aufgabe(n) zu
-erledigen. Man surft nicht auf YouTube herum, checkt nicht schnell mal
-die Mails oder schaut auf das Handy. Klingelt der Wecker, stellt man ihn
-gleich wieder. Dieses mal auf 5 Minuten und verhält sich genau
-umgekehrt. Sprich man macht echt Pause und vermeidet alle Arbeit. Holt
-sich einen Kaffee, bewegt sich ein bisschen, lässt frische Luft herein
-usw. Nach vier *Pomodoros* macht man eine längere Pause von 20-30
-Minuten und lässt auch hier alle Arbeit ruhen.
+mich entdeckt. 
+Diese wird immer mal wieder als die neuste Idee der Zeiteinteilung angepriesen,
+aber an sich ist der Trick uralt.
+Aber zuerst zur Technik an sich. 
+Man stellt sich einen Kurzzeitwecker auf 25 Minuten (oder eine andere sinnvolle nicht zu lange Zeiteinheit).
+In dieser Zeit tut man nichts anderes, als die gestellte Aufgabe(n) zu erledigen.
+Man surft nicht auf YouTube herum, checkt nicht schnell mal die Mails oder schaut auf das Handy.
+Klingelt der Wecker, stellt man ihn gleich wieder.
+Dieses mal auf 5 Minuten und verhält sich genau umgekehrt.
+Sprich man macht echt Pause und vermeidet alle Arbeit.
+Holt sich einen Kaffee, bewegt sich ein bisschen, lässt frische Luft herein usw.
+Nach vier *Pomodoros* macht man eine längere Pause von 20-30 Minuten und lässt auch hier alle Arbeit ruhen.
 
 
 .. figure:: {static}/images/tomate-300x300.png
    :alt: Logo des Programms Tomate
    :align: right
-   :class: wp-image-5700 size-medium
+   :class: size-medium
    :width: 300px
    :height: 300px
    :target: {static}/images/tomate.png

@@ -14,7 +14,7 @@ Friedensnobelpreis geht an Chinesischen Gefangenen Liu Xiaobo!
 
    Friedensnobelpreisträger 2010
 
-Das schwedische Komitee hat den diesjährigen Friedensnobelpreis an Liu
+Das schwedische Komitee hat den diesjährigen Friedensnobelpreis an Liu
 Xiaobo vergeben.
 
 Der Chinese ist derzeit zu 11-jähriger Haftstrafe  verurteilt und sitzt
@@ -24,7 +24,7 @@ Dazu möchte ich einen Link zu einem Text des Preisträgers, der in der
 Zeit veröffentlicht wurde: `Klick <http://www.zeit.de/2010/07/P-oped>`__
 
 Und hier noch die Nachricht auf
- `Zeitonline <http://www.zeit.de/politik/ausland/2010-10/friedensnobelpreis>`__
+`Zeitonline <http://www.zeit.de/politik/ausland/2010-10/friedensnobelpreis>`__
 und
 `taz.de <http://taz.de/1/politik/europa/artikel/1/drohung-aus-peking/>`__
 

@@ -10,7 +10,7 @@ Status: published
 
 In den MozillaLabs wurde am 23.September eine schöne Projektstudie.
 
-![Seabird]({static}/images/seabird_2-300x224.jpg)
+[![Seabird]({static}/images/seabird_2-300x224.jpg)]({static}/images/seabird_2.jpg){:target="\_blank"}
 
 [Seabird](http://mozillalabs.com/conceptseries/2010/09/23/seabird/)
 soll das schöne Mobiltelephon heißen, dass mit Projektor ausgestattet

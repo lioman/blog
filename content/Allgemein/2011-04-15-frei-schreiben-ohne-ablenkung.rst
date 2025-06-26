@@ -15,8 +15,8 @@ im Blog von
 entdeckt.
 
 Tranquility - Ruhe also - verändert die Vollbildfunktion von TinyMCE
-dahingehend, dass alles unnötige ausgeblendet wird. Übrig bleibt
-eigentlich nur ein weißes Textfeld.
+dahingehend, dass alles unnötige ausgeblendet wird.
+Übrig bleibt eigentlich nur ein weißes Textfeld.
 
 |image0|
 
@@ -30,12 +30,12 @@ http://plugins.svn.wordpress.org/tranquility/branches/ einfach die
 zip-Datei runterladen und wie gewohnt installieren.
 
 .. |image0| image:: {static}/images/Tranquility-300x187.jpg
-   :class: aligncenter size-medium wp-image-3133
+   :class: aligncenter size-medium
    :width: 300px
    :height: 187px
    :target: {static}/images/Tranquility.jpg
 .. |image1| image:: {static}/images/Tranquility_mitLeiste-300x187.jpg
-   :class: aligncenter size-medium wp-image-3134
+   :class: aligncenter size-medium
    :width: 300px
    :height: 187px
    :target: {static}/images/Tranquility_mitLeiste.jpg

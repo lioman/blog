@@ -15,6 +15,6 @@
 Astronomen des `ESO <http://eso.org>`__ haben mit Hilfe des
 `VISTA <http://de.wikipedia.org/wiki/Paranal-Observatorium#VISTA>`__ ein
 9 Gigapixelbild zusammengesetzt und veröffentlicht. Das Bild kann man
-sich frei zoombar im Netz anschauen: \ `VISTA gigapixel mosaic of the
+sich frei zoombar im Netz anschauen:\ `VISTA gigapixel mosaic of the
 central parts of the Milky
 Way <http://www.eso.org/public/images/eso1242a/zoomable/>`__

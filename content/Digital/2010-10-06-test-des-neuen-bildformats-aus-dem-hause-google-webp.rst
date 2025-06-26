@@ -83,9 +83,9 @@ Benutzung
 
 Für den Test habe ich ein qualitativ möglichst gutes Bild gewählt. Dazu
 habe ich ein
-`RAW-Foto <images/rose_orginal.tar.gz>`__
+`RAW-Foto <{attach}/downloads/rose_orginal.tar.gz>`__
 kompressionsfrei in eine
-`PNG </wp-content/uploads/rose_orginal.png>`__-Datei überführt. Nun
+`PNG <{static}/images/rose_orginal.png>`__-Datei überführt. Nun
 kommt das frischkompilierte Programm zum Einsatz. Ich komprimiere das
 Bild einmal als webp mit dem Befehl:
 

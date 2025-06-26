@@ -35,7 +35,7 @@ Besucherstatistiken
 .. figure:: {static}/images/Geraete2014.png
    :alt: Geräte der Leser 2014
    :align: right
-   :class: size-full wp-image-5692
+   :class: size-full
    :width: 494px
    :height: 250px
    :target: {static}/images/Geraete2014.png
@@ -51,7 +51,7 @@ mich nicht wirklich gewundert.
 .. figure:: {static}/images/OS2014.png
    :alt: Betriebssysteme der Leser 2014
    :align: left
-   :class: size-full wp-image-5694
+   :class: size-full
    :width: 494px
    :height: 250px
    :target: {static}/images/OS2014.png
@@ -60,10 +60,10 @@ mich nicht wirklich gewundert.
 
 Erstaunlich finde ich eher, dass der Anteil der Windowsnutzer weiterhin
 so groß ist. 55% aller Besucher hatten ein Betriebssystem aus dem Hause
-Microsoft.  das sind immerhin noch 76% aller Desktopnutzer. Allerdings
-hatte ich auch nicht so viele Artikel  im
+Microsoft. Das sind immerhin noch 76% aller Desktopnutzer.
+Allerdings hatte ich auch nicht so viele Artikel im
 `ubuntuusers-planet <http://planet.ubuntuusers.de/>`__ und
-`osbn <http://osbn.de>`__ veröffentlicht und diese beiden Seiten bringen
+`osbn <http://osbn.de>`__ veröffentlicht und diese beiden Seiten bringen
 immer noch die meisten Nutzer. Abgesehen davon ist im
 Suchmaschinenbereich Google weiterhin so führend, wie in den vergangenen
 Jahren und die passende Grafik lass ich deswegen einfach weg.

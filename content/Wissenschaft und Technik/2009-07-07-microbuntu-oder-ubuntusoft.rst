@@ -19,14 +19,13 @@ Betriebssystem: Microsofts
 
 Und ich dachte ich hätte schon vor Jahren zum freien Betriebssystem
 Linux gewechselt. Aber es scheint als hätte Dell andere Informationen.
-Vielleicht sollte man es dann doch lieber Micronix Winbuntu nennen 
-:doh: .
+Vielleicht sollte man es dann doch lieber Micronix Winbuntu nennen.
 
 Mal sehen wie lange es dauert, bis dieser Fehler ausgeräumt ist.
 
 Wobei es eigentlich keinen echten Schaden verursacht. Zwar wird
 Microsoft eine Ehre zuteil, die das Unternehmen aus Redmonder gar nicht
-verdient hat. Aber der Käufer bekommt endlich  ein sicheres und stabiles
+verdient hat. Aber der Käufer bekommt endlich ein sicheres und stabiles
 System.
 
 Was will man mehr

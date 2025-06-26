@@ -7,15 +7,14 @@ Gravatar Hovercards einbinden
 :slug: gravatar-hovercards-einbinden
 :status: published
 
--  **Update2: Einfacher geht es in Wordpress mit dem Plugin:
-   `Jetpack <http://jetpack.me/>`__**
+-  **Update2: Einfacher geht es in Wordpress mit dem Plugin:** `Jetpack <http://jetpack.me/>`__
 -  **Update: Der Minimierte Code geht noch nicht!!! Nur die ungepackte Version funktioniert!!!**
 
-|image0|\ Schon länger ist der Dienst
-`Gravatar <http://www.gravatar.com>`__\ in diversen Blogs eingebaut.
+|image0| Schon länger ist der Dienst `Gravatar <http://www.gravatar.com>`__ 
+in diversen Blogs eingebaut.
 Sowohl bei wordpress.com als auch in vielen Privaten. Hat man also ein
 Bild mit einer Emailadresse verknüpft erscheint es überall wo man
-kommentiert (und der Dienst eingebunden ist).  Seit einiger Zeit konnte
+kommentiert (und der Dienst eingebunden ist). Seit einiger Zeit konnte
 man ein Erweitertes Profil gestalten und ein klick auf das Bild neben
 einem Kommentar führte zu diesem. Wenn man also möchte kann man so sein
 Facebook-Profil - Twitterstream oder andere Konten bekannt machen und
@@ -31,7 +30,7 @@ So wird es eingebaut.
 
 Einfach in die *functions.php* des Themes folgende Zeile einfügen:
 
-..code:: php
+.. code:: php
 
     wp_enqueue_script( 'gprofiles', 'http://s.gravatar.com/js/gprofiles.js', array( 'jquery' ), 'e', TRUE );
 
@@ -1104,7 +1103,7 @@ Skript herunterladen und bearbeiten. Ohne Tracker sieht es dann so aus
   `diesem <http://fmarcia.info/jsmin/test.html>`__, schrumpft das ganz
   noch einmal deutlich ein.
 | Die so erhaltene Datei (Hier zum Download:
-  `Hovercard.js.gz <images/Hovercard.js.gz>`__
+  `Hovercard.js.gz <{attach}/downloads/Hovercard.js.gz>`__
   )
 | Läd man z.B. in MEINBLOG/wp-includes/js und trägt folgendes in die
   *funtions.php* des Themes ein:
@@ -1116,9 +1115,9 @@ Skript herunterladen und bearbeiten. Ohne Tracker sieht es dann so aus
     ?>
 
 .. |image0| image:: {static}/images/hovercard.jpg
-   :class: alignleft size-full wp-image-2160
+   :alt: Screenshot einer Wordpress-Hovercard
+   :class: alignleft size-full
    :width: 521px
    :height: 240px
    :target: {static}/images/hovercard.jpg
-.. |\\.\\| image:: \http://s.gravatar.com/images/throbber.gif\
 

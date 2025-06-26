@@ -7,8 +7,8 @@ Google-Labs: Neue Bildersuche
 :slug: google-labs-neue-bildersuche
 :status: published
 
-***Google hat eine neue Bildersuche gestartet. Bisher befindet sich die
-Image-Swirl genannte Funktion noch im Labs-Status.***
+*Google hat eine neue Bildersuche gestartet. Bisher befindet sich die
+Image-Swirl genannte Funktion noch im Labs-Status.*
 
 Wie gewohnt gibt man einen Suchbegriff ein, die ausgegebenen Ergebnisse
 sind aber in praktischen Stapeln sortiert.
@@ -24,9 +24,6 @@ Stapel surft sind einfach faszinierend. Es macht richtig Spaß ein
 Stichwort einzugeben und zu schauen was es davon so gibt.Aber am Besten
 einfach selber anschauen: Image-Swirl: Freiburg
 
-.. raw:: html
-
-   </p>
 
 .. |image-swirl1| image:: {static}/images/image-swirl1-150x150.png
    :class: aligncenter size-thumbnail wp-image-1122

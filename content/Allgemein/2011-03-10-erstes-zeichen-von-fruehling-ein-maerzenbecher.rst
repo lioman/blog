@@ -10,8 +10,7 @@ Erstes Zeichen von Frühling: ein Märzenbecher
 Nach dem letzten Winterbild, soll hier gleich mal der Frühling
 ausbrechen. Ein im Winter gesetzter Märzenbecher reckt sein Köpfchen und
 sonnt sich in der ersten Frühlingssonne. Offiziell heißt die Blume
-übrigens `Frühlingsknotenblume (*Leucojum
-vernum)* <https://secure.wikimedia.org/wikipedia/de/wiki/M%C3%A4rzenbecher>`__
+übrigens `Frühlingsknotenblume *(Leucojum vernum)* <https://secure.wikimedia.org/wikipedia/de/wiki/M%C3%A4rzenbecher>`__
 - wieder was gelernt.
 
 |image0|

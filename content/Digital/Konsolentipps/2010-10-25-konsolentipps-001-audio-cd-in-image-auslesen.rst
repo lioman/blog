@@ -36,7 +36,7 @@ Brennen ist ebenso einfach. Hier genügt folgender Befehl:
     cdrdao write --device /dev/sr0 --speed 8 --driver generic-mmc CD.cue
 
 .. |image0| image:: {static}/images/Konsole-300x213.png
-   :class: alignleft size-medium wp-image-2201
+   :class: alignleft size-medium
    :width: 210px
    :height: 149px
    :target: {static}/images/Konsole.png

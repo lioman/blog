@@ -10,9 +10,9 @@ Der Spuk ist vorüber
 Kaum ist der Monat Mai vorbei, fällt die Akismet-Spamstatistik in den
 Keller.
 
-zur Verdeutlichung ein Bild:\ |spammonatmai|
+zur Verdeutlichung ein Bild: |spammonatmai|
 
-Mir ist es absolut recht, dass das  vorüber ist :freu:
+Mir ist es absolut recht, dass das vorüber ist :freu:
 
 Ich Frage mich nur was das sollte :question:
 
@@ -23,6 +23,6 @@ Vielleicht hat ja irgendjemand antworten. Hier gibt es dank Akismet aber
 kein SPAM
 
 .. |spammonatmai| image:: {static}/images/spammonatmai.png
-   :class: alignright size-full wp-image-715
+   :class: alignright size-full
    :width: 283px
    :height: 208px

@@ -31,7 +31,6 @@ The plugin is hosted by
 `wordpress.org <http://wordpress.org/extend/plugins/get-link-meta/>`__.
 If you have any questions ask me by commenting here.
 
- 
 
 .. |image0| image:: {static}/images/getlinkmetabox.png
    :class: aligncenter size-full wp-image-4259

@@ -32,13 +32,13 @@ das auf Wikipedia zu sehen ist:
 
 .. |MessingeuleSchlupfglas| image:: {static}/images/messingeule0001-150x150.jpg
    :alt: Messingeule in Schlupfglas
-   :class: size-thumbnail wp-image-998
+   :class: size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/messingeule0001.jpg
 
 .. |messingeule0002| image:: {static}/images/messingeule0002-150x150.jpg
-   :class: alignleft size-thumbnail wp-image-999
+   :class: alignleft size-thumbnail
    :width: 150px
    :height: 150px
    :target: {static}/images/messingeule0002.jpg

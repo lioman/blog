@@ -7,18 +7,20 @@ Schnecke mit Wein und Schnecke nackt.
 :slug: schnecke-mit-wein-und-schnecke-nackt
 :status: published
 
-| Die beiden kreuzten heute morgen meinen Weg zum Bäcker. Wie lange die
-  beiden wohl brauchen, um die Brötchen zu holen?
-| |image0|
+Die beiden kreuzten heute morgen meinen Weg zum Bäcker.
+Wie lange die beiden wohl brauchen, um die Brötchen zu holen?
 
-|image1|
+|Weinbergschnecke|
 
-Nachtrag: Bilder nochmals hinzugefügt. Die Wordpress-App hat wohl ein
-paar Probleme.
+|Nackschnecke|
 
-.. |image0| image:: {static}/images/wpid-imag0714.jpg
+Nachtrag: Ich habe die Bilder nochmals hinzugefügt.
+Die Wordpress-App hat wohl ein paar Probleme.
+
+.. |Weinbergschnecke| image:: {static}/images/wpid-imag0714.jpg
    :class: aligncenter
    :target: {static}/images/wpid-imag07141.jpg
-.. |image1| image:: {static}/images/wpid-imag0715.jpg
+
+.. |Nackschnecke| image:: {static}/images/wpid-imag0715.jpg
    :class: aligncenter
    :target: {static}/images/wpid-imag07151.jpg

@@ -25,7 +25,7 @@ zufriedenstellende Ergebnisse gebracht.
 
 .. figure:: {static}/images/amazon_video_einstellungen-1024x207.png
    :alt: Amazon-Einstellungen
-   :class: size-large wp-image-5637
+   :class: size-large
    :width: 620px
    :height: 125px
    :target: {static}/images/amazon_video_einstellungen.png
@@ -33,7 +33,7 @@ zufriedenstellende Ergebnisse gebracht.
    Amazon Videoplayer-Einstellungen
 
 Nun hat Amazon einen Schritt in die (falsche) richtige Richtung
-vollzogen. Nun kann man in den eigenen Einstellungen einen Flashplayer
+vollzogen. Man kann in den eigenen Einstellungen einen Flashplayer
 aktivieren. Längere Tests habe ich noch nicht durchgeführt, aber das
 Abspielen geht im Firefox, wenn man den `User
 Agent <http://de.wikipedia.org/wiki/User_Agent>`__ zusätzlich auf den

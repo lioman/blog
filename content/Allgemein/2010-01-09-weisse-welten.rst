@@ -19,7 +19,7 @@ Königreich <http://de.wikipedia.org/wiki/Vereinigtes_Königreich>`__ weiß
 Terra <http://rapidfire.sci.gsfc.nasa.gov/gallery/?2010007-0107/GreatBritain.A2010007.1150.1km.jpg>`__*
 
 .. |image0| image:: {static}/images/GreatBritain.A2010007.1150.1km-231x300.jpg
-   :class: aligncenter size-medium wp-image-1222
+   :class: aligncenter size-medium
    :width: 231px
    :height: 300px
    :target: {static}/images/GreatBritain.A2010007.1150.1km.jpg

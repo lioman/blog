@@ -11,7 +11,7 @@ Neue Schriftart im Blog
 `LinuxLibertine <http://linuxlibertine.org>`__ per @font-face
 eingebunden. Die Schrift ist frei und schön und sehr umfassend. Das
 führte zu längeren Ladezeiten, da die Schriftart doch recht groß ist und
-viele sie nicht installiert haben (muss also jedesmal neu geladen
+viele sie nicht installiert haben (muss also jedesmal neu geladen
 werden).
 
 Trotzdem wollte ich nicht auf sie verzichten, denn die ewig gleichen

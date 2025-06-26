@@ -94,12 +94,12 @@ Hier die Mail:
     PPID PP522
 
 .. |Paypal_Pishing1| image:: {static}/images/paypal_pishing1-300x208.png
-   :class: alignright size-medium wp-image-5490
+   :class: alignright size-medium
    :width: 300px
    :height: 208px
    :target: {static}/images/paypal_pishing1.png
 .. |Paypal_Pishing2| image:: {static}/images/paypal_pishing2-300x230.png
-   :class: alignleft size-medium wp-image-5491
+   :class: alignleft size-medium
    :width: 300px
    :height: 230px
    :target: {static}/images/paypal_pishing2.png

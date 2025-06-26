@@ -32,9 +32,9 @@ Das macht sich die Internetseite
 *(Anmerkung: Dies ist ein Ref-Code auch wenn ich nicht genau weiß, was
 es mir bringen soll, denn Geld o.ä gibt es für geworbene Mitglieder
 nicht)* zu nutze. Trägt man dort eine Banknote ein, kann man deren Weg
-durch Europa ver\ |image0|\ folgen, sofern jemand anderes dies auch tut.
+durch Europa |image0| verfolgen, sofern jemand anderes dies auch tut.
 Und das ist auch ein wenig der Haken, denn die Erfolgsquote ist bisher
-nicht so berauschend. Derzeit sind 99 935 082 Scheine eingetragen wovon
+nicht so berauschend. Derzeit sind 99.935.082 Scheine eingetragen wovon
 589 727 wieder gefunden wurden (Treffer genannt), das sind knapp 0,6%
 und so muss man doch einige Scheine eintragen, bis man einen Treffer
 landet. Allerdings gab es schon in diesem noch jungen Jahr eine ganze

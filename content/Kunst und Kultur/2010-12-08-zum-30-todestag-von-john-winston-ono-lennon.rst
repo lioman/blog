@@ -6,11 +6,11 @@ Zum 30. Todestag von John Winston Ono-Lennon
 :slug: zum-30-todestag-von-john-winston-ono-lennon
 :status: published
 
-.. figure:: http://upload.wikimedia.org/wikipedia/commons/e/e2/Lie_In_15_--_John_rehearses_Give_Peace_A_Chance.jpg
+.. figure:: {static}/images/lie_in_15_-_john_rehearses_give_peace_a_chance.jpg
    :alt: John rehearses Give Peace A Chance
    :align: center
    :width: 512px
-   :target: http://commons.wikimedia.org/wiki/File:Lie_In_15_--_John_rehearses_Give_Peace_A_Chance.jpg
+   :target: {static}/images/lie_in_15_-_john_rehearses_give_peace_a_chance.jpg
 
    Lie In 15 -- John rehearses Give Peace A Chance `CC BY 2.5`_, by Roy Kerwood, from Wikimedia Commons
 

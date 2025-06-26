@@ -7,10 +7,10 @@ Add Flattr to Posterous
 :slug: add-flattr-to-posterous
 :status: published
 
-|image0|\ There are many Plugins an HowTos to include Flattr to
+|image0| There are many Plugins an HowTos to include Flattr to
 different webservices and platforms.
 
-Here is the HowTo for `Posterous.com: <http://posterous.com/>`__
+Here is the HowTo for Posterous.com: `<http://posterous.com/>`__
 
 To enlarge pictures click on it!
 
@@ -44,13 +44,12 @@ To enlarge pictures click on it!
    <iframe src= "http://api.flattr.com/button/view/?uid=lioman&amp;url={Permalink}&amp;title={Title}&amp;button=compact&amp;description=Posterous post&amp;language=de_DE&amp;tags={block:TagList}{block:TagListing}{TagName},{/block:TagListing}{/block:TagList}" frameborder="0" scrolling="no" width="55px" height="62px"></iframe>
 
    | **Change the *"uid"* to your Flattr-ID (or I get the reward :-) )**
-   | Change category  to your preferred type: text, images, video,
+   | Change category to your preferred type: text, images, video,
      audio, software, rest
 
--  Preview your theme and if everything looks nice -  save it !
+-  Preview your theme and if everything looks nice - save it !
    |image6|
 
- 
 
 Everything is done and your readers can flattr your Posterousblog
 
@@ -70,12 +69,12 @@ Everything is done and your readers can flattr your Posterousblog
 | |Share_on_Posterous|
 
 .. |image0| image:: {static}/images/posterous2flattr.jpg
-   :class: size-full wp-image-3214 alignright
+   :class: size-full alignright
    :width: 200px
    :height: 99px
    :target: {static}/images/posterous2flattr.jpg
 .. |image1| image:: {static}/images/posterousnewsettings-300x158.jpg
-   :class: aligncenter size-medium wp-image-3802
+   :class: aligncenter size-medium
    :width: 300px
    :height: 158px
    :target: {static}/images/posterousnewsettings.jpg

@@ -77,12 +77,12 @@ Befreie deinen Router
   plötzlich wirklich zu einem guten Router im Heimnetzwerk.
 
 .. |image0| image:: {static}/images/handschellen.png
-   :class: alignright size-full wp-image-4560
+   :class: alignright size-full
    :width: 300px
    :height: 221px
    :target: {static}/images/handschellen.png
 .. |image1| image:: {static}/images/dd-wrt_logo.png
-   :class: alignleft size-full wp-image-4561
+   :class: alignleft size-full
    :width: 208px
    :height: 40px
    :target: {static}/images/dd-wrt_logo.png

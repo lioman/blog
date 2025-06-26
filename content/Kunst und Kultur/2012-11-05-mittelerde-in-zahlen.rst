@@ -26,7 +26,6 @@ Fili). Neben Alter, Population und zurückgelegte Distanz zeigt das
 Projekt auch die mittlere Lebenserwartung. Alles in Allem eine nette
 Spielerei.
 
- 
 
 `via <http://www.informationisbeautiful.net/2012/lord-of-the-rings-demographics-visualized/>`__
 

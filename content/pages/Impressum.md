@@ -16,7 +16,7 @@ Sinnerstraße 13
 ## Kontakt
 
 E-Mail: [blog {at} lioman.de](mailto:blog@lioman.de)  
-GPG-Schlüssel: [8371B35E]({static}/images/8371b35e.asc)  
+GPG-Schlüssel: [8371B35E]({attach}/downloads/8371b35e.asc)  
 Telefon: 015156933605
 
 ## Redaktionell verantwortlich
@@ -34,7 +34,7 @@ Sinnerstraße 13
 Die folgenden Hinweise geben einen einfachen Überblick darüber,
 was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen.
 Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
-Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter 
+Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter
 diesem Text aufgeführten Datenschutzerklärung.
 
 #### Datenerfassung auf dieser Website
@@ -326,7 +326,7 @@ dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Da
 sowie deren Nutzung durch Twitter erhalten.
 Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter:
 <a href="https://twitter.com/de/privacy" target="_blank" rel="noopener noreferrer">
-    https://twitter.com/de/privacy
+https://twitter.com/de/privacy
 </a> ändern.
 
 Soweit eine Einwilligung (Consent) eingeholt wurde, erfolgt der Einsatz des o.&nbsp;g.

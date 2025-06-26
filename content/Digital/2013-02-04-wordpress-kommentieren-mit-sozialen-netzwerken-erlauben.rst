@@ -81,10 +81,9 @@ kommt es zu anderen Problemen hilft der Diagnosemodus des Plugins unter
 
 Leider bietet die Bibliothek im Hintergrund noch keine Unterstützung für
 das, von Mozilla entwickelte, `Persona <https://login.persona.org/>`__
-(ehemals *BrowserID*) an. Über ein extra
-`Plugin <http://wordpress.org/extend/plugins/browserid/>`__ kann man
+(ehemals *BrowserID*) an. 
+Über ein extra `Plugin <http://wordpress.org/extend/plugins/browserid/>`__ kann man
 aber auch Persona aktivieren. Der Nachteil: Die Icons von WSL befinden
-sich oberhalb des Kommentarfeldes Persona jedoch unterhalb. Möchte man
-dies verbessern sind Änderungen am Theme notwendig und ich hoffe einfach
+sich oberhalb des Kommentarfeldes Persona jedoch unterhalb.
+Möchte man dies verbessern sind Änderungen am Theme notwendig und ich hoffe einfach
 darauf, dass Persona bald in Hybridauth eingebaut wird.
-

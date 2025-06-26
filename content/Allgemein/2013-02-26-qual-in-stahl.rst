@@ -32,7 +32,7 @@ liebe Fahrradfahrer:
 
 
 .. |Fahrrad| image:: {static}/images/fahrrad.jpg
-   :class: alignright size-full wp-image-5357
+   :class: alignright size-full 
    :width: 250px
    :height: 364px
    :target: {static}/images/fahrrad.jpg

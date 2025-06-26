@@ -9,8 +9,9 @@
 
 .. figure:: {static}/images/spam_es_wird_sich_lohnen-1024x98.png
    :alt: Spamnachricht
-   :width: 620px
-   :height: 59px
+   :width: 1024px
+   :height: 98px
+   :target: {static}/images/spam_es_wird_sich_lohnen.png
 
    Es wird sich lohnen... Für wen?
 

@@ -7,8 +7,8 @@ Freiburger Ansichten
 :slug: freiburger-ansichten
 :status: published
 
-Freiburg ist immer Schön - auch (oder gerade) im Winter. Und so habe ich
-ein paar Fotos geschossen, die ich auch hier posten möchte:
+Freiburg ist immer Schön - auch (oder gerade) im Winter.
+Und so habe ich ein paar Fotos geschossen, die ich auch hier posten möchte:
 
 Bei diesem `Post </winterbutte>`__ habe ich ja schon vom winterlichen
 Bäckergang ein Bild gezeigt und es war einfach ein wunderbares
@@ -27,16 +27,16 @@ ganz anderen Licht:
 
 |image2|
 
-.. |image0| image:: http://farm6.static.flickr.com/5088/5214362230_48b4438a6e_b.jpg
+.. |image0| image:: {static}/images/Freiburg_Schlossberg_Winter.jpg
    :class: aligncenter
    :width: 1024px
    :height: 340px
-   :target: http://farm6.static.flickr.com/5088/5214362230_48b4438a6e_b.jpg
-.. |image1| image:: http://farm5.static.flickr.com/4112/5213761637_e9f4ecf500_z.jpg
+   :target: {static}/images/Freiburg_Schlossberg_Winter.jpg
+.. |image1| image:: {static}/images/Freiburg_Muensteruhr.jpg
    :class: aligncenter
    :width: 640px
    :height: 461px
-   :target: http://farm5.static.flickr.com/4112/5213761637_e9f4ecf500_b.jpg
+   :target: {static}/images/Freiburg_Muensteruhr.jpg
 .. |image2| image:: {static}/images/Muensterschiff_Winter.jpg
    :class: aligncenter size-full wp-image-2446
    :width: 900px

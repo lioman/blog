@@ -7,8 +7,8 @@ Verschiedene Geschlechter spielen bei der Frauen-Fußball-WM
 :slug: verschiedene-geschlechter-spielen-bei-der-frauen-fussball-wm
 :status: published
 
-| Wie soll man diesen Ticker auf SpiegelOnline interpretieren?
-| |image0|
+Wie soll man diesen Ticker auf SpiegelOnline interpretieren?
+|image0|
 
 Heißt das bei Deutschland und Frankreich spielen nicht nur Frauen oder
 viel schlimmer muss man das bei den Kanadierinnen und Nigerianerinnen
@@ -17,7 +17,6 @@ die Spielerinnen für die Mitglieder einer Herrenmannschaft hält?
 
 Oder ist es einfach so, dass jemand schlicht nicht nachgedacht hat? Ich
 tippe einfach mal auf letzteres...
- 
 
 `via <https://iniwmblog.wordpress.com/2011/06/30/deutschland-nigeria/>`__
 
