@@ -57,6 +57,6 @@ ich mich dazu entschlossen dieses Thema noch einmal zu vertiefen. Es
 gibt also bald Neues.*
 
 .. |Buch auf Reisen| image:: {static}/images/runningbook33.gif
-   :class: size-full wp-image-439 aligncenter
+   :class: size-full aligncenter
    :width: 33px
    :height: 33px

@@ -63,12 +63,12 @@ Und Falls die Nachricht mal gelöscht wird ein Screenshot:
    </div>
 
 .. |Schwarze Pflaume| image:: {static}/images/schwarze-pflaume-300x235.jpg
-   :class: size-medium wp-image-263
+   :class: size-medium
    :width: 213px
    :height: 167px
    :target: {static}/images/schwarze-pflaume.jpg
 .. |GMX Nachricht zu Nacktscanner| image:: {static}/images/gmx_regierung_lehnt_nacktscanner_ab-150x150.png
-   :class: size-thumbnail wp-image-264
+   :class: size-thumbnail
    :width: 116px
    :height: 125px
    :target: {static}/images/gmx_regierung_lehnt_nacktscanner_ab.png

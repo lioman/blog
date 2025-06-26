@@ -52,7 +52,7 @@ nicht mehr harmlos nennen.*
 **Update**: Artikel leicht modifiziert
 
 .. |image0| image:: {static}/images/piwik1.jpg
-   :class: alignright size-full wp-image-1921
+   :class: alignright size-full
    :width: 182px
    :height: 80px
    :target: {static}/images/piwik1.jpg

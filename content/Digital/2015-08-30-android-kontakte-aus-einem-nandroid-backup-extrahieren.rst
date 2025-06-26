@@ -10,7 +10,7 @@ Android: Kontakte aus einem Nandroid-Backup extrahieren
 
 .. figure:: {static}/images/Android_robot-252x300.png
    :alt: Android-Logo
-   :class: size-medium wp-image-5563
+   :class: size-medium
    :width: 252px
    :height: 300px
    :target: {static}/images/Android_robot.png

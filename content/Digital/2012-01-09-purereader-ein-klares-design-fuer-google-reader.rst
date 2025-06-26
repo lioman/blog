@@ -70,7 +70,7 @@ Licensed under a `Creative Commons Attribution-Noncommercial-Share Alike
 3.0 License <https://creativecommons.org/licenses/by-nc-sa/3.0/>`__\ .
 
 .. |image0| image:: {static}/images/PureReader-300x133.png
-   :class: aligncenter size-medium wp-image-2523
+   :class: aligncenter size-medium
    :width: 300px
    :height: 133px
    :target: {attach}/images/PureReader.png

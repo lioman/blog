@@ -25,9 +25,9 @@ Hier noch ein paar Bilder
 
 
 .. |messingeule1| image:: {static}/images/messingeule0001-150x150.jpg
-   :class: alignleft size-full wp-image-3275
+   :class: alignleft size-full
    :target: {static}/images/messingeule0001.jpg
 
 .. |messingeule2| image:: {static}/images/messingeule0002-150x150.jpg
-   :class: alignleft size-full wp-image-3275
+   :class: alignleft size-full
    :target: {static}/images/messingeule0002.jpg

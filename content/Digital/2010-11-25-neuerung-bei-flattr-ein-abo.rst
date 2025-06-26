@@ -26,7 +26,7 @@ Möchte man das Abo kündigen kann man das im Dashbord jederzeit tun
    :height: 70px
    :target: {static}/images/Subscribe.png
 .. |image1| image:: {static}/images/Subscribe2-300x139.png
-   :class: alignright size-medium wp-image-2416
+   :class: alignright size-medium
    :width: 300px
    :height: 139px
    :target: {static}/images/Subscribe2.png

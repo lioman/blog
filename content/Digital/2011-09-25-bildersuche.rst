@@ -34,7 +34,7 @@ man an folgendem Screenshot sehen kann:
    :height: 72px
    :target: {static}/images/google_images_upload.png
 .. |image1| image:: {static}/images/googleimagesearch.jpg
-   :class: alignright size-full wp-image-3693
+   :class: alignright size-full
    :width: 900px
    :height: 750px
    :target: {static}/images/googleimagesearch.jpg

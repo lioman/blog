@@ -18,7 +18,7 @@ Hormonen liegen:
 |image0|
 
 .. |image0| image:: {static}/images/google_lml_ist.png
-   :class: aligncenter size-full wp-image-3192
+   :class: aligncenter size-full
    :width: 736px
    :height: 324px
    :target: {static}/images/google_lml_ist.png

@@ -17,7 +17,7 @@ darüber
 `stolpert. <https://netzpolitik.org/2011/doppelmoral-siegfried-kauder-und-das-urheberrecht/>`__
 
 .. |image0| image:: {static}/images/kaudern.jpg
-   :class: size-full alignright
+   :class: size-full
    :width: 494px
    :height: 173px
    :target: https://twitter.com/#!/jensscholz/status/119693181217542144

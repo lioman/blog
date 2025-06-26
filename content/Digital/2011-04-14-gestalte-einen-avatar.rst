@@ -27,12 +27,12 @@ zurückhalten:
 |image1|
 
 .. |image0| image:: {static}/images/simpson_avatar.jpg
-   :class: aligncenter size-full wp-image-3124
+   :class: aligncenter size-full
    :width: 612px
    :height: 692px
    :target: {static}/images/simpson_avatar.jpg
 .. |image1| image:: {static}/images/mangatar.jpg
-   :class: aligncenter size-full wp-image-3125
+   :class: aligncenter size-full
    :width: 185px
    :height: 185px
    :target: {static}/images/mangatar.jpg

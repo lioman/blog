@@ -16,7 +16,7 @@ Dieses Foto habe ich diesen Sommer gemacht, es zeigt den Kelch einer
 unten.
 
 .. |image0| image:: {static}/images/akelei.jpg
-   :class: aligncenter size-full wp-image-2671
+   :class: aligncenter size-full
    :width: 950px
    :height: 713px
    :target: {static}/images/akelei.jpg

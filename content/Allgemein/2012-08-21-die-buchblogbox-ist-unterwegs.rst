@@ -37,7 +37,7 @@ besucht... <{filename}./2012-02-02-die-buecherbox-besucht.rst>`__"
 nachlesen.
 
 .. |image0| image:: {static}/images/book_box.png
-   :class: alignright size-full wp-image-4343
+   :class: alignright size-full
    :width: 200px
    :height: 200px
    :target: {static}/images/book_box.png

@@ -53,7 +53,7 @@ Firmwares tut und was das für Folgen haben kann, sollte es lieber
 lassen. Ich übernehme keine Garantien für eventuell zerstörte Geräte.
 
 .. |dd-wrt_logo| image:: {static}/images/dd-wrt_logo.png
-   :class: alignright size-full wp-image-4561
+   :class: alignright size-full
    :width: 208px
    :height: 40px
    :target: {static}/images/dd-wrt_logo.png

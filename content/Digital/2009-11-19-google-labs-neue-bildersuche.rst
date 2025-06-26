@@ -29,9 +29,9 @@ einfach selber anschauen: Image-Swirl: Freiburg
    :class: aligncenter size-thumbnail wp-image-1122
    :width: 150px
    :height: 150px
-   :target: {static}/images/image-swirl1.png
+   :target: {static}/images/image-swi
 .. |image-swirl| image:: {static}/images/image-swirl-150x150.png
    :class: aligncenter size-thumbnail wp-image-1123
    :width: 150px
    :height: 150px
-   :target: {static}/images/image-swirl.png
+   :target: {static}/images/image-swi

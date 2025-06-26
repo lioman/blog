@@ -17,7 +17,7 @@ hier fand ich aber Kurios genug:
 
 .. figure:: {static}/images/Garantie_vorne-199x300.png
    :alt: alte Garantiekarte vorne
-   :class: size-thumbnail wp-image-1435
+   :class: size-thumbnail
    :target: {static}/images/Garantie_vorne.png
 
    Vorne

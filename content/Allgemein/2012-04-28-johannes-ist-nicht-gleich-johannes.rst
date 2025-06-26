@@ -20,5 +20,5 @@ Johannes ist nicht gleich Johannes
   geschrieben haben soll.
 
 .. |image0| image:: {static}/images/28042012021.jpg
-   :class: right size-full wp-image-6
+   :class: right size-full
    :target: {static}/images/28042012021.jpg

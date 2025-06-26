@@ -58,7 +58,7 @@ Update: Links geändert. Es wird immer die aktuellste angezeigt
    :width: 521px
    :height: 414px
 
-.. |image1| image:: {static}/images/LastScrape_Bildschirm2.png
+.. |image1| image:: {static}/ima_Bildschirm2.png
    :class: aligncenter size-full
    :width: 500px
    :height: 400px

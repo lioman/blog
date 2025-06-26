@@ -61,7 +61,7 @@ Kommentar/einen Pingback ab oder schickt mir eine Mail.
 +--------------------------+--------------------------+--------------------------+
 
 .. |image0| image:: {static}/images/book_box-150x150.png
-   :class: aligncenter size-thumbnail wp-image-4343
+   :class: aligncenter size-thumbnail
    :width: 40px
    :height: 40px
    :target: {static}/images/book_box.png

@@ -38,7 +38,7 @@ ganz anderen Licht:
    :height: 461px
    :target: {static}/images/Freiburg_Muensteruhr.jpg
 .. |image2| image:: {static}/images/Muensterschiff_Winter.jpg
-   :class: aligncenter size-full wp-image-2446
+   :class: aligncenter size-full
    :width: 900px
    :height: 625px
    :target: {static}/images/Muensterschiff_Winter.jpg

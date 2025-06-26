@@ -26,7 +26,7 @@ Ich habe auch ein paar Bilder gemacht und hochgeladen und will sie auch an diese
    :class: size-full wp-image-3634 alignright
    :width: 137px
    :height: 161px
-.. |image1| image:: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stadtarchiv_Ueberlingen.jpg/450px-Stadtarchiv_Ueberlingen.jpg
+.. |image1| image:: .wikimedia.org/wikipedia/commons/thumb/9/9a/Stadtarchiv_Ueberlingen.jpg/450px-Stadtarchiv_Ueberlingen.jpg
    :class: alignleft
    :width: 270px
    :height: 360px

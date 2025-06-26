@@ -26,7 +26,7 @@ Bitteschön:
 Hier die `SVG-Datei <{static}/images/unitytricks.svg>`__
 
 .. |image0| image:: {static}/images/unitytricks_de-300x187.png
-   :class: size-medium wp-image-3158 aligncenter
+   :class: size-medium aligncenter
    :width: 300px
    :height: 187px
    :target: {static}/images/unitytricks_de.png

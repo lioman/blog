@@ -152,7 +152,7 @@ eine perfekte Software. Aber schon jetzt ist OpenProject für kleinere
 und mittlere Unternehmungen geeignet.
 
 .. |Logo OpenProject| image:: {static}/images/logo_openproject_foundation.png
-   :class: alignright size-full wp-image-5518
+   :class: alignright size-full
    :width: 314px
    :height: 96px
    :target: https://www.openproject.org

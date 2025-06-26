@@ -8,7 +8,7 @@ Mittelerde in Zahlen
 
 .. figure:: {static}/images/lotr_geschlechterverteilung.png
    :alt: Verteilung nach Geschlecht
-   :class: size-full wp-image-5174
+   :class: size-full
    :width: 293px
    :height: 293px
    :target: {static}/images/lotr_geschlechterverteilung.png

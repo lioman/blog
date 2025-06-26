@@ -19,7 +19,7 @@ Wen es interessiert: das ist eine
 `Zinie <https://secure.wikimedia.org/wikipedia/de/wiki/Zinnie>`__
 
 .. |ZinniaViolacea| image:: {static}/images/zinie.jpg
-   :class: aligncenter size-full wp-image-2650
+   :class: aligncenter size-full
    :width: 900px
    :height: 675px
    :target: {static}/images/zinie.jpg

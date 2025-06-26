@@ -43,7 +43,7 @@ denen zugute kommt, die es benötigen. Damit würde unsere Gesellschaft
 ein Stück Familienfreundlicher.
 
 .. |image0| image:: {static}/images/7prozentaufblumen.jpg
-   :class: alignright size-full wp-image-3960
+   :class: alignright size-full
    :width: 400px
    :height: 283px
    :target: {static}/images/7prozentaufblumen.jpg

@@ -13,7 +13,7 @@ via `One Cool Thing A
 Day <http://www.onecoolthingaday.com/today/2012/6/21/the-boxes-are-the-same-color-dont-believe-me.html>`__
 
 .. |image0| image:: {static}/images/optische_tauschung.jpg
-   :class: aligncenter size-full wp-image-4797
+   :class: aligncenter size-full
    :width: 600px
    :height: 450px
    :target: {static}/images/optische_tauschung.jpg

@@ -29,7 +29,7 @@ Benötigt wird nur ein Googleaccount.
 Bei Interesse einfach einen Kommentar mit der Gmail-Adresse abgeben.
 
 .. |image0| image:: {static}/images/gpluslogo.png
-   :class: alignleft size-full wp-image-3408
+   :class: alignleft size-full
    :width: 119px
    :height: 37px
    :target: {static}/images/gpluslogo.png

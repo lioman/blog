@@ -40,6 +40,6 @@ Wer genauere Angaben möchte kann ja in der Wikipedia oder  einem alten
 Deutschheft nachschauen bzw. einfach das Buch lesen.
 
 .. |image0| image:: {static}/images/52buecher.jpg
-   :class: alignright size-full wp-image-3989
+   :class: alignright size-full
    :width: 138px
    :height: 150px

@@ -60,7 +60,7 @@ deinstallieren, um Probleme zu vermeiden. Dann kann man gleich sein
 neues System genießen und die Shoping Lense deaktivieren.
 
 .. |image0| image:: {static}/images/ubuntulogo.png
-   :class: alignright size-full wp-image-3180
+   :class: alignright size-full
    :width: 190px
    :height: 194px
    :target: {static}/images/ubuntulogo.png

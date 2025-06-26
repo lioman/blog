@@ -17,7 +17,7 @@ Na das war ja eine wortreiche Vorstellung - Willkommen auf meinem Blog!
 Gehörst wohl nicht zu den gesprächigsten Gesellen.
 
 .. |image0| image:: {static}/images/Dicker_Mausekaefer_klein.png
-   :class: aligncenter size-full wp-image-2585
+   :class: aligncenter size-full
    :width: 683px
    :height: 384px
    :target: {static}/images/Dicker_Mausekaefer_klein.png

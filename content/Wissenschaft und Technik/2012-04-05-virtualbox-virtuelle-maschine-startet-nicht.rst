@@ -33,7 +33,7 @@ Den entscheidendeen Tipp hatte
 auf Ubuntuforums
 
 .. |image0| image:: {static}/images/virtualbox2.png
-   :class: wp-image-4448 alignleft
+   :class: alignleft
    :width: 63px
    :height: 75px
    :target: {static}/images/virtualbox2.png

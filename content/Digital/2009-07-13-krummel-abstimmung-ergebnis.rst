@@ -35,5 +35,5 @@ unterhaltend sein, wenn man die Richtigen stellt und sie zeitlich nicht
 zu stark einschränkt.
 
 .. |Abstimmung_Kruemmel| image:: {static}/images/Abstimmung_Kruemmel-150x150.png
-   :class: aligncenter size-thumbnail wp-image-911
+   :class: aligncenter size-thumbnail
    :target: {static}/images/Abstimmung_Kruemmel.png

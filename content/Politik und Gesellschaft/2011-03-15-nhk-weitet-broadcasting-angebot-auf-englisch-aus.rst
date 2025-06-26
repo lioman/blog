@@ -23,7 +23,7 @@ NHK weitet Broadcasting-Angebot auf Englisch aus
     Live video by Ustream"
 
 .. |image0| image:: {static}/images/469px-satellite_view_of_japan_1999-234x300.jpg
-   :class: alignleft size-medium wp-image-2981
+   :class: alignleft size-medium
    :width: 234px
    :height: 300px
    :target: {static}/images/469px-satellite_view_of_japan_1999.jpg

@@ -23,7 +23,7 @@ G+ in Wordpress importieren kann und Diskussionen so besser in Gang
 kommen.
 
 .. |image0| image:: {static}/images/gpluslogo.png
-   :class: alignright size-full wp-image-3408
+   :class: alignright size-full
    :width: 119px
    :height: 37px
    :target: {static}/images/gpluslogo.png

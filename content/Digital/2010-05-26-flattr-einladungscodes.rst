@@ -17,7 +17,7 @@ Die Ersten, die hier einen Kommentar hinterlassen bekommen einen und
 können dabei sein und den neuen Micropayment-Dienst testen.
 
 .. |Flattr Logo| image:: {static}/images/flattr-logo-beta.png
-   :class: alignright size-full wp-image-1551
+   :class: alignright size-full
    :width: 218px
    :height: 43px
    :target: {static}/images/flattr-logo-beta.png

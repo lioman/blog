@@ -84,7 +84,7 @@ Kernkraftwerken nicht mehr lohnt muss man einfach nur den
 wechseln.
 
 .. |image0| image:: {static}/images/Atomausstieg_banner_180.jpg
-   :class: size-full wp-image-1448 alignright
+   :class: size-full alignright
    :width: 180px
    :height: 180px
    :target: {static}/images/Atomausstieg_banner_180.jpg

@@ -21,7 +21,7 @@ via
 `Backhaus <http://www.sebastianbackhaus.de/2011/09/09/interaktive-weltkarte-zeigt-lander-mit-produkten-aus-sklavenarbeit/?utm_source=rss&utm_medium=rss&utm_campaign=interaktive-weltkarte-zeigt-lander-mit-produkten-aus-sklavenarbeit>`__
 
 .. |image0| image:: {static}/images/pruductsofslavery.png
-   :class: alignright size-full wp-image-3620
+   :class: alignright size-full
    :width: 600px
    :height: 327px
    :target: http://www.lioman.de/2011/09/interaktive-karte-produkte-aus-sklavenarbeit/pruductsofslavery/

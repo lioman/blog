@@ -33,7 +33,7 @@ Lustig ist übrigens, dass man als Geschlecht Alles eintragen kann - es
 gibt ein Freitextfeld!
 
 .. |image0| image:: {static}/images/diaspora_dandy_logo-300x162.png
-   :class: size-medium alignleft
+   :class: size-medium
    :width: 300px
    :height: 162px
    :target: {static}/images/diaspora_dandy_logo.png
