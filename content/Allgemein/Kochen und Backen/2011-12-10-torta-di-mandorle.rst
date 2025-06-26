@@ -72,7 +72,7 @@ Benutzt man zu wenig Papier oder ist die Alufolie, wie
 bei mir hier nicht ganz dicht - geht die Torta in der Mitte stärker hoch
 und bricht auf.
 
- 
+
 .. |teig| image::  {static}/images/torta_di_mandorle_teig.jpg
 
 .. |aus_ofen| image::  {static}/images/torta_di_mandorle_frisch_aus_dem_ofen.jpg

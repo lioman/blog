@@ -27,7 +27,7 @@ Das ist alles astrologischer Mumpiz, Quatsch- Bullshit - sinnloses
 Gebrabbel. Für einen Menschen nur ertragbar, wenn man das Laute schreien
 der Vernunft einfach ignoriert oder sie einfach niederschreit.
 
-*Alles gar nicht so schlimm,  reg dich ab. Die sind nun mal alle im
+*Alles gar nicht so schlimm, reg dich ab. Die sind nun mal alle im
 Dezember geboren und das sollte damit ausgedrückt werden.*
 
 Dann **schreibt** es auch! Denn was da steht ist schlicht falsch. Und

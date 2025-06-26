@@ -38,7 +38,7 @@ oder
 starten.
 
 Hier das Skript (Download:
-`Video2xvid\_update.tar.gz <{static}/images/Video2xvid_update.tar.gz>`__):
+`Video2xvid\_update.tar.gz <{attach}/downloads/Video2xvid_update.tar.gz>`__):
 
 ::
 

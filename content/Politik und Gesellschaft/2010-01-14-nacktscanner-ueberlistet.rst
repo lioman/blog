@@ -7,8 +7,8 @@ Nacktscanner überlistet
 :slug: nacktscanner-ueberlistet
 :status: published
 
-***Physiker Werner Gruber überlistet in der Sendung von Lanz einen
-passiven Körperscanner.***
+*Physiker Werner Gruber überlistet in der Sendung von Lanz einen
+passiven Körperscanner.*
 
 Die zur Zeit vieldiskutierten Körperscanner, die für mehr Sicherheit in
 Flugzeugen sorgen sollen kann man überlisten. Für gefühlte Sicherheit
@@ -28,25 +28,15 @@ an sieht man auch, dass 1. die Zutaten leicht in Drogerie/Apotheke +
 Baumakt zu besorgen sind und 2. dass man nicht löschen kann, da kein
 Sauerstoff benötigt wird.
 
-.. raw:: html
-
-   <dl>
-   <dd>
-
 |reaktionsgleichung|
-
-.. raw:: html
-
-   </dd>
-   </dl>
 
 Kommt man auf die blöde Idee es dennoch mit Wasser zu versuchen: Bumm -
 das ganze geht in die Luft.
 
 Wir sollten also eher in Terrorismusvorbeugung und Personal investieren,
-als in  (aus vielerlei Hinsicht)  zweifelhafte Technik
+als in (aus vielerlei Hinsicht) zweifelhafte Technik.
 
-.. |reaktionsgleichung| image:: http://upload.wikimedia.org/math/a/e/0/ae0c33d693671c726c19aff3ab8c362d.png
+.. |reaktionsgleichung| image:: {static}/images/ae0c33d693671c726c19aff3ab8c362d.png
    :class: aligncenter
    :width: 267px
    :height: 20px

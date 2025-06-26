@@ -23,7 +23,7 @@ als Onlineredaktion der Bundesregierung nicht Zugriff auf fähige Leute
 die sich eine kreativere Lösung einfallen lassen könnten.
 
 .. |image0| image:: {static}/images/regierungonline.jpg
-   :class: aligncenter size-full wp-image-3957
+   :class: aligncenter size-full
    :width: 500px
    :height: 342px
    :target: {static}/images/regierungonline.jpg

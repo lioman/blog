@@ -23,7 +23,7 @@ Möchte man Links direkt aus dem Reader an das eigene Blog übertragen
 muss man in den "*Reader-Einstellungen*" unter "*Senden an*" einen
 "*Benutzerdefinierten Link erstellen*"
 
-*|image0|*
+|image0|
 
 In das Formular trägt man einen
 
@@ -38,7 +38,7 @@ an Wordpress weiterschicken. Dabei öffnet sich ein neues Browserfenster
 indem man noch fehlende Daten eintragen kann, wenn man möchte.
 
 .. |image0| image:: {static}/images/greader_benutzerdefinierter-link.png
-   :class: wp-image-4068 aligncenter
+   :class: aligncenter
    :width: 480px
    :height: 289px
    :target: {static}/images/greader_benutzerdefinierter-link.png

@@ -7,11 +7,11 @@ Tauchauto
 :slug: tauchauto
 :status: published
 
-|image0|\ Was es alles in Freiburg gibt. Nicht nur tauchende Audis nein
-auch ein Fiat geht Unterwasser!
+|image0| Was es alles in Freiburg gibt.
+Nicht nur tauchende Audis nein auch ein Fiat geht Unterwasser!
 
-Und das wird bei ebay Kleinanzeigen auch noch angekündigt. Kann man dann
-zur Tauchparty kommen?
+Und das wird bei ebay Kleinanzeigen auch noch angekündigt. 
+Kann man dann zur Tauchparty kommen?
 
 .. |image0| image:: {static}/images/tauche-audi.jpg
    :class: size-full wp-image-3746 alignright

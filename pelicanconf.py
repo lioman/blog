@@ -4,8 +4,6 @@ from __future__ import unicode_literals
 
 from datetime import datetime
 
-# import pelican_precompress
-
 from pelican.plugins import (
     i18n_templates,
     series,
@@ -13,7 +11,24 @@ from pelican.plugins import (
     liquid_tags,
     sitemap,
     precompress,
+    # unused_files,
 )
+
+USED_FILES = {
+    "images/Logo.webp",
+    "static/robots.txt",
+    "static/favicon.ico",
+    "static/keybase.txt",
+    "static/stork.js",
+    "static/stork.wasm",
+    "static/custom.css",
+    "images/waage_glatze.jpg",
+    "images/Artikelbild.png",
+    "images/cropped-lavendel.jpg",
+    "images/nextcloud_news_filter_logo.png",
+    "images/favicon.ico",
+    "images/konstanz-bruecke_sepia_klein.jpg",
+}
 
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
@@ -29,7 +44,7 @@ PATH = "content"
 
 YOUTUBE_THUMB_ONLY = True
 YOUTUBE_THUMB_SIZE = "sd"
-YOUTUBE_INVIDIOUS_INSTANCE = "https://invidious.fdn.fr"
+YOUTUBE_INVIDIOUS_INSTANCE = "https://invidious.adminforge.de"
 LIQUID_TAGS = ["video", "youtube", "vimeo", "include_code"]
 
 STATIC_PATHS = [
@@ -146,6 +161,7 @@ PLUGINS = [
     precompress,
     "search",
     i18n_templates,
+    # unused_files,
     liquid_tags,
 ]
 
@@ -206,4 +222,4 @@ THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 
-STORK_INPUT_OPTIONS = {"stemming": "German", "url_prefix": "http://localhost:8001/"}
+STORK_INPUT_OPTIONS = {"stemming": "German", "url_prefix": "http://localhost:8001"}

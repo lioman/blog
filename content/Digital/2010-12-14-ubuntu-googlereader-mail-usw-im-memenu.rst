@@ -22,7 +22,7 @@ anzeigen lassen. Interessanter ist jedoch die Alternative:
 `Cloudsn <http://chuchiperriman.github.com/cloud-services-notifications>`__
 
 Mit diesem kleinen Programm lassen sich diverse Dienste leicht
-integrieren. \ |image0| GMail, GReader, Pop3, IMAP, Twitter und
+integrieren. |image0| GMail, GReader, Pop3, IMAP, Twitter und
 Identi.ca werden unterstützt und können recht einfach eingerichtet
 werden. Außerdem kann man einstellen, wie oft nach neuen Nachrichten
 gesucht werden soll und ob ein Ton gespielt wird.
@@ -36,7 +36,7 @@ Die Installation:
 
 Für Ubuntu gibt es eine
 `PPA-Quelle <https://launchpad.net/~chuchiperriman/+archive/cloudsn>`__
-des Entwicklers.  Diese muss man hinzufügen und von dort installieren,
+des Entwicklers. Diese muss man hinzufügen und von dort installieren,
 das kann man per
 `Synaptic <https://secure.wikimedia.org/wikipedia/de/wiki/Synaptic>`__
 machen oder man gibt folgende Befehlkette im Terminal ein:
@@ -49,7 +49,7 @@ CloudSN findet man dann unter Anwendungen → Internet und nun kann man
 einfach seine verschiedenen Konten eintragen.
 
 .. |image0| image:: {static}/images/cloudsn_menue.png
-   :class: alignright size-full wp-image-2604
+   :class: alignright size-full
    :width: 338px
    :height: 216px
    :target: {static}/images/cloudsn_menue.png

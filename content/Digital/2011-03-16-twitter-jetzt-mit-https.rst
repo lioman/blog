@@ -15,14 +15,15 @@ Plugins wie `HTTPS Everywhere <https://www.eff.org/https-everywhere>`__
 nutzen.
 
 Nun kann man die verschlüsselte Verbindung auch direkt in den
-Einstellungen erzwingen. Man muss nur ein Häckchen setzen.\ |image0|
+Einstellungen erzwingen. Man muss nur ein Häckchen setzen.
+|image0|
 
 Schade finde ich nur, dass diese Option nicht standardmäßig aktiviert
 ist - das würde auch unwissende vor unverschlüsselten Verbindungen
 schützen.
 
-.. |image0| image:: {static}/images/twitter_https_einstellung-300x53.png
-   :class: alignright size-medium wp-image-2997
-   :width: 300px
-   :height: 53px
+.. |image0| image:: {static}/images/twitter_https_einstellung-400x71.png
+   :class: alignright size-medium
+   :width: 400px
+   :height: 71px
    :target: {static}/images/twitter_https_einstellung.png

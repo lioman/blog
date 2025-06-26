@@ -25,13 +25,13 @@ Murdock <http://ianmurdock.com/linux/linux-family-tree-version-0-90/>`__,
 die einen großen Teil der vielen Distributionen in einem Stammbaum
 zeigt. Da diese unter Creative Commons steht, zeige ich sie auch hier:
 
-.. figure:: http://farm3.static.flickr.com/2444/3950212995_b1c0fb9b9f_m_d.jpg
+.. figure:: {static}/images/3950212995_b1c0fb9b9f_m_d.jpg
    :alt: Stammbaum Linuxdistributionen
    :width: 240px
    :height: 129px
-   :target: http://farm3.static.flickr.com/2444/3950212995_dbcdac9f18_o_d.png
+   :target: https://www.flickr.com/photos/iamurdock/3950212995
 
-   Stammbaum verschiedener Linuxdistributionen
+   Stammbaum verschiedener Linuxdistributionen (Ian Murfock CC-BY-2.0)
 
 Entdeckt via `F!XMBR <http://www.fixmbr.de/der-linux-stammbaum/>`__
 

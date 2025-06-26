@@ -10,9 +10,10 @@ SPAMBlüten - Das schmeckt sicher nicht
 .. figure:: {static}/images/spam-300x157.jpg
    :align: right
    :alt: Spam-Konservendose
-   :class: size-medium wp-image-5482
+   :class: size-medium
    :width: 300px
    :height: 157px
+   :target: {static}/images/spam.jpg
 
    Quelle: Bodo Akdeniz (`cypher <https://de.wikipedia.org/wiki/Benutzer:Cypher789>`__ ) Lizenz:
    `CC-BY-SA <https://creativecommons.org/licenses/by-sa/3.0/deed.de>`__

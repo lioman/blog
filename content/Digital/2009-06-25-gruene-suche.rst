@@ -46,7 +46,7 @@ nichts, wenn auch nun keine Angaben mehr über die geretteten
 Quadratmeter pro Suche gemacht werden.
 
 .. |forestle| image:: {static}/images/forestle.gif
-   :class: alignright size-full wp-image-862
+   :class: alignright size-full
    :width: 370px
    :height: 110px
    :target: http://www.forestle.org

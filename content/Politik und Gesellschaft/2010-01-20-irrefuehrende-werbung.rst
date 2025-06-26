@@ -7,25 +7,32 @@ Irreführende Werbung
 :slug: irrefuehrende-werbung
 :status: published
 
- 
 
-***|Mako Reactor|\ Auf vielen Produkten kleben inzwischen Labels wie:
+.. figure:: {static}/images/3493724384_254eaf532c_m.jpg
+   :class: alignleft
+   :alt: Mako Reactor
+   :width: 240px
+   :height: 135px
+   :target: http://www.flickr.com/photos/9511824@N05/3493724384/
+   
+   Mako Reactor - Dave Fayram - CC BY-SA 2.0
+
+Auf vielen Produkten kleben inzwischen Labels wie:
 Klimafreundlich, Gut zur Umwelt, CO\ :sub:`2`-arm, usw.. Doch haben
 diese wirklich was zu bedeuten? Meist nicht, denn es ist oft nicht mehr
 Wert als jeder andere Werbespruch. Viele Konsumenten lassen sich
 verwirren und greifen trotz irreführender Werbung zu dem Produkt. Nun
-versuchen Verbraucherschützer gegen solche Werbung vorzugehen.***
+versuchen Verbraucherschützer gegen solche Werbung vorzugehen.
 
 Der `Bundesverband der
 Verbraucherzentrale <http://de.wikipedia.org/wiki/Verbraucherzentrale%20Bundesverband>`__
-hat in einer
-`Umfrage <http://www.vzbv.de/pressemeldung/werbung-mit-klimafreundlich-und-klimaneutral-fuehrt-verbraucher-hinters-licht>`__\ herausbekommen,
-dass  die oben genannten Begriffe den Verbraucher verwirren. Demnach
-*"glauben 23,5 Prozent der Befragten, dass ein als "klimaneutral"
+hat in einer `Umfrage <http://www.vzbv.de/pressemeldung/werbung-mit-klimafreundlich-und-klimaneutral-fuehrt-verbraucher-hinters-licht>`__
+herausbekommen, dass die oben genannten Begriffe den Verbraucher verwirren.
+Demnach *"glauben 23,5 Prozent der Befragten, dass ein als "klimaneutral"
 bezeichnetes Produkt das Klima gar nicht belasten, 40,8 Prozent sind
 überzeugt, dass es für das Klima weniger schädlich ist und jeder Zehnte
 ist der Meinung, dass eine "klimafreundliche" Ware das Klima gar nicht
-belastet."  11% der Befragten würden bei "klimafreundlich"  sogar an
+belastet." 11% der Befragten würden bei "klimafreundlich" sogar an
 neue Autos.* Das ist aber schlicht falsch. Neue Autos sind zwar deutlich
 weniger schädlich, als ältere der gleichen Größe aber sie sind
 keinesfalls freundlich.
@@ -57,23 +64,4 @@ Kann man sich vor solcher Irreführung überhaupt schützen? Ja kann man.
    geht, da irreführende Werbung verboten ist (vgl.
    `dazu <http://europa.eu/legislation_summaries/consumers/consumer_information/l32010_de.htm>`__).
 
-***Fhoto von:
-`DaveFayram <http://www.flickr.com/photos/9511824@N05/3493724384/>`__\ ***
-
-.. raw:: html
-
-   <div id="_mcePaste"
-   style="overflow: hidden; position: absolute; left: -10000px; top: 330px; width: 1px; height: 1px;">
-
-.. rubric:: Lexikon von Juraforum.de
-   :name: lexikon-von-juraforum.de
-
-.. raw:: html
-
-   </div>
-
-.. |Mako Reactor| image:: http://farm4.static.flickr.com/3653/3493724384_254eaf532c_m.jpg
-   :class: alignleft
-   :width: 240px
-   :height: 135px
-   :target: http://www.flickr.com/photos/9511824@N05/3493724384/
+**Foto von:** `DaveFayram <http://www.flickr.com/photos/9511824@N05/3493724384/>`__

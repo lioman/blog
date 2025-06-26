@@ -37,9 +37,11 @@ kann.
 
 So und hier noch ein Bild von einem ganzen Stapel Ei-Pads
 
-|image0|
 
-.. |image0| image:: http://static.flickr.com/2530/4214569622_f82d94f314.jpg
+.. figure:: {static}/images/4214569622_f82d94f314.jpg
+   :alt: Ein Stapel Eierkartons
    :width: 500px
    :height: 375px
    :target: http://www.flickr.com/photos/sooperkuh/4214569622/
+   
+   CC-BY-2.0 sooperkuh

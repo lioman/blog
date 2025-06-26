@@ -34,11 +34,10 @@ bzw. hinzugefügt.
 
 In der Vorschau sieht man aber auch womit der Dienst noch seine Probleme
 hat:
-![Feedburner_Twitsample]({static}/images/Feedburner_Twitsample-150x150.png)
+![Feedburner_Twitsample]({static}/images/Feedburner_Twitsample.png)
 
 Kommt ein Umlaut im Tag vor (wie bei bücher) ist laut Vorschau nach dem b Schluss mit dem Hashtag.
 Vielleicht macht Twitter das dann anders - wenn nicht müssen die Entwickler noch
-ein bisschen Nachlegen.
+ein bisschen Nachlegen
 
-gefunden bei
-[googlewatchblog](http://www.googlewatchblog.de/2009/12/14/google-integriert-twitter-in-feedburner/)
+gefunden bei [googlewatchblog](http://www.googlewatchblog.de/2009/12/14/google-integriert-twitter-in-feedburner/)

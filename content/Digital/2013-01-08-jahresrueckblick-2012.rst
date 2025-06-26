@@ -11,7 +11,7 @@ Jahresrückblick 2012 - eigene Statistiken und Nutzersoftware
 Schon letztes Jahr habe ich einen 
 `kleinen Jahresrückblick <https://www.lioman.de/2011/12/jahresrueckblick-2011/>`__
 geschrieben und dieses Jahr kommt der entsprechende Artikel spät, aber
-er kommt. Zuerst ein paar Zahlen, was hier so los war.  2012 wurden hier
+er kommt. Zuerst ein paar Zahlen, was hier so los war. 2012 wurden hier
 **92** posts und  **3** Seiten mit insgesamt 19872 Wörtern (deutlich
 weniger als letztes Jahr) veröffentlicht bzw. aktualisiert.
 
@@ -304,7 +304,7 @@ meisten Besucher eben aus dem deutschsprachigen Raum. Unter *"Andere"*
 verbergen sich übrigens wirklich aller Herren Länder. Soweit so
 uninteressant. Kommen wir zu etwas Anderen.
 
-.. figure:: {static}/images/stats2012_browser-e1357638742260.png
+.. figure:: {static}/images/stats2012_browser.png
    :align: left
    :alt: Browserbesuche
 
@@ -331,7 +331,7 @@ gibt. Gerade Lowcost-Androiden eignen sich perfekt als kleine
 Surfmaschinen, da dafür weder extrem gute Prozessoren/viel
 Arbeitsspeicher usw. benötigt werden.
 
-.. figure:: {static}/images/stats2012_os-e1357640059635.png
+.. figure:: {static}/images/stats2012_os.png
    :align: left
    :alt: Besucher nach OS
 
@@ -340,7 +340,7 @@ Arbeitsspeicher usw. benötigt werden.
 Kommen wir zu den Betriebssystemen. 30 % nutzen hier Linux, also 7%
 weniger als 2011. Das fand ich erst einmal schade, denn das freie OS
 liegt mir doch am Herzen und ich hatte mit dem Beitritt zum Planeten und
-zu OSBN doch eher mehr erwartet. Interessanterweise können  weder MacOS
+zu OSBN doch eher mehr erwartet. Interessanterweise können weder MacOS
 noch Microsofts Systeme erheblich dazu gewinnen. MS gewinnt nur 2% und
 es kamen weniger MacUser als im Jahr davor. Man kann also sagen mehr
 Android und mehr iOS ist weniger Linux und MacOS. Ich vermute jedoch,

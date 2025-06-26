@@ -7,13 +7,13 @@ Stimm ab für den Schwarzwald!
 :slug: stimm-ab-fuer-den-schwarzwald
 :status: published
 
-|image0|\ Auf New7Wonders kann man derzeit über die neuen 7 Weltwunder
+|image0|\ Auf New7Wonders kann man derzeit über die neuen 7 Weltwunder
 der Natur abstimmen. 28 Kandidaten haben es in die Finalrunde geschafft.
 
 Neben den
 `Galapagosinseln <http://de.wikipedia.org/wiki/Gal%C3%A1pagos-Inseln>`__,
 dem `Amazonas <http://de.wikipedia.org/wiki/Amazonas>`__ und dem `Great
-Barrier Reef <http://de.wikipedia.org/wiki/Great_Barrier_Reef>`__ ist
+Barrier Reef <http://de.wikipedia.org/wiki/Great_Barrier_Reef>`__ ist
 auch unser schöner
 `Schwarzwald <http://de.wikipedia.org/wiki/Schwarzwald>`__ in die
 Endrunde gekommen.
@@ -23,15 +23,17 @@ Flora und Fauna.
 
 Möchte man diese bestaunen ohne die Wanderstiefel schnüren zu müssen
 empfehle ich die Dokumentation `Wildes Deutschland - der
-Schwarzwald <http://www.youtube.com/v/mLBPuv-rsPU>`__ welche vor einiger
+Schwarzwald <http://www.youtube.com/v/mLBPuv-rsPU>`__ welche vor einiger
 Zeit auf arte und in der ARD lief.
 
-Die Auszeichnung **Naturwunder** wäre nur gerechtfertigt und deswegen
+Die Auszeichnung **Naturwunder** wäre nur gerechtfertigt und deswegen
 möchte ich alle bitten doch für diese schöne Region abzustimmen.
 
-| Und zu guter Letzt noch ein paar Bilder, die ich selber auf diversen
-  Ausflügen geschossen habe:
-| 
+Und zu guter Letzt noch ein paar Bilder, die ich selber auf diversen Ausflügen geschossen habe:
+
+*Hier befand sich eine picasa-Bildergallerie. Picasa gibt es nicht mehr und Flash ist auch schon längst Geschichte,
+Eventuell werde ich die Bilder noch einbinden.*
+
 
 .. |image0| image:: {static}/images/image_5119925643.jpg
    :class: alignright

@@ -8,7 +8,7 @@ Simfy-Player unter Ubuntu-64bit installieren
 
 |image0|\ Ich habe den Musikstreamingdienst
 `Simfy <http://www.simfy.de>`__ schätzen gelernt. Aus verschiedenen
-Gründen  hat er für mich `Last.fm <http://last.fm>`__ abgelöst. Der
+Gründen hat er für mich `Last.fm <http://last.fm>`__ abgelöst. Der
 Desktopclient basiert auf
 `AdobeAir <http://www.adobe.com/de/products/air/>`__ und es gibt auch
 ein \*.deb Paket, um den Player unter Linux zu installieren. Nachdem ich
@@ -36,8 +36,8 @@ installieren.
 Leider wird kein Starter angelegt, aber auch das geht recht Problemlos.
 
 Einfach die Datei
-`simfy.desktop <images/simfy.desktop>`__
-runterladen und in den Ordner  */usr/share/applications* kopieren
+`simfy.desktop <{attach}/downloads/simfy.desktop>`__
+runterladen und in den Ordner */usr/share/applications* kopieren
 (Root-Rechte nötig).
 
 Nun wird Simfy von Unity gefunden und kann wie gewohnt per Dash
@@ -47,7 +47,7 @@ Einen anderen Ansatz zur Installation kann man
 `frantzen <http://www.frantzen.info/index.php?url=archives/10-simfy-Player-unter-Ubuntu-10.10-64bit-Installieren.html>`__
 lesen.
 
-**Update:** Kommt es zu Problemen mit Abhängigkeiten unter Ubuntu 11.10
+**Update:** Kommt es zu Problemen mit Abhängigkeiten unter Ubuntu 11.10
 sind weitere (andere) Schritte nötig. `Siehe
 hier. <http://www.lioman.de/2011/10/simfy-64bit-unter-ubuntu-11-10-installieren/>`__
 

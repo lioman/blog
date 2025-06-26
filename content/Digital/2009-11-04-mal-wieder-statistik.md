@@ -14,15 +14,15 @@ Zeit habe ich hier Statistik-Plugins getestet und mein Sieger war
 Besonders gelungen fand ich die Boterkennung und ich habe sie auch noch
 um einige erweitert (Blogverzeichnisse und Suchmaschinen).
 
-Wer möchte kann sich diese optimierte Version runterladen:
-~~[cystats_extended.tar.gz]()~~.
+Wer möchte kann sich diese optimierte Version herunterladen:
+[cystats_extended.tar.gz]({attach}/downloads/cystats_extended.tar.gz).
 
 Doch wie alle anderen Statistik-Plugins geht der Betrieb eines solchen zu
 Lasten der Performance und der Datenbank. Zur Zeit möchte ich aber genau
 das optimieren. Ich möchte nicht, dass man ewig auf meine Artikel warten
 muss wenn man sie aufruft.
 
-Wenn man sich zu einer externen Lösung entscheidet gibt es das
+Wenn man sich zu einer externen Lösung entscheidet, gibt es das
 Nonplusultra und viele andere. Das Nonplusultra ist bisher einfach
 [GoogleAnalytics](http://www.google.com/intl/de_ALL/analytics/) (GA).
 Der Einsatz der Tracking-Software ist jedoch mehr als bedenklich, wie
@@ -50,6 +50,6 @@ Pluginprogrammierung möglich macht und eine schnell arbeitende
 Community. Die Entwickler habe sich das Ziel gesetzt, die führende
 Open-Source Alternative zu GA zu werden. Es könnte klappen und deswegen
 habe ich nun darauf umgestellt. Die Installation ist supersimpel (ca. 5
-Minuten). Noch den Tracking-Code integrieren und fertig. das Tool
+Minuten). Noch den Tracking-Code integrieren und fertig. Das Tool
 übernimmt den Rest. Und wie Piwik aussieht, kann man in einer
 [Online-Demo](http://piwik.org/demo/) sehen.

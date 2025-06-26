@@ -28,7 +28,7 @@ Wenn man bei Technorati also sein Blog eintragen kann, dann müsste es
 doch mit einem Mikro-Blog genauso gehen. Unter Claim a new Blog kann man
 das tun, sofern man angemeldet ist. Dazu gibt man die Twitter-URL ein:
 http://twitter.com/Nutzername . Der generierte Code muss dann nur noch
-auf Twitter  veröffentlicht werden.
+auf Twitter veröffentlicht werden.
 
 Bei mir hat es ein wenig gedauert und ich musste mehrere Versuche
 unternehmen, da Technorati immer wieder Serverprobleme hat.

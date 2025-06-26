@@ -53,7 +53,7 @@ Pressehäuser aus dem Index entfernen (Was mit Sicherheit durch
 Kartellklagen juristisch beschossen würde). Ob Google nun zahlen
 will/kann oder nicht. am Ende trifft es immer den Kunden, also der der
 auf der anderen Seite des Bildschirms sitzt. Kleinere spezialisierte
-Suchmaschinen hätten zum Beispiel keine Chance  und können gar nicht
+Suchmaschinen hätten zum Beispiel keine Chance und können gar nicht
 erst in Konkurrenz mit Google&Co treten. Ich habe also weniger
 Möglichkeiten in den weiten des Netzes die richtigen Inhalte zu finden.
 
@@ -65,7 +65,7 @@ der Seite von IGEL unter
 Das LSR gilt es auf jeden Fall zu verhindern, denn verdienen tun nur die
 großen Verlage.
 
-.. |image0| image:: http://leistungsschutzrecht.info/_igel-banner/banner-igel-180x180px.png
+.. |image0| image:: {static}/images/banner-igel-180x180px.png
    :class: alignright
    :width: 180px
    :height: 180px

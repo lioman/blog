@@ -11,7 +11,7 @@ Spontane Lebensmittelkunst:
 |image0|
 
 .. |image0| image:: {static}/images/gefressen_und_gefressen_werden.jpg
-   :class: aligncenter size-full wp-image-2482
+   :class: aligncenter size-full
    :width: 1024px
    :height: 768px
    :target: {static}/images/gefressen_und_gefressen_werden.jpg

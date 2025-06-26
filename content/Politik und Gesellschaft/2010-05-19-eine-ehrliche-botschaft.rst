@@ -7,7 +7,7 @@ Eine ehrliche Botschaft
 :slug: eine-ehrliche-botschaft
 :status: published
 
-Einfach mal auf die Seite der Griechischen Botschaft Berlin gehen und 
+Einfach mal auf die Seite der Griechischen Botschaft Berlin gehen und
 bei den Statistischen Daten auf die Wirtschaft ein Augenmerk legen:
 http://www.griechische-botschaft.de/wirtschaft/
 

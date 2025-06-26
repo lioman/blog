@@ -7,9 +7,9 @@ Was Google weiß: Lena-Meyer-Landrut ist...
 :slug: was-google-weiss-lena-meyer-landrut-ist
 :status: published
 
-Google weiß mal wieder viel.  Der Sieger des ESC ist zur Zeit Irland,
-wenn man dem Tool von Google glauben schenken darf. (Im April sah es
-noch nach einem deutschen Erfolg aus).
+Google weiß mal wieder viel.
+Der Sieger des ESC ist zur Zeit Irland, wenn man dem Tool von Google glauben schenken darf.
+(Im April sah es noch nach einem deutschen Erfolg aus).
 
 Aber auch die Automatische Suche fürdert immer wieder interessantes zu
 Tage. Gewinnt Lena dieses Mal nicht muss es entweder am IQ oder den

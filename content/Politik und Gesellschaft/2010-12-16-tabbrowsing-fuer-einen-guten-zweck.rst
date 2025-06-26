@@ -23,11 +23,11 @@ Open-Source Variante).
 |image0|
 
 Nach der Installation nistet die Erweiterung sich in der Leiste oben
-rechts ein und zählt alle Tabs die geöffnet werden.  Am Ende des Tages
+rechts ein und zählt alle Tabs die geöffnet werden. Am Ende des Tages
 kann muss man sich mit dem Googlekonto (notwendig) verbinden und kann
 entscheiden für welche Aktion man seine Tabs einsetzen möchte.
 
-Was diese Wert sind erfährt man auf  dem `Google Chrome
+Was diese Wert sind erfährt man auf dem `Google Chrome
 Blog <http://chrome.blogspot.com/2010/12/browse-for-good-cause.html>`__
 
 -  *10 tabs = 1 tree planted*
@@ -40,3 +40,4 @@ Blog <http://chrome.blogspot.com/2010/12/browse-for-good-cause.html>`__
    :class: alignright size-full wp-image-2639
    :width: 256px
    :height: 66px
+   :alt: Screenshot der Erweiterung in der Iconleiste

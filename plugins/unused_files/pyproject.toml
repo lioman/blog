@@ -1,0 +1,28 @@
+[project]
+name = "pelican-unused-files"
+version = "0.1.0"
+description = "find unused files"
+authors = [
+    {name = "Lioman", email = "dev@lioman.de"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true
+
+
+[tool.pdm.build]
+source-includes = [
+    "CHANGELOG.md",
+    "CONTRIBUTING.md",
+]
+includes = ["pelican/"]
+excludes = ["**/.DS_Store", "**/test_data/**", "tasks.py"]

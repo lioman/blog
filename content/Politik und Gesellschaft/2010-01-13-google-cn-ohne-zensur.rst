@@ -7,10 +7,10 @@ Google.cn ohne Zensur
 :slug: google-cn-ohne-zensur
 :status: published
 
-***Das ist wohl die Nachricht des Tages im Netz: Die amerikanische
-Suchmaschine*** `Google <http://de.wikipedia.org/wiki/Google%20Inc.>`__
-***kündigt die Zusammenarbeit mit den Chinesischen Behörden auf und
-zensiert sich nicht mehr selbst.***
+*Das ist wohl die Nachricht des Tages im Netz: Die amerikanische
+Suchmaschine* `Google <http://de.wikipedia.org/wiki/Google%20Inc.>`__
+*kündigt die Zusammenarbeit mit den Chinesischen Behörden auf und
+zensiert sich nicht mehr selbst.*
 
 Bisher waren sowohl Bild- wie Textsuchen nach Chinesischen
 Menschenrechtsaktivisten, Bloggern und Dissidenten, "Systemfeinden",
@@ -33,7 +33,7 @@ Weitere Infos unter
 ROG
 
 .. |image0| image:: {static}/images/GoogleCN-300x225.png
-   :class: aligncenter size-medium wp-image-1303
+   :class: aligncenter size-medium
    :width: 300px
    :height: 225px
    :target: {static}/images/GoogleCN.png

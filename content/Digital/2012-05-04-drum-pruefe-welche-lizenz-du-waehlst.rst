@@ -77,9 +77,9 @@ lizenziert.
 Bild von
 `qthomasbower <http://www.flickr.com/photos/55943778@N00/3640362081>`__
 
- 
 
-.. |image0| image:: {static}/images/2500_Creative_Commons_Licenses.jpg
+
+.. |image0| image:: {static}/images/2500_Creative_Commons_Licenses.webp
    :class: alignright
    :width: 400px
    :height: 400px

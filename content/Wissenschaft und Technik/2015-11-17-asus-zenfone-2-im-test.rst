@@ -11,14 +11,14 @@ Asus ZenFone 2 im Test
 Im Rahmen einer Testaktion von Asus wurde mir ein
 Testgerät zur Verfügung gestellt. Einen Monat darf ich das Gerät testen.
 Leider sind schon dreiviertel des Testzeitraumes vergangen, denn ich
-habe mich an das schicke Gerät schon gewöhnt.  Ich fange mal gleich mit
+habe mich an das schicke Gerät schon gewöhnt. Ich fange mal gleich mit
 dem Fazit an. So können wir alle Leser, die sich nicht für die Details
 interessieren in die Weiten des Internets entlassen.
 
 Fazit
 -----
 
-Man kann die Leistung des Gerätes so zusammenfassen: Gutes Gerät für
+Man kann die Leistung des Gerätes so zusammenfassen: Gutes Gerät für
 angemessenen Preis (ca. 380€), mit einigen schönen Ideen - aber Abzüge
 in der B-Note.
 
@@ -26,7 +26,7 @@ Hardware
 --------
 
 Auf der Rückseite des ZenFone 2 prangt das Intellogo, denn es befindet
-sich tatsächlich eine 64-bit Atom CPU im Inneren.  Mit diesem Prozessor
+sich tatsächlich eine 64-bit Atom CPU im Inneren. Mit diesem Prozessor
 gehört das Gerät also eher zu den Exoten, wird der Mobilmarkt doch eher
 von anderen beherrscht.
 
@@ -99,15 +99,15 @@ ausgeschaltetem Display.
 Doppeltes tippen schaltet das Display an. Mit extra Gesten kann man
 sogar direkt Anwendungen starten. Ein auf den noch schwarzen Bildschirm
 gezeichnetes C öffnet direkt die Kamera. Schnappschüsse sind so wirklich
-nicht weit entfernt. Neben dem C stehen noch die Gesten: \ *W, S, e,
-Z *\ und \ *V* zur Verfügung, diese sind alle Vorbelegt (W= Web →
+nicht weit entfernt. Neben dem C stehen noch die Gesten: \ *W, S, e,
+Z *\ und \ *V* zur Verfügung, diese sind alle Vorbelegt (W= Web →
 Browser). Alle sind wieder konfigurierbar. So liegt bei mir auf dem S
 die Messaginganwendung
 `Signal <https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms>`__.
 
 | Das ZenFone 2 hat ein 5.5 Zoll Display, das ist für den Einhandbetrieb
   recht groß. Kann man aber nur eine Hand benutzen kann man schnell den
-  Einhandmodus einstellen.  Nun wird nur noch ein kleiner Teil des
+  Einhandmodus einstellen. Nun wird nur noch ein kleiner Teil des
   Bildschirms verwendet.
 | |image|
 
@@ -121,10 +121,10 @@ AppLock
 AppLock ist ein Mittelweg zwischen Sicherheit und Nutzbarkeit. Möchte
 man nicht jedesmal sein Entsperrmuster/Passwort eingeben, kann man nur
 relevante Apps durch AppLock sperren. Was gesperrt werden soll ist
-individuell einstellbar.  Das macht das Arbeiten sehr angenehm, vor
+individuell einstellbar. Das macht das Arbeiten sehr angenehm, vor
 allen Dingen, wenn man häufig auf sein Handy schaut, aber nicht immer
 den Code angeben möchte. Allerdings muss man dabei darüber Nachdenken
-was denn genau Sicherheitsrelevant ist.  Das sollte man bedenken.
+was denn genau Sicherheitsrelevant ist. Das sollte man bedenken.
 
 Und wieder: Abzüge in der B-Note
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -164,10 +164,10 @@ Das Gerät mach Spaß. Ich nutze es wirklich sehr gerne. Gerade die
 cleveren Softwarelösungen, der ZenUI erleichtern wirklich die Arbeit im
 Alltag wenn ich das Gerät zurückgeben muss werden diese mir wirklich
 fehlen. Die Fehler in der UI werden hoffentlich in nächster Zeit durch
-Updates ausgemerzt.  Auch die Kamera ist wirklich sehr gut und Auf die
-Frage von Asus, w\ **ürdet** **ihr es gerne behalten?**, kann ich nur
+Updates ausgemerzt. Auch die Kamera ist wirklich sehr gut und Auf die
+Frage von Asus, **würdet** **ihr es gerne behalten?**, kann ich nur
 mit **Ja** antworten.
 
 .. |AsusZenFone2| image:: {static}/images/AsusZenFone2.jpg
 
-.. |image| image:: {static}/images/wpid-wp-1447776661746.png
+.. |image| image:: {static}/images/wpid-wp-1447776661746.webp

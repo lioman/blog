@@ -17,3 +17,4 @@ Weg vom Bäcker gemacht:
    :width: 1024px
    :height: 768px
    :target: {static}/images/winterbutte1.jpg
+   :alt: Eine Schneebedeckte Hagebutte

@@ -8,19 +8,14 @@ WordPress-Plugin: 2012 Summary
 Update: This Plug in is not maintained any more - but something new is coming soon!!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| |Summary 2012|\ I've adapted this Plug in from `2010
-  Summary <http://wordpress.org/extend/plugins/2010-summary/>`__ by
-  `Tomasz Topa <http://tomasz.topa.pl/>`__"
-| Now it generates a summary of your WordPress blog for the year 2012.
-| See how many posts you wrote during the ending year, which were the
-  most popular, who was the most active commenter etc.
-| And then share the stats with your readers - copy the data to a new
-  draft with a single click.
+|Summary 2012| I've adapted this Plug in from `2010 Summary <http://wordpress.org/extend/plugins/2010-summary/>`__ by `Tomasz Topa <http://tomasz.topa.pl/>`__"
+Now it generates a summary of your WordPress blog for the year 2012.
+See how many posts you wrote during the ending year, which were the most popular, who was the most active commenter etc.
+And then share the stats with your readers - copy the data to a new draft with a single click.
 
 The plugin is currently developed on
 `github <https://github.com/lioman/2012-summary>`__ and hosted in the
-`WordPress plugin
-directory <https://wordpress.org/extend/plugins/2012-summary/>`__.
+`WordPress plugin directory <https://wordpress.org/extend/plugins/2012-summary/>`__.
 
 ToDo:
 

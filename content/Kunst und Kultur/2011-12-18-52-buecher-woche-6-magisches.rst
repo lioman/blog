@@ -16,7 +16,7 @@
    Buchdeckel Nils Holgersson
 
 **Magisches** ist das Thema der `6.
-Woche  <https://monstermeute.wordpress.com/2011/12/09/52-bucher-woche-6/>`__,
+Woche <https://monstermeute.wordpress.com/2011/12/09/52-bucher-woche-6/>`__,
 das ist einfach, denn Zauberei ist in vielen Büchern weit verbreitet.
 Und als erstes könnte man natürlich den englischen Zauberlehrling Harald
 Töpfer aufführen, aber da ich die Bücher sowieso schon für "überhypt"
@@ -24,7 +24,7 @@ halte, will ich andere ins Feld führen.
 
 Und um hier die mal wieder die gehobene Literatur zum Zuge kommen zu
 lassen, ist mein Beitrag zu diesem Thema von einer
-Literaturnobelpreisträger\ **in** geschrieben.
+Literaturnobelpreisträger\ **in** geschrieben.
 
 1909 erhielt sie den begehrtesten Preis für ihr literarisches Werk und
 damit ist sie - die Älteren werden sich erinnern - die erste Frau, die
@@ -33,7 +33,7 @@ von der schwedischen Akademie diese wichtige Auszeichnung bekommt.
 Die Rede ist von `Selma
 Lagerlöf <https://de.wikipedia.org/wiki/Selma_Lagerl%C3%B6f>`__ und ich
 habe nur ein einziges Werk von ihr gelesen. (Das erste Mal wurde es mir
-sogar vorgelesen  - aus einer wunderschönen Ausgabe von vor 1936)
+sogar vorgelesen - aus einer wunderschönen Ausgabe von vor 1936)
 
 Es ist das bekannteste Werk der Schwedin: `Die wunderbare Reise des
 kleinen Nils Holgersson mit den
@@ -54,6 +54,6 @@ Beschreibung eines wunderschönen Landes - eine Kürzung macht das kaputt.
 
 Vielleicht musst du dich ein bisschen durch kämpfen, vielleicht ist es
 auch mal ein bisschen anstrengend aber das ist eine wundersame Reise und
-kein Cluburlaub. Du wirst belohnt,  du bist erfüllt von all den
+kein Cluburlaub. Du wirst belohnt, du bist erfüllt von all den
 Begebenheiten der Reise und des Landes, du wirst mehr erzählen können
-als:  *Das Essen war gut und die Zimmer waren sauber!*
+als: *Das Essen war gut und die Zimmer waren sauber!*

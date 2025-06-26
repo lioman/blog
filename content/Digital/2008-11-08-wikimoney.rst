@@ -23,5 +23,6 @@ Zur Zeit wird wieder dazu aufgerufen. Und wer helfen möchte kann das
 
 |Wikipedia Affiliate Button|
 
-.. |Wikipedia Affiliate Button| image:: http://upload.wikimedia.org/wikipedia/foundation/d/d1/2008_fundraiser_banner_button-de.png
+.. |Wikipedia Affiliate Button| image:: {static}/images/2008_fundraiser_banner_button-de.png
+   :alt: Wikimedia fundraiser Banner
    :target: http://wikimediafoundation.org/wiki/Donate/de
