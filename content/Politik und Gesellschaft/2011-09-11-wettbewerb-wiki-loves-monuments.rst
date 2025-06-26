@@ -23,7 +23,7 @@ Ich habe auch ein paar Bilder gemacht und hochgeladen und will sie auch an diese
 
 
 .. |Wiki loves Monuments| image:: {static}/images/logo-wiki-loves-monuments.png
-   :class: size-full wp-image-3634 alignright
+   :class: size-full  alignright
    :width: 137px
    :height: 161px
 .. |image1| image:: .wikimedia.org/wikipedia/commons/thumb/9/9a/Stadtarchiv_Ueberlingen.jpg/450px-Stadtarchiv_Ueberlingen.jpg

@@ -58,8 +58,8 @@ Update: Links geändert. Es wird immer die aktuellste angezeigt
    :width: 521px
    :height: 414px
 
-.. |image1| image:: {static}/ima_Bildschirm2.png
+.. |image1| image:: {static}/images/LastScrape_Bildschirm2.png
    :class: aligncenter size-full
    :width: 500px
    :height: 400px
-   :target: https://www.lioman.de/2010/09/umziehen-von-last-fm-auf-libre-fm/lastscrape_bildschirm2/
+   :target: {static}/images/LastScrape_Bildschirm2.png

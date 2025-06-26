@@ -22,7 +22,7 @@ Schade finde ich nur, dass diese Option nicht standardmäßig aktiviert
 ist - das würde auch unwissende vor unverschlüsselten Verbindungen
 schützen.
 
-.. |image0| image:: {static}/imagps_einstellung-400x71.png
+.. |image0| image:: {static}/images/twitter_https_einstellung-400x71.png
    :class: alignright size-medium
    :width: 400px
    :height: 71px
